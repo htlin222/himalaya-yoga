@@ -1,0 +1,14 @@
+# 建置產物：進版控是為了 clone 下來就能直接部署，
+# 但標記成 generated 讓 diff 摺疊、也不計入語言統計。
+public/course.json  linguist-generated=true -diff
+public/js/icons.js  linguist-generated=true -diff
+data/video-meta.json linguist-generated=true -diff
+
+# 策展資料由 agent 產生，體積大且不需逐行審閱
+data/ch*.json          linguist-generated=true
+data/oe-*.json         linguist-generated=true
+data/drill-evidence-*.json linguist-generated=true
+data/alt-lessons-*.json    linguist-generated=true
+
+* text=auto eol=lf
+*.png binary

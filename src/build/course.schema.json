@@ -1,0 +1,647 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/curate-course/course.schema.json",
+  "title": "課程設定檔",
+  "description": "course/course.config.json 的結構。編輯器靠它自動完成，audit.py 靠它擋拼字錯誤。",
+  "type": "object",
+  "required": [
+    "site",
+    "ui",
+    "kinds",
+    "chapters"
+  ],
+  "properties": {
+    "site": {
+      "type": "object",
+      "description": "站台身分，直接餵給 SEO 與 JSON-LD",
+      "required": [
+        "project",
+        "name",
+        "url",
+        "title",
+        "description"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "project": {
+          "type": "string",
+          "description": "Cloudflare Pages 專案名",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "name": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "pattern": "^https://"
+        },
+        "locale": {
+          "type": "string",
+          "description": "BCP-47，例如 zh-Hant"
+        },
+        "ogLocale": {
+          "type": "string",
+          "description": "OG 用底線寫法，例如 zh_TW"
+        },
+        "brandIcon": {
+          "$ref": "#/$defs/icon"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "ogDescription": {
+          "type": "string"
+        },
+        "keywords": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "audience": {
+          "type": "string"
+        },
+        "about": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "learningResourceType": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "hero": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "eyebrow": {
+          "type": "string"
+        },
+        "heading": {
+          "type": "string"
+        },
+        "lede": {
+          "type": "string",
+          "description": "可用 {units} {problems} 佔位"
+        }
+      }
+    },
+    "ui": {
+      "type": "object",
+      "description": "所有介面文案，程式裡不寫死任何一個字",
+      "properties": {
+        "stats": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "field",
+              "label"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "icon": {
+                "$ref": "#/$defs/icon"
+              },
+              "field": {
+                "type": "string",
+                "description": "必須是 build 產出的 meta 欄位"
+              },
+              "label": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "tabs": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "unitTypes": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "problemType": {
+          "type": "string",
+          "description": "要計入「問題數」的 unitType"
+        },
+        "evidenceRows": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "field",
+              "label"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "field": {
+                "type": "string"
+              },
+              "label": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string",
+                "enum": [
+                  "text",
+                  "flags"
+                ]
+              }
+            }
+          }
+        },
+        "unitNoun": {
+          "type": "string",
+          "description": "單元的稱呼，例如「個單元」「個主題」（預設「個單元」）"
+        },
+        "lessonNoun": {
+          "type": "string",
+          "description": "主課的稱呼，例如「堂主課」（預設「堂主課」）"
+        },
+        "drillNoun": {
+          "type": "string",
+          "description": "項目的稱呼，例如「支跟練影片」「支延伸影片」（預設「支跟練影片」）"
+        },
+        "drillNounShort": {
+          "type": "string",
+          "description": "項目的簡稱，用在空間窄的章節卡片（預設「支跟練」）"
+        },
+        "kindFilterLabel": {
+          "type": "string",
+          "description": "篩選列的無障礙標籤（預設「動作類型篩選」）"
+        },
+        "missingTitle": {
+          "type": "string",
+          "description": "找不到合格影片時的標題（預設「尚未找到合格影片」）"
+        },
+        "missingHint": {
+          "type": "string",
+          "description": "找不到合格影片時的預設說明（各格可用 note 覆寫）（預設「這個主題在 YouTube 上沒有品質足夠的示範」）"
+        },
+        "lessonLangLabel": {
+          "type": "string",
+          "description": "主課語言分頁的無障礙標籤（預設「主課語言」）"
+        },
+        "watchLabel": {
+          "type": "string",
+          "description": "項目連結的預設 title（預設「觀看示範」）"
+        },
+        "facetFilterHint": {
+          "type": "string",
+          "description": "分面標籤的 title，{name} 會被替換成標籤名（預設「篩選涉及 {name} 的內容」）"
+        },
+        "evidenceSource": {
+          "type": "string",
+          "description": "實證查核的來源名稱，例如 OpenEvidence。留空則不顯示這個標籤（預設「OpenEvidence」）"
+        },
+        "evidenceSourceLink": {
+          "type": "string",
+          "description": "連到完整查核結果的連結文字（預設「在 OpenEvidence 讀完整回答」）"
+        }
+      }
+    },
+    "kinds": {
+      "type": "array",
+      "description": "單元底下的項目類型，至少一種",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/labelled"
+      }
+    },
+    "grades": {
+      "type": "array",
+      "description": "證據分級；沒有實證維度就整個拿掉",
+      "items": {
+        "$ref": "#/$defs/labelled"
+      }
+    },
+    "languages": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "taxonomy": {
+      "type": "object",
+      "description": "選用的詞彙模組，值是 course/ 底下的 import 路徑",
+      "additionalProperties": false,
+      "properties": {
+        "facets": {
+          "type": "string",
+          "description": "需提供 extract() / GROUPS / GROUP_OF"
+        },
+        "categories": {
+          "type": "string",
+          "description": "需提供 classify() / NAMES"
+        }
+      }
+    },
+    "nav": {
+      "type": "array",
+      "description": "側欄分組，必須不多不少涵蓋所有章節",
+      "items": {
+        "type": "object",
+        "required": [
+          "title",
+          "chapters"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "chapters": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "uniqueItems": true
+          }
+        }
+      }
+    },
+    "chapters": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "code",
+          "title",
+          "icon",
+          "source",
+          "units"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "code": {
+            "type": "string",
+            "pattern": "^[A-Z]+[0-9]*$"
+          },
+          "title": {
+            "type": "string"
+          },
+          "icon": {
+            "$ref": "#/$defs/icon"
+          },
+          "source": {
+            "type": "string",
+            "description": "data/<source>.json，可多章共用一檔"
+          },
+          "units": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "配額：建置時強制檢查"
+          },
+          "drills": {
+            "type": "integer",
+            "minimum": 0
+          }
+        }
+      }
+    },
+    "evidenceAlias": {
+      "type": "object",
+      "description": "unit id → 實證資料的 key，用在共用同一份查核的單元",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "stance": {
+      "type": "object"
+    },
+    "landing": {
+      "type": "object",
+      "properties": {
+        "steps": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "title",
+              "body"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "icon": {
+                "$ref": "#/$defs/icon"
+              },
+              "title": {
+                "type": "string"
+              },
+              "body": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "ctaLede": {
+          "type": "string",
+          "description": "可用 {units} {videos} 佔位"
+        }
+      }
+    },
+    "footer": {
+      "type": "object"
+    },
+    "llms": {
+      "type": "object"
+    },
+    "paywall": {
+      "type": "object",
+      "description": "選用：加入購物車 + 0 元結帳的解鎖流程。整組拿掉就完全不存在。設計與接真金流的待辦見 docs/PAYWALL.md。",
+      "additionalProperties": false,
+      "required": [
+        "mode",
+        "products"
+      ],
+      "properties": {
+        "mode": {
+          "type": "string",
+          "enum": [
+            "demo"
+          ],
+          "description": "demo = 0 元本地結帳，解鎖狀態存 localStorage。live 尚未實作，填別的值會整組關掉（fail closed）。"
+        },
+        "currency": {
+          "type": "string",
+          "description": "ISO 幣別代碼，例如 TWD。只影響顯示的符號。"
+        },
+        "orderPrefix": {
+          "type": "string",
+          "description": "訂單編號前綴，例如 BC → BC-20260730-4F2A"
+        },
+        "freeChapters": {
+          "type": "array",
+          "description": "免費試看的章節代碼。不在這裡、也沒被任何 product 解鎖的章節就是鎖定。",
+          "items": {
+            "type": "string"
+          }
+        },
+        "honesty": {
+          "type": "string",
+          "description": "必寫：講明這門課免費、劃掉的原價是虛構的。有 listAmount 就一定要有這行，不然是假折扣。"
+        },
+        "products": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "name",
+              "amount"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "note": {
+                "type": "string",
+                "description": "品項下面的一行小字"
+              },
+              "amount": {
+                "type": "number",
+                "minimum": 0,
+                "description": "實付金額。demo 應為 0。"
+              },
+              "listAmount": {
+                "type": "number",
+                "minimum": 0,
+                "description": "被劃掉的原價。虛構的，所以要搭配 honesty。"
+              },
+              "unlocks": {
+                "description": "\"*\" 解鎖全部，或章節代碼陣列",
+                "oneOf": [
+                  {
+                    "type": "string",
+                    "enum": [
+                      "*"
+                    ]
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "ui": {
+          "type": "object",
+          "description": "全部文案。缺的欄位會退回程式碼裡的預設值。"
+        }
+      }
+    },
+    "counter": {
+      "type": "object",
+      "description": "選用：累計瀏覽次數徽章（Pages Function + D1）。整組拿掉就不顯示，也不會打 API。",
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "type": "string",
+          "description": "數字後面的字，例如「次瀏覽」"
+        },
+        "title": {
+          "type": "string",
+          "description": "hover 時的說明，講清楚數的是什麼"
+        }
+      }
+    },
+    "discussions": {
+      "type": "object",
+      "description": "每支影片一串留言（giscus → GitHub Discussions）。整組拿掉就沒有討論面板。",
+      "properties": {
+        "provider": {
+          "type": "string",
+          "enum": [
+            "giscus"
+          ]
+        },
+        "repo": {
+          "type": "string",
+          "pattern": "^[\\w.-]+/[\\w.-]+$"
+        },
+        "repoId": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "categoryId": {
+          "type": "string"
+        },
+        "mapping": {
+          "type": "string"
+        },
+        "termPrefix": {
+          "type": "string",
+          "description": "討論串標題前綴，後面接 video id"
+        },
+        "lang": {
+          "type": "string"
+        },
+        "reactions": {
+          "type": "boolean"
+        },
+        "inputPosition": {
+          "type": "string",
+          "enum": [
+            "top",
+            "bottom"
+          ]
+        }
+      }
+    },
+    "audit": {
+      "type": "object",
+      "description": "make audit 的門檻。沒寫的欄位用 audit.py 的 DEFAULTS。",
+      "additionalProperties": false,
+      "properties": {
+        "duration": {
+          "type": "object",
+          "description": "影片長度區間，超出只會警告——策展判斷仍是人的",
+          "additionalProperties": false,
+          "properties": {
+            "lesson": {
+              "$ref": "#/$defs/range"
+            },
+            "drill": {
+              "$ref": "#/$defs/range"
+            }
+          }
+        },
+        "driftSeconds": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "策展資料宣稱的長度與實際中繼資料的容許誤差"
+        },
+        "minViews": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "低於此觀看數要人工看一眼"
+        },
+        "metaCoverage": {
+          "type": "number",
+          "minimum": 0,
+          "description": "video-meta.json 必須覆蓋的影片比例（0–1），未達即錯誤"
+        },
+        "drillsPerUnit": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "單一單元的項目數區間，用來抓策展失衡",
+          "properties": {
+            "min": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "max": {
+              "type": "integer",
+              "minimum": 1
+            }
+          }
+        },
+        "maxSharedVideos": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "允許跨單元共用的影片支數"
+        },
+        "requireAssessment": {
+          "type": "array",
+          "description": "這些 unitType 的單元必須寫可操作的自我評估",
+          "items": {
+            "type": "string"
+          }
+        },
+        "minAssessmentChars": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "minCitations": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "每個文獻類別至少幾篇引用"
+        },
+        "allowMissingUrls": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "容許幾個誠實留空的格子"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "icon": {
+      "type": "string",
+      "description": "Lucide 圖示名，必須已加進 build_icons.py 的 ICONS 並跑過 make icons",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "labelled": {
+      "type": "object",
+      "required": [
+        "id",
+        "label"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "label": {
+          "type": "string"
+        },
+        "tone": {
+          "type": "string",
+          "description": "對應 .Label--<tone> 樣式",
+          "enum": [
+            "accent",
+            "success",
+            "attention",
+            "danger",
+            "done",
+            "neutral"
+          ]
+        }
+      }
+    },
+    "range": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "min",
+        "max"
+      ],
+      "properties": {
+        "min": {
+          "type": "string",
+          "pattern": "^\\d+:\\d{2}$"
+        },
+        "max": {
+          "type": "string",
+          "pattern": "^\\d+:\\d{2}$"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "categories": [
+    {
+      "id": "standing-pose",
+      "name": "站姿與負重體式",
+      "evidence_grade": "moderate",
+      "summary": "站姿負重體式對下肢肌力與功能有中小幅度的實證支持：對 60 歲以上族群的統合分析顯示，瑜伽相較不運動對照組可改善下肢肌力（ES 0.45）與下肢柔軟度（ES 0.5），相較「有在運動」的對照組仍有下肢肌力 ES 0.49，但幅度僅屬中小。骨密度是常被誇大的部分——一般負重與阻力運動對停經後婦女腰椎／股骨頸骨密度確有小幅效果（SMD 約 0.26–0.51），但專門針對瑜伽／皮拉提斯的統合分析並未達統計顯著（SMD 0.07，95% CI −0.05 至 0.19），只能說「可能維持、不能說能增加」。此外瑜伽本身不是阻力訓練，負荷無法漸進加重，肌力天花板明顯低於重量訓練。",
+      "citations": [
+        {
+          "pmid": "30953508",
+          "title": "The effects of yoga compared to active and inactive controls on physical function and health related quality of life in older adults- systematic review and meta-analysis of randomised controlled trials",
+          "journal": "Int J Behav Nutr Phys Act",
+          "year": 2019,
+          "design": "meta-analysis",
+          "takeaway": "22 篇 RCT 統合：瑜伽對比不運動組改善平衡（ES 0.7）、下肢柔軟度（ES 0.5）、下肢肌力（ES 0.45）；對比已在運動的對照組，下肢肌力 ES 僅 0.49、柔軟度 0.28。"
+        },
+        {
+          "pmid": "34652086",
+          "title": "Comparisons of tai chi and Iyengar yoga intervention effects on muscle strength, balance, and confidence in balance",
+          "journal": "J Sports Med Phys Fitness",
+          "year": 2021,
+          "design": "rct",
+          "takeaway": "48 位長者 16 週：太極與 Iyengar 瑜伽都改善肌力與平衡，但太極在膝屈伸肌力（p=0.045／0.032）優於瑜伽，瑜伽並非肌力最佳選項。"
+        },
+        {
+          "pmid": "32785775",
+          "title": "Effects of Different Types of Exercise on Bone Mineral Density in Postmenopausal Women: A Systematic Review and Meta-analysis",
+          "journal": "Calcif Tissue Int",
+          "year": 2020,
+          "design": "meta-analysis",
+          "takeaway": "84 個運動組的統合：負重運動對腰椎 BMD SMD 0.26、股骨頸 0.37、全髖 0.40；阻力訓練分別 0.40／0.27／0.51——效果真實但幅度小，且需持續 ≥6 個月。"
+        },
+        {
+          "pmid": "33961670",
+          "title": "Effectiveness of Pilates and Yoga to improve bone density in adult women: A systematic review and meta-analysis",
+          "journal": "PLoS One",
+          "year": 2021,
+          "design": "meta-analysis",
+          "takeaway": "11 篇研究 591 人：瑜伽／皮拉提斯對比對照組的骨密度效果量僅 0.07（95% CI −0.05 至 0.19），未達顯著；「瑜伽長骨密度」的宣稱沒有統合證據支持。"
+        }
+      ]
+    },
+    {
+      "id": "balance-pose",
+      "name": "平衡體式",
+      "evidence_grade": "contested",
+      "summary": "平衡「表現」改善是有證據的：60 歲以上族群的統合分析顯示瑜伽對平衡有小效果（Hedges' g = 0.40, 95% CI 0.15–0.65）、對行動能力有中效果（g = 0.50）。但「改善平衡分數」不等於「減少跌倒」——2025 年 Lancet Healthy Longevity 的 SAGE 試驗（700 人、12 個月、80 堂 Iyengar 課）發現瑜伽組跌倒率反而較高（0.87 vs 0.64 次／人年，IRR 1.33, 95% CI 1.01–1.75, p=0.044），作者明確結論「此形式的 Iyengar 瑜伽課程不應被推薦作為跌倒預防」。這是整組類別中最重要的反直覺證據：平衡體式可以練平衡感與信心，但把它當成跌倒預防處方目前缺乏支持，甚至可能因為活動量與信心上升而增加暴露風險。",
+      "citations": [
+        {
+          "pmid": "26707903",
+          "title": "Yoga-based exercise improves balance and mobility in people aged 60 and over: a systematic review and meta-analysis",
+          "journal": "Age Ageing",
+          "year": 2016,
+          "design": "meta-analysis",
+          "takeaway": "6 篇高品質試驗 307 人：平衡 Hedges' g = 0.40（95% CI 0.15–0.65），行動能力 g = 0.50；作者已註明尚不知是否能轉譯成跌倒減少。"
+        },
+        {
+          "pmid": "41005344",
+          "title": "The effect of an Iyengar yoga-based exercise programme versus a seated yoga relaxation programme on falls in people aged 60 years and older (SAGE): a pragmatic, two-arm, parallel randomised controlled trial",
+          "journal": "Lancet Healthy Longev",
+          "year": 2025,
+          "design": "rct",
+          "takeaway": "700 人 12 個月務實 RCT：瑜伽組跌倒率高於對照組（IRR 1.33, 95% CI 1.01–1.75, p=0.044）；6 人發生肌肉骨骼不良事件；結論為此課程不應用於跌倒預防。"
+        },
+        {
+          "pmid": "39607489",
+          "title": "Effect of yoga on balance, falls, and bone metabolism: a systematic review of randomized controlled trials in healthy individuals",
+          "journal": "Osteoporos Int",
+          "year": 2025,
+          "design": "systematic-review",
+          "takeaway": "18 篇 RCT 系統性回顧：瑜伽顯著改善平衡，但對骨密度的效果結論不一致；作者要求標準化流程與更長期追蹤。"
+        },
+        {
+          "pmid": "30953508",
+          "title": "The effects of yoga compared to active and inactive controls on physical function and health related quality of life in older adults- systematic review and meta-analysis of randomised controlled trials",
+          "journal": "Int J Behav Nutr Phys Act",
+          "year": 2019,
+          "design": "meta-analysis",
+          "takeaway": "瑜伽對比不運動組平衡 ES 0.7，但與其他運動（步行、椅子有氧）相比平衡差異未達顯著——優勢主要來自「有動」而非瑜伽本身。"
+        }
+      ]
+    },
+    {
+      "id": "backbend",
+      "name": "後彎體式",
+      "evidence_grade": "limited",
+      "summary": "後彎最站得住腳的實證用途是改善老年駝背：118 人的 RCT 顯示 24 週瑜伽讓 flexicurve 駝背角改善 4.4%（p=0.006），但金標準的 Debrunner 角、體能表現與生活品質皆未達顯著；同性質的 SHEAF 脊椎強化 RCT 用 X 光 Cobb 角測得的組間差也只有 −3.0°（95% CI −5.2 至 −0.8），約等於一節脊椎壓迫性骨折造成的角度變化。也就是說效果真實但很小。風險端不可略過：Mayo Clinic 89 例瑜伽相關傷害的分析中，最常肇事的動作正是脊椎「極度屈曲與極度伸展」，其中脊椎滑脫 16.9%、前緣楔形變 18.0%、壓迫性骨折 14.6%、小面關節病變 38.2%；反覆腰椎過度伸展與峽部（pars）應力性傷害的關聯在運動族群也已知——有下背痛的運動員中腰椎椎弓解離盛行率達 41.7%。",
+      "citations": [
+        {
+          "pmid": "19682114",
+          "title": "Yoga decreases kyphosis in senior women and men with adult-onset hyperkyphosis: results of a randomized controlled trial",
+          "journal": "J Am Geriatr Soc",
+          "year": 2009,
+          "design": "rct",
+          "takeaway": "118 位 60 歲以上駝背者、每週 3 次共 24 週：flexicurve 駝背角改善 4.4%（p=0.006）、駝背指數改善 5%，但 Debrunner 角、體能表現與生活品質皆無顯著差異。"
+        },
+        {
+          "pmid": "28689306",
+          "title": "Targeted spine strengthening exercise and posture training program to reduce hyperkyphosis in older adults: results from the study of hyperkyphosis, exercise, and function (SHEAF) randomized controlled trial",
+          "journal": "Osteoporos Int",
+          "year": 2017,
+          "design": "rct",
+          "takeaway": "99 人 6 個月脊椎伸展強化訓練：X 光 Cobb 角組間差 −3.0°（95% CI −5.2 至 −0.8, p=0.009），自我形象改善，但體能功能無差異。"
+        },
+        {
+          "pmid": "30792066",
+          "title": "Soft Tissue and Bony Injuries Attributed to the Practice of Yoga: A Biomechanical Analysis and Implications for Management",
+          "journal": "Mayo Clin Proc",
+          "year": 2019,
+          "design": "case-series",
+          "takeaway": "89 例瑜伽導致的傷害：肇因動作多為脊椎極度屈曲／伸展；小面關節病變 38.2%、脊椎滑脫 16.9%、椎體前緣楔形變 18.0%、壓迫性骨折 14.6%。"
+        },
+        {
+          "pmid": "37747004",
+          "title": "Incidence of lumbar spondylolysis in athletes with low back pain: A systematic evaluation and single-arm meta-analysis",
+          "journal": "Medicine (Baltimore)",
+          "year": 2023,
+          "design": "meta-analysis",
+          "takeaway": "9 篇研究 835 人：有下背痛的運動員中腰椎椎弓解離盛行率 41.7%（95% CI 28–55%），成人一般族群約 5%；反覆過度伸展族群風險明顯偏高。"
+        }
+      ]
+    },
+    {
+      "id": "forward-fold",
+      "name": "前彎體式",
+      "evidence_grade": "contested",
+      "summary": "前彎能增加後側鏈柔軟度是確定的（靜態伸展慢性效果 Hedges' g ≈ 0.96，且大腿後側肌群的增幅比脊椎大），但「柔軟度」以外的健康效益幾乎沒有證據。爭議點在負荷：Wilke 的活體椎間盤內壓測量顯示，站姿前彎時 L4-L5 盤內壓由放鬆站立的 0.5 MPa 升至 1.1 MPa，圓背搬 20 公斤更達 2.3 MPa——對已有椎間盤突出者，反覆負重前彎屬於高負荷姿勢。骨質疏鬆族群的風險更明確：1984 年的經典比較研究中，做屈曲運動者追蹤期內新增椎體楔形變／壓迫性骨折的比例高達 89%，做伸展運動者僅 16%（p<0.001）；Mayo 也蒐集到 9 例在開始瑜伽前彎練習後 1 個月至 6 年內發生椎體壓迫性骨折的病人。因此對骨質疏鬆／骨質缺乏者，深度前彎不是「溫和」動作。",
+      "citations": [
+        {
+          "pmid": "39614059",
+          "title": "Optimising the Dose of Static Stretching to Improve Flexibility: A Systematic Review, Meta-analysis and Multivariate Meta-regression",
+          "journal": "Sports Med",
+          "year": 2025,
+          "design": "meta-analysis",
+          "takeaway": "189 篇研究 6654 人：長期靜態伸展提升柔軟度 Hedges' g = 0.96；大腿後側肌群增幅顯著大於脊椎（p=0.04）；每週超過 10 分鐘沒有額外好處。"
+        },
+        {
+          "pmid": "10222525",
+          "title": "New in vivo measurements of pressures in the intervertebral disc in daily life",
+          "journal": "Spine (Phila Pa 1976)",
+          "year": 1999,
+          "design": "physiological-study",
+          "takeaway": "植入式壓力計實測 L4-L5：放鬆站立 0.5 MPa、站姿前彎 1.1 MPa、最大屈曲坐姿 0.83 MPa、圓背搬 20 kg 為 2.3 MPa；單一受試者資料，需謹慎外推。"
+        },
+        {
+          "pmid": "6487063",
+          "title": "Postmenopausal spinal osteoporosis: flexion versus extension exercises",
+          "journal": "Arch Phys Med Rehabil",
+          "year": 1984,
+          "design": "cohort",
+          "takeaway": "59 位停經後骨鬆婦女追蹤 1–6 年：屈曲運動組新增椎體楔形變／壓迫性骨折 89%，伸展組 16%，合併組 53%，未運動組 67%（屈曲 vs 伸展 p<0.001）。"
+        },
+        {
+          "pmid": "29687967",
+          "title": "Vertebral compression fractures associated with yoga: a case series",
+          "journal": "Eur J Phys Rehabil Med",
+          "year": 2018,
+          "design": "case-series",
+          "takeaway": "9 位中位年齡 66 歲者在開始瑜伽脊椎屈曲練習後 1 個月至 6 年內發生椎體壓迫性骨折；其中僅 4 人事前已診斷骨質疏鬆，顯示「先篩檢再前彎」的必要性。"
+        }
+      ]
+    },
+    {
+      "id": "twist",
+      "name": "扭轉體式",
+      "evidence_grade": "limited",
+      "summary": "扭轉是本組中直接證據最薄弱的類別。唯一針對「旋轉運動課程」的隨機單盲試驗（35 位非特異性慢性下背痛女性、每週兩次共 4 週）在疼痛、Roland-Morris 失能與腰椎活動度上全部沒有組間差異。解剖上也要誠實：三維動作測量顯示站姿軀幹軸向旋轉主要來自胸椎（左右各約 33.5°／37.1°）與骨盆（31.6°／27.2°），腰椎本身只有 7.5°／9.2°——課堂上常說的「扭轉腰椎」在生理上幾乎不存在，硬做只會把力量丟給小面關節。Mayo 的 89 例瑜伽傷害中小面關節病變佔 38.2%，是最常見的軸向傷害之一。「扭轉排毒／擠壓內臟」則沒有任何可對應的實證測量。",
+      "citations": [
+        {
+          "pmid": "26519116",
+          "title": "Rotation exercise classes did not improve function in women with non-specific chronic low back pain: A randomized single blind controlled study",
+          "journal": "J Back Musculoskelet Rehabil",
+          "year": 2016,
+          "design": "rct",
+          "takeaway": "35 位慢性下背痛女性隨機分派旋轉運動課或候補對照：疼痛 VAS、Roland-Morris 失能與腰椎活動度在各時間點均無顯著組間差（p>0.05）。"
+        },
+        {
+          "pmid": "29395226",
+          "title": "Three-dimensional primary and coupled range of motions and movement coordination of the pelvis, lumbar and thoracic spine in standing posture using inertial tracking device",
+          "journal": "J Biomech",
+          "year": 2018,
+          "design": "physiological-study",
+          "takeaway": "22 位健康者實測：軸向旋轉的活動度胸椎 33.5°／37.1°、骨盆 31.6°／27.2°，腰椎僅 7.5°／9.2°；扭轉的活動度絕大部分不在腰椎。"
+        },
+        {
+          "pmid": "30792066",
+          "title": "Soft Tissue and Bony Injuries Attributed to the Practice of Yoga: A Biomechanical Analysis and Implications for Management",
+          "journal": "Mayo Clin Proc",
+          "year": 2019,
+          "design": "case-series",
+          "takeaway": "89 例瑜伽相關傷害中，退化性關節疾病疼痛惡化 51.7%、小面關節病變 38.2%、神經根病變 5.6%，作者建議避免脊椎極端動作。"
+        }
+      ]
+    },
+    {
+      "id": "hip-opening",
+      "name": "開髖體式",
+      "evidence_grade": "limited",
+      "summary": "軟組織確實會變長：長期伸展訓練對關節活動度有中等效果（整體 ES ≈ 1.0，PNF 與靜態伸展優於彈震式），基礎柔軟度越差進步越多。但髖有硬性的骨性天花板，這是課程必須誠實說明的部分——用動態超音波實測無症狀年輕男性，髖屈曲到唇部開始變形只有 68° ± 17°，到股骨真正撞上髖臼緣是 96° ± 6°，遠低於教科書常寫的 120°。骨形態（cam／pincer／髖臼發育不良）與活動度確實相關（cam 者內轉角度較小），但相關性弱、臨床理學檢查無法可靠分辨骨形。也就是說「開髖打不開」很多時候是骨頭而不是「緊」，繼續拉只會把應力轉嫁到關節唇與關節囊；瑜伽、舞蹈、體操等高柔軟度運動族群中邊緣性髖臼發育不良的盛行率偏高，臨床上已成為髖關節鏡的常見族群。",
+      "citations": [
+        {
+          "pmid": "25510304",
+          "title": "What is the impingement-free range of motion of the asymptomatic hip in young adult males?",
+          "journal": "Clin Orthop Relat Res",
+          "year": 2015,
+          "design": "cross-sectional",
+          "takeaway": "40 位無症狀男性 80 髖動態超音波：髖屈曲到關節唇開始變形平均 68°±17°，到骨性撞擊平均 96°±6°——無痛可用範圍遠小於文獻常引用值。"
+        },
+        {
+          "pmid": "29548272",
+          "title": "Is Bony Hip Morphology Associated With Range of Motion and Strength in Asymptomatic Male Soccer Players?",
+          "journal": "J Orthop Sports Phys Ther",
+          "year": 2018,
+          "design": "cross-sectional",
+          "takeaway": "無症狀球員中 cam 形態與較低的髖內轉及 bent-knee fall-out 相關、pincer 與較低外展角度相關，但每項關聯都很弱，理學檢查無法辨別骨形。"
+        },
+        {
+          "pmid": "38590189",
+          "title": "Outcomes of Flexibility Sport Athletes With Borderline Hip Dysplasia After Hip Arthroscopy for Femoroacetabular Impingement Syndrome: A Propensity-Matched Analysis at Minimum 2-Year Follow-up",
+          "journal": "Am J Sports Med",
+          "year": 2024,
+          "design": "cohort",
+          "takeaway": "瑜伽、舞蹈、體操等高柔軟度運動族群中邊緣性髖臼發育不良盛行率偏高；52 例接受髖關節鏡合併關節囊摺疊術，2 年結果與無發育不良者相當。"
+        },
+        {
+          "pmid": "37301370",
+          "title": "Chronic effects of stretching on range of motion with consideration of potential moderating variables: A systematic review with meta-analysis",
+          "journal": "J Sport Health Sci",
+          "year": 2024,
+          "design": "meta-analysis",
+          "takeaway": "77 篇研究 186 個效果量：長期伸展提升活動度 ES ≈ 1.00；PNF 與靜態伸展優於彈震／動態伸展；伸展的量、強度、頻率皆非顯著調節因子。"
+        }
+      ]
+    },
+    {
+      "id": "inversion",
+      "name": "倒立體式",
+      "evidence_grade": "contested",
+      "summary": "倒立沒有任何已證實的健康效益足以抵銷其風險，反而是本課程中風險文獻最紮實的類別。眼壓端證據非常一致：頭下位姿勢在一分鐘內就使眼壓急遽上升，下犬式從 17 mmHg 升到 28–29 mmHg，站姿前彎升到 26–27 mmHg，犁式與倒箭式也升 4–7 mmHg，且青光眼與正常人升幅相似；頭倒立實測眼壓約可翻倍（Sirsasana 研究）；系統性回顧亦指出倒立體位「開始後即快速升高眼壓」，而降眼壓的證據來自 trataka 與慢速呼吸，不是倒立。頸椎端有頭倒立造成壓迫性脊髓病變合併脊髓軟化的個案報告。流行病學上，1702 位德國練習者的全國調查發現，急性不良事件最常關聯的動作正是手倒立、肩倒立與頭倒立（29.4%），且自學無人指導者風險較高。青光眼、視網膜病變、未控制高血壓、頸椎病變者應直接列為禁忌。",
+      "citations": [
+        {
+          "pmid": "26698309",
+          "title": "Intraocular Pressure Rise in Subjects with and without Glaucoma during Four Common Yoga Positions",
+          "journal": "PLoS One",
+          "year": 2015,
+          "design": "physiological-study",
+          "takeaway": "10 位青光眼、10 位正常人：下犬式眼壓由 17 升至 28–29 mmHg、站姿前彎升至 26–27 mmHg、犁式與倒箭式亦顯著升高（皆 p<0.01），2 分鐘內回到基線。"
+        },
+        {
+          "pmid": "16806478",
+          "title": "Intraocular pressure changes and ocular biometry during Sirsasana (headstand posture) in yoga practitioners",
+          "journal": "Ophthalmology",
+          "year": 2006,
+          "design": "cohort",
+          "takeaway": "75 位有經驗練習者在頭倒立期間眼壓顯著上升（約為坐姿基線的兩倍），提示長期規律頭倒立者需常規眼科追蹤。"
+        },
+        {
+          "pmid": "37203026",
+          "title": "Effect of yoga on intra-ocular pressure in patients with glaucoma: A systematic review and meta-analysis",
+          "journal": "Indian J Ophthalmol",
+          "year": 2023,
+          "design": "meta-analysis",
+          "takeaway": "6 篇研究：能降眼壓的是 trataka 凝視與慢速呼吸法，倒立體式反而在開始後即快速升高眼壓；納入的 RCT 樣本小、追蹤短。"
+        },
+        {
+          "pmid": "23407666",
+          "title": "Sirsasana (headstand) pose causing compressive myelopathy with myelomalacia",
+          "journal": "JAMA Neurol",
+          "year": 2013,
+          "design": "case-report",
+          "takeaway": "頭倒立造成壓迫性脊髓病變併脊髓軟化的個案；顯示頸椎承重型倒立可造成不可逆神經損傷。"
+        },
+        {
+          "pmid": "31357980",
+          "title": "Adverse effects of yoga: a national cross-sectional survey",
+          "journal": "BMC Complement Altern Med",
+          "year": 2019,
+          "design": "cross-sectional",
+          "takeaway": "1702 位練習者：21.4% 報告急性不良事件，最常關聯的動作為手倒立、肩倒立、頭倒立（29.4%）；自學無人指導者風險較高；整體傷害率 0.60 次／1000 練習小時。"
+        }
+      ]
+    },
+    {
+      "id": "arm-balance",
+      "name": "手臂支撐體式",
+      "evidence_grade": "limited",
+      "summary": "手臂支撐沒有專屬的療效文獻，可查的幾乎都是風險資料。321 位規律練手倒立者（其中瑜伽 27.4%，最大宗）的橫斷面調查中，56.7% 報告慢性腕痛，且與每週訓練時數、暖身、護腕或握力器材使用皆無顯著相關——也就是「多暖身就不會痛」缺乏支持，問題更可能出在強度與動作品質。德國全國調查顯示手倒立／肩倒立／頭倒立是急性不良事件最常見的關聯動作（29.4%）。另有瑜伽導致舟月韌帶創傷性骨化性肌炎的個案報告。整體而言瑜伽的傷害率（0.60 次／1000 小時）與其他運動相當，隨機試驗的統合分析也顯示瑜伽的不良事件頻率與一般照護或運動無異，但手臂支撐是其中風險偏高的子類。",
+      "citations": [
+        {
+          "pmid": "41133562",
+          "title": "The Wrist as a Weightbearing Joint in Adult Handstand Practitioners: A Cross-Sectional Survey of Chronic Pain and Training-Related Factors",
+          "journal": "J Funct Morphol Kinesiol",
+          "year": 2025,
+          "design": "cross-sectional",
+          "takeaway": "321 位手倒立練習者（瑜伽佔 27.4%）：56.7% 有慢性腕痛；與每週時數、暖身、護具使用皆無顯著相關，年輕者盛行率反而較高（p=0.042）。"
+        },
+        {
+          "pmid": "31357980",
+          "title": "Adverse effects of yoga: a national cross-sectional survey",
+          "journal": "BMC Complement Altern Med",
+          "year": 2019,
+          "design": "cross-sectional",
+          "takeaway": "急性不良事件平均在練習 7.6 年後出現，最常關聯手倒立／肩倒立／頭倒立；10.2% 報告慢性不良事件，慢性個案僅 51.6% 完全康復。"
+        },
+        {
+          "pmid": "30723608",
+          "title": "Yoga-Induced Myositis Ossificans Traumatica of the Scapholunate Ligament",
+          "journal": "J Wrist Surg",
+          "year": 2019,
+          "design": "case-report",
+          "takeaway": "瑜伽腕部承重造成舟月韌帶創傷性骨化性肌炎的個案；提示重複性微創傷可造成結構性病變，而非單純肌肉痠痛。"
+        },
+        {
+          "pmid": "30792066",
+          "title": "Soft Tissue and Bony Injuries Attributed to the Practice of Yoga: A Biomechanical Analysis and Implications for Management",
+          "journal": "Mayo Clin Proc",
+          "year": 2019,
+          "design": "case-series",
+          "takeaway": "89 例瑜伽傷害中軟組織傷害以過度使用之肌筋膜疼痛最多（74.2%），旋轉肌袖傷害 6.7%——上肢承重動作的傷害多為累積性而非單次事故。"
+        }
+      ]
+    },
+    {
+      "id": "core-strength",
+      "name": "核心與穩定訓練",
+      "evidence_grade": "moderate",
+      "summary": "核心訓練對慢性非特異性下背痛有中等效果（57 篇 RCT、7705 人，疼痛 SMD 0.70, 95% CI 0.58–0.82），但「核心穩定訓練優於一般運動」這個常見說法只在短期成立、長期不成立：核心穩定 vs 一般運動的統合分析顯示 3 個月時疼痛（MD −1.29）與失能（MD −7.14）較佳，6 個月（MD −0.50, p=0.26）與 12 個月（MD −0.32, p=0.25）差異消失。針對「腹橫肌」的機轉說法也要打折——動作控制訓練確實提高腹橫肌收縮比（SMD 0.93），卻沒有改變腹橫肌與多裂肌的靜態厚度，且各種核心訓練型式（皮拉提斯、穩定、阻力）彼此差異未達統計顯著（p=0.24）。結論是：核心練了有用，但「哪一種核心」多半不重要，長期效果和一般運動打平。",
+      "citations": [
+        {
+          "pmid": "41178988",
+          "title": "Effects of different types of core training on pain and functional status in patients with chronic nonspecific low back pain: a systematic review and meta-analysis",
+          "journal": "Front Physiol",
+          "year": 2025,
+          "design": "meta-analysis",
+          "takeaway": "57 篇 RCT、7705 人：核心訓練整體止痛 SMD 0.70（95% CI 0.58–0.82）；皮拉提斯 0.75、核心阻力 0.68、核心穩定 0.53，但三者間差異未達顯著（p=0.24）。"
+        },
+        {
+          "pmid": "23284879",
+          "title": "A meta-analysis of core stability exercise versus general exercise for chronic low back pain",
+          "journal": "PLoS One",
+          "year": 2012,
+          "design": "meta-analysis",
+          "takeaway": "5 篇 RCT、414 人：核心穩定訓練僅在短期優於一般運動（疼痛 MD −1.29、失能 MD −7.14），6 個月（p=0.26）與 12 個月（p=0.25）優勢消失。"
+        },
+        {
+          "pmid": "35879124",
+          "title": "Effect of Motor Control Training on Trunk Muscle Morphometry, Pain, and Disability in People With Chronic Low Back Pain: A Systematic Review and Meta-Analysis",
+          "journal": "J Manipulative Physiol Ther",
+          "year": 2022,
+          "design": "meta-analysis",
+          "takeaway": "15 篇研究：動作控制訓練提升腹橫肌收縮比（SMD 0.93）並改善疼痛（−1.07 cm）與失能（SMD −0.86），但未改變腹橫肌與多裂肌的靜態厚度。"
+        }
+      ]
+    },
+    {
+      "id": "sun-salutation",
+      "name": "拜日式與串連流動",
+      "evidence_grade": "limited",
+      "summary": "拜日式的強度是可以量化的：在受過訓練的年輕人身上連做四輪，平均心率達最大心率的 80%（第四輪達 90%）、攝氧量約 26 mL/kg/min，30 分鐘課程約消耗 230 kcal（60 kg 者），確實達到有氧訓練刺激的門檻；但這是 6 人的小樣本。節奏也決定生理反應——快速拜日式代謝需求最高，慢速拜日式的能量消耗與 METs 顯著較低、卻能提高高頻心率變異（副交感優勢）。整堂 vinyasa 課的強度並不均勻：拜日式段落的 MET 與心率百分比顯著高於整合段落與大休息段落。至於長期訓練效果，2026 年的系統性回顧只納入 14 篇研究、異質性高、偏誤風險不一，只能說「有前景但證據不足」。把拜日式當成唯一心肺運動是不夠的，也無法取代阻力訓練。",
+      "citations": [
+        {
+          "pmid": "21665111",
+          "title": "Acute effects of Surya Namaskar on the cardiovascular & metabolic system",
+          "journal": "J Bodyw Mov Ther",
+          "year": 2011,
+          "design": "physiological-study",
+          "takeaway": "6 位受訓 2 年以上者連做四輪：平均達 80% 最大心率（第四輪 90%）、VO2 約 26 mL/kg/min、30 分鐘約 230 kcal；樣本極小，外推需保守。"
+        },
+        {
+          "pmid": "39593443",
+          "title": "Acute effects of fast, slow, and graded Suryanamaskar on cardiorespiratory and cardiac autonomic functions",
+          "journal": "J Bodyw Mov Ther",
+          "year": 2024,
+          "design": "rct",
+          "takeaway": "17 位練習者交叉比較：快速拜日式 VO2、心率與能量消耗最高；慢速拜日式 METs 顯著較低但 LF/HF 下降、HF 上升，偏向副交感主導。"
+        },
+        {
+          "pmid": "37169721",
+          "title": "Oxygen Consumption and Heart Rate Responses in Different Vinyasa Yoga Sequences",
+          "journal": "Int J Yoga Therap",
+          "year": 2023,
+          "design": "physiological-study",
+          "takeaway": "40 人 60 分鐘 vinyasa 課實測：各段落 MET 與最大心率百分比差異顯著（p<0.001），整合與大休息段落的心率顯著低於拜日式、弓步、平衡、站姿與後彎段落。"
+        },
+        {
+          "pmid": "42450935",
+          "title": "Multidimensional Effects of Suryanamaskar on Physical, Physiological, and Psychological Outcomes: A Systematic Review",
+          "journal": "Healthcare (Basel)",
+          "year": 2026,
+          "design": "systematic-review",
+          "takeaway": "14 篇研究的敘事綜整：體適能、生理與心理指標多呈正向，但研究設計、流程、族群與偏誤風險差異極大，無法進行統合分析。"
+        }
+      ]
+    },
+    {
+      "id": "stretch-flexibility",
+      "name": "靜態伸展與柔軟度",
+      "evidence_grade": "contested",
+      "summary": "伸展能增加活動度是本組中證據最紮實的單一結論：189 篇研究、6654 人的統合分析顯示長期靜態伸展 Hedges' g = 0.96，急性效果 g = 0.63，而且每次超過 4 分鐘、每週超過 10 分鐘就沒有額外好處，強度、年齡、性別、訓練狀態都不是調節因子。但兩個常見宣稱撐不住：其一，伸展預防運動傷害的證據是陰性的——26610 人的統合分析中伸展的相對風險 0.963（95% CI 0.846–1.095，不顯著），而肌力訓練是 0.315、本體感覺訓練 0.550；其二，伸展減輕延遲性肌肉痠痛的效果在 100 分量表上只有 0.5–1 分，臨床上等於沒有。運動前靜態伸展對孤立肌群的最大肌力確有小幅抑制（ES −0.21，單次 ≥60 秒可達 −0.84），但 2024 年的重新分析指出對跳躍、衝刺等實際運動表現並無負面影響甚至略為正向，所以「絕對不可運動前伸展」也是過度推論。",
+      "citations": [
+        {
+          "pmid": "39614059",
+          "title": "Optimising the Dose of Static Stretching to Improve Flexibility: A Systematic Review, Meta-analysis and Multivariate Meta-regression",
+          "journal": "Sports Med",
+          "year": 2025,
+          "design": "meta-analysis",
+          "takeaway": "189 篇研究 6654 人：急性 g = 0.63、長期 g = 0.96；效益在每次 4 分鐘、每週 10 分鐘後即飽和，基礎柔軟度差者進步最多（p=0.01）。"
+        },
+        {
+          "pmid": "24100287",
+          "title": "The effectiveness of exercise interventions to prevent sports injuries: a systematic review and meta-analysis of randomised controlled trials",
+          "journal": "Br J Sports Med",
+          "year": 2014,
+          "design": "meta-analysis",
+          "takeaway": "25 篇試驗、26610 人：伸展對運動傷害的 RR 0.963（0.846–1.095），無預防效果；肌力訓練 RR 0.315、本體感覺訓練 RR 0.550。"
+        },
+        {
+          "pmid": "21735398",
+          "title": "Stretching to prevent or reduce muscle soreness after exercise",
+          "journal": "Cochrane Database Syst Rev",
+          "year": 2011,
+          "design": "meta-analysis",
+          "takeaway": "12 篇研究的 Cochrane 回顧：運動前伸展使隔日痠痛平均降低 0.5 分／100 分，運動後 1.0 分／100 分——統計上或許顯著，臨床上可忽略。"
+        },
+        {
+          "pmid": "38735533",
+          "title": "Revisiting the stretch-induced force deficit: A systematic review with multilevel meta-analysis of acute effects",
+          "journal": "J Sport Health Sci",
+          "year": 2024,
+          "design": "meta-analysis",
+          "takeaway": "83 篇研究 2012 人：靜態伸展造成的最大肌力損失 ES −0.21（單次 ≥60 秒可達 −0.84），但對整體運動表現無負面影響，跳躍表現甚至略為改善（ES 0.15）。"
+        },
+        {
+          "pmid": "37301370",
+          "title": "Chronic effects of stretching on range of motion with consideration of potential moderating variables: A systematic review with meta-analysis",
+          "journal": "J Sport Health Sci",
+          "year": 2024,
+          "design": "meta-analysis",
+          "takeaway": "77 篇研究：PNF 與靜態伸展的活動度增益顯著優於彈震／動態伸展（p=0.01），女性增幅大於男性（p=0.04）。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "curate-course",
+  "private": true,
+  "type": "module",
+  "description": "只為了讓 node --test 認得前端的 ES module，沒有任何依賴，也不需要 npm install",
+  "scripts": {
+    "test": "node --test 'tests/*.test.js'"
+  }
+}

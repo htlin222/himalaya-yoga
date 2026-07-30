@@ -1,0 +1,495 @@
+{
+  "chapter": "CH1",
+  "title": "起點：安全、身體地圖與練習設定",
+  "units": [
+    {
+      "id": "ch1-u1",
+      "name": "這門課怎麼練：順序、頻率與最小可行練習",
+      "type": "foundation",
+      "assessment": "打開行事曆，數你過去 14 天實際做完的練習次數：少於 4 次，問題出在「單次太長」而不是「意志力不足」。接著做一次校準：設 10 分鐘計時器，只做一組全身伸展，計時結束就停。若你在第 3 分鐘之前就想關掉、或結束後覺得「這樣根本不算練」，代表你的心理門檻被長影片綁架了——先把最小可行練習訂在「即使今天最忙也做得到」的長度（多數人是 8–12 分鐘），連續七天不中斷之後再加長。反過來，若 10 分鐘結束時你完全不喘、也沒有任何部位有伸展感，代表強度不足，該往 20 分鐘的完整課移動。",
+      "tight": [
+        "一開始就挑 45–60 分鐘的課，做兩天就斷掉",
+        "只在「有空又有心情」時練，沒有固定的時段錨點",
+        "把痠痛當成有效的指標，隔天加倍練回來",
+        "同時追四五個頻道，每天換課表、沒有累積"
+      ],
+      "weak": [
+        "把練習拆成最小可行單位並穩定執行的能力",
+        "自我評估強度與恢復的能力",
+        "在有限時間內排出「暖身—主課—收尾」順序的能力"
+      ],
+      "lesson": {
+        "title": "Beginner’s Guide to Yoga – How to Choose a Class",
+        "channel": "YOGABODY",
+        "url": "https://www.youtube.com/watch?v=VcUGNZamNPA",
+        "duration": "16:53",
+        "why": "直接處理新手最先卡住的問題：哈達／流動／熱瑜伽／陰瑜伽差在哪、該從哪一種開始、第一堂課會發生什麼事。講的是「怎麼選、怎麼開始」而不是又一支跟練，正好當這一章的入口。"
+      },
+      "drills": [
+        {
+          "name": "一週該練幾次",
+          "en": "How often should you do yoga",
+          "kind": "deepen",
+          "target": "專注、放鬆與副交感",
+          "dose": "看一次，當場把下週三個練習時段寫進行事曆",
+          "title": "How Often Should You do Yoga?  - Yoga Tips!",
+          "channel": "Man Flow Yoga",
+          "url": "https://www.youtube.com/watch?v=wnLCN-Vbvec",
+          "duration": "5:59"
+        },
+        {
+          "name": "十分鐘最小可行練習",
+          "en": "10-minute beginner full practice",
+          "kind": "follow",
+          "target": "脊椎活動度、髖關節、呼吸控制",
+          "dose": "每週 3–5 次，忙碌日就只做這一支",
+          "title": "10-Minute Yoga For Beginners | Start Yoga Here...",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=j7rKKpwdXNE",
+          "duration": "12:16"
+        },
+        {
+          "name": "新手最常犯的錯",
+          "en": "Common beginner mistakes",
+          "kind": "align",
+          "target": "脊椎活動度、肩胛、呼吸控制",
+          "dose": "第一週看一次，第四週回頭再看一次",
+          "title": "Mistakes Beginners Do ⛔️ Yoga for Beginners",
+          "channel": "Idan Kirshner",
+          "url": "https://www.youtube.com/watch?v=UeAPVuiina0",
+          "duration": "12:40"
+        },
+        {
+          "name": "身體很硬時的入門版",
+          "en": "Full body stretch for stiff bodies",
+          "kind": "modify",
+          "target": "腿後側、髖關節、胸椎",
+          "dose": "10 分鐘，坐辦公室的日子晚上做",
+          "title": "10 Minute Yoga Full Body Stretch for Stiff Bodies",
+          "channel": "Yoga With Bird",
+          "url": "https://www.youtube.com/watch?v=SvPKFsCiMsw",
+          "duration": "10:17"
+        },
+        {
+          "name": "新手常問問題總整理",
+          "en": "Beginner yoga FAQ",
+          "kind": "deepen",
+          "target": "專注",
+          "dose": "看一次，記下三個和自己有關的答案",
+          "title": "Yoga FAQ - Your Quesitons Answered!",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=yeOscvf8at8",
+          "duration": "9:34"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u2",
+      "name": "禁忌與紅旗：哪些狀況要跳過哪些練習",
+      "type": "population",
+      "assessment": "練習前逐項自答，任何一項為「是」就先不要自行跟練，改為只做呼吸與支撐性休息，並先問醫療端：靜態血壓 ≥160/100 或未服藥控制的高血壓；已確診青光眼、視網膜剝離、或半年內眼科手術（頭低於心臟的姿勢一律跳過）；椎間盤突出且咳嗽、打噴嚏會把痛放射到臀部以下；懷孕滿 14 週後仍做仰臥超過 3 分鐘或俯臥壓迫腹部；骨質疏鬆診斷（脊椎屈曲與強力扭轉一律跳過）。練習「中」則用另一組即停紅旗：頭暈到需要扶牆、胸悶或胸痛、視線出現閃光或黑點、單側肢體麻或無力、關節出現尖銳刺痛而非肌肉的鈍脹感——出現任一項當場停止，改為側躺休息。",
+      "tight": [
+        "把「痛」和「伸展感」混為一談，忍著做完整堂課",
+        "有高血壓或青光眼卻照做倒立與長時間頭低於心臟的姿勢",
+        "經期或孕期照原課表練，只靠「感覺還好」判斷",
+        "以為緩慢的練習就沒有風險，忽略韌帶與關節被拉過頭"
+      ],
+      "weak": [
+        "在練習中辨識停止訊號並真的停下的能力",
+        "把個人病史轉譯成「這幾個姿勢不做」的能力",
+        "替換而非硬撐——找到同目的但安全的版本"
+      ],
+      "lesson": {
+        "title": "The Yoga Injury Matrix: the 8 Best Practices to Minimize Injuries in Yoga",
+        "channel": "Jason Crandell Yoga",
+        "url": "https://www.youtube.com/watch?v=hsfvvOjk6WE",
+        "duration": "34:25",
+        "why": "資深師資訓練者把「瑜伽為什麼會受傷」拆成負荷、頻率、動作品質等可操作的變項，而不是列一張嚇人的禁忌清單。這支給的是判斷架構，後面四支才是各族群的細則。"
+      },
+      "drills": [
+        {
+          "name": "不適的三個區間：什麼該停",
+          "en": "Three zones of discomfort",
+          "kind": "align",
+          "target": "專注、放鬆與副交感",
+          "dose": "看一次，之後每次練習中自問「我現在在第幾區」",
+          "title": "Ram Jain’s 3 Zones of Discomfort | How to Avoid Injury in Yoga | Arhanta Yoga",
+          "channel": "Arhanta Yoga",
+          "url": "https://www.youtube.com/watch?v=aM2lwBUQ-o8",
+          "duration": "2:39"
+        },
+        {
+          "name": "椎間盤突出要避開的體式",
+          "en": "Poses to avoid with a bulging disc",
+          "kind": "modify",
+          "target": "腰椎、薦髂關節、前彎",
+          "dose": "有下背放射痛時，先看完再決定課表",
+          "title": "Bulging Disc? 5 Yoga Poses to AVOID!",
+          "channel": "Will Harlow – Over-Fifties Specialist Physio",
+          "url": "https://www.youtube.com/watch?v=HdcQalVi3eI",
+          "duration": "10:23"
+        },
+        {
+          "name": "孕期不做的體式",
+          "en": "Poses to avoid during pregnancy",
+          "kind": "align",
+          "target": "核心、腰椎、扭轉",
+          "dose": "確認懷孕後立刻看，每個三月期重看一次",
+          "title": "Prenatal Yoga for Beginners: Yoga Poses to Avoid During Pregnancy",
+          "channel": "Erica Rodefer",
+          "url": "https://www.youtube.com/watch?v=o_IEZGkVv0w",
+          "duration": "9:23"
+        },
+        {
+          "name": "經期的可與不可",
+          "en": "Yoga during menstruation: do's and don'ts",
+          "kind": "align",
+          "target": "骨盆底、腰椎、放鬆與副交感",
+          "dose": "經期第 1–2 天前先看，據此調整當週課表",
+          "title": "Yoga During Periods | Do's and Don'ts of Yoga & Pranayama",
+          "channel": "FitNCalm Yogic Living",
+          "url": "https://www.youtube.com/watch?v=Yk1K_GvTsGk",
+          "duration": "5:21"
+        },
+        {
+          "name": "青光眼與高血壓的替代課",
+          "en": "Yoga for glaucoma and hypertension",
+          "kind": "modify",
+          "target": "呼吸控制、放鬆與副交感、脊椎活動度",
+          "dose": "全程頭不低於心臟，每週 2–3 次取代一般流動課",
+          "title": "30 Minute Yoga for Glaucoma & Hypertension",
+          "channel": "Jessica Nagy",
+          "url": "https://www.youtube.com/watch?v=HyN1fjO8Lk8",
+          "duration": "28:03"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u3",
+      "name": "場地、墊子與輔具：最小器材集",
+      "type": "foundation",
+      "assessment": "墊子抓地力測試：赤腳（手掌乾燥）在墊上撐下犬式 30 秒，若手掌前滑超過 2 公分、或必須用力抓才不滑，這張墊子不適合有手撐的練習。厚度測試：跪姿把膝蓋直接壓在墊上 20 秒，若出現需要移開的壓痛，代表厚度不足，跪姿動作要加折毛毯。輔具需求測試：站姿前彎，手指若碰不到地板，就用最高面（約 23 公分）立起的磚墊在手下——磚是拿來把地板抬高到你的手邊，不是拿來練柔軟度的。場地測試：躺下手臂平舉畫一圈，若會撞到家具，練習空間不足，先清出約 2 公尺 × 1 公尺 並保留一面淨空的牆。",
+      "tight": [
+        "用太滑的旅行墊做下犬式，靠死抓手指代償",
+        "沒有磚就硬彎，用腰椎屈曲換取「手碰地」的假象",
+        "把輔具當成「初學者才要用」的東西，進階後就丟掉",
+        "在有地毯或不平地面練站姿平衡，腳踝一直在打架"
+      ],
+      "weak": [
+        "判斷何時該把地板抬高（磚）、何時該把手延長（帶）的能力",
+        "用家中現成物品替代輔具的能力",
+        "利用牆面提供回饋與支撐的能力"
+      ],
+      "lesson": {
+        "title": "How To Choose A Yoga Mat: Top 9 Common Yoga Mat Materials Explained",
+        "channel": "Yoga Workouts with Laura",
+        "url": "https://www.youtube.com/watch?v=JsehdTbEA-o",
+        "duration": "10:39",
+        "why": "把 PVC、TPE、天然橡膠、麂皮面等材質對應到「會不會滑、耐不耐用、重不重、有沒有氣味」四個實際問題，並說明厚度該怎麼依練習型態選。是講材質差異而不是推單一品牌。"
+      },
+      "drills": [
+        {
+          "name": "瑜伽磚的基本用法",
+          "en": "How to use yoga blocks",
+          "kind": "modify",
+          "target": "髖關節、腿後側、前彎",
+          "dose": "看一次，之後每支課前先決定磚要放哪、放第幾面",
+          "title": "HOW TO USE YOGA BLOCKS FOR BEGINNERS | Yoga for beginners | Yoga with Uliana",
+          "channel": "Yoga with Uliana",
+          "url": "https://www.youtube.com/watch?v=SxZ21BEdBwE",
+          "duration": "11:52"
+        },
+        {
+          "name": "伸展帶的十一種用法",
+          "en": "How to use a yoga strap",
+          "kind": "modify",
+          "target": "肩關節、腿後側、手臂支撐",
+          "dose": "挑 3 個和自己受限處相關的用法，各練 60 秒",
+          "title": "How to Use a Yoga Strap: 11 Easy Tips",
+          "channel": "FitNCalm Yogic Living",
+          "url": "https://www.youtube.com/watch?v=8oDAM5N9o4w",
+          "duration": "10:05"
+        },
+        {
+          "name": "沒有輔具的家中替代品",
+          "en": "DIY yoga props at home",
+          "kind": "modify",
+          "target": "髖關節、脊椎活動度",
+          "dose": "看一次，當場在家找出對應的書、毛巾、皮帶",
+          "title": "What to use instead of yoga blocks - DIY yoga props - Yoga Props Substitute for yoga at home",
+          "channel": "Di Hickman",
+          "url": "https://www.youtube.com/watch?v=9CRB3wq4aBY",
+          "duration": "4:50"
+        },
+        {
+          "name": "抱枕支撐的修復練習",
+          "en": "Restorative yoga with a bolster",
+          "kind": "follow",
+          "target": "胸口、放鬆與副交感、腰椎",
+          "dose": "每週 1–2 次，睡前做；沒有抱枕就用捲起的棉被",
+          "title": "RESTORATIVE YOGA WITH BOLSTER | restorative yoga 10 minutes",
+          "channel": "Alexia K Yoga",
+          "url": "https://www.youtube.com/watch?v=c6Qweqs8CO4",
+          "duration": "11:21"
+        },
+        {
+          "name": "把牆當成免費輔具",
+          "en": "Gentle yoga at the wall",
+          "kind": "follow",
+          "target": "腿後側、髖關節、腰椎",
+          "dose": "30 分鐘，需要回饋或平衡不穩的日子做",
+          "title": "Gentle Yoga at the Wall - Stretches for Lower Back, Hamstrings, Hips & Inner Thighs (30 Minutes)",
+          "channel": "YOGA UPLOAD with Maris Aylward",
+          "url": "https://www.youtube.com/watch?v=e8kIQv5S3po",
+          "duration": "29:44"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u4",
+      "name": "身體地圖一：脊椎中立與骨盆位置",
+      "type": "foundation",
+      "assessment": "靠牆測骨盆：背貼牆站，腳跟離牆 5 公分，後腦、上背、臀部貼牆，再把手掌從腰後的縫隙水平穿過。手掌能平放、前後只剩約一掌厚＝中立；手掌加上拳頭都能輕鬆通過（縫隙大於一掌厚）＝骨盆前傾；手掌完全塞不進去、腰椎整段壓死牆面＝骨盆後傾。接著仰臥屈膝再測一次（同樣把手伸到腰下）：若躺著能做出中立、站著卻不行，代表問題是髖屈肌與腹部的控制，不是骨架結構，練得回來。最後測控制力：仰臥做骨盆前後傾各 10 次，若動作只在腰椎發生、肋骨跟著上下飄、或必須憋氣才做得動，代表你還沒有把骨盆和胸廓分開來動。",
+      "tight": [
+        "把「挺胸縮腹」誤當中立，實際上是腰椎過度前凸",
+        "捲尾骨捲過頭，變成骨盆後傾＋腰椎後凸",
+        "做骨盆傾斜時憋氣，用腹壁硬撐取代呼吸控制",
+        "只有腰椎在動，胸廓與骨盆沒有各自獨立的控制"
+      ],
+      "weak": [
+        "辨識自己在站姿與仰臥的骨盆位置",
+        "骨盆與胸廓分離控制（骨盆時鐘）",
+        "橫膈呼吸與腹內壓配合核心的能力",
+        "把中立脊椎帶進實際體式的能力"
+      ],
+      "lesson": {
+        "title": "骨盆歪斜真相大公開：物理治療師教你評估與矯正｜啾c物理治療師",
+        "channel": "啾c物理治療師",
+        "url": "https://www.youtube.com/watch?v=KgbjGncYBhI",
+        "duration": "14:05",
+        "why": "繁體中文物理治療師示範骨盆前後傾與左右歪斜的實際評估手法，並說明哪些是需要處理的、哪些是被網路誇大的。有評估、有對應動作，剛好接住這個單元的自我判定需求。"
+      },
+      "drills": [
+        {
+          "name": "骨盆前傾自我測試",
+          "en": "Anterior pelvic tilt test",
+          "kind": "align",
+          "target": "骨盆底、腰椎、髖關節",
+          "dose": "測一次，記錄結果；四週後複測",
+          "title": "Anterior Pelvic Tilt Test | Self Assessment You Can Do",
+          "channel": "GuerrillaZen Fitness",
+          "url": "https://www.youtube.com/watch?v=cTSR0_F4CpM",
+          "duration": "6:06"
+        },
+        {
+          "name": "骨盆後傾自我測試",
+          "en": "Posterior pelvic tilt test",
+          "kind": "align",
+          "target": "腰椎、髖關節、腿後側",
+          "dose": "與前傾測試同一天做，兩者比對",
+          "title": "Posterior Pelvic Tilt Test | Do this one at home easily!",
+          "channel": "GuerrillaZen Fitness",
+          "url": "https://www.youtube.com/watch?v=RsUmhCXSwUw",
+          "duration": "3:06"
+        },
+        {
+          "name": "骨盆時鐘",
+          "en": "Pelvic tilt and pelvic clock",
+          "kind": "follow",
+          "target": "腰椎、骨盆底、脊椎活動度",
+          "dose": "仰臥前後傾各 10 次＋順逆時鐘各 5 圈，每日一輪",
+          "title": "Healthy Back Series Part 1 - Pelvic Tilt and Pelvic Clock.wmv",
+          "channel": "MarinMovementCenter",
+          "url": "https://www.youtube.com/watch?v=Mw0JgOk_cPE",
+          "duration": "5:08"
+        },
+        {
+          "name": "呼吸、腹內壓與核心",
+          "en": "Intra-abdominal pressure breathing",
+          "kind": "align",
+          "target": "橫膈、核心、呼吸控制",
+          "dose": "仰臥 360 度呼吸 10 次，再帶到坐姿 10 次",
+          "title": "Functional Abs | Intra-Abdominal Pressure Breathing For Core Stability",
+          "channel": "REACH Rehab + Chiropractic Performance Center",
+          "url": "https://www.youtube.com/watch?v=CFCnlzaNQas",
+          "duration": "4:58"
+        },
+        {
+          "name": "把骨盆帶回中立的練習",
+          "en": "Restore neutral pelvic tilt",
+          "kind": "follow",
+          "target": "核心、髖關節、股四頭",
+          "dose": "測出前傾者每週 3 次，一次一輪",
+          "title": "How to Fix Anterior Pelvic Tilt (Restore Your Neutral Pelvic Tilt)",
+          "channel": "Man Flow Yoga",
+          "url": "https://www.youtube.com/watch?v=3sW1LOy7OAY",
+          "duration": "13:12"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u5",
+      "name": "身體地圖二：肩胛、手腕與承重",
+      "type": "foundation",
+      "assessment": "手腕背屈測試：四足跪姿，手掌整片貼地、指尖朝前，肩膀垂直落在手腕正上方，維持 30 秒。若前臂與地面的夾角明顯小於 75 度（手腕彎不夠、手肘被迫彎曲）、手掌根必須離地、或 30 秒內腕橫紋處出現壓痛，即為手腕承重準備不足，短期內所有手撐姿勢改用拳頭或前臂版本。手指壓力測試：撐姿時請旁人抽走你的食指指根下的一張紙，若能輕易抽出，代表重量全壓在掌根，正是下犬式手腕痛的主因。肩胛測試：後腦、上背、臀部貼牆站，雙臂貼牆做 W 上舉成 Y，若手背在過頭之前就離牆、或腰椎被迫拱起離牆，代表肩屈活動度不足，長時間下犬與棒式先減量。",
+      "tight": [
+        "重量全壓在掌根，手指虛浮不吃力，腕關節被夾擠",
+        "下犬式聳肩、耳朵貼近肩膀，斜方肌上束整堂課緊繃",
+        "肩膀活動度不足時用腰椎後仰去換手臂過頭的角度",
+        "手肘過度伸直鎖死，把負荷丟給關節而非肌肉"
+      ],
+      "weak": [
+        "手腕背屈活動度與腕周肌力",
+        "掌根到指節的均勻分壓（手掌鎖印）",
+        "肩胛穩定與前鋸肌的推地能力",
+        "肩關節過頭活動度的自我評估"
+      ],
+      "lesson": {
+        "title": "Yoga Teacher's Companion #37: 5 Ways to Fix Wrist Discomfort in Down Dog, Chaturanga & Plank",
+        "channel": "Jason Crandell Yoga",
+        "url": "https://www.youtube.com/watch?v=f0QLiOKDOjo",
+        "duration": "15:28",
+        "why": "把新手最大的抱怨（下犬、棒式、四柱手腕痛）拆成五種具體處置：手掌分壓、手腕角度、前臂替代、負荷分配與課表安排。是解法清單而不是單純的伸展影片。"
+      },
+      "drills": [
+        {
+          "name": "肩關節活動度自測",
+          "en": "Shoulder mobility assessment",
+          "kind": "align",
+          "target": "肩關節、肩胛",
+          "dose": "左右各測一次，記錄不對稱側",
+          "title": "Shoulder Mobility Assessment",
+          "channel": "ACEfitness",
+          "url": "https://www.youtube.com/watch?v=GL6kBBMtWkY",
+          "duration": "4:58"
+        },
+        {
+          "name": "肩胛穩定三動作",
+          "en": "Scapular stability for yoga",
+          "kind": "align",
+          "target": "肩胛、肩關節、手臂支撐",
+          "dose": "每個動作 8–10 次 × 2 輪，手撐課前先做",
+          "title": "How to Improve Scapular Stability with Yoga 3 Simple Exercises",
+          "channel": "Man Flow Yoga",
+          "url": "https://www.youtube.com/watch?v=_zBKHaPFlTA",
+          "duration": "6:55"
+        },
+        {
+          "name": "手腕肌力與熱身",
+          "en": "Wrist strength routine",
+          "kind": "follow",
+          "target": "手腕、手肘、手臂支撐",
+          "dose": "每次有手撐的練習前做一輪，約 5 分鐘",
+          "title": "Yoga Wrist Strength - 5 Minute Wrist Exercise Routine",
+          "channel": "Livinleggings",
+          "url": "https://www.youtube.com/watch?v=ZQnAO1DhLEA",
+          "duration": "7:24"
+        },
+        {
+          "name": "手腕痛的當場調整",
+          "en": "Yogi hands for wrist pain",
+          "kind": "modify",
+          "target": "手腕、手臂支撐",
+          "dose": "手腕不適當天，所有撐姿改用這個手型",
+          "title": "WRIST PAIN in yoga? How to fix it with \"Yogi Hands\" 🙌",
+          "channel": "SarahBethYoga",
+          "url": "https://www.youtube.com/watch?v=aAw-syWMHvQ",
+          "duration": "3:20"
+        },
+        {
+          "name": "下犬式常見問題與改善",
+          "en": "Downward dog: common problems",
+          "kind": "align",
+          "target": "肩關節、手腕、腿後側",
+          "dose": "看一次，對著鏡子或錄影自我比對一次",
+          "title": "【動作解析】瑜珈下犬式-常見問題及改善｜物治歐巴 feat. Iris 瑜珈老師",
+          "channel": "物治歐巴  Oppa Physio ",
+          "url": "https://www.youtube.com/watch?v=9be-qoGqIJk",
+          "duration": "6:19"
+        }
+      ]
+    },
+    {
+      "id": "ch1-u6",
+      "name": "大休息 Savasana：每次練習的收尾",
+      "type": "foundation",
+      "assessment": "設 8 分鐘計時器做一次大休息，結束後回答三題：(1) 中途是否張眼確認時間超過 2 次；(2) 起身時是否比躺下前更累或更煩躁；(3) 是否在前 3 分鐘就想動腳或翻身。任一為「是」，代表你需要的是「支撐版」或「有語音引導版」，而不是更長的沉默躺著。身體檢查：躺下滿 1 分鐘後，刻意鬆開下巴與舌根，若你感覺到牙齒原本是輕輕咬著的、或肩膀突然掉下來一截，代表你剛剛是在「用力休息」。腰部檢查：仰臥時若腰下的縫隙讓你想拱背或想把腳踩回來，在膝下墊枕頭或捲毯，讓腰自然貼近地面。",
+      "tight": [
+        "練完直接起身收墊子，完全跳過收尾",
+        "躺著時仍在對抗——下巴咬緊、肩膀提著、腳趾用力",
+        "腰下懸空造成不適，靠拱背硬撐而非墊高膝蓋",
+        "把大休息當睡覺，設定太長反而醒來更昏沉"
+      ],
+      "weak": [
+        "從交感切換到副交感的能力",
+        "在靜止中維持清醒的專注（不是睡著）",
+        "用輔具讓身體真正被支撐的能力",
+        "身體掃描與局部放鬆的覺察"
+      ],
+      "lesson": {
+        "title": "Savasana (Corpse Pose) Benefits, How to Do & Contraindications by Yogi Sandeep - Siddhi Yoga",
+        "channel": "Siddhi Yoga International",
+        "url": "https://www.youtube.com/watch?v=TJNfblsl5i4",
+        "duration": "9:58",
+        "why": "師資培訓機構的體式拆解：擺位（腳張開角度、手掌朝上、下巴微收）、該躺多久、什麼狀況要改側躺或墊高，把大休息當成一個有做法的體式而非「隨便躺」。"
+      },
+      "drills": [
+        {
+          "name": "十分鐘引導大休息",
+          "en": "Guided savasana",
+          "kind": "follow",
+          "target": "放鬆與副交感、專注",
+          "dose": "每次練習後 5–10 分鐘",
+          "title": "Savasana (Corpse Yoga Pose) | 10-Minute Guided Relaxation",
+          "channel": "YOGA UPLOAD with Maris Aylward",
+          "url": "https://www.youtube.com/watch?v=G1j3erpSErE",
+          "duration": "10:22"
+        },
+        {
+          "name": "身體掃描",
+          "en": "Savasana body scan",
+          "kind": "follow",
+          "target": "專注、放鬆與副交感",
+          "dose": "每週 2–3 次，取代無引導的大休息",
+          "title": "10 Minute Guided Meditation for Relaxation - Savasana Body Scan",
+          "channel": "Yoga With Bird",
+          "url": "https://www.youtube.com/watch?v=rKBEGpzK25s",
+          "duration": "9:33"
+        },
+        {
+          "name": "十分鐘瑜珈休息術（中文引導）",
+          "en": "Yoga nidra in Mandarin",
+          "kind": "follow",
+          "target": "放鬆與副交感、呼吸控制",
+          "dose": "睡前或午休 10 分鐘",
+          "title": "【10分鐘瑜珈休息術】舒緩壓力｜快速充電｜改善失眠｜深層放鬆｜Yoga Nidra for Deep Relaxation",
+          "channel": "Siuyong Yoga",
+          "url": "https://www.youtube.com/watch?v=C7RbylzfMAw",
+          "duration": "10:13"
+        },
+        {
+          "name": "躺不住時的瑜伽睡眠",
+          "en": "10 minute yoga nidra",
+          "kind": "deepen",
+          "target": "放鬆與副交感、專注",
+          "dose": "心浮氣躁、無法安靜躺著的日子用這支替代",
+          "title": "10 Minute Yoga Nidra | Full Nervous System Massage",
+          "channel": "Ally Boothroyd | Sarovara Yoga",
+          "url": "https://www.youtube.com/watch?v=ApQ9NovgnA4",
+          "duration": "13:14"
+        },
+        {
+          "name": "靠牆抬腿：支撐版收尾",
+          "en": "Legs up the wall",
+          "kind": "modify",
+          "target": "腿後側、放鬆與副交感、腰椎",
+          "dose": "3–8 分鐘，久站久走或腰下懸空不適時取代平躺",
+          "title": "Legs Up The Wall - Foundations of Yoga",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=_OQEIiZLY-0",
+          "duration": "6:47"
+        }
+      ]
+    }
+  ]
+}

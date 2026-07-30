@@ -1,0 +1,426 @@
+{
+  "$schema": "../src/build/course.schema.json",
+  "site": {
+    "project": "himalaya-yoga",
+    "name": "喜馬拉雅瑜伽全書",
+    "url": "https://himalaya-yoga.pages.dev",
+    "locale": "zh-Hant",
+    "ogLocale": "zh_TW",
+    "brandIcon": "flower",
+    "title": "喜馬拉雅瑜伽全書 — 呼吸法、體式、脈輪與冥想的完整自學課程",
+    "description": "從 Pranayama 十種呼吸法、25 個體式主題、拜日式串連到七大脈輪與瑜伽睡眠，89 個單元、630 支 YouTube 策展影片。每個單元都附可自測的判準與 PubMed 實證強度，包括那些傳統說法在文獻裡站不住腳的部分。",
+    "ogDescription": "呼吸、體式、脈輪、冥想、哲學，12 章 89 單元 630 支影片全部免費。每個單元告訴你怎麼自測、練什麼、以及這套說法在科學文獻裡到底有多少支持。",
+    "keywords": [
+      "瑜伽",
+      "Pranayama",
+      "呼吸法",
+      "體式",
+      "脈輪",
+      "冥想",
+      "瑜伽睡眠",
+      "拜日式",
+      "自學課程"
+    ],
+    "audience": "想從零建立完整瑜伽練習的自學者、久坐上班族、瑜伽教師培訓生",
+    "about": [
+      "瑜伽",
+      "呼吸法",
+      "冥想",
+      "身心練習",
+      "運動衛教"
+    ],
+    "learningResourceType": [
+      "影片課程",
+      "練習指引",
+      "自我評估"
+    ]
+  },
+  "hero": {
+    "eyebrow": "免費自學課程",
+    "heading": "把瑜伽拆成可以每天練的東西",
+    "lede": "十二個章節、{lessonUnits} 個單元、{videos} 支策展影片，從呼吸法一路到冥想與哲學。每個單元都告訴你三件事：<strong>怎麼判斷自己做對了</strong>、<strong>今天該練什麼</strong>，以及<strong>這套說法在科學文獻裡有多少支持</strong>。"
+  },
+  "ui": {
+    "searchPlaceholder": "搜尋單元、體式或身體部位…",
+    "tabs": {
+      "course": "課程內容",
+      "player": "上課模式",
+      "stance": "這門課的立場"
+    },
+    "progressLabel": "學習進度",
+    "facetLabel": "依身體部位與能力篩選",
+    "assessmentLabel": "怎麼判斷自己做對了",
+    "tightLabel": "常見代償與錯誤",
+    "weakLabel": "這個單元在練什麼",
+    "lessonLabel": "主課",
+    "drillEvidenceLabel": "這類練習的實證",
+    "unitEvidenceLabel": "實證強度",
+    "stats": [
+      {
+        "icon": "layers",
+        "field": "lesson_units",
+        "label": "個單元"
+      },
+      {
+        "icon": "clock",
+        "field": "duration",
+        "label": "課程時長"
+      },
+      {
+        "icon": "dumbbell",
+        "field": "drill_units",
+        "label": "支延伸影片"
+      },
+      {
+        "icon": "circle-dot",
+        "field": "problem_units",
+        "label": "個體式主題"
+      },
+      {
+        "icon": "microscope",
+        "field": "evidence_checked",
+        "label": "題實證查核"
+      }
+    ],
+    "unitTypes": {
+      "asana": "體式",
+      "breath": "呼吸法",
+      "sequence": "串連",
+      "energy": "能量技法",
+      "meditation": "冥想",
+      "philosophy": "哲學",
+      "population": "族群與安全",
+      "foundation": "基礎"
+    },
+    "problemType": "asana",
+    "evidenceRows": [
+      {
+        "field": "summary",
+        "label": "摘要"
+      },
+      {
+        "field": "mechanism",
+        "label": "作用機轉"
+      },
+      {
+        "field": "traditional_claim",
+        "label": "傳統說法"
+      },
+      {
+        "field": "what_evidence_shows",
+        "label": "文獻怎麼說"
+      },
+      {
+        "field": "red_flags",
+        "label": "停止練習並就醫的警訊",
+        "type": "flags"
+      },
+      {
+        "field": "caveats",
+        "label": "課程須誠實告知"
+      }
+    ],
+    "unitNoun": "個單元",
+    "lessonNoun": "堂主課",
+    "drillNoun": "支延伸影片",
+    "drillNounShort": "支延伸",
+    "kindFilterLabel": "影片類型篩選",
+    "missingTitle": "尚未找到合格影片",
+    "missingHint": "這個主題在 YouTube 上沒有品質足夠的公開影片",
+    "lessonLangLabel": "主課語言",
+    "watchLabel": "觀看示範",
+    "facetFilterHint": "篩選涉及 {name} 的內容",
+    "evidenceSource": "PubMed",
+    "evidenceSourceLink": "在 PubMed 讀原始文獻",
+    "facetClear": "清除部位篩選",
+    "facetPrefix": "部位",
+    "emptyTitle": "找不到符合的內容",
+    "emptyHint": "換個關鍵字或清除篩選再試一次。",
+    "playlistSearch": "搜尋播放清單…",
+    "prevLabel": "上一部影片",
+    "nextLabel": "下一部影片",
+    "doneLabel": "完成",
+    "openExternal": "在 YouTube 開啟",
+    "moreLabel": "選片理由與自我判準",
+    "discussLabel": "討論",
+    "discussNote": "留言會同步到 GitHub Discussions，需要 GitHub 帳號才能發言。每支影片各一串。"
+  },
+  "kinds": [
+    {
+      "id": "align",
+      "label": "正位拆解",
+      "tone": "accent"
+    },
+    {
+      "id": "follow",
+      "label": "跟練",
+      "tone": "success"
+    },
+    {
+      "id": "modify",
+      "label": "替代與輔具",
+      "tone": "neutral"
+    },
+    {
+      "id": "deepen",
+      "label": "進階變化",
+      "tone": "danger"
+    }
+  ],
+  "grades": [
+    {
+      "id": "strong",
+      "label": "證據充分",
+      "tone": "success"
+    },
+    {
+      "id": "moderate",
+      "label": "證據中等",
+      "tone": "accent"
+    },
+    {
+      "id": "limited",
+      "label": "證據有限",
+      "tone": "attention"
+    },
+    {
+      "id": "traditional",
+      "label": "傳統框架・無實證對應",
+      "tone": "done"
+    },
+    {
+      "id": "contested",
+      "label": "證據互斥",
+      "tone": "danger"
+    }
+  ],
+  "languages": {
+    "zh": "繁中",
+    "en": "English"
+  },
+  "taxonomy": {
+    "facets": "taxonomy.regions",
+    "categories": "taxonomy.practices"
+  },
+  "nav": [
+    {
+      "title": "地基篇",
+      "chapters": [
+        "CH1",
+        "CH2"
+      ]
+    },
+    {
+      "title": "體式篇",
+      "chapters": [
+        "CH3",
+        "CH4",
+        "CH5",
+        "CH6"
+      ]
+    },
+    {
+      "title": "能量與內在篇",
+      "chapters": [
+        "CH7",
+        "CH8",
+        "CH9"
+      ]
+    },
+    {
+      "title": "應用篇",
+      "chapters": [
+        "CH10",
+        "CH11",
+        "CH12"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "code": "CH1",
+      "title": "起點：安全、身體地圖與練習設定",
+      "icon": "compass",
+      "source": "ch1",
+      "units": 6,
+      "drills": 30
+    },
+    {
+      "code": "CH2",
+      "title": "呼吸法 Pranayama",
+      "icon": "wind",
+      "source": "ch2",
+      "units": 10,
+      "drills": 60
+    },
+    {
+      "code": "CH3",
+      "title": "體式一：站姿、平衡與紮根",
+      "icon": "footprints",
+      "source": "ch3",
+      "units": 8,
+      "drills": 56
+    },
+    {
+      "code": "CH4",
+      "title": "體式二：坐姿、前彎與扭轉",
+      "icon": "armchair",
+      "source": "ch4",
+      "units": 8,
+      "drills": 56
+    },
+    {
+      "code": "CH5",
+      "title": "串連：拜日式、拜月式與流動",
+      "icon": "sun",
+      "source": "ch5",
+      "units": 6,
+      "drills": 36
+    },
+    {
+      "code": "CH6",
+      "title": "體式三：後彎、開髖、倒立與手平衡",
+      "icon": "flame",
+      "source": "ch6",
+      "units": 9,
+      "drills": 63
+    },
+    {
+      "code": "CH7",
+      "title": "能量鎖、手印與淨化法",
+      "icon": "hand",
+      "source": "ch7",
+      "units": 6,
+      "drills": 30
+    },
+    {
+      "code": "CH8",
+      "title": "七大脈輪",
+      "icon": "circle-dot",
+      "source": "ch8",
+      "units": 8,
+      "drills": 48
+    },
+    {
+      "code": "CH9",
+      "title": "冥想、正念與瑜伽睡眠",
+      "icon": "moon",
+      "source": "ch9",
+      "units": 7,
+      "drills": 42
+    },
+    {
+      "code": "CH10",
+      "title": "情境練習：晨間、晚間、助眠與辦公室",
+      "icon": "clock",
+      "source": "ch10",
+      "units": 8,
+      "drills": 48
+    },
+    {
+      "code": "CH11",
+      "title": "瑜伽哲學與經典",
+      "icon": "scroll-text",
+      "source": "ch11",
+      "units": 6,
+      "drills": 30
+    },
+    {
+      "code": "CH12",
+      "title": "特殊族群、傷害預防與替代方案",
+      "icon": "shield-check",
+      "source": "ch12",
+      "units": 7,
+      "drills": 42
+    }
+  ],
+  "stance": {
+    "title": "這門課的立場",
+    "intro": "瑜伽是一套有幾千年歷史的身心技術，也是一個被大量行銷語言包裝過的市場。這門課的做法是：<strong>照傳統把技術教完整，但把每個療效宣稱分開查證</strong>。以下七個最根本的問題，答案有好有壞——包括對這門課自己不利的部分。每一條都附 PubMed 原始文獻，你可以自己去查。",
+    "verdicts": {
+      "concept-1": "脈輪沒有解剖學對應物，它是一套內在經驗的地圖，不是生理系統。",
+      "concept-2": "瑜伽對慢性下背痛與焦慮確實有效，但效果量中等，且不優於其他等量運動。",
+      "concept-3": "慢速呼吸法能量測到自律神經的變化，這一項的證據反而是全課最紮實的。",
+      "concept-4": "「排毒」「提升免疫力」「打通經絡」沒有可測量的證據支持。",
+      "concept-5": "倒立與極端後彎有真實但罕見的嚴重風險，發生率低不等於零。",
+      "concept-6": "冥想有不良反應，盛行率不低，而且幾乎沒有課程會告訴你這件事。",
+      "concept-7": "瑜伽不是對所有人都更溫和：骨鬆者做前彎有骨折風險，且大型試驗顯示它不能預防跌倒。"
+    },
+    "outroTitle": "所以這門課的定位是什麼？",
+    "outro": "瑜伽的效益來自<strong>規律的動作負荷、呼吸調節、注意力訓練與社群支持</strong>，而不是能量在體內流動的位置被打通了。這不代表傳統框架沒有價值——脈輪與 prana 是極為好用的<strong>注意力引導工具</strong>，讓你知道現在要把覺知放在哪裡，這件事本身就會改變練習品質。這門課的做法是：<strong>照傳統教，用現代語言解釋為什麼有用，並在證據不足的地方誠實說不知道。</strong>需要診斷或治療的狀況，請找醫師或物理治療師，不要用瑜伽處理。"
+  },
+  "landing": {
+    "howTitle": "怎麼用這門課",
+    "steps": [
+      {
+        "icon": "wind",
+        "title": "從呼吸開始，不是從體式",
+        "body": "多數瑜伽課把呼吸法排在最後，順序是反的。呼吸是所有後續練習的底層技能——先花兩週把 CH2 練熟，體式與冥想的品質會完全不同。"
+      },
+      {
+        "icon": "clipboard-check",
+        "title": "每個單元都能自測",
+        "body": "體式與呼吸法單元都附「怎麼判斷自己做對了」——不是描述問題，是你今天躺下來、靠牆站、計時三分鐘就能得到答案的判準。過不了就別急著往下。"
+      },
+      {
+        "icon": "microscope",
+        "title": "順便知道哪些是真的",
+        "body": "每個主題標了實證強度，練習類別附 PubMed 文獻。查證結果不好看的照樣寫進去——脈輪那一章尤其。"
+      }
+    ],
+    "stanceTitle": "開始之前，先知道這件事",
+    "stanceLede": "我們把七個最根本的問題丟去查文獻：脈輪是真的嗎？瑜伽真的比其他運動有效嗎？冥想有沒有副作用？長輩練瑜伽真的能防跌倒嗎？答案有好有壞，與其讓你練了三個月才發現，不如一開始就講清楚。",
+    "chaptersTitle": "十二個章節，從呼吸到哲學",
+    "ctaTitle": "準備好就開始",
+    "ctaLede": "{lessonUnits} 個單元、{videos} 支影片，全部免費。進度存在你自己的瀏覽器裡，沒有帳號、沒有後端。"
+  },
+  "footer": {
+    "disclaimer": "<strong>免責聲明。</strong>本課程為運動與身心練習指引，<strong>不構成醫療診斷或治療建議</strong>。若你有高血壓、心血管疾病、青光眼或視網膜疾患、癲癇、椎間盤突出、骨質疏鬆、近期手術史，或正在懷孕，開始前請先諮詢醫師，並詳讀 CH1 的禁忌對照表。練習中若出現胸痛、頭暈、視野變化、肢體麻木或劇痛，立即停止。課程中的「實證強度」註記附有 PubMed 原始文獻連結，反映查詢當下的文獻狀態，不等於臨床指引。",
+    "credits": "影片為 YouTube 上第三方創作者的作品，版權歸原頻道所有，本站僅提供連結與公開中繼資料，不重製也不代管。"
+  },
+  "llms": {
+    "summary": "這是一門免費的線上自學瑜伽課程，12 章 {lessonUnits} 個單元，涵蓋呼吸法（Pranayama）、{problems} 個體式主題、拜日式串連、七大脈輪、冥想與瑜伽睡眠、瑜伽哲學與特殊族群調整。所有影片皆為 YouTube 上第三方頻道的公開作品，本站僅提供策展與連結。",
+    "stanceIntro": "課程中 {evidence} 個主題經 PubMed 文獻查證，結果照實呈現，包含對課程本身不利的部分：",
+    "stanceConclusion": "簡言之：瑜伽的效益來自規律的動作負荷、呼吸調節與注意力訓練，證據強度以慢速呼吸法對自律神經、瑜伽對慢性下背痛與焦慮最為紮實；脈輪系統沒有解剖學對應物，屬於注意力引導框架而非生理系統；「排毒」與「提升免疫力」類宣稱缺乏可測量的證據支持。",
+    "disclaimer": "本課程為運動與身心練習指引，不構成醫療診斷或治療建議。高血壓、心血管疾病、青光眼、癲癇、椎間盤突出、骨質疏鬆、近期手術史或懷孕者，開始前應先諮詢醫師。"
+  },
+  "discussions": {
+    "provider": "giscus",
+    "repo": "htlin222/himalaya-yoga",
+    "repoId": "R_kgDOTof-0w",
+    "category": "General",
+    "categoryId": "DIC_kwDOTof-084DCVLr",
+    "mapping": "specific",
+    "termPrefix": "video",
+    "lang": "zh-TW",
+    "reactions": true,
+    "inputPosition": "top"
+  },
+  "audit": {
+    "duration": {
+      "lesson": {
+        "min": "4:00",
+        "max": "90:00"
+      },
+      "drill": {
+        "min": "0:45",
+        "max": "60:00"
+      }
+    },
+    "driftSeconds": 30,
+    "minViews": 3000,
+    "metaCoverage": 1,
+    "drillsPerUnit": {
+      "min": 5,
+      "max": 18
+    },
+    "maxSharedVideos": 60,
+    "requireAssessment": [
+      "asana",
+      "breath"
+    ],
+    "minAssessmentChars": 80,
+    "minCitations": 2,
+    "allowMissingUrls": 8
+  }
+}

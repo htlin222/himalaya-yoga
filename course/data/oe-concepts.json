@@ -1,0 +1,351 @@
+{
+  "conditions": [
+    {
+      "unit": "concept-1",
+      "name": "脈輪與能量系統：它是什麼，不是什麼",
+      "evidence_grade": "traditional",
+      "summary": "脈輪（chakra）與經脈（nadi）沒有解剖學上的對應構造。這不是「目前還沒找到」，而是這個框架本來就不是一組關於解剖結構的主張——它是一套描述內在經驗與注意力位置的地圖，源自中世紀的密續文獻，而且不同傳統版本的脈輪數量、位置與屬性彼此並不一致（七輪是被現代西方普及的其中一種版本，不是唯一版本）。少數嘗試把脈輪對應到神經叢的研究（例如把海底輪對應到下腹下神經叢）用的是「位置相似」的類比論證，並沒有測量到任何獨立於已知神經與血管之外的結構或能量。這門課照傳統把脈輪教完整，但把它定位成注意力引導工具，不是生理系統。",
+      "mechanism": "當你被告知「把覺知放在骨盆底」時，你確實會改變呼吸模式、姿勢肌張力與注意力分配——這些是可觀察的。改變的是注意力與動作控制，不是某種在體內流動的能量。脈輪系統的價值在於它提供了一套精確、可記憶、與身體區域對應的注意力指令集，這在教學上非常有效。",
+      "traditional_claim": "傳統瑜伽與密續文獻描述人體有中脈（sushumna）與左右二脈，沿脊椎分布七個能量中心，各自對應特定的身體功能、情緒主題、顏色、種子字與元素。脈輪阻塞會導致對應部位的生理疾病與心理失衡，透過體式、呼吸法與冥想可以「打通」或「平衡」脈輪。",
+      "what_evidence_shows": "沒有任何影像學、電生理或解剖學研究顯示脈輪是可獨立辨識的構造。生物場（biofield）類研究是這個領域最接近實證的一支，但該領域在 2024 年才剛開始制定臨床試驗的報告規範，也就是說先前的研究在設計與報告品質上參差不齊，無法用來支持結構性主張。把脈輪對應到神經叢的解剖研究屬於類比推論，發表在補充替代醫學期刊，並未證明脈輪的存在。**「打通脈輪能治療對應器官的疾病」這個宣稱沒有證據支持。**",
+      "red_flags": [
+        "任何以「調整脈輪」為名、要你延後或取代正規醫療處置的建議",
+        "宣稱能透過脈輪診斷出具體疾病的服務或課程",
+        "把身體症狀（不孕、腫瘤、憂鬱）歸因於特定脈輪阻塞的說法"
+      ],
+      "caveats": "這門課有一整章（CH8）在教脈輪，而我們同時說它沒有解剖學基礎——這看起來矛盾，但不是。傳統框架作為**注意力引導與練習組織原則**有實用價值，作為**生理學或病理學主張**則沒有證據。這門課用前者，不用後者。如果你需要的是「相信脈輪是真實能量中心」的課程，這門課不適合你。",
+      "citations": [
+        {
+          "pmid": "29861585",
+          "title": "Physio-anatomical resemblance of inferior hypogastric plexus with Muladhara Chakra: A cadaveric study",
+          "journal": "Ayu",
+          "year": 2017,
+          "design": "case-series",
+          "takeaway": "解剖研究嘗試把海底輪對應到下腹下神經叢，用的是位置與功能的「相似性」論證；作者本身也只主張 resemblance（相似）而非等同，並未測到任何額外構造。"
+        },
+        {
+          "pmid": "15871593",
+          "title": "Chakra talk: exploring human energy systems",
+          "journal": "Holist Nurs Pract",
+          "year": 2005,
+          "design": "narrative-review",
+          "takeaway": "整合護理領域對脈輪系統的敘述性介紹，內容以傳統文獻與臨床應用經驗為主，未提出可驗證的生理測量。"
+        },
+        {
+          "pmid": "38307816",
+          "title": "Biofield therapies: Guidelines for reporting clinical trials",
+          "journal": "Explore (NY)",
+          "year": 2024,
+          "design": "narrative-review",
+          "takeaway": "生物場療法領域到 2024 年才提出臨床試驗報告規範，作者明言先前研究在介入定義、盲化與結果報告上高度異質——這正說明這個領域尚未建立可累積的證據基礎。"
+        }
+      ]
+    },
+    {
+      "unit": "concept-2",
+      "name": "瑜伽對慢性下背痛與焦慮的實際效果",
+      "evidence_grade": "moderate",
+      "summary": "這是全課證據品質第二好的部分。2022 年 Cochrane 回顧針對慢性非特異性下背痛，結論是瑜伽相對於不運動的對照組，在三個月時對疼痛與功能有小幅但具統計意義的改善；然而**與其他運動相比則沒有明顯差異**。焦慮方面，2018 年的統合分析支持瑜伽有中等程度的改善效果，但納入研究普遍樣本小、盲化困難、主動對照組不足。結論是：瑜伽確實有效，但它的效果落在「一種有效的運動」這個區間，而不是一種獨特的療法。",
+      "mechanism": "目前最站得住腳的解釋是規律運動的一般機轉——肌力與負荷耐受度提升、疼痛神經生理的調節（運動誘發止痛）、活動恐懼降低，再加上呼吸調節與注意力訓練帶來的心理效益，以及團體課程的社會支持。**沒有證據顯示效果來自脊椎「排列被矯正」或能量被疏通。**",
+      "traditional_claim": "瑜伽能從根本上療癒身體，透過調整體位與能量流動去除病根，效果優於一般運動，因為它同時處理身、心、靈三個層面。",
+      "what_evidence_shows": "瑜伽對慢性下背痛的效果在頭對頭比較中**不優於其他等量運動**（Cochrane 2022；PLoS One 2020 的統合分析亦顯示相對於物理治療運動無明顯優勢）。焦慮與壓力生理指標的統合分析顯示效果存在但效果量中等，且研究品質限制明顯。「優於一般運動」這個宣稱目前沒有證據支持。",
+      "red_flags": [
+        "下背痛合併大腿或小腿的放射痛、腳趾無力、鞍部（會陰、肛門周圍）麻木",
+        "大小便功能改變、無法控制或無法解出",
+        "夜間痛醒、不明原因體重下降、發燒併背痛、癌症病史",
+        "焦慮或情緒症狀嚴重到影響工作、睡眠或有自傷念頭"
+      ],
+      "caveats": "這門課無法宣稱比你去健身房、去游泳或去快走更有效。它的優勢在於**不需要器材、可以在家做、有結構化的進階路徑，而且同時訓練呼吸與注意力**——如果這些條件讓你比較可能持續下去，那它對你就是更好的選擇。持續下去這件事，比選哪一種運動重要得多。",
+      "citations": [
+        {
+          "pmid": "36398843",
+          "title": "Yoga for chronic non-specific low back pain",
+          "journal": "Cochrane Database Syst Rev",
+          "year": 2022,
+          "design": "systematic-review",
+          "takeaway": "Cochrane 回顧：瑜伽相較於不運動對照組，在三個月時對背部相關功能有小幅改善，證據確定性為中等；與其他運動相比則未見明顯差異。"
+        },
+        {
+          "pmid": "32870936",
+          "title": "Yoga compared to non-exercise or physical therapy exercise on pain, disability, and quality of life for patients with chronic low back pain: A systematic review and meta-analysis of randomized controlled trials",
+          "journal": "PLoS One",
+          "year": 2020,
+          "design": "meta-analysis",
+          "takeaway": "瑜伽優於「不運動」，但與物理治療運動相比在疼痛與失能上無統計顯著差異——支持「有效但非獨特」的結論。"
+        },
+        {
+          "pmid": "29697885",
+          "title": "Yoga for anxiety: A systematic review and meta-analysis of randomized controlled trials",
+          "journal": "Depress Anxiety",
+          "year": 2018,
+          "design": "meta-analysis",
+          "takeaway": "瑜伽對焦慮症狀有中等程度的短期改善，但納入試驗的偏誤風險偏高，長期效果的證據不足。"
+        }
+      ]
+    },
+    {
+      "unit": "concept-3",
+      "name": "慢速呼吸法與自律神經：全課證據最紮實的一項",
+      "evidence_grade": "moderate",
+      "summary": "如果這門課只有一件事是被現代生理學明確支持的，那就是慢速呼吸。2022 年發表於 Neuroscience & Biobehavioral Reviews 的統合分析顯示，主動放慢呼吸速率會可靠地提高心率變異度（HRV）的多項指標——這是可以當場用儀器量到的即時生理變化，不需要相信任何能量理論。延長吐氣、每分鐘約 6 次的共振頻率呼吸、鼻孔交替呼吸，都落在這個機轉之內。這也是本課把呼吸法（CH2）放在體式之前的理由。",
+      "mechanism": "呼吸速率放慢並延長吐氣，會透過呼吸性竇性心律不整與壓力感受器反射增強迷走神經（副交感）輸出，並改善壓力反射敏感度。每分鐘約 6 次的呼吸頻率接近心血管系統的共振頻率，在此頻率下 HRV 振幅達到最大。這是機械性的生理現象，不涉及任何未知的能量傳導。",
+      "traditional_claim": "Pranayama 是控制生命能量（prana）的技術，透過調節氣息可以淨化經脈、提升生命力、進而控制心念，是通往更高意識狀態的門徑。",
+      "what_evidence_shows": "「調節呼吸會改變心念狀態」這個傳統核心主張，在現代研究裡意外地站得住腳——只是機轉被重新描述為自律神經調節而非 prana 流動。慢速呼吸對 HRV、主觀放鬆與焦慮的即時效果證據一致。**但「淨化經脈」「提升生命力」這類表述沒有可測量的對應物**，而且長期臨床效果（例如對高血壓的持續改善）的證據強度遠低於即時生理變化。",
+      "red_flags": [
+        "練習中出現頭暈、指尖或嘴唇發麻、視野變暗——這是換氣過度，立刻停止回到自然呼吸",
+        "胸痛、心悸持續不緩解、呼吸困難加劇",
+        "有氣喘、慢性阻塞性肺病、恐慌症病史者，在無指導下進行強力呼吸法（Kapalbhati、Bhastrika）前應先諮詢醫師"
+      ],
+      "caveats": "證據支持的是**慢速、延長吐氣**這一類低強度呼吸法。本課 CH2 也教強力換氣類技法（Kapalbhati、Bhastrika），那一類的生理效果方向相反（交感活化），臨床證據薄弱、禁忌明確，我們把它們排在章節後段並附獨立的安全說明。不要把慢速呼吸的證據套用到它們身上。\n\n還有一件更根本的事要講：**傳統把呼吸法分成十幾種各有專屬功效的技術，但現有證據很難支持這種區分。** 直接測量顯示，被稱為「清涼呼吸法」的 Sheetali 與 Sheetkari 在練習期間體表溫度其實是上升的、耗氧量增加約 8–9%；一項四組設計的隨機試驗發現瑜伽課有沒有加入 Ujjayi 呼吸指導，對焦慮下降完全沒有差別；「哼聲提高鼻腔一氧化氮 15 倍」是真的，但後續實驗顯示這些一氧化氮並未改善認知或情緒處理。控制呼吸速率之後，多數技法與一般深慢呼吸的差異就消失了。合理的推論是：**這些技法共享的有效成分是「把呼吸放慢」，而不是各自獨特的機轉。** 這門課仍然把十種技法教完整，因為不同的操作方式在體感、專注錨點與可及性上確實不同——但我們不會宣稱它們各自有獨立的生理療效。",
+      "citations": [
+        {
+          "pmid": "35623448",
+          "title": "Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis",
+          "journal": "Neurosci Biobehav Rev",
+          "year": 2022,
+          "design": "meta-analysis",
+          "takeaway": "主動慢速呼吸可靠地降低心率並提升 HRV 多項指標，效果在健康成人與臨床族群皆可觀察到——這是本課唯一有明確即時生理測量支持的技術類別。"
+        },
+        {
+          "pmid": "30245619",
+          "title": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
+          "journal": "Front Hum Neurosci",
+          "year": 2018,
+          "design": "systematic-review",
+          "takeaway": "系統性回顧整合慢速呼吸的心理生理相關研究，一致方向是副交感活性增加與主觀放鬆、警覺度提升，但作者指出研究間的呼吸參數定義極不一致。"
+        },
+        {
+          "pmid": "28963884",
+          "title": "Yoga, mindfulness-based stress reduction and stress-related physiological measures: A meta-analysis",
+          "journal": "Psychoneuroendocrinology",
+          "year": 2017,
+          "design": "meta-analysis",
+          "takeaway": "瑜伽與正念減壓對壓力相關生理指標（皮質醇、血壓、心率）有小到中等的改善，但異質性高，且對照組設計是主要限制。"
+        },
+        {
+          "pmid": "31907342",
+          "title": "Body Temperature and Energy Expenditure During and After Yoga Breathing Practices Traditionally Described as Cooling",
+          "journal": "Med Sci Monit Basic Res",
+          "year": 2020,
+          "design": "physiological-study",
+          "takeaway": "直接測量顯示被稱為「清涼呼吸法」的 Sheetali 與 Sheetkari 期間體表溫度上升、耗氧量增加約 8–9%，作者明言結果不支持把這些技法描述為 cooling。"
+        },
+        {
+          "pmid": "35915040",
+          "title": "Session of yoga, with and without slow (Ujjayi) breathing, reduces anxiety; no change on acute pain sensitivity and endogenous pain modulation",
+          "journal": "Explore (NY)",
+          "year": 2023,
+          "design": "rct",
+          "takeaway": "四組設計顯示瑜伽課降低焦慮，但「有無 Ujjayi 呼吸指導」既無主效果也無交互作用——特定技法的額外貢獻未被測到。"
+        },
+        {
+          "pmid": "38573928",
+          "title": "Induction of nitric oxide via humming does not improve short-term cognitive performance or influence emotional processing",
+          "journal": "PLoS One",
+          "year": 2024,
+          "design": "rct",
+          "takeaway": "哼聲確實大幅提升鼻腔一氧化氮，但四項實驗顯示這並未改善認知表現或情緒處理，部分作業表現反而下降。"
+        }
+      ]
+    },
+    {
+      "unit": "concept-4",
+      "name": "「排毒」「提升免疫力」「打通經絡」這類宣稱",
+      "evidence_grade": "contested",
+      "summary": "這是瑜伽市場上最常見、也最缺乏支持的一組宣稱。問題的根源在於「排毒」在商業使用上從來沒有一致的生理學定義——沒有指明是哪一種毒素、透過哪一條路徑、以什麼速率被排除，因此它本質上是一個無法被檢驗的說法。免疫方面，瑜伽的免疫與發炎指標研究確實存在，但樣本小、指標選擇不一致、且指標變化與臨床結果（實際生病次數）之間缺乏連結。扭轉體式「擠壓內臟排出毒素」則沒有任何生理學基礎——肝臟與腎臟不會因為軀幹旋轉而提高清除率。",
+      "mechanism": "人體的解毒由肝臟的第一、二相代謝與腎臟的過濾排泄負責，這些器官的功能不受體位或呼吸模式的顯著影響。運動確實會影響免疫細胞的分布與發炎標記，但那是所有運動的共同效果，且方向與劑量相依（過度訓練反而抑制免疫）。",
+      "traditional_claim": "特定體式（尤其是扭轉與倒立）能擠壓與按摩內臟、促進淋巴回流，把積存的毒素排出；淨化法（kriya）與呼吸法能清除體內的 ama（未消化的殘餘物），持續練習能顯著提升免疫力、減少生病。",
+      "what_evidence_shows": "針對排毒宣稱的批判性回顧指出，商業化的「排毒」概念缺乏一致定義與支持證據，且沒有嚴謹的對照試驗支持其宣稱的清除效果（該回顧針對的是排毒飲食，瑜伽領域則連同等級的回顧都沒有）。瑜伽對自體免疫疾病的系統性回顧顯示研究數量有限、異質性高，尚不足以支持臨床建議。**「練瑜伽會比較不容易感冒」目前沒有可靠證據。**",
+      "red_flags": [
+        "以「排毒反應」解釋練習後持續的疼痛、發燒、腹瀉或皮疹——這些是需要就醫的症狀，不是好轉現象",
+        "任何建議以瑜伽或淨化法取代處方藥物（尤其是免疫抑制劑、抗癲癇藥、降血壓藥）的說法",
+        "宣稱能透過瑜伽治癒自體免疫疾病或癌症的課程"
+      ],
+      "caveats": "把這一條寫進課程網站對銷售沒有好處，但不寫就是不誠實。這門課保留淨化法（CH7）與扭轉體式（CH4）的完整教學，因為它們在活動度、呼吸與注意力訓練上有明確價值——但我們不會宣稱它們在排毒。洗鼻（Jala Neti）是這一組裡唯一有紮實證據的技法，但它的證據是關於鼻竇症狀的改善，不是全身排毒。",
+      "citations": [
+        {
+          "pmid": "25522674",
+          "title": "Detox diets for toxin elimination and weight management: a critical review of the evidence",
+          "journal": "J Hum Nutr Diet",
+          "year": 2015,
+          "design": "narrative-review",
+          "takeaway": "批判性回顧指出商業「排毒」宣稱缺乏一致的生理學定義與嚴謹試驗支持；本課引用它是為了說明「排毒」這個概念本身的問題，該回顧針對的是飲食而非瑜伽。"
+        },
+        {
+          "pmid": "40631512",
+          "title": "Yoga in autoimmune disorders: a systematic review of randomized controlled trials",
+          "journal": "Ann Behav Med",
+          "year": 2025,
+          "design": "systematic-review",
+          "takeaway": "瑜伽用於自體免疫疾病的隨機試驗數量有限、族群與介入異質性高，作者認為現有證據尚不足以支持臨床建議。"
+        },
+        {
+          "pmid": "28963884",
+          "title": "Yoga, mindfulness-based stress reduction and stress-related physiological measures: A meta-analysis",
+          "journal": "Psychoneuroendocrinology",
+          "year": 2017,
+          "design": "meta-analysis",
+          "takeaway": "生理指標（含發炎相關標記）的改善為小到中等且異質性高；指標變化並未連結到臨床結果，不足以支持「提升免疫力」的日常語意。"
+        }
+      ]
+    },
+    {
+      "unit": "concept-5",
+      "name": "倒立與極端體式的風險：罕見，但不是零",
+      "evidence_grade": "limited",
+      "summary": "瑜伽整體是安全性相當高的運動，但「安全」不等於「無風險」。以急診就診資料估計，瑜伽相關傷害的絕對發生率低，最常見的是軀幹與下肢的肌肉骨骼傷害，且 45 歲以上族群的傷害率上升較明顯。真正需要注意的是罕見但嚴重的事件：頭倒立（Sirsasana）會顯著升高眼壓，已有青光眼因持續練習而惡化的病例報告；肩立與犁式讓大部分體重壓在下頸椎；極端後彎與強力扭轉則有零星的椎動脈剝離報告。這些事件的共同特徵是**罕見、但後果嚴重且不可逆**。",
+      "mechanism": "頭倒立時頭部低於心臟造成上鞏膜靜脈壓上升，房水排出阻力增加，眼壓可升高至接近兩倍基準值，且在維持姿勢期間持續。肩立與犁式使頸椎在極度屈曲下承受軸向負荷。極端旋轉或伸展則可能對椎動脈造成剪應力。",
+      "traditional_claim": "倒立是「體式之王」，能逆轉重力對身體的影響、促進腦部血流、活化腺體、延緩老化；只要練習得當，人人都可以且應該練習倒立。",
+      "what_evidence_shows": "倒立確實改變顱內與眼部的血流動力學——這正是風險來源，不是好處來源。眼科研究直接測得 Sirsasana 期間眼壓大幅上升，並有青光眼進展與視網膜靜脈阻塞的病例報告。傷害流行病學顯示整體風險低，但案例回顧指出嚴重不良事件確實存在且集中於倒立與極端體式。**「人人都應該練倒立」這個說法沒有支持，且對特定族群（青光眼、頸椎病變、未控制高血壓）是明確有害的建議。**",
+      "red_flags": [
+        "青光眼、高度近視伴視網膜病變、視網膜剝離病史——不做頭倒立與所有頭低於心臟且需長時間維持的體式",
+        "頸椎椎間盤突出、頸椎狹窄、頸部外傷或手術史——不做肩立式與犁式，這不是減量而是完全跳過",
+        "未控制的高血壓、動脈瘤病史、凝血功能異常",
+        "練習中或練習後出現視野缺損、劇烈頭痛、頸部劇痛、單側肢體無力或言語含糊——立即就醫，這可能是血管事件"
+      ],
+      "caveats": "這門課仍然教倒立（CH6-u7、u8），因為對沒有禁忌症的人來說它是有價值的力量與本體感覺訓練。但我們把它排在第六章、放在明確的前導動作與通過判準之後，並在每個單元附上禁忌清單與「不做這個體式的替代方案」。如果你屬於上述任一族群，跳過整個單元不會讓你的練習變得不完整。",
+      "citations": [
+        {
+          "pmid": "16806478",
+          "title": "Intraocular pressure changes and ocular biometry during Sirsasana (headstand posture) in yoga practitioners",
+          "journal": "Ophthalmology",
+          "year": 2006,
+          "design": "physiological-study",
+          "takeaway": "直接測量顯示頭倒立期間眼壓大幅上升（約為基準值的兩倍），且在維持姿勢期間持續——這是青光眼族群禁忌的實證基礎。"
+        },
+        {
+          "pmid": "17276961",
+          "title": "Progression of glaucoma associated with the Sirsasana (headstand) yoga posture",
+          "journal": "Adv Ther",
+          "year": 2006,
+          "design": "case-report",
+          "takeaway": "病例報告記錄青光眼患者在持續練習頭倒立期間視野惡化，停止後穩定——單一病例不能證明因果，但方向與眼壓的生理測量一致。"
+        },
+        {
+          "pmid": "27896293",
+          "title": "Yoga-Related Injuries in the United States From 2001 to 2014",
+          "journal": "Orthop J Sports Med",
+          "year": 2016,
+          "design": "cross-sectional",
+          "takeaway": "以全美急診抽樣資料估計瑜伽相關傷害，絕對發生率低，軀幹為最常受傷部位，65 歲以上族群的傷害率明顯高於年輕族群。"
+        },
+        {
+          "pmid": "24146758",
+          "title": "Adverse events associated with yoga: a systematic review of published case reports and case series",
+          "journal": "PLoS One",
+          "year": 2013,
+          "design": "systematic-review",
+          "takeaway": "系統性整理已發表的瑜伽不良事件病例，嚴重事件（含血管與神經系統）雖罕見但確實存在，且與倒立及極端體式的關聯最常被提及。"
+        }
+      ]
+    },
+    {
+      "unit": "concept-6",
+      "name": "冥想不是沒有副作用",
+      "evidence_grade": "moderate",
+      "summary": "幾乎沒有瑜伽或冥想課程會提這件事：冥想有不良反應，而且比多數人想的常見。2020 年涵蓋 83 篇研究、6,703 名練習者的系統性回顧估計不良事件盛行率約 8.3%，觀察性研究中的比例更高；2022 年一份美國人口樣本則有 32.3% 的受訪者回報過冥想相關的不良經驗，10.4% 持續一個月以上。最常見的是焦慮、情緒低落與認知或知覺的異常感，**而且可以發生在沒有精神科病史的人身上**。這門課教冥想（CH9）也教脈輪觀想（CH8），所以有義務把這件事寫在前面。",
+      "mechanism": "可能的路徑包括：長時間內觀讓原本被日常活動掩蓋的情緒或創傷記憶浮現；去自我化與去現實感在密集練習中被放大；以及部分練習者把「不應該有雜念」的期待轉成自我批判。童年逆境經驗被指出是風險因子，這也是創傷知情（trauma-informed）引導在近年被強調的原因。",
+      "traditional_claim": "冥想是安全無害的，任何人都可以練、練越久越好；練習中出現的不適是「業力浮現」或淨化過程的一部分，應該繼續坐下去、穿越它。",
+      "what_evidence_shows": "不良反應的盛行率有明確的量化資料，不是罕見現象。但**因果關係尚未確立**——2026 年兩項隨機對照試驗（n=315、n=594）發現負面經驗的發生率在有做與沒做引導冥想的組別之間沒有顯著差異，意思是這些經驗有一部分可能反映的是既有的心理困擾，而不是冥想造成的。誠實的說法是：盛行率是真的，歸因還不確定。至於療效，Goyal 2014 那篇篩過一萬八千多篇後納入 47 篇有主動對照組的 RCT，效果量只有小到中等，且**沒有證據顯示冥想優於其他主動治療**。",
+      "red_flags": [
+        "練習中或練習後出現持續的解離感、去現實感，或「不像自己」的感覺超過數小時",
+        "情緒低落、焦慮或失眠在開始練習後明顯惡化並持續一週以上",
+        "浮現創傷記憶並伴隨無法自行平復的強烈反應",
+        "有創傷病史、解離症狀或精神病性疾患病史者，應在專業陪同下練習，不要獨自進行長時間密集閉關"
+      ],
+      "caveats": "這門課的冥想單元是自學影片，沒有老師在旁邊看著你。如果你有創傷史，請從 CH9 的短時間、開眼、身體導向的練習開始（身體掃描與 Yoga Nidra 通常比純觀息更容易調節），而且**不舒服就睜開眼睛停下來是正確做法，不是修行不夠**。「穿越它」在沒有專業支持的情況下不是好建議。",
+      "citations": [
+        {
+          "pmid": "32820538",
+          "title": "Adverse events in meditation practices and meditation-based therapies: a systematic review",
+          "journal": "Acta Psychiatr Scand",
+          "year": 2020,
+          "design": "systematic-review",
+          "takeaway": "涵蓋 83 篇研究、6,703 名練習者，不良事件盛行率約 8.3%，最常見為焦慮、憂鬱與認知異常，且可發生於無精神病史者。"
+        },
+        {
+          "pmid": "34074221",
+          "title": "Prevalence of meditation-related adverse effects in a population-based sample in the United States",
+          "journal": "Psychother Res",
+          "year": 2022,
+          "design": "cross-sectional",
+          "takeaway": "美國人口樣本中 32.3% 回報冥想相關不良反應，10.4% 持續一個月以上，童年逆境經驗為風險因子。"
+        },
+        {
+          "pmid": "42284591",
+          "title": "Prevalence and Predictors of Self-Reported Adverse Experiences in Digital Meditation Training: 2 Randomized Controlled Trials",
+          "journal": "JMIR Ment Health",
+          "year": 2026,
+          "design": "rct",
+          "takeaway": "兩項 RCT 顯示負面經驗的發生率在冥想組與對照組間無顯著差異——盛行率數字為真，但「冥想造成」的因果推論尚未成立。"
+        },
+        {
+          "pmid": "24395196",
+          "title": "Meditation programs for psychological stress and well-being: a systematic review and meta-analysis",
+          "journal": "JAMA Intern Med",
+          "year": 2014,
+          "design": "meta-analysis",
+          "takeaway": "納入 47 篇有主動對照組的 RCT，正念冥想對焦慮、憂鬱、疼痛僅有小到中等效果量，且無證據顯示優於其他主動治療。"
+        }
+      ]
+    },
+    {
+      "unit": "concept-7",
+      "name": "「瑜伽對長輩和骨鬆患者最溫和」——這句話是錯的",
+      "evidence_grade": "contested",
+      "summary": "這是我們在查證過程中最意外、也最該講出來的一條。瑜伽常被推薦給長輩用來預防跌倒、推薦給骨質疏鬆患者當作溫和運動，但目前品質最高的證據不支持前者，而且明確反對後者的常見做法。2025 年發表於 Lancet Healthy Longevity 的 SAGE 試驗（700 名 60 歲以上受試者、12 個月、80 堂 Iyengar 課）發現**瑜伽組的跌倒率反而較高**，作者直接寫明該課程不應被推薦用於跌倒預防。骨質疏鬆方面，脊椎屈曲（前彎）類運動已被證實會顯著提高椎體壓迫性骨折的風險。",
+      "mechanism": "平衡能力的測驗分數確實會因練習而進步，但「站得比較穩」不等於「在真實生活情境中跌倒次數減少」——後者還牽涉步態、視力、用藥、環境與行為改變（練得比較好的人可能因此更敢從事高風險活動）。骨鬆方面則是單純的力學：脊椎前屈時椎體前緣承受壓應力，骨密度不足的椎體在反覆前彎下容易發生楔형壓迫骨折。",
+      "traditional_claim": "瑜伽是低衝擊、溫和、適合所有年齡的運動；長輩練瑜伽可以增強平衡、預防跌倒；骨質疏鬆患者更應該練瑜伽來增加骨密度、改善駝背。",
+      "what_evidence_shows": "**跌倒預防**：SAGE 試驗顯示瑜伽組跌倒發生率 0.87 次/人年 vs 對照組 0.64，發生率比 1.33（95% CI 1.01–1.75）。與已有運動習慣的對照組相比，瑜伽在平衡上的額外效益也未達顯著。**骨密度**：針對瑜伽與皮拉提斯的統合分析顯示對骨密度的效果量僅 0.07，不顯著。**骨折風險**：1984 年的經典比較研究中，屈曲運動組的新增椎體骨折率為 89%，伸展運動組為 16%；2018 年一篇病例系列蒐集到 9 名在開始瑜伽前彎練習後發生椎體壓迫性骨折的個案，其中只有 4 人事前知道自己有骨鬆。",
+      "red_flags": [
+        "已知骨質疏鬆或骨量減少、或有停經後未評估過骨密度——避開所有脊椎屈曲（坐姿與站姿前彎）與強力扭轉，改以伸展類體式為主",
+        "60 歲以上且過去一年跌倒過一次以上——請先接受跌倒風險評估，不要把瑜伽當作跌倒預防方案",
+        "練習後出現持續性背痛、身高變矮、駝背加劇——可能是椎體壓迫性骨折，需影像檢查"
+      ],
+      "caveats": "這門課的 CH4 有整整一章的坐姿前彎，CH12 有銀髮族與椅子瑜伽單元。我們沒有把它們拿掉，因為對骨密度正常的人來說前彎是安全且有價值的，而椅子瑜伽在可近性與生活品質上仍有其位置（即使大型試驗顯示它對硬指標沒有優勢）。但我們必須說清楚：**如果你有骨質疏鬆，這門課的前彎單元不適合你原樣照做**；如果你的目標是預防跌倒，目前證據更支持專門的漸進式阻力與步態訓練，而不是瑜伽。",
+      "citations": [
+        {
+          "pmid": "41005344",
+          "title": "The effect of an Iyengar yoga-based exercise programme versus a seated yoga relaxation programme on falls in people aged 60 years and older (SAGE): a pragmatic, two-arm, parallel randomised controlled trial",
+          "journal": "Lancet Healthy Longev",
+          "year": 2025,
+          "design": "rct",
+          "takeaway": "700 人、12 個月的實用性隨機試驗：瑜伽組跌倒發生率反而較高（IRR 1.33, 95% CI 1.01–1.75），作者明確表示該方案不應被推薦用於跌倒預防。"
+        },
+        {
+          "pmid": "6487063",
+          "title": "Postmenopausal spinal osteoporosis: flexion versus extension exercises",
+          "journal": "Arch Phys Med Rehabil",
+          "year": 1984,
+          "design": "case-series",
+          "takeaway": "停經後骨質疏鬆患者中，屈曲運動組新增椎體骨折率 89%，伸展運動組僅 16%——這是骨鬆者避開前彎的原始依據。"
+        },
+        {
+          "pmid": "29687967",
+          "title": "Vertebral compression fractures associated with yoga: a case series",
+          "journal": "Eur J Phys Rehabil Med",
+          "year": 2018,
+          "design": "case-series",
+          "takeaway": "9 名個案在開始瑜伽前彎練習後發生椎體壓迫性骨折，其中僅 4 人事前已知有骨質疏鬆——說明風險族群常常不知道自己是風險族群。"
+        },
+        {
+          "pmid": "33961670",
+          "title": "Effectiveness of Pilates and Yoga to improve bone density in adult women: A systematic review and meta-analysis",
+          "journal": "PLoS One",
+          "year": 2021,
+          "design": "meta-analysis",
+          "takeaway": "瑜伽與皮拉提斯對成年女性骨密度的效果量僅 SMD 0.07（95% CI −0.05 至 0.19），未達統計顯著。"
+        },
+        {
+          "pmid": "30792066",
+          "title": "Soft Tissue and Bony Injuries Attributed to the Practice of Yoga: A Biomechanical Analysis and Implications for Management",
+          "journal": "Mayo Clin Proc",
+          "year": 2019,
+          "design": "case-series",
+          "takeaway": "Mayo Clinic 89 例瑜伽相關傷害的生物力學分析，肇事動作集中在脊椎極度屈曲與伸展，其中壓迫性骨折佔 14.6%。"
+        }
+      ]
+    }
+  ]
+}
+

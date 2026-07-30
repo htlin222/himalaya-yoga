@@ -1,0 +1,484 @@
+{
+  "categories": [
+    {
+      "id": "slow-breathing",
+      "name": "慢速與延長吐氣呼吸法",
+      "evidence_grade": "moderate",
+      "summary": "這是本組證據最紮實的一類。223 篇研究的統合分析顯示，自主性慢速呼吸在練習當下、單次練習後與多次介入後，迷走神經相關的 HRV 指標都一致上升。降壓效果實際存在但幅度不大：17 篇 RCT 統合後收縮壓約降 5.6 mmHg、舒張壓約降 3.0 mmHg，異質性很高；另一篇 15 篇 RCT 的統合分析為 −7.1／−3.4 mmHg。心理效果是小到中等：呼吸法對壓力 g = −0.35、焦慮 g = −0.32、憂鬱 g = −0.40，且多數原始研究偏誤風險中等，作者自己呼籲不要讓熱潮跑在證據前面。這不是取代降壓藥的技術，是一個低成本、低風險的輔助手段。",
+      "citations": [
+        {
+          "pmid": "35623448",
+          "title": "Effects of voluntary slow breathing on heart rate and heart rate variability: A systematic review and a meta-analysis",
+          "journal": "Neurosci Biobehav Rev",
+          "year": 2022,
+          "design": "meta-analysis",
+          "takeaway": "從 1842 篇篩出 223 篇納入；慢速呼吸在練習中、單次練習後與多次介入後皆使迷走相關 HRV 上升，且預期不良反應極少。"
+        },
+        {
+          "pmid": "31331557",
+          "title": "Device and non-device-guided slow breathing to reduce blood pressure: A systematic review and meta-analysis",
+          "journal": "Complement Ther Med",
+          "year": 2019,
+          "design": "meta-analysis",
+          "takeaway": "17 篇 RCT：每分鐘 ≤10 次的慢速呼吸使收縮壓降 5.62 mmHg（95% CI −7.86 至 −3.38）、舒張壓降 2.97 mmHg，但所有分析異質性都高。"
+        },
+        {
+          "pmid": "36624160",
+          "title": "Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials",
+          "journal": "Sci Rep",
+          "year": 2023,
+          "design": "meta-analysis",
+          "takeaway": "12 篇 RCT、785 人：主觀壓力 g = −0.35（95% CI −0.55 至 −0.14）；焦慮 g = −0.32、憂鬱 g = −0.40。多數研究偏誤風險中等，作者明言警告「話術與證據之間的落差」。"
+        },
+        {
+          "pmid": "30245619",
+          "title": "How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing",
+          "journal": "Front Hum Neurosci",
+          "year": 2018,
+          "design": "systematic-review",
+          "takeaway": "系統性整理慢速呼吸的心理生理相關性，指出效果方向一致（放鬆、警覺度提升、舒適感），但機轉解釋仍多屬推論而非證實。"
+        }
+      ]
+    },
+    {
+      "id": "nadi-shodhana",
+      "name": "鼻孔交替呼吸",
+      "evidence_grade": "limited",
+      "summary": "系統性回顧結論是鼻孔交替呼吸能降低壓力（心理與生理指標皆有），但納入研究族群極為單一（多為印度成年男性），無法外推。降壓幅度與一般慢速呼吸相當，且統合分析的搜尋詞本來就把「alternate nostril breathing」與「deep breathing」「slow breathing」混在一起，因此目前沒有證據顯示「交替鼻孔」本身比單純放慢呼吸多出什麼。傳統上「左脈／右脈對應副交感／交感」的偏側化說法，在 1990 年代就已被指出缺乏支持，之後也沒有高品質研究翻案。",
+      "citations": [
+        {
+          "pmid": "33461386",
+          "title": "Alternate Nostril Breathing to Reduce Stress: An Option for Pregnant Women Survivors of Intimate Partner Violence?",
+          "journal": "J Holist Nurs",
+          "year": 2021,
+          "design": "systematic-review",
+          "takeaway": "納入 2013–2019 年的 RCT：鼻孔交替呼吸對心理與生物壓力指標有效，但受試者以印度裔、男性為主，族群多樣性嚴重不足。"
+        },
+        {
+          "pmid": "38179185",
+          "title": "Effect of breathing exercises on blood pressure and heart rate: A systematic review and meta-analysis",
+          "journal": "Int J Cardiol Cardiovasc Risk Prev",
+          "year": 2024,
+          "design": "meta-analysis",
+          "takeaway": "15 篇 RCT（搜尋詞含 alternate nostril breathing）：收縮壓 −7.06 mmHg、舒張壓 −3.43 mmHg、心率 −2.41 bpm；作者註明納入研究並非沒有偏誤。"
+        },
+        {
+          "pmid": "34213471",
+          "title": "Effects of alternate nostril breathing exercise on cardiorespiratory functions in healthy young adults",
+          "journal": "Ann Afr Med",
+          "year": 2021,
+          "design": "rct",
+          "takeaway": "健康年輕人的 RCT，顯示心肺功能指標改善，但樣本小、單一中心，屬於此領域的典型研究規模。"
+        },
+        {
+          "pmid": "8289706",
+          "title": "Forced unilateral nostril breathing (FUNB) effects on the autonomic nervous system: an unsupported claim",
+          "journal": "Med Hypotheses",
+          "year": 1993,
+          "design": "narrative-review",
+          "takeaway": "直接檢視「單側鼻孔呼吸可選擇性活化左右自律神經／大腦半球」的說法，結論是既有資料不足以支持；這個反對意見至今未被高品質研究推翻。"
+        }
+      ]
+    },
+    {
+      "id": "ujjayi",
+      "name": "海洋式呼吸",
+      "evidence_grade": "limited",
+      "summary": "海洋式呼吸幾乎沒有專屬的臨床研究，多數文獻是把它當成「慢速瑜伽呼吸」的一種變體來測。唯一一篇針對性的隨機試驗（54 名女性、四組設計）發現：做瑜伽會降低狀態焦慮，但「加上 Ujjayi 慢速呼吸」與「不加」之間沒有交互作用，對熱痛敏感度與內源性疼痛調節也都沒有影響。另一篇隨機試驗顯示瑜伽呼吸技術（含 Ujjayi）對等速與慣性肌力輸出沒有任何提升。目前可以誠實說的是：喉部收窄產生的阻力有助於把呼吸放慢、把注意力錨定在聲音上，但沒有證據顯示它比一般慢速呼吸多出額外效果。",
+      "citations": [
+        {
+          "pmid": "35915040",
+          "title": "Session of yoga, with and without slow (Ujjayi) breathing, reduces anxiety; no change on acute pain sensitivity and endogenous pain modulation",
+          "journal": "Explore (NY)",
+          "year": 2023,
+          "design": "rct",
+          "takeaway": "54 名女性隨機分四組：瑜伽組狀態焦慮顯著下降，但「有無 Ujjayi 呼吸指導」沒有主效果也沒有交互作用，對痛覺敏感度與疼痛調節皆無影響。"
+        },
+        {
+          "pmid": "23710236",
+          "title": "Cardiovascular and respiratory effect of yogic slow breathing in the yoga beginner: what is the best approach?",
+          "journal": "Evid Based Complement Alternat Med",
+          "year": 2013,
+          "design": "physiological-study",
+          "takeaway": "比較初學者做不同型式的瑜伽慢速呼吸（含 Ujjayi 式喉部阻力），指出效果主要來自呼吸速率放慢，技術細節差異對心血管指標的影響有限。"
+        },
+        {
+          "pmid": "34949525",
+          "title": "Immediate effects of 'Ujjayi Pranayama' on aerodynamic, acoustic and self perception parameters of voice in teachers",
+          "journal": "J Ayurveda Integr Med",
+          "year": 2022,
+          "design": "physiological-study",
+          "takeaway": "教師族群的即時測量顯示 Ujjayi 後嗓音的空氣動力學與聲學參數有變化；這是少數把 Ujjayi 當主角測的研究，但無對照組、無長期追蹤。"
+        },
+        {
+          "pmid": "30142133",
+          "title": "Yoga Breathing Techniques Have No Impact on Isokinetic and Isoinertial Power",
+          "journal": "J Strength Cond Res",
+          "year": 2020,
+          "design": "rct",
+          "takeaway": "隨機試驗的陰性結果：瑜伽呼吸技術對等速與慣性功率輸出沒有影響，可用來反駁「Ujjayi 提升力量表現」的坊間說法。"
+        }
+      ]
+    },
+    {
+      "id": "bhramari",
+      "name": "蜂鳴式呼吸",
+      "evidence_grade": "limited",
+      "summary": "蜂鳴聲最紮實的實測發現在鼻腔生理：哼聲產生的振盪氣流讓鼻腔一氧化氮濃度比安靜吐氣高出約 15 倍，機轉是振動促進鼻竇與鼻腔之間的氣體交換。但這個生理現象並沒有自動轉成臨床好處——2024 年 PLoS One 的四項實驗明確顯示，哼聲誘發的 NO 並未改善短期認知表現或情緒處理，部分作業表現反而變差。臨床端只有小型研究：一篇氣喘兒童的開放標籤 RCT 報告氣喘控制與生活品質改善（開放標籤、無安慰劑），以及一篇系統性回顧彙整多為小樣本的心血管與睡眠結果。經顱都卜勒測量顯示 Bhramari 期間腦血流速度沒有明顯變化，屬於本組中最溫和的技術。",
+      "citations": [
+        {
+          "pmid": "12119224",
+          "title": "Humming greatly increases nasal nitric oxide",
+          "journal": "Am J Respir Crit Care Med",
+          "year": 2002,
+          "design": "physiological-study",
+          "takeaway": "10 名健康受試者：哼聲期間鼻腔一氧化氮比安靜吐氣時上升 15 倍，來自振盪氣流大幅增加鼻竇與鼻腔的氣體交換。"
+        },
+        {
+          "pmid": "38573928",
+          "title": "Induction of nitric oxide via humming does not improve short-term cognitive performance or influence emotional processing",
+          "journal": "PLoS One",
+          "year": 2024,
+          "design": "physiological-study",
+          "takeaway": "四項實驗一致的陰性結果：哼聲誘發的鼻腔 NO 沒有改善記憶或反應時間，對情緒圖片處理也無影響，部分作業反而因哼聲而變差。"
+        },
+        {
+          "pmid": "29321984",
+          "title": "Effects of Bhramari Pranayama on health - A systematic review",
+          "journal": "J Tradit Complement Med",
+          "year": 2018,
+          "design": "systematic-review",
+          "takeaway": "彙整至 2016 年的 Bhramari 研究，結果方向多為正面（心率、血壓、睡眠），但原始研究樣本小、方法品質參差。"
+        },
+        {
+          "pmid": "37788160",
+          "title": "Efficacy of Bhramari pranayama and Om chanting on asthma control, quality of life, and airway inflammation in asthmatic children: an open-label randomized controlled trial",
+          "journal": "J Asthma",
+          "year": 2024,
+          "design": "rct",
+          "takeaway": "氣喘兒童的開放標籤 RCT：Bhramari 加嗡音唱誦改善氣喘控制與生活品質；開放標籤設計無法排除期待效應。"
+        }
+      ]
+    },
+    {
+      "id": "kapalbhati",
+      "name": "頭顱發光呼吸（腹部幫浦）",
+      "evidence_grade": "limited",
+      "summary": "2025 年的系統性回顧只找到 4 篇符合條件的 RCT（2014–2024），結論是肺功能與注意力表現有改善，但明白寫著其神經生理機轉「仍大多屬於推測」。急性生理測量的方向倒是一致且重要：Kapalbhati 期間是副交感撤退、交感活化（與慢速深呼吸恰好相反），經顱都卜勒顯示中大腦動脈的舒張末期與平均血流速度顯著下降、搏動指數上升——也就是說這是一個會暫時減少腦部灌流的技術。傳統宣稱的「排毒」「清腦」沒有任何可測量的對應。安全上必須提醒：瑜伽不良事件的系統性回顧把 forceful breathing 列為最常出現在案例報告中的技術之一（76 例中 1 例死亡、14 例影響神經系統、9 例影響眼睛），且傳統文獻與現代研究對 Kapalbhati 的呼吸頻率規範本身就不一致。",
+      "citations": [
+        {
+          "pmid": "40520439",
+          "title": "Yogic Bellows, Neural Sparks: Unravelling the Neurophysiological Mechanisms of Kapalbhati-A Systematic Review",
+          "journal": "Ann Neurosci",
+          "year": 2026,
+          "design": "systematic-review",
+          "takeaway": "僅 4 篇 RCT 符合納入條件；肺功能與認知表現改善方向一致，但作者明言其神經生理機轉「largely speculative」，提出的模型屬假說性質。"
+        },
+        {
+          "pmid": "29188396",
+          "title": "Cerebrovascular Hemodynamics During the Practice of Bhramari Pranayama, Kapalbhati and Bahir-Kumbhaka: An Exploratory Study",
+          "journal": "Appl Psychophysiol Biofeedback",
+          "year": 2018,
+          "design": "physiological-study",
+          "takeaway": "18 名健康者的經顱都卜勒：Kapalbhati 期間中大腦動脈舒張末期與平均血流速度顯著下降、搏動指數上升（Bahir-Kumbhaka 則相反），Bhramari 無顯著變化。"
+        },
+        {
+          "pmid": "35360798",
+          "title": "Study of immediate neurological and autonomic changes during kapalbhati pranayama in yoga practitioners",
+          "journal": "J Family Med Prim Care",
+          "year": 2022,
+          "design": "physiological-study",
+          "takeaway": "Kapalbhati 期間與之後 HRV 呈現副交感撤退與交感活化；腦波變化在練習當下不顯著，作者將其定位為「energizing、heating」而非放鬆技術。"
+        },
+        {
+          "pmid": "24146758",
+          "title": "Adverse events associated with yoga: a systematic review of published case reports and case series",
+          "journal": "PLoS One",
+          "year": 2013,
+          "design": "systematic-review",
+          "takeaway": "35 篇案例報告與 2 篇系列共 76 例：forceful breathing 與頭倒立、肩倒立、蓮花坐並列為最常涉及的練習；35.5% 為肌肉骨骼、18.4% 為神經系統、11.8% 為眼睛傷害，1 例死亡；明確建議初學者避開強力呼吸法。"
+        },
+        {
+          "pmid": "36669770",
+          "title": "A Comparison of Practice Guidelines for Yoga Breathing from the Traditional Texts and PubMed-Indexed Research",
+          "journal": "Int J Yoga Therap",
+          "year": 2022,
+          "design": "narrative-review",
+          "takeaway": "比對《哈達瑜伽經》《格蘭達本集》與 31 篇 kapalabhati 研究，發現呼吸頻率規範在傳統文獻與現代研究之間並不一致，導致跨研究結果難以彙整。"
+        }
+      ]
+    },
+    {
+      "id": "bhastrika",
+      "name": "風箱式呼吸（強力換氣）",
+      "evidence_grade": "limited",
+      "summary": "最好的一篇是巴西的 RCT（30 名健康成人、4 週）：Bhastrika 訓練後狀態焦慮與負向情緒顯著下降，fMRI 顯示杏仁核、前扣帶迴、前腦島與前額葉的活性改變，且腹外側前額葉—右前腦島的連結變化與焦慮改善相關；但作者自己標註分析屬初步與探索性。文獻上有一個必須說清楚的混淆：不少被稱為「Bhastrika」的研究其實做的是每分鐘 6 次的慢速版本（例如那篇降血壓研究），其效果來自慢速呼吸而非「風箱」的強力換氣，兩者不該互相引用。傳統文獻與現代研究對 Bhastrika 的呼吸深度規範也不一致。與 Kapalbhati 同屬強力換氣，需採用同一套禁忌與安全提醒。",
+      "citations": [
+        {
+          "pmid": "32528330",
+          "title": "Effects of Yoga Respiratory Practice (Bhastrika pranayama) on Anxiety, Affect, and Brain Functional Connectivity and Activity: A Randomized Controlled Trial",
+          "journal": "Front Psychiatry",
+          "year": 2020,
+          "design": "rct",
+          "takeaway": "30 名健康成人、4 週：焦慮與負向情緒顯著下降，杏仁核／前扣帶／前腦島／前額葉活性與連結改變；作者標註分析為初步且探索性。"
+        },
+        {
+          "pmid": "19249921",
+          "title": "Immediate effect of slow pace bhastrika pranayama on blood pressure and heart rate",
+          "journal": "J Altern Complement Med",
+          "year": 2009,
+          "design": "physiological-study",
+          "takeaway": "39 人：每分鐘 6 次的「慢速 Bhastrika」5 分鐘後收縮壓與舒張壓顯著下降；先給予副交感阻斷劑後降壓效果消失，顯示機轉是迷走神經而非強力換氣本身。"
+        },
+        {
+          "pmid": "36669770",
+          "title": "A Comparison of Practice Guidelines for Yoga Breathing from the Traditional Texts and PubMed-Indexed Research",
+          "journal": "Int J Yoga Therap",
+          "year": 2022,
+          "design": "narrative-review",
+          "takeaway": "25 篇 bhastrika 研究與傳統文獻在「呼吸深度」的規範上明顯分歧，作者指出練法差異會改變生理效果，使跨研究彙整困難。"
+        },
+        {
+          "pmid": "24146758",
+          "title": "Adverse events associated with yoga: a systematic review of published case reports and case series",
+          "journal": "PLoS One",
+          "year": 2013,
+          "design": "systematic-review",
+          "takeaway": "在 76 例瑜伽相關不良事件中，forceful breathing 是最常被點名的呼吸技術；有醫療前置狀況者（青光眼、骨質疏鬆）風險更高。"
+        }
+      ]
+    },
+    {
+      "id": "sheetali",
+      "name": "清涼呼吸法",
+      "evidence_grade": "limited",
+      "summary": "「清涼」這個名字本身經不起實測：17 名健康男性在四種情境下的代謝測量顯示，做 sheetali 與 sitkari 期間體表溫度反而顯著上升、耗氧量分別增加 9.0% 與 7.6%，作者結論是「結果不支持把這些呼吸法描述為清涼」，比較像是輕度的高代謝狀態。自律神經方面確實有陽性結果：100 名原發性高血壓患者的 RCT 顯示 3 個月後血壓下降、HRV 轉向副交感優勢；跨組交叉試驗也顯示 Sheetali/Sheetkari 期間 RMSSD 上升（logRMSSD 增加 0.2–0.5），但控制呼吸速率後與一般深呼吸相比沒有顯著差異（p = .07）。也就是說：效果可能來自把呼吸放慢，不是來自舌頭捲管。",
+      "citations": [
+        {
+          "pmid": "31907342",
+          "title": "Body Temperature and Energy Expenditure During and After Yoga Breathing Practices Traditionally Described as Cooling",
+          "journal": "Med Sci Monit Basic Res",
+          "year": 2020,
+          "design": "physiological-study",
+          "takeaway": "17 名健康男性、四種情境隨機順序：sheetali 與 sitkari 期間體表溫度顯著上升、耗氧量分別 +9.0% 與 +7.6%；作者明白寫「結果不支持這些呼吸法被描述為清涼」。"
+        },
+        {
+          "pmid": "32379673",
+          "title": "Effect of Sheetali pranayama on cardiac autonomic function among patients with primary hypertension - A randomized controlled trial",
+          "journal": "Complement Ther Clin Pract",
+          "year": 2020,
+          "design": "rct",
+          "takeaway": "100 名高血壓患者（50/50）練習 3 個月：血壓顯著下降，HRV 時域與頻域皆呈副交感優勢；為此技術目前規模最大的試驗。"
+        },
+        {
+          "pmid": "34271528",
+          "title": "Investigating components of pranayama for effects on heart rate variability",
+          "journal": "J Psychosom Res",
+          "year": 2021,
+          "design": "rct",
+          "takeaway": "25 人交叉試驗拆解 pranayama 各成分：外部節拍引導的呼吸使 logRMSSD 上升 0.50、自主節奏 0.36、安靜坐 0.17；Sheetali/Sheetkari 控制呼吸速率後與一般深呼吸無顯著差異（p = .07）。"
+        },
+        {
+          "pmid": "33665101",
+          "title": "Yoga practice (Sheetali Pranayama) on cognition in patients with hypertension: A randomized controlled study",
+          "journal": "Integr Med Res",
+          "year": 2021,
+          "design": "rct",
+          "takeaway": "高血壓患者的隨機對照研究顯示認知測驗表現改善；單一中心、無盲法，屬初步證據。"
+        }
+      ]
+    },
+    {
+      "id": "breath-retention",
+      "name": "止息與屏息",
+      "evidence_grade": "limited",
+      "summary": "屏息本身的生理學被閉氣潛水研究刻畫得相當清楚：潛水反射造成心搏過緩、周邊血管收縮、脾臟收縮釋放紅血球，同時二氧化碳累積會顯著擴張腦血管。經顱都卜勒實測 Bahir-Kumbhaka（吐氣後屏息）期間中大腦動脈舒張末期與平均血流速度上升、搏動指數下降，方向與 Kapalbhati 恰好相反。但把這些急性反應連到瑜伽宣稱的長期健康效益，證據非常薄弱——最常被引用的仍是 1988 年 20 人的小型前後測研究。傳統上「延長止息可延長壽命」沒有任何人體試驗支持。屏息會抬高胸內壓與眼壓、造成血壓與腦血流劇烈波動，對高血壓、青光眼、心律不整、癲癇與孕婦是需要迴避或大幅保守的技術。",
+      "citations": [
+        {
+          "pmid": "29687909",
+          "title": "Breath-Hold Diving",
+          "journal": "Compr Physiol",
+          "year": 2018,
+          "design": "narrative-review",
+          "takeaway": "完整整理自主屏息的生理反應：潛水反射造成心搏過緩與周邊血管收縮、脾臟收縮、低氧與高碳酸血症對腦循環的影響，是理解屏息急性效應的最佳基礎文獻。"
+        },
+        {
+          "pmid": "29188396",
+          "title": "Cerebrovascular Hemodynamics During the Practice of Bhramari Pranayama, Kapalbhati and Bahir-Kumbhaka: An Exploratory Study",
+          "journal": "Appl Psychophysiol Biofeedback",
+          "year": 2018,
+          "design": "physiological-study",
+          "takeaway": "Bahir-Kumbhaka（吐氣後屏息）期間中大腦動脈舒張末期與平均血流速度顯著上升、搏動指數下降，與 Kapalbhati 造成的腦灌流下降方向相反。"
+        },
+        {
+          "pmid": "3215678",
+          "title": "Autonomic responses to breath holding and its variations following pranayama",
+          "journal": "Indian J Physiol Pharmacol",
+          "year": 1988,
+          "design": "physiological-study",
+          "takeaway": "20 名健康男性練 Nadi-Shodhana 4 週後，屏息至臨界點時的心率與收縮／舒張壓顯著較低；樣本小、無對照組，是此主題最常被引用卻品質有限的研究。"
+        },
+        {
+          "pmid": "24146758",
+          "title": "Adverse events associated with yoga: a systematic review of published case reports and case series",
+          "journal": "PLoS One",
+          "year": 2013,
+          "design": "systematic-review",
+          "takeaway": "76 例不良事件中 9 例（11.8%）為眼部傷害、10 例有醫療前置狀況（以青光眼與骨質疏鬆為主）；作者建議青光眼患者避免倒立、骨質受損者避免強力練習。"
+        }
+      ]
+    },
+    {
+      "id": "mantra-chant",
+      "name": "唱誦與嗡音",
+      "evidence_grade": "moderate",
+      "summary": "以曼陀羅為基礎的靜心在 RCT 統合分析中呈現小到中等且方向一致的效果：焦慮 g = −0.46、壓力 g = −0.45、憂鬱 g = −0.33、創傷後壓力 g = −0.59（I² = 0%）、心理健康相關生活品質 g = 0.32；但作者指出研究偏誤風險與精神科族群、長期追蹤資料的稀少削弱了這些結論。機轉上有一個很漂亮的發現：BMJ 的實驗顯示唸玫瑰經或瑜伽曼陀羅時，呼吸自然落到每分鐘 6 次，心血管節律同步放大，壓力反射敏感度由 9.5 上升到 11.5 ms/mmHg——也就是說唱誦的生理效果，很大一部分其實就是「被節奏強迫的慢速呼吸」。嗡音的 fMRI 研究只有 12 人的小樣本，顯示腦島、前扣帶、眶額皮質對杏仁核的輸出減少，屬機轉假說而非療效證據。",
+      "citations": [
+        {
+          "pmid": "35329068",
+          "title": "Effectiveness of Mantra-Based Meditation on Mental Health: A Systematic Review and Meta-Analysis",
+          "journal": "Int J Environ Res Public Health",
+          "year": 2022,
+          "design": "meta-analysis",
+          "takeaway": "焦慮 g = −0.46（I² = 33%）、憂鬱 g = −0.33、壓力 g = −0.45、創傷後壓力 g = −0.59（I² = 0%）、心理健康生活品質 g = 0.32；作者強調偏誤風險與精神科族群研究稀少。"
+        },
+        {
+          "pmid": "11751348",
+          "title": "Effect of rosary prayer and yoga mantras on autonomic cardiovascular rhythms: comparative study",
+          "journal": "BMJ",
+          "year": 2001,
+          "design": "physiological-study",
+          "takeaway": "23 名健康成人：唸玫瑰經或瑜伽曼陀羅使呼吸自然落到每分鐘 6 次，心血管節律強烈同步，壓力反射敏感度由 9.5 (SD 4.6) 升至 11.5 (4.9) ms/mmHg（P<0.05）。"
+        },
+        {
+          "pmid": "21654968",
+          "title": "Neurohemodynamic correlates of 'OM' chanting: A pilot functional magnetic resonance imaging study",
+          "journal": "Int J Yoga",
+          "year": 2011,
+          "design": "physiological-study",
+          "takeaway": "先導性 fMRI：嗡音唱誦期間邊緣系統（含杏仁核、海馬旁迴）活性下降，型態近似迷走神經刺激；樣本極小，僅供機轉假設。"
+        },
+        {
+          "pmid": "30099280",
+          "title": "Directional brain networks underlying OM chanting",
+          "journal": "Asian J Psychiatr",
+          "year": 2018,
+          "design": "physiological-study",
+          "takeaway": "12 名健康者的 Granger 因果分析：唱誦期間腦島、前扣帶、眶額皮質對杏仁核的輸出顯著減少；作者只將其提為憂鬱症治療的「潛在可能性」。"
+        }
+      ]
+    },
+    {
+      "id": "bandha",
+      "name": "能量鎖 Bandha",
+      "evidence_grade": "limited",
+      "summary": "Bandha 的研究極少，且結果比坊間宣稱保守得多。Uddiyana bandha 的隨機交叉試驗（30 人）顯示練習當下是交感與副交感「同時活化」——SDNN、RMSSD、LF 與 LF/HF 都上升而 HF 下降，舒張壓在結束後立即升高、10 分鐘才回復；作者自己說難以下結論，只有恢復期呈現副交感優勢。Mula bandha 方面，輕度骨盆器官脫垂的 RCT 雖然組間 PFDI-20 改善達統計顯著（平均多 5.7 分），但作者明白指出低於臨床意義門檻（15 分）。Cochrane 對「瑜伽治療女性尿失禁」的回顧則因證據太少而無法得出結論。傳統上「能量鎖鎖住 prana 的流動」不是可測量的命題，現代研究能測的只有腹內壓、骨盆底肌與自律神經指標。",
+      "citations": [
+        {
+          "pmid": "41316586",
+          "title": "Immediate effects of Uddiyana bandha on blood pressure and heart rate variability in healthy individuals - a randomized crossover study",
+          "journal": "J Bodyw Mov Ther",
+          "year": 2025,
+          "design": "rct",
+          "takeaway": "30 名健康者交叉設計：練習當下 SDNN、RMSSD、LF、LF/HF 上升而 HF 下降（交感副交感共同活化，作者稱難以下結論），舒張壓於結束當下升高、10 分鐘後回復。"
+        },
+        {
+          "pmid": "29755220",
+          "title": "Effect of Mula Bandha Yoga in Mild Grade Pelvic Organ Prolapse: A Randomized Controlled Trial",
+          "journal": "Int J Yoga",
+          "year": 2018,
+          "design": "rct",
+          "takeaway": "50 名輕度骨盆器官脫垂婦女、12 週：瑜伽組 PFDI-20 平均多改善 5.7 分，但作者明言低於預設的臨床意義門檻 15 分。"
+        },
+        {
+          "pmid": "30816997",
+          "title": "Yoga for treating urinary incontinence in women",
+          "journal": "Cochrane Database Syst Rev",
+          "year": 2019,
+          "design": "systematic-review",
+          "takeaway": "Cochrane 回顧：符合條件的試驗數量與品質都不足，無法判定瑜伽（含骨盆底相關練習）對女性尿失禁是否有效。"
+        },
+        {
+          "pmid": "34364737",
+          "title": "Assessment of the effect of Mulabandha yoga therapy in healthy women, stigmatized for pelvic floor dysfunctions: A randomized controlled trial",
+          "journal": "J Ayurveda Integr Med",
+          "year": 2021,
+          "design": "rct",
+          "takeaway": "健康女性的隨機對照試驗顯示骨盆底相關自述指標改善；單一中心、樣本有限，方向與上述脫垂試驗一致但同樣屬初步證據。"
+        }
+      ]
+    },
+    {
+      "id": "mudra",
+      "name": "手印 Mudra",
+      "evidence_grade": "traditional",
+      "summary": "手印的核心命題是「特定手指接觸配置會導引體內能量（prana）在經脈間的流動」。這個命題無法用實驗檢驗，不是因為研究做得不夠多，而是因為它所指的「能量」沒有任何可操作化的測量定義——沒有可測的量、沒有可預測的變化方向、沒有可證偽的預測，因此不屬於實證問題而屬於傳統框架。PubMed 上與 mudra 有關的研究實質上只有兩篇：一篇把 Brahma Mudra 當成頸部活動輔助療法（測到的是頸痛與本體感覺，屬於運動介入而非能量效應），一篇用電光子成像（Kirlian 攝影衍生技術，本身缺乏公認的生理效度）分類手印練習前後的影像。也就是說：手印可以作為專注的錨點與姿勢提示，這部分不需要研究背書；但「導引能量」的宣稱請不要當成有實證支持的說法教。",
+      "citations": [
+        {
+          "pmid": "34391312",
+          "title": "Additive effect of \"Brahma Mudra\" on pain, proprioception and functional abilities in non-specific mechanical neck pain",
+          "journal": "J Bodyw Mov Ther",
+          "year": 2021,
+          "design": "cohort",
+          "takeaway": "30 人非隨機的前後測兩組比較：Brahma Mudra 加在標準物理治療上，疼痛、關節位置覺與功能表現優於單純物理治療（p<0.01）；但介入內容其實是頸部與眼球的活動，效果無法歸因於「手印」。"
+        },
+        {
+          "pmid": "29755225",
+          "title": "Classification of Electrophotonic Images of Yogic Practice of Mudra through Neural Networks",
+          "journal": "Int J Yoga",
+          "year": 2018,
+          "design": "physiological-study",
+          "takeaway": "以電光子成像（EPI）比較 29 名手印練習者與 32 名對照，用類神經網路分類影像；EPI 本身是 Kirlian 攝影的衍生技術，缺乏公認的生理學效度，此研究無法作為手印生理效果的證據。"
+        }
+      ]
+    },
+    {
+      "id": "kriya",
+      "name": "淨化法 Kriya",
+      "evidence_grade": "moderate",
+      "summary": "Kriya 中證據最好的是洗鼻（Jala Neti），因為它等同於臨床上的鼻腔生理食鹽水沖洗。Cochrane 對過敏性鼻炎的回顧納入 14 篇 RCT、747 人，四週內症狀嚴重度 SMD −1.32（95% CI −1.84 至 −0.81），四週至三個月 SMD −1.44，證據品質評為低；對慢性鼻竇炎則只有 2 篇試驗，大量（150 ml）高張沖洗六個月時生活品質優於對照（MD 13.5 分），但品質評為低至極低，且 23% 使用者出現包含鼻出血在內的副作用。安全訊息必須明講：2011 年美國路易斯安那州兩名成人因用「未經處理的自來水」洗鼻感染福氏耐格里阿米巴而死於原發性阿米巴腦膜腦炎，兩戶家中水管都驗出該原蟲——洗鼻只能用蒸餾水、煮沸放涼的水或合格濾水。Trataka（凝視法）則只有少數小樣本試驗，方向偏正面但品質不足以下結論。",
+      "citations": [
+        {
+          "pmid": "29932206",
+          "title": "Saline irrigation for allergic rhinitis",
+          "journal": "Cochrane Database Syst Rev",
+          "year": 2018,
+          "design": "meta-analysis",
+          "takeaway": "14 篇 RCT、747 人：鼻腔沖洗在 4 週內使症狀嚴重度 SMD −1.32（95% CI −1.84 至 −0.81）、4 週至 3 個月 SMD −1.44，但證據品質評為低，且無超過 3 個月的追蹤資料。"
+        },
+        {
+          "pmid": "27115216",
+          "title": "Saline irrigation for chronic rhinosinusitis",
+          "journal": "Cochrane Database Syst Rev",
+          "year": 2016,
+          "design": "meta-analysis",
+          "takeaway": "僅 2 篇 RCT、116 人：大量（150 ml）高張沖洗在 6 個月時 RSDI 生活品質優於對照 13.5 分，但證據品質低至極低；沖洗組 23% 出現副作用（含鼻出血）；5 ml 噴霧則不如鼻用類固醇。"
+        },
+        {
+          "pmid": "22919000",
+          "title": "Primary amebic meningoencephalitis deaths associated with sinus irrigation using contaminated tap water",
+          "journal": "Clin Infect Dis",
+          "year": 2012,
+          "design": "case-report",
+          "takeaway": "2011 年路易斯安那州兩名成人以自來水配合洗鼻壺沖洗鼻腔後死於原發性阿米巴腦膜腦炎，兩戶住家水樣均檢出福氏耐格里阿米巴；洗鼻必須使用蒸餾水、煮沸放涼的水或合格過濾水。"
+        },
+        {
+          "pmid": "30616871",
+          "title": "A review on the therapeutic effects of NetiKriya with special reference to JalaNeti",
+          "journal": "J Ayurveda Integr Med",
+          "year": 2020,
+          "design": "narrative-review",
+          "takeaway": "回顧指出直接研究 jala neti 的文獻極少，多數證據其實是借用鼻腔生理食鹽水沖洗的資料；作者明白呼籲需要針對 neti 本身的 RCT。"
+        },
+        {
+          "pmid": "32415824",
+          "title": "Effectiveness of yogic visual concentration (Trataka) on cognitive performance and anxiety among adolescents",
+          "journal": "J Complement Integr Med",
+          "year": 2020,
+          "design": "rct",
+          "takeaway": "青少年學生的實驗設計研究：Trataka 組在 Stroop 色字測驗各分項顯著優於對照（p<0.0001）；但焦慮量表結果較弱、無盲法且僅單一學校，屬初步證據。"
+        }
+      ]
+    }
+  ]
+}

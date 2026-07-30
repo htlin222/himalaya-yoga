@@ -1,0 +1,536 @@
+/* ==========================================================================
+   paywall.css — 鎖頭、購物車抽屉、結帳、收據
+   深淺色都吃 tokens.css 的變數，沒有寫死顏色
+   ========================================================================== */
+
+/* --- header 購物車鈕 ----------------------------------------------------- */
+
+#cartBtn {
+  position: relative;
+}
+
+#cartBtn.is-owned {
+  color: var(--fgColor-success);
+}
+
+.Cart__badge {
+  position: absolute;
+  top: -2px;
+  right: -2px;
+  min-width: 15px;
+  height: 15px;
+  padding: 0 4px;
+  border-radius: var(--borderRadius-full);
+  background: var(--fgColor-danger);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 15px;
+  text-align: center;
+}
+
+/* --- 課程內容裡的鎖 ------------------------------------------------------ */
+
+.Chapter__lock {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  color: var(--fgColor-muted);
+}
+
+/* 佔掉「完成」勾勾原本的位置，鎖定單元標不了完成 */
+.Unit__lock {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  margin-top: 2px;
+  flex-shrink: 0;
+  color: var(--fgColor-muted);
+}
+
+.Chapter.is-locked .Chapter__progress {
+  visibility: hidden;
+}
+
+.Unit.is-locked > .Unit__header {
+  cursor: pointer;
+}
+
+.Unit.is-locked .Unit__title,
+.Unit.is-locked .Unit__summary {
+  color: var(--fgColor-muted);
+}
+
+/* 鎖定章節的招呼卡：擺在章節內容最上面 */
+.PaywallGate {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--base-size-12);
+  margin: var(--base-size-8) 0 var(--base-size-16);
+  padding: var(--base-size-16);
+  border: 1px solid var(--borderColor-default);
+  border-radius: var(--borderRadius-medium);
+  background: var(--bgColor-muted);
+}
+
+.PaywallGate__icon {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--borderRadius-full);
+  background: var(--bgColor-accent-muted);
+  color: var(--fgColor-accent);
+  flex: none;
+}
+
+.PaywallGate__main {
+  flex: 1 1 220px;
+  min-width: 0;
+}
+
+.PaywallGate__title {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.PaywallGate__note {
+  margin: 2px 0 0;
+  color: var(--fgColor-muted);
+  font-size: 12px;
+}
+
+/* --- 播放清單裡的鎖 ------------------------------------------------------ */
+
+.PlaylistItem.is-locked {
+  opacity: 0.55;
+}
+
+.PlaylistItem.is-locked .PlaylistItem__dur {
+  color: var(--fgColor-muted);
+}
+
+/* --- 價格 ---------------------------------------------------------------- */
+
+.Price {
+  display: inline-flex;
+  align-items: baseline;
+  gap: var(--base-size-8);
+  flex-wrap: wrap;
+}
+
+.Price__list {
+  color: var(--fgColor-muted);
+  font-size: 13px;
+}
+
+.Price__now {
+  font-size: 18px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.Price__badge {
+  align-self: center;
+}
+
+/* --- 對話框外框 ---------------------------------------------------------- */
+
+.Paywall {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: grid;
+}
+
+.Paywall[hidden] {
+  display: none;
+}
+
+.Paywall__backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(1, 4, 9, 0.5);
+  animation: pw-fade 0.15s ease-out;
+}
+
+.Paywall__panel {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100vh - var(--base-size-32));
+  background: var(--bgColor-default);
+  border: 1px solid var(--borderColor-default);
+  border-radius: var(--borderRadius-large);
+  box-shadow: var(--shadow-floating-small);
+  overflow: hidden;
+}
+
+/* 購物車走右側抽屉，其餘置中 */
+.Paywall[data-view="cart"] .Paywall__panel {
+  margin: 0 0 0 auto;
+  width: min(420px, 100vw);
+  max-height: 100vh;
+  border-radius: 0;
+  border-width: 0 0 0 1px;
+  animation: pw-slide 0.18s ease-out;
+}
+
+.Paywall:not([data-view="cart"]) .Paywall__panel {
+  margin: auto;
+  width: min(520px, calc(100vw - var(--base-size-32)));
+  animation: pw-pop 0.18s ease-out;
+}
+
+@keyframes pw-fade {
+  from { opacity: 0; }
+}
+
+@keyframes pw-slide {
+  from { transform: translateX(24px); opacity: 0; }
+}
+
+@keyframes pw-pop {
+  from { transform: scale(0.97) translateY(6px); opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .Paywall__backdrop,
+  .Paywall__panel {
+    animation: none;
+  }
+}
+
+.Paywall__head {
+  display: flex;
+  align-items: center;
+  gap: var(--base-size-8);
+  padding: var(--base-size-16);
+  border-bottom: 1px solid var(--borderColor-muted);
+}
+
+.Paywall__icon {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--borderRadius-full);
+  background: var(--bgColor-accent-muted);
+  color: var(--fgColor-accent);
+  flex: none;
+}
+
+.Paywall__icon--ok {
+  background: var(--bgColor-success-muted);
+  color: var(--fgColor-success);
+}
+
+.Paywall__title {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+  flex: 1;
+  min-width: 0;
+}
+
+.Paywall__body {
+  padding: var(--base-size-16);
+  overflow-y: auto;
+}
+
+.Paywall__lede {
+  margin: 0 0 var(--base-size-12);
+  color: var(--fgColor-muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.Paywall__product {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--base-size-12);
+  flex-wrap: wrap;
+  padding: var(--base-size-12);
+  border: 1px solid var(--borderColor-default);
+  border-radius: var(--borderRadius-medium);
+  background: var(--bgColor-muted);
+}
+
+.Paywall__productName {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 600;
+}
+
+/* 誠實告知：這門課免費、劃掉的原價是虛構的 */
+.Paywall__honesty {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  margin: var(--base-size-12) 0 0;
+  color: var(--fgColor-muted);
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+.Paywall__honesty svg {
+  flex: none;
+  margin-top: 3px;
+}
+
+.Paywall__foot {
+  display: flex;
+  gap: var(--base-size-8);
+  padding: var(--base-size-12) var(--base-size-16);
+  border-top: 1px solid var(--borderColor-muted);
+  background: var(--bgColor-muted);
+}
+
+.Paywall__foot .btn-primary {
+  flex: 1;
+  justify-content: center;
+}
+
+/* --- 購物車內容 ---------------------------------------------------------- */
+
+.CartList {
+  margin: 0 0 var(--base-size-16);
+  padding: 0;
+  list-style: none;
+}
+
+/* 抽屉只有 420px，品名與價格擠在同一列會把說明壓成三行，所以讓價格換行 */
+.CartItem {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px var(--base-size-8);
+  padding: var(--base-size-12) 0;
+  border-bottom: 1px solid var(--borderColor-muted);
+}
+
+.CartItem__main {
+  flex: 1 1 100%;
+  min-width: 0;
+  display: grid;
+  gap: 2px;
+}
+
+.CartItem .Price {
+  flex: 1;
+}
+
+.CartItem__name {
+  font-weight: 600;
+}
+
+.CartItem__note {
+  color: var(--fgColor-muted);
+  font-size: 12px;
+}
+
+.CartTotals {
+  margin: 0;
+  font-size: 13px;
+}
+
+.CartTotals > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--base-size-8);
+  padding: 5px 0;
+}
+
+.CartTotals dt {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--fgColor-muted);
+}
+
+.CartTotals dd {
+  margin: 0;
+  font-variant-numeric: tabular-nums;
+}
+
+.CartTotals__discount dt,
+.CartTotals__discount dd {
+  color: var(--fgColor-danger);
+}
+
+.CartTotals__due {
+  margin-top: 4px;
+  padding-top: var(--base-size-8);
+  border-top: 1px solid var(--borderColor-default);
+  font-size: 15px;
+}
+
+.CartTotals__due dt {
+  color: var(--fgColor-default);
+  font-weight: 600;
+}
+
+.CartTotals__due dd {
+  font-weight: 600;
+}
+
+/* --- 結帳表單 ------------------------------------------------------------ */
+
+.Checkout {
+  display: grid;
+  gap: var(--base-size-12);
+}
+
+.Field {
+  display: grid;
+  gap: 4px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.Field__label {
+  color: var(--fgColor-muted);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.Field__input {
+  width: 100%;
+  padding: 6px var(--base-size-8);
+  border: 1px solid var(--borderColor-default);
+  border-radius: var(--borderRadius-medium);
+  background: var(--bgColor-default);
+  color: var(--fgColor-default);
+  font: inherit;
+  font-size: 13px;
+}
+
+.Field__input:focus-visible {
+  outline: 2px solid var(--borderColor-accent-emphasis);
+  outline-offset: -1px;
+  border-color: var(--borderColor-accent-emphasis);
+}
+
+.Field--pay {
+  gap: 6px;
+}
+
+.Radio,
+.Check {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--base-size-8);
+  font-size: 13px;
+  line-height: 1.5;
+  cursor: pointer;
+}
+
+.Radio input,
+.Check input {
+  margin: 2px 0 0;
+  flex: none;
+  accent-color: var(--fgColor-accent);
+}
+
+.Radio.is-disabled {
+  color: var(--fgColor-muted);
+  cursor: not-allowed;
+}
+
+.Radio__note {
+  color: var(--fgColor-muted);
+  font-size: 12px;
+}
+
+.Check {
+  padding: var(--base-size-12);
+  border: 1px solid var(--borderColor-default);
+  border-radius: var(--borderRadius-medium);
+  background: var(--bgColor-attention-muted);
+  color: var(--fgColor-default);
+}
+
+/* --- 收據 ---------------------------------------------------------------- */
+
+.Receipt {
+  border: 1px dashed var(--borderColor-default);
+  border-radius: var(--borderRadius-medium);
+  padding: var(--base-size-12);
+  font-size: 13px;
+}
+
+.Receipt__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--base-size-8);
+  padding: 4px 0;
+  color: var(--fgColor-muted);
+}
+
+.Receipt__row code {
+  font-family: var(--fontStack-mono);
+  font-size: 12px;
+  color: var(--fgColor-default);
+}
+
+.Receipt__row--item {
+  color: var(--fgColor-default);
+}
+
+.Receipt__row--total {
+  margin-top: 4px;
+  padding-top: var(--base-size-8);
+  border-top: 1px solid var(--borderColor-default);
+  color: var(--fgColor-default);
+  font-size: 15px;
+}
+
+.btn.is-busy {
+  opacity: 0.7;
+}
+
+/* --- 首頁 CTA ------------------------------------------------------------ */
+
+.PaywallCta {
+  display: flex;
+  align-items: center;
+  gap: var(--base-size-12);
+  flex-wrap: wrap;
+  margin: var(--base-size-16) 0 0;
+  padding: var(--base-size-16);
+  border: 1px solid var(--borderColor-default);
+  border-radius: var(--borderRadius-medium);
+  background: var(--bgColor-muted);
+}
+
+.PaywallCta__main {
+  flex: 1 1 240px;
+  min-width: 0;
+}
+
+.PaywallCta__title {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.PaywallCta__note {
+  margin: 2px 0 0;
+  color: var(--fgColor-muted);
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+/* 對話框打開時鎖住底層滾動 */
+body.has-paywall {
+  overflow: hidden;
+}

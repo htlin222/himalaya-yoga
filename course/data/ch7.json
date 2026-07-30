@@ -1,0 +1,522 @@
+{
+  "chapter": "CH7",
+  "title": "能量鎖、手印與淨化法",
+  "units": [
+    {
+      "id": "ch7-u1",
+      "name": "Mula Bandha 根鎖",
+      "type": "energy",
+      "assessment": "坐在椅子前緣，一手放在下腹、一手放在單側臀部外側。吸氣後緩慢吐氣，嘗試只把會陰往內往上提。若臀部那隻手摸到臀肌明顯收緊、或雙膝不自覺內夾、或必須憋住呼吸才做得出來，即為代償陽性。合格標準是：在鼻呼吸連續三個循環不中斷的同時，只感覺會陰上提，腹壁與臀部幾乎不動。接著測放鬆——收縮五秒後應能在兩秒內完全放掉；放不掉、或放掉後仍覺得會陰緊繃，代表骨盆底是偏緊而不是偏弱，這種人要練的是放鬆而不是更多收縮。",
+      "tight": [
+        "用臀大肌與大腿內收肌代替骨盆底：一收縮就夾膝、夾臀、坐骨往內擠",
+        "過度用力並憋氣，臉脹紅、下顎咬緊，把根鎖做成了閉氣用力",
+        "只練收縮不練放鬆，久了骨盆底變成長期高張；有些慢性骨盆痛、排尿延遲、性交疼痛屬此類，不適合長時間收縮",
+        "把根鎖等同於「縮肛」，只收到肛門括約肌而漏掉前段的提肛肌群",
+        "站姿時用骨盆前傾或塌腰去製造上提感"
+      ],
+      "weak": [
+        "骨盆底肌群的分離收縮與分離放鬆能力",
+        "呼吸與骨盆底的協調（吐氣上提、吸氣下放）",
+        "深層核心（橫膈—腹橫肌—骨盆底）的同步啟動",
+        "本體感覺：能分辨會陰、臀肌、內收肌三者的收縮訊號"
+      ],
+      "lesson": {
+        "title": "The Anatomy and Practice of Mula Bandha: Yoga Anatomy with Rachel",
+        "channel": "Rachel Scott",
+        "url": "https://www.youtube.com/watch?v=NrSU0siudOY",
+        "duration": "13:32",
+        "why": "Rachel Scott 有瑜伽教育博士背景，這支從骨盆底的三層肌肉解剖講到根鎖到底收的是哪一層，並直接點名「夾臀＝做錯了」。觀看數不到兩萬，但這章的解剖級講解本來就稀少，內容密度遠高於同題材的兩分鐘示範片。"
+      },
+      "drills": [
+        {
+          "name": "骨盆底與根鎖的解剖對照",
+          "en": "Pelvic Floor & Mula Bandha Anatomy",
+          "kind": "align",
+          "target": "骨盆底、核心、呼吸控制",
+          "dose": "看完一次，邊看邊摸自己的坐骨與恥骨定位",
+          "title": "The Pelvic Floor & Mula Bandha, Explained! Yoga Anatomy with Rachel",
+          "channel": "Rachel Scott",
+          "url": "https://www.youtube.com/watch?v=1ltkpV3UpC4",
+          "duration": "12:53"
+        },
+        {
+          "name": "根鎖的觸發與定位練習",
+          "en": "Mula Bandha Pelvic Floor Activation",
+          "kind": "align",
+          "target": "骨盆底、核心",
+          "dose": "上提 5 秒 × 10 次，中間完全放鬆 5 秒",
+          "title": "Mula Bandha Yoga | Pelvic Floor Exercise",
+          "channel": "Ann Swanson Wellness",
+          "url": "https://www.youtube.com/watch?v=X1A1zGD6pRM",
+          "duration": "6:59"
+        },
+        {
+          "name": "骨盆底引導練習",
+          "en": "Guided Pelvic Floor Yoga Practice",
+          "kind": "follow",
+          "target": "骨盆底、髖關節、呼吸控制",
+          "dose": "完整跟練一次，每週 3 次",
+          "title": "Pelvic Floor Yoga Practice | Mula Bandha",
+          "channel": "Ann Swanson Wellness",
+          "url": "https://www.youtube.com/watch?v=kjAYoQXgWdo",
+          "duration": "8:58"
+        },
+        {
+          "name": "高張骨盆底的放鬆版本",
+          "en": "Pelvic Floor Down-Training",
+          "kind": "modify",
+          "target": "骨盆底、髖關節、放鬆與副交感",
+          "dose": "每個放鬆動作 90 秒，睡前一輪",
+          "title": "物理治療師手把手教你 3 招瑜珈 + 按摩解決排尿延遲和性愛痛的問題 - 放鬆你的骨盆底肌！",
+          "channel": "健先思齊-向健康學習",
+          "url": "https://www.youtube.com/watch?v=6USVgYFJw68",
+          "duration": "9:48"
+        },
+        {
+          "name": "體式中維持根鎖",
+          "en": "Engaging Mula Bandha in Asana",
+          "kind": "deepen",
+          "target": "骨盆底、核心、脊椎活動度",
+          "dose": "看完後帶進五組拜日式，只在吐氣段落上提",
+          "title": "The Mula Bandha & How to Engage it",
+          "channel": "Purple Valley Ashtanga Yoga",
+          "url": "https://www.youtube.com/watch?v=ekIAs5zKP8E",
+          "duration": "23:20"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u2",
+      "name": "Uddiyana Bandha 腹鎖",
+      "type": "energy",
+      "assessment": "務必空腹。站立，雙腳與髖同寬、微屈膝、雙手撐在大腿上。完全吐氣到底後閉氣（不吸氣），做「假吸氣」——擴張肋廓但不讓空氣進來，腹壁會被真空吸到肋骨下方。對著鏡子看：肋骨下緣應該出現明顯凹陷、肚臍被往上往內帶進去。若腹部只是被主動「用力縮進去」而肋廓沒有上提，或臉脹紅、頸部青筋浮出，就是用力憋氣的代償陽性。合格標準：維持 5–10 秒後先放鬆腹部、再緩慢吸氣，而且下一口呼吸不是急促搶氣。做不到三輪都保持這個品質就先減到 3 秒。",
+      "tight": [
+        "非空腹練習：飯後、喝水後或經期、孕期進行——本技法必須空腹，孕期、經期、消化性潰瘍、高血壓、心臟病、近期腹部手術一律禁止",
+        "把腹鎖做成「用力吸小腹」：靠腹直肌硬縮，肋廓完全沒有上提",
+        "沒有吐乾淨就閉氣，胸腔裡還有氣，真空造不出來只好硬憋",
+        "閉氣時間過長、鬆開時猛然大口搶氣，造成頭暈與血壓波動",
+        "鬆開順序錯誤：先吸氣再放腹部，會把橫膈往下撞"
+      ],
+      "weak": [
+        "橫膈的上下行程與肋廓的獨立擴張能力",
+        "完全吐氣（呼氣儲備量）的控制",
+        "腹壁深層肌群的放鬆能力——腹鎖靠的是放鬆不是用力",
+        "閉氣耐受度與鬆鎖時的呼吸節奏管理"
+      ],
+      "lesson": {
+        "title": "Uddiyana Bandha Kriya - Abdominal Lock Upward Energy Purification | Breathe and Flow Yoga",
+        "channel": "Breathe and Flow",
+        "url": "https://www.youtube.com/watch?v=RBe8v7_IrfE",
+        "duration": "12:14",
+        "why": "把「先完全吐乾淨→閉氣→假吸氣」這三個關鍵步驟拆開示範，並明確說明空腹與禁忌，是少數同時給機轉、示範與安全條件的完整教學。"
+      },
+      "drills": [
+        {
+          "name": "Agni Sara 前導練習",
+          "en": "Agni Sara Kriya",
+          "kind": "align",
+          "target": "橫膈、核心、呼吸控制",
+          "dose": "閉氣中腹部進出 5–10 下 × 3 輪",
+          "title": "Himalayan Institute - Agni Sara Tutorial",
+          "channel": "Himalayan Institute",
+          "url": "https://www.youtube.com/watch?v=pS38jNS1U7E",
+          "duration": "4:23",
+          "why": "Agni Sara 是腹鎖最好的前導：先學會在閉氣狀態下讓腹壁自由進出，再談把它吸到肋骨下方。"
+        },
+        {
+          "name": "腹鎖十分鐘跟練",
+          "en": "Uddiyana Bandha Kriya 10-Min Tutorial",
+          "kind": "follow",
+          "target": "橫膈、核心、呼吸控制",
+          "dose": "跟練一次，空腹晨起做",
+          "title": "Uddiyana Bandha Kriya (10-Min Tutorial) – Activate Prana & Vital Energy",
+          "channel": "Ashtanga Yoga • Body Mechanics • Breathwork",
+          "url": "https://www.youtube.com/watch?v=AJPQAJPknSk",
+          "duration": "10:00"
+        },
+        {
+          "name": "吊胃入門（中文）",
+          "en": "Uddiyana Bandha for Beginners (Mandarin)",
+          "kind": "align",
+          "target": "橫膈、核心、呼吸控制",
+          "dose": "跟著做 3 輪，每輪閉氣不超過 10 秒",
+          "title": "幫助你清腸胃的瑜珈呼吸法『吊胃』第一集｜Mia’s Yoga",
+          "channel": "Mia’s YOGA · 運用腦科學來雕塑體態·體態雕塑課",
+          "url": "https://www.youtube.com/watch?v=NrWNTooFsS4",
+          "duration": "11:18",
+          "why": "這章的中文教學極少，這支是少數把「吊胃」分級拆解、講解清楚的繁中影片，5 萬多觀看在此題材已屬前段。"
+        },
+        {
+          "name": "空肺伸展版腹鎖",
+          "en": "Empty Lung Stretch",
+          "kind": "modify",
+          "target": "橫膈、胸口、呼吸控制",
+          "dose": "每次 5 秒 × 3 輪，感覺胸廓被撐開即可",
+          "title": "Uddiyana Bandha (Empty Lung Stretch)  | Molchanovs Freediving Base Training",
+          "channel": "Molchanovs Freediving",
+          "url": "https://www.youtube.com/watch?v=Bb95YWlNvak",
+          "duration": "3:02",
+          "why": "自由潛水體系把腹鎖當成胸廓與橫膈的柔軟度訓練，強度比瑜伽版低、目標明確，很適合做不出深凹陷的人先練這個。觀看數一萬，但 Molchanovs 是自由潛水最主要的教育體系，示範標準可信。"
+        },
+        {
+          "name": "Nauli 攪腹進階",
+          "en": "Nauli Kriya",
+          "kind": "deepen",
+          "target": "核心、橫膈、腰椎",
+          "dose": "先做到單側 madhyama nauli 停 3 秒即可",
+          "title": "Nauli Kriya | What Is It and How to Do It",
+          "channel": "Yoga International",
+          "url": "https://www.youtube.com/watch?v=yGS2kKO6uns",
+          "duration": "4:04"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u3",
+      "name": "Jalandhara Bandha 喉鎖與三鎖合一",
+      "type": "energy",
+      "assessment": "坐直，吸氣約七分滿，先把胸骨微微上提去「迎接」下巴，再讓下巴往內往下靠近胸骨上緣——是下巴移動去找胸骨，不是頭往前掉。用手指摸後頸：若後頸出現明顯折角、且喉部緊到吞不下口水，即為過度前屈；若必須聳肩才碰得到胸骨，代表胸椎伸展不足，應改做輕喉鎖。合格標準：下巴內收後仍能安靜吞嚥一次，放開時不需要甩頭或深吸一口氣搶氣。練三鎖合一時，鬆鎖順序必須是喉鎖→腹鎖→根鎖；順序錯了會出現嗆咳或胸口壓迫感，那就是陽性訊號。",
+      "tight": [
+        "頸椎有椎間盤突出、狹窄、揮鞭症或術後者不宜做完整喉鎖，改做輕喉鎖或省略",
+        "高血壓者不宜長時間閉氣配合喉鎖；低血壓者鬆鎖後容易頭暈，需緩慢起身",
+        "頭往前掉而不是下巴內收，後頸被拉長成折角、上斜方肌代償聳肩",
+        "胸骨沒有上提，導致喉部被壓到無法吞嚥、呼吸道被夾住",
+        "三鎖鬆開順序顛倒（先鬆根鎖或腹鎖），造成嗆咳與腹壓亂竄"
+      ],
+      "weak": [
+        "頸深屈肌的控制（下巴內收而不聳肩）",
+        "胸椎伸展與胸骨上提的能力",
+        "閉氣時的血壓與心率調節耐受",
+        "三個鎖的先後啟動與先後鬆開的順序感"
+      ],
+      "lesson": {
+        "title": "What are the Bandhas with Rod Stryker",
+        "channel": "Yoga International",
+        "url": "https://www.youtube.com/watch?v=eSLi1IjCfw8",
+        "duration": "10:53",
+        "why": "Rod Stryker 是 ParaYoga 創辦人、喜馬拉雅傳承的資深教師，這支把三個鎖放在同一個能量架構下說明「為什麼要合一、合一時的順序」，正好是本單元的主軸；單看某一個鎖的教學片無法給出這層。"
+      },
+      "drills": [
+        {
+          "name": "喉鎖細部拆解",
+          "en": "Jalandhara Bandha Breakdown",
+          "kind": "align",
+          "target": "頸椎、胸椎、呼吸控制",
+          "dose": "跟著做 5 次，每次維持一個吐氣長度",
+          "title": "Jalandhara Bandha Detailed Explanation | Bandhas with Michaël Bijker",
+          "channel": "Michael Bijker - Life Awareness Project",
+          "url": "https://www.youtube.com/watch?v=nt2tIXu-puM",
+          "duration": "3:43"
+        },
+        {
+          "name": "輕喉鎖（頸椎受限版）",
+          "en": "Laghu Jalandhara Bandha",
+          "kind": "modify",
+          "target": "頸椎、胸椎",
+          "dose": "每次呼吸法練習前先做 3 次輕喉鎖",
+          "title": "Laghu Jalandhara Bandha",
+          "channel": "Yoga Übungsvideos – Yoga Vidya",
+          "url": "https://www.youtube.com/watch?v=LZX8PP_kU7I",
+          "duration": "4:29",
+          "why": "只有 1,879 次觀看，但這是全網少數專門教「輕喉鎖」的影片——頸椎有狀況、或做完整喉鎖會壓到喉嚨的人，需要的正是這個版本，其教學價值遠高於觀看數。Yoga Vidya 是德語區的 Sivananda 系統教學平台。"
+        },
+        {
+          "name": "喉鎖的兩種做法（中文）",
+          "en": "Two Forms of the Throat Lock (Mandarin)",
+          "kind": "align",
+          "target": "頸椎、胸口、呼吸控制",
+          "dose": "看完後對照自己習慣的版本，選一種固定練",
+          "title": "No. 412    喉輪太重要了❗️但喉鎖有二種，你練哪一種？我建議練「這個」❗️",
+          "channel": "Quietravelog",
+          "url": "https://www.youtube.com/watch?v=dPyYWrYMkdM",
+          "duration": "15:52",
+          "why": "標題偏誇張，但內容確實在比較「完整喉鎖」與「輕喉鎖」兩種做法的適用對象，是這個題材少見的繁中長篇講解；觀看數 8,686 在中文喉鎖影片中已屬最高一批。"
+        },
+        {
+          "name": "Maha Bandha 三鎖合一",
+          "en": "Maha Bandha",
+          "kind": "deepen",
+          "target": "骨盆底、橫膈、頸椎、呼吸控制",
+          "dose": "空腹，閉氣 5–8 秒 × 3 輪，鬆鎖順序喉→腹→根",
+          "title": "Maha Bandha Explained | Bandhas with Michaël Bijker",
+          "channel": "Michael Bijker - Life Awareness Project",
+          "url": "https://www.youtube.com/watch?v=tPILvcTwQRQ",
+          "duration": "4:29"
+        },
+        {
+          "name": "呼吸與鎖印十分鐘課",
+          "en": "10 Minute Breath and Bandhas Class",
+          "kind": "follow",
+          "target": "呼吸控制、核心、專注",
+          "dose": "完整跟練一次，每週 2–3 次",
+          "title": "10 Minute Yoga Workout Class For Breath and Bandhas | Fightmaster Yoga Videos",
+          "channel": "Fightmaster Yoga",
+          "url": "https://www.youtube.com/watch?v=oJclT4wt95E",
+          "duration": "9:14"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u4",
+      "name": "手印 Mudra：Chin、Gyan 與 Prana",
+      "type": "energy",
+      "assessment": "以 chin mudra（掌心向下放膝上、拇指與食指指腹輕觸）靜坐三分鐘，再翻成 gyan mudra（同樣手勢但掌心向上）坐三分鐘，自己記錄兩段的呼吸長度與清醒／昏沉程度。多數人掌心向下較沉穩、掌心向上較清醒——若你完全感覺不到差別，通常是坐姿與呼吸還沒安定，先回去處理坐姿。若手指必須用力互壓到指節發白，或肩膀在三分鐘內從放鬆變成聳起，即為用力過度的陽性徵象：正確的手印是指腹輕觸、手腕自然落在膝上、前臂不出力。",
+      "tight": [
+        "指腹用力互壓、指節發白，前臂與肩膀跟著緊繃",
+        "為了擺手印而聳肩、手肘外撐，反而破壞坐姿",
+        "把手印當成有療效的「按鍵」，忽略它主要的作用是提供一個穩定的注意力錨點",
+        "手放的位置太前或太後，導致骨盆被拉離中立位"
+      ],
+      "weak": [
+        "長時間靜坐時上肢的低張力維持",
+        "細微觸覺回饋與注意力的連結（把手印當作 dharana 的錨）",
+        "手勢／掌心方向與呼吸品質之間的自我觀察能力",
+        "呼吸法時右手的操作穩定度（Vishnu / Nasagra mudra）"
+      ],
+      "lesson": {
+        "title": "Complete Guide to Mudras | Use in Yoga, Meditation & Chakra Balancing | Arhanta Yoga",
+        "channel": "Arhanta Yoga",
+        "url": "https://www.youtube.com/watch?v=UDHknhCXyww",
+        "duration": "7:35",
+        "why": "Arhanta Yoga 是印度／荷蘭的師資培訓學校，這支把手印分成 hasta（手）、mana（頭）、kaya（身）等類別，先給出分類架構再談個別手印，避免落入「一個手印治一種病」的清單式講法。"
+      },
+      "drills": [
+        {
+          "name": "Chin Mudra 的意義與做法",
+          "en": "Chin Mudra",
+          "kind": "align",
+          "target": "專注、放鬆與副交感",
+          "dose": "靜坐 3 分鐘，掌心向下",
+          "title": "Chin Mudra - Fascinating Philosophy Behind Practice",
+          "channel": "Samyak Institute of Yoga & Ayurveda",
+          "url": "https://www.youtube.com/watch?v=Tg-J8gNGHzU",
+          "duration": "1:57"
+        },
+        {
+          "name": "Prana Mudra 分解與注意事項",
+          "en": "Prana Mudra",
+          "kind": "align",
+          "target": "專注、呼吸控制",
+          "dose": "雙手同時，靜坐 5 分鐘",
+          "title": "Prana Mudra : A Step by Step Guide, Benefits & Precaution |Episode 13|  Gangothri Yogini",
+          "channel": "Hamsa Yoga Foundation (R)",
+          "url": "https://www.youtube.com/watch?v=gVt_9IZ3jfw",
+          "duration": "3:06",
+          "why": "觀看數僅 7,319，但這是少數會把 precaution 講出來、而不是只列一堆療效的 prana mudra 教學，手指擺放也拍得清楚。"
+        },
+        {
+          "name": "呼吸法用的 Vishnu Mudra",
+          "en": "Vishnu Mudra for Pranayama",
+          "kind": "align",
+          "target": "呼吸控制、手腕",
+          "dose": "配合鼻孔交替呼吸 10 個循環",
+          "title": "Vishnu Mudra Hand Position for Pranayama with David Garrigues",
+          "channel": "Asana Kitchen with David Garrigues",
+          "url": "https://www.youtube.com/watch?v=LlRnz7T1kq8",
+          "duration": "2:21",
+          "why": "David Garrigues 是資深 Ashtanga 認證教師，這支只講一件事——鼻孔交替呼吸時右手到底怎麼擺才不會聳肩、不會壓歪鼻中隔——正是初學者最常做錯的細節。7,181 觀看，但這個題目本來就沒有大流量影片。"
+        },
+        {
+          "name": "呼吸法中的手印應用",
+          "en": "Pranayama Hand Mudras",
+          "kind": "deepen",
+          "target": "呼吸控制、專注",
+          "dose": "挑一個手印配合 5 分鐘呼吸練習",
+          "title": "Pranayama Hand Mudras by Richard Miller PhD",
+          "channel": "IRISourceYoga",
+          "url": "https://www.youtube.com/watch?v=T9aIFqtcF18",
+          "duration": "5:07",
+          "why": "Richard Miller 是 iRest 瑜伽休息術的創建者、臨床心理學博士，他談手印時是從注意力與身體感受的角度切入，跟一般把手印講成能量開關的說法很不一樣。"
+        },
+        {
+          "name": "手印＋鎖印＋呼吸整合課",
+          "en": "Guided Pranayama, Mudra & Bandha Sequence",
+          "kind": "follow",
+          "target": "呼吸控制、專注、放鬆與副交感",
+          "dose": "完整跟練一次，空腹",
+          "title": "Guided 20 min Pranayama, mudras, bandhas & meditation sequence.",
+          "channel": "Bend it Like LD",
+          "url": "https://www.youtube.com/watch?v=dBfFTLlbw40",
+          "duration": "25:18",
+          "why": "整章唯一一支把手印、鎖印與呼吸法串成完整引導序列的影片，正好當本章的整合練習。"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u5",
+      "name": "Trataka 凝視法",
+      "type": "energy",
+      "assessment": "把蠟燭放在正前方、火焰高度與眼睛齊平、距離約一臂長，室內無風。凝視 60 秒盡量不眨眼，然後閉眼觀察殘像停留多久。若 60 秒內眼睛就開始刺痛、流淚不止或必須用力瞪大，代表距離太近、環境太乾或你在「用力看」，應縮短到每輪 20–30 秒。合格標準：能在不刻意用力的狀態下維持 1 分鐘、閉眼後殘像至少停留 10 秒、睜眼後視線在 30 秒內恢復清晰。凝視後若出現持續超過 10 分鐘的視力模糊、眼痛或頭痛，就要停止並重新評估是否適合。",
+      "tight": [
+        "青光眼、視網膜疾患、嚴重乾眼症者不宜長時間凝視；癲癇患者要避開任何閃爍光源，燭火搖晃即屬此類",
+        "戴隱形眼鏡練習，眼球更乾更容易刺痛——建議取下再練",
+        "用力瞪大眼睛、皺眉、額頭出力，把凝視做成對抗",
+        "火焰太近或有風而不斷晃動，眼睛被迫追焦，反而更累",
+        "一次練太久（超過 10 分鐘連續凝視）造成眼睛不適與頭痛"
+      ],
+      "weak": [
+        "單點專注（dharana）的持續時間",
+        "眼球固視的穩定度與眨眼衝動的耐受",
+        "閉眼後對殘像／內在影像的觀察力",
+        "從外在對象轉向內在對象的注意力轉移能力"
+      ],
+      "lesson": {
+        "title": "The Yogic Practice for Laser Sharp Focus & Clear Vision: Trataka Meditation",
+        "channel": "Satvic Yoga",
+        "url": "https://www.youtube.com/watch?v=ssCk4aQhtxg",
+        "duration": "9:55",
+        "why": "把環境佈置、蠟燭距離高度、每輪時間、外部凝視轉內部凝視的完整流程一次講完，是這個冷門主題裡結構最完整的一支。標題的「clear vision」屬宣傳語，請把它當專注力訓練而非視力療法看待。"
+      },
+      "drills": [
+        {
+          "name": "Trataka 技法拆解",
+          "en": "Trataka Kriya Breakdown",
+          "kind": "align",
+          "target": "專注",
+          "dose": "凝視 30 秒 × 3 輪，中間閉眼休息",
+          "title": "Improve Your Eyesight Naturally & Sharpern your Focus | Trataka Kriya",
+          "channel": "The Yoga Institute",
+          "url": "https://www.youtube.com/watch?v=0R5fto2vCns",
+          "duration": "5:48",
+          "why": "The Yoga Institute（孟買，1918 年創立）是現存最老的瑜伽機構之一，講法保守、步驟明確，適合當作傳統版本的對照。"
+        },
+        {
+          "name": "醫師引導的凝視練習",
+          "en": "Guided Trataka with Dr. K",
+          "kind": "follow",
+          "target": "專注、放鬆與副交感",
+          "dose": "完整跟練一次",
+          "title": "Guided Trataka Meditation with Dr. K",
+          "channel": "Not HealthyGamerGG",
+          "url": "https://www.youtube.com/watch?v=snt1i5_1uhY",
+          "duration": "6:11",
+          "why": "引導者是精神科醫師，會提醒「眼睛想眨就眨、不要對抗」，對容易把凝視做成硬撐的人是重要的校正。"
+        },
+        {
+          "name": "十分鐘燭光凝視引導",
+          "en": "10-Minute Candle Gazing",
+          "kind": "follow",
+          "target": "專注",
+          "dose": "跟練一次，睡前或晨起",
+          "title": "Tratak Meditation | Candle Gazing Meditation | 10 Mins Guided Mediation for Relaxation | Bharti Yoga",
+          "channel": "Bharti Yoga",
+          "url": "https://www.youtube.com/watch?v=yp58DGsNUWE",
+          "duration": "8:57"
+        },
+        {
+          "name": "散焦凝視替代版（中文）",
+          "en": "Defocused Gazing Variation (Mandarin)",
+          "kind": "modify",
+          "target": "專注、放鬆與副交感",
+          "dose": "以散焦方式凝視牆面一點 5 分鐘",
+          "title": "散焦凝視法 I 你所忽略的冥想技巧 I 讓冥想事半功倍 🧘‍♀️㊙ 冥想睡著了 畫面不見了 怎麼辦？＃推薦影片 ＃冥想 ＃靈性生活",
+          "channel": "三眼瑜珈士 ",
+          "url": "https://www.youtube.com/watch?v=us-Y_ztLcgI",
+          "duration": "22:24",
+          "why": "眼睛乾澀、或有光敏感／癲癇顧慮而不能盯燭火的人，散焦凝視是可行的替代路徑。6,640 觀看在繁中凝視法影片裡已屬前段，且是少數不用燭火的版本。"
+        },
+        {
+          "name": "凝視法的進階與原理",
+          "en": "The Depth of Trataka",
+          "kind": "deepen",
+          "target": "專注",
+          "dose": "看完後把練習延長到外部 3 分鐘＋內部 5 分鐘",
+          "title": "The Simplicity & Power Of Trataka Meditation | With Dr Vignesh Devraj",
+          "channel": "Dr. Vignesh Devraj",
+          "url": "https://www.youtube.com/watch?v=556Ld9n32is",
+          "duration": "7:35",
+          "why": "阿育吠陀醫師的講法，把重點放在「外部凝視只是入口，真正的練習在閉眼之後」，補上前面幾支跟練影片沒說清楚的進程。"
+        }
+      ]
+    },
+    {
+      "id": "ch7-u6",
+      "name": "Jala Neti 洗鼻與清潔法",
+      "type": "energy",
+      "assessment": "先做乾式測試：頭側傾約 45 度，用手指壓住上側鼻孔，只從下側鼻孔慢慢呼吸。若下側鼻孔完全吸不到氣，代表當下鼻塞或有結構性阻塞，今天不要洗。正式洗鼻的合格標準是——水從上側鼻孔進、從下側鼻孔穩定流出成一條線，過程中你能持續張嘴用口呼吸而不需要停下來吞嚥或嗆咳。若水流到喉嚨、或洗完耳朵有悶塞感，代表頭部前傾角度不夠、或水壓太大，要把額頭再低一點並降低擠壓力道。洗完務必把殘水排乾（前彎轉頭各側 5 次），否則殘留鹽水會滴鼻。",
+      "tight": [
+        "用未煮沸的自來水或濾水器水沖洗——美國曾有使用自來水洗鼻導致福氏耐格里阿米巴腦膜腦炎死亡的案例，務必用煮沸放涼、蒸餾或無菌水",
+        "鹽水濃度或溫度不對：純清水會刺痛，太濃會乾澀，過冷過熱都會嗆",
+        "頭抬太高導致水流進咽喉與耳咽管，可能引發耳悶或中耳問題；急性中耳炎、鼻中隔嚴重偏曲、鼻部或耳部手術後不宜",
+        "洗的過程中用鼻子吸氣或吞嚥，最容易嗆水",
+        "洗完沒有排乾殘水就低頭或躺下",
+        "鼻塞很嚴重、正在流鼻血或有鼻腔外傷時仍勉強沖洗"
+      ],
+      "weak": [
+        "洗鼻時的口呼吸維持（軟顎關閉咽喉的協調）",
+        "頭部角度與水壓的自我調節",
+        "鼻腔通氣的自我監測（左右鼻孔輪替的觀察）",
+        "把清潔法納入固定作息的習慣建立"
+      ],
+      "lesson": {
+        "title": "洗鼻子全攻略！誰需要洗鼻子？不敢用洗鼻器也能洗的祕訣是？│黃瑽寧x剪接師【鼻子健康系列EP5】",
+        "channel": "Talk with Dr. TN Huang",
+        "url": "https://www.youtube.com/watch?v=XBc7f44BAqs",
+        "duration": "12:06",
+        "why": "黃瑽寧是小兒科醫師，這支從「誰需要洗、誰不需要洗」講起，涵蓋鹽水濃度、水源安全、器材選擇與怕嗆水者的替代做法，是把 Jala Neti 放回醫學安全框架裡最完整的繁中影片。"
+      },
+      "drills": [
+        {
+          "name": "瑜伽式洗鼻壺操作",
+          "en": "Jala Neti with a Neti Pot",
+          "kind": "align",
+          "target": "呼吸控制",
+          "dose": "每側 250 ml，晨起空腹一次",
+          "title": "Jala Neti for beginners - How to use a neti pot | Aham Yoga |",
+          "channel": "Aham Yoga",
+          "url": "https://www.youtube.com/watch?v=MzBThyXeR_M",
+          "duration": "4:47",
+          "why": "傳統瑜伽洗鼻壺的完整流程示範：頭部角度、張嘴呼吸、換邊、最後的排水甩水都拍出來了。"
+        },
+        {
+          "name": "無痛洗鼻法（不嗆水）",
+          "en": "Painless Nasal Irrigation Technique",
+          "kind": "modify",
+          "target": "呼吸控制",
+          "dose": "先用小水量練 3 次找到不嗆的角度",
+          "title": "【洗鼻教學】洗鼻總是嗆到？「無痛洗鼻法」大公開｜張醫師診後十分鐘 / 第3集",
+          "channel": "張耕閤耳鼻喉專科",
+          "url": "https://www.youtube.com/watch?v=bwyvqs57Ayc",
+          "duration": "6:36",
+          "why": "耳鼻喉科醫師專門處理「一洗就嗆」這個最常見的失敗點，示範角度與吐氣時機的修正——這正是多數人放棄洗鼻的原因。"
+        },
+        {
+          "name": "水源安全與阿米巴風險",
+          "en": "Neti Pot Water Safety",
+          "kind": "align",
+          "target": "呼吸控制",
+          "dose": "練習前必看一次，並確認你的水源",
+          "title": "Neti Pot and brain eating bacteria! Proper Use!",
+          "channel": "The Fresh Pharmacist",
+          "url": "https://www.youtube.com/watch?v=Hh45M0oVhzg",
+          "duration": "4:46",
+          "why": "把自來水洗鼻導致阿米巴腦膜腦炎的實際風險、以及煮沸／蒸餾水的正確處理方式講清楚。這是本單元唯一不可跳過的安全前提。"
+        },
+        {
+          "name": "生理食鹽水的自製比例",
+          "en": "Making Saline Solution",
+          "kind": "align",
+          "target": "呼吸控制",
+          "dose": "照比例配一次，記下你不刺痛的濃度",
+          "title": "How to Make a Nasal Saline Solution",
+          "channel": "Dr. Shellenberger",
+          "url": "https://www.youtube.com/watch?v=zQd3Hxu1iNw",
+          "duration": "3:22",
+          "why": "鹽水濃度配錯是刺痛與乾澀的主因，這支給出可重複的配方比例與水的處理方式。"
+        },
+        {
+          "name": "Sutra Neti 線繩洗鼻",
+          "en": "Sutra Neti",
+          "kind": "deepen",
+          "target": "呼吸控制",
+          "dose": "先熟練 Jala Neti 三個月後再嘗試，最好有教師在場",
+          "title": "Sutra Neti Kriya: Advanced Nasal Cleansing for Sinusitis, Asthma, Rhinitis & Migraine Relief",
+          "channel": "The Yoga Institute",
+          "url": "https://www.youtube.com/watch?v=olzSu7Bp5ag",
+          "duration": "5:21",
+          "why": "六淨化法裡 Jala Neti 之後的進階版本，放在這裡是讓讀者知道進程存在、以及為什麼它需要指導才做；不建議自學。"
+        }
+      ]
+    }
+  ]
+}

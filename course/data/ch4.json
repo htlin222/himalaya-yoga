@@ -1,0 +1,846 @@
+{
+  "chapter": "CH4",
+  "title": "體式二：坐姿、前彎與扭轉",
+  "units": [
+    {
+      "id": "ch4-u1",
+      "name": "坐姿基礎：簡易坐、金剛坐與蓮花座",
+      "type": "asana",
+      "assessment": "背靠牆坐在平地上，兩腿隨意交叉，雙手放膝上不撐地。看兩件事：一是腰背能不能貼著牆維持自然弧度不塌成 C 字，二是兩邊膝蓋離地多高。若腰立刻圓掉、或膝蓋高過肚臍高度，代表髖與腿後側的限制還撐不住這個坐姿——請坐上折疊毯或磚，把坐骨墊到膝蓋明顯低於髖的高度再測一次。能坐直就用那個高度當日常打坐高度，不要為了「盤得漂亮」硬坐平地。另外把小腿交叉點放在腳踝前方而不是壓在對側膝上，兩分鐘後檢查腳掌有沒有發麻，有就是壓迫，需要再墊高或改跪坐。",
+      "tight": [
+        "為了求盤腿（尤其雙盤）而讓膝關節承受旋轉與側向拉力，膝內側刺痛卻繼續坐",
+        "骨盆後傾、腰椎塌成 C 字，用駝背換來「腿放得下去」",
+        "坐骨沒墊高就硬坐平地，撐不到五分鐘就開始前後晃、下巴前伸",
+        "金剛坐時腳背沒放平、腳踝擠壓或整個人往後倒",
+        "腳掌壓在對側大腿根，兩三分鐘就發麻卻當成「氣血在通」"
+      ],
+      "weak": [
+        "髖關節外旋與屈曲的活動度，讓大腿骨能沉下去而不是靠膝蓋代償",
+        "骨盆維持中立（坐骨向下、恥骨與髂前上棘同一垂直面）的能力",
+        "脊椎在無支撐下維持直立的耐力，為後面所有坐姿呼吸與冥想打底",
+        "分辨「肌肉伸展感」與「關節被擠壓」的自我覺察"
+      ],
+      "lesson": {
+        "why": "整支課就在處理「身體僵硬的人怎麼坐下來」這件事：從坐骨墊高、腳踝擺位到髖的準備動作逐步帶，示範對象就是坐不住的初學者，比單純講體式的教學更貼近本單元的真實痛點。",
+        "title": "How To Sit Cross Legged In Sukhasana Easy Pose - DAY 5 - Beginners Yoga For Inflexible People",
+        "channel": "Yoga With Bird",
+        "url": "https://www.youtube.com/watch?v=s9av96oNAOk",
+        "duration": "22:49"
+      },
+      "drills": [
+        {
+          "name": "簡易坐正位拆解",
+          "en": "Sukhasana alignment",
+          "kind": "align",
+          "target": "髖關節、骨盆底、腰椎",
+          "dose": "坐 3–5 分鐘，中途換腿一次",
+          "title": "Sukhasana (The Easy Pose) - Yoga With Adriene",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=zLvJD7iKVhw",
+          "duration": "8:07"
+        },
+        {
+          "name": "金剛坐與腳踝安置",
+          "en": "Vajrasana setup",
+          "kind": "align",
+          "target": "膝關節、腳踝、腰椎",
+          "dose": "餐後坐 5 分鐘，感覺腳背與膝蓋",
+          "title": "How to do Vajrasana (Thunderbolt Pose)| Benefits & Precautions of Vajrasana",
+          "channel": "Yoga Chaitanya",
+          "url": "https://www.youtube.com/watch?v=YTTD8sevTQ8",
+          "duration": "12:35"
+        },
+        {
+          "name": "蓮花座的膝蓋保護三步驟",
+          "en": "Padmasana knee safety",
+          "kind": "align",
+          "target": "膝關節、髖關節",
+          "dose": "只做準備動作，每側 60 秒 × 2 輪",
+          "title": "Padmasana (Lotus) and Knee Pain | The 3 Step Technique | Ashtanga Yoga",
+          "channel": "Ethan Ashtanga",
+          "url": "https://www.youtube.com/watch?v=fJ3k4PElVeU",
+          "duration": "9:12"
+        },
+        {
+          "name": "坐骨墊高與無痛盤腿",
+          "en": "Prop-supported cross-legged sitting",
+          "kind": "modify",
+          "target": "髖關節、臀部、腰椎",
+          "dose": "用磚或折疊毯調高度，坐 5 分鐘測試",
+          "title": "How to Sit CROSS-LEGGED ✨ No More Pain!!",
+          "channel": "Yoga with Joelle",
+          "url": "https://www.youtube.com/watch?v=JUlUCXH7xL4",
+          "duration": "4:13"
+        },
+        {
+          "name": "為打坐開髖的完整序列",
+          "en": "Hip opening for meditation seat",
+          "kind": "follow",
+          "target": "髖關節、內收肌、腿後側",
+          "dose": "每週 3 次，跟完整支",
+          "title": "How to Sit in Meditation - Open Your Hips!",
+          "channel": "YOGABODY",
+          "url": "https://www.youtube.com/watch?v=e6fFsXlRkyA",
+          "duration": "16:14"
+        },
+        {
+          "name": "16 分鐘坐姿開胸開髖",
+          "en": "16 min seated stretch",
+          "kind": "follow",
+          "target": "髖關節、胸口、脊椎活動度",
+          "dose": "每週 2–3 次，跟完整支",
+          "title": "16分鐘坐著伸展- 瑜伽開胸開髖｛免用瑜伽墊｝16 min sitting yoga stretch { Flow with Katie }",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=4cvTiYr-4nE",
+          "duration": "16:26"
+        },
+        {
+          "name": "雙盤前導：五要素與七個準備動作",
+          "en": "Full lotus preparation",
+          "kind": "deepen",
+          "target": "髖關節、膝關節、腳踝",
+          "dose": "先做準備動作 4 週再談雙盤",
+          "title": "【蓮花坐 / 雙盤】20分鐘 正確雙盤5要素，7個準備動作，預防膝蓋痛︱活化髖部、滋養骨盆腔！ (Padmasana / Lotus Pose )",
+          "channel": "許庭甄 Evelyn yoga",
+          "url": "https://www.youtube.com/watch?v=INTPK1OS50g",
+          "duration": "21:12"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u2",
+      "name": "手杖式與坐姿前彎 Paschimottanasana",
+      "type": "asana",
+      "assessment": "坐在地上雙腿伸直併攏、雙手放身側地面，這就是手杖式。若骨盆無法自行維持中立、腰椎立刻後凸圓背、必須用手撐地才勉強坐住，就代表目前腿後側限制大於脊椎問題——坐上一塊磚或折疊毯再試一次，能坐直就照這個高度練，不要硬坐平地。接著前彎：手不抓腳，改用伸展帶勾腳掌，往前倒到「胸口仍能離開大腿、背還是直的」那一點就停，這個角度才是你真正的訓練區間；如果一往前腰就先彎、下巴先到膝蓋，就是用腰椎彎曲換來的假前彎。",
+      "tight": [
+        "用腰椎彎曲代替髖屈，脊椎捲成 C 字下巴先碰膝",
+        "追求手抓到腳而犧牲脊椎長度，胸口塌陷、呼吸卡住",
+        "膝蓋往下鎖死壓地，腿後側被拉在膝窩而不是肌腹",
+        "骨盆後傾就硬坐平地，坐骨沒墊高卻怪自己柔軟度差",
+        "在前彎最深處閉氣或用彈震式拉，隔天腿後側靠近坐骨處疼痛"
+      ],
+      "weak": [
+        "髖關節前傾（骨盆繞股骨頭轉動）而非彎腰的動作模式",
+        "腿後側肌群在拉長狀態下的耐受度與離心控制",
+        "脊椎在前彎中維持長度、胸骨往前延伸的能力",
+        "股四頭肌主動收縮讓腿後側放鬆（交互抑制）的運用"
+      ],
+      "lesson": {
+        "why": "Iyengar 系統對坐姿前彎的完整拆解，重點放在坐骨墊高、伸展帶、椅子等輔具怎麼配合骨盆前傾，正好對應本單元最常見的「腰彎了髖沒動」問題，而不是把人推到最深處。",
+        "title": "Iyengar Yoga Paschimottanasana--Understanding Seated Forward Bends-Beginner Yoga",
+        "channel": "Desa Yogi Iyengar Yoga",
+        "url": "https://www.youtube.com/watch?v=BWzE9YmRkRY",
+        "duration": "20:22"
+      },
+      "drills": [
+        {
+          "name": "手杖式：坐姿的地基",
+          "en": "Dandasana",
+          "kind": "align",
+          "target": "腰椎、髖關節、股四頭",
+          "dose": "坐 60 秒 × 3 輪，中間起身走動",
+          "title": "Staff Pose - Yoga With Adriene",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=sXz0OCjO3p4",
+          "duration": "6:33"
+        },
+        {
+          "name": "坐姿前彎正位拆解",
+          "en": "Paschimottanasana alignment",
+          "kind": "align",
+          "target": "腿後側、髖關節、腰椎",
+          "dose": "每輪停留 5–8 個呼吸 × 3 輪",
+          "title": "How to do Paschimottanasana? Forward Bending Yoga Pose | How to Touch Your Toes |Seated Forward Bend",
+          "channel": "The Yoga Institute",
+          "url": "https://www.youtube.com/watch?v=E5FtZEVC424",
+          "duration": "4:46"
+        },
+        {
+          "name": "坐姿前彎的五個輔助技巧",
+          "en": "Five props and cues for seated forward bend",
+          "kind": "modify",
+          "target": "腿後側、髖關節、脊椎活動度",
+          "dose": "挑 2 個技巧套進當天練習",
+          "title": "坐姿前彎式 - 5個重要的輔助技巧【cc字幕☑】",
+          "channel": "yogi peter",
+          "url": "https://www.youtube.com/watch?v=ru9nqwqKojc",
+          "duration": "5:44"
+        },
+        {
+          "name": "用瑜伽磚處理緊繃腿後側",
+          "en": "Block-supported forward fold",
+          "kind": "modify",
+          "target": "腿後側、腰椎",
+          "dose": "每次 60–90 秒 × 3 輪",
+          "title": "How To Do Forward Fold For Beginners | Hint: Try Using A Yoga Block To Help With Tight Hamstrings",
+          "channel": "Body By Yoga",
+          "url": "https://www.youtube.com/watch?v=sEBFsU_CnNw",
+          "duration": "2:40"
+        },
+        {
+          "name": "15 分鐘前彎伸展課表",
+          "en": "15 min forward fold routine",
+          "kind": "follow",
+          "target": "腿後側、髖關節、前彎",
+          "dose": "每週 3 次，跟完整支",
+          "title": "【15分鐘】前彎拉筋伸展運動｜解說課表｜啟動人體自癒力！",
+          "channel": "yogi peter",
+          "url": "https://www.youtube.com/watch?v=7lN7y2om3rk",
+          "duration": "19:35"
+        },
+        {
+          "name": "10 分鐘腿後側柔軟度課",
+          "en": "10 min hamstring flexibility routine",
+          "kind": "follow",
+          "target": "腿後側、髖關節",
+          "dose": "每週 3–4 次",
+          "title": "10-Minute Hamstring Flexibility Routine | Yoga for Beginners & Intermediate",
+          "channel": "Emma Forever Yoga ",
+          "url": "https://www.youtube.com/watch?v=k45PViKmSvg",
+          "duration": "13:56"
+        },
+        {
+          "name": "把前彎再往前推的技巧",
+          "en": "Tips to deepen your forward fold",
+          "kind": "deepen",
+          "target": "腿後側、髖關節、前彎",
+          "dose": "在已能維持直背後再加入",
+          "title": "Tips to Deepen Your Forward Fold, Seated or Standing,",
+          "channel": "KelsYogi",
+          "url": "https://www.youtube.com/watch?v=D34DwSdPFmI",
+          "duration": "7:21"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u3",
+      "name": "頭碰膝式與單腿前彎變化",
+      "type": "asana",
+      "assessment": "坐正，右腿伸直、左腳掌貼右大腿內側，雙手先放身側。第一個檢查點：左膝能不能自然落到地面或接近地面？落不下來就在左膝下墊毯子，不要用手把膝蓋壓下去。第二個檢查點：把身體轉正對著右腿再前彎，觀察肚臍是否對準右大腿中線；若軀幹整個偏向外側、右側腰擠成一團，就是骨盆沒轉正，先用手把左臀往後推、右臀往前送再重來。第三：用伸展帶勾右腳掌，能維持背部平直的角度就是你今天的深度，兩側各測一次並比較差異，差很多的那側之後要多練一輪。",
+      "tight": [
+        "用腰椎彎曲代替髖屈，只有背在彎、髖角幾乎沒變",
+        "追求額頭碰膝而犧牲脊椎長度，胸口塌陷、肩膀聳到耳朵",
+        "伸直腿的膝蓋鎖死壓地，拉力全跑到膝窩與坐骨附著點",
+        "彎曲腿那側的臀部翹起、骨盆歪斜，軀幹沒有轉正對齊伸直腿",
+        "用手把彎曲腿的膝蓋硬壓向地板，讓膝內側承受扭力"
+      ],
+      "weak": [
+        "單側髖關節屈曲與外旋分離控制的能力",
+        "骨盆在不對稱姿勢下轉正、兩側坐骨平均承重",
+        "腿後側單側伸展耐受度，並找出左右差異",
+        "在扭轉加前彎（反轉頭碰膝）中同時維持脊椎長度"
+      ],
+      "lesson": {
+        "why": "Ashtanga 系統對 Janu Sirsasana A 的逐步拆解：彎曲腿的角度、骨盆怎麼轉正對齊伸直腿、什麼時候該停，正好治本單元最常見的軀幹歪一邊問題。",
+        "title": "How to do Ashtanga Yoga’s Janu Sirsasana A | Head to Knee Pose A",
+        "channel": "David and Jelena Yoga",
+        "url": "https://www.youtube.com/watch?v=jAOndLJU5wg",
+        "duration": "7:32"
+      },
+      "drills": [
+        {
+          "name": "頭碰膝式初學拆解",
+          "en": "Janu Sirsasana for beginners",
+          "kind": "align",
+          "target": "腿後側、髖關節、前彎",
+          "dose": "每側 5 個呼吸 × 3 輪",
+          "title": "Janu Sirsasana For Beginners | Forward Bending Yoga Pose | How To Do Janusirsasana | Head To Knee",
+          "channel": "Prashantj yoga",
+          "url": "https://www.youtube.com/watch?v=ONgiB6I56EI",
+          "duration": "3:57"
+        },
+        {
+          "name": "頭碰膝式要訣（中文）",
+          "en": "Janu Sirsasana key points",
+          "kind": "align",
+          "target": "腿後側、髖關節、腰椎",
+          "dose": "每側停留 60 秒 × 2 輪",
+          "title": "頭碰膝式/抓住要訣，立馬到位｜YogaAsia 亞洲瑜伽",
+          "channel": "亞洲瑜伽 Yoga Asia",
+          "url": "https://www.youtube.com/watch?v=sX3J0rU5vY4",
+          "duration": "3:48"
+        },
+        {
+          "name": "腿後側緊者的體式調整法",
+          "en": "Modifications for tight hamstrings",
+          "kind": "modify",
+          "target": "腿後側、髖關節、腰椎",
+          "dose": "先看完再決定當天用哪個版本",
+          "title": "How To Modify Yoga Poses For People With Tight Hamstrings | Increase Your Flexibility!",
+          "channel": "Man Flow Yoga",
+          "url": "https://www.youtube.com/watch?v=NMg5BROdnI4",
+          "duration": "11:23"
+        },
+        {
+          "name": "伸展帶的 11 種用法",
+          "en": "How to use a yoga strap",
+          "kind": "modify",
+          "target": "腿後側、肩關節、髖關節",
+          "dose": "每次練習固定用帶輔助 2 個動作",
+          "title": "How to Use a Yoga Strap: 11 Easy Tips",
+          "channel": "FitNCalm Yogic Living",
+          "url": "https://www.youtube.com/watch?v=8oDAM5N9o4w",
+          "duration": "10:05"
+        },
+        {
+          "name": "坐姿前彎五式練習",
+          "en": "Seated forward fold practice sequence",
+          "kind": "follow",
+          "target": "腿後側、髖關節、前彎",
+          "dose": "每週 2–3 次，跟完整支",
+          "title": "How to do a Seated Forward Fold // Practice These 5 Yoga Poses",
+          "channel": "Antara Yoga",
+          "url": "https://www.youtube.com/watch?v=FzTGhkw59ew",
+          "duration": "17:09"
+        },
+        {
+          "name": "反轉頭碰膝式",
+          "en": "Parivrtta Janu Sirsasana",
+          "kind": "deepen",
+          "target": "扭轉、腿後側、胸椎",
+          "dose": "每側 5 個呼吸 × 2 輪",
+          "title": "Parivrtta Janu Sirsasana (Revolved Head-to-Knee Pose)How to Do by Yogi Ritesh- Siddhi Yoga",
+          "channel": "Siddhi Yoga International",
+          "url": "https://www.youtube.com/watch?v=R7l07i8DM3M",
+          "duration": "5:54"
+        },
+        {
+          "name": "頭碰膝式 C：進階足踝變化",
+          "en": "Janu Sirsasana C",
+          "kind": "deepen",
+          "target": "腳踝、膝關節、髖關節",
+          "dose": "膝踝無不適才做，每側 5 個呼吸",
+          "title": "How to do Ashtanga Yoga’s Janu Sirsasana C | Head to Knee Pose C",
+          "channel": "David and Jelena Yoga",
+          "url": "https://www.youtube.com/watch?v=ayZgS-4dhgc",
+          "duration": "10:51"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u4",
+      "name": "束角式與蝴蝶式",
+      "type": "asana",
+      "assessment": "坐正，兩腳掌相對、腳跟往鼠蹊靠，雙手只是輕輕握著腳踝不出力。第一看骨盆：坐骨是否能踩住地面、腰背自行立直？塌下去就墊磚或折疊毯到能坐直為止。第二看膝蓋高度：兩膝離地的高度差多少？差超過一個拳頭表示兩側髖外旋不對稱，較高那側之後多墊一塊瑜伽磚在膝下。第三是關鍵測試：完全放掉雙手、不用手壓膝，讓膝蓋自己往下沉 30 秒，若一鬆手膝蓋就彈高、大腿內側抖動，代表你原本是在用手硬壓——之後就用這個「不用手」的高度練，並在膝下放磚支撐。",
+      "tight": [
+        "用手（或手肘）把膝蓋往下壓，讓內收肌被動拉扯甚至膝內側受力",
+        "骨盆後傾駝背坐，腰椎被拉圓卻以為在開髖",
+        "腳跟拉得太靠近鼠蹊，膝蓋角度過小造成膝關節擠壓",
+        "只追求膝蓋落地的畫面，忽略腳掌外緣翻起與腳踝翻轉",
+        "在痛的區間憋氣硬撐，起身後髖前側或內收肌拉傷般的酸"
+      ],
+      "weak": [
+        "髖關節外旋與外展的主動控制（自己把膝蓋帶下去，不是被壓下去）",
+        "內收肌群在拉長位置下的放鬆與耐受",
+        "骨盆中立坐姿的維持能力",
+        "長時間靜態停留時的呼吸與副交感切換"
+      ],
+      "lesson": {
+        "why": "一步步從暖身、輔具擺放到進入束角式的完整中文課，重點放在骨盆先坐直再談膝蓋高度，正好對應「用手壓膝蓋」這個最常見的錯誤。",
+        "title": "一步步進入蝴蝶坐姿 /束角式 Baddha Konasana",
+        "channel": "Cindy Lin Yoga & Wellness",
+        "url": "https://www.youtube.com/watch?v=rx0ObnopOMQ",
+        "duration": "27:49"
+      },
+      "drills": [
+        {
+          "name": "束角式正位與開髖要點",
+          "en": "Baddha Konasana alignment",
+          "kind": "align",
+          "target": "髖關節、內收肌、骨盆底",
+          "dose": "停留 8–10 個呼吸 × 3 輪",
+          "title": "How to do Baddha Konasana | Bound Angle Pose in Ashtanga Yoga | Tips for Beginner Hip Opening",
+          "channel": "David and Jelena Yoga",
+          "url": "https://www.youtube.com/watch?v=upxHWx0_zfE",
+          "duration": "11:55"
+        },
+        {
+          "name": "蝴蝶式的骨盆穩定（中文）",
+          "en": "Butterfly pose for pelvic health",
+          "kind": "align",
+          "target": "髖關節、骨盆底、內收肌",
+          "dose": "每次 2 分鐘，動態與靜態各半",
+          "title": "蝴蝶式》強健骨盆，預防骨盆破裂｜YogaAsia 亞洲瑜伽",
+          "channel": "亞洲瑜伽 Yoga Asia",
+          "url": "https://www.youtube.com/watch?v=6VZhiIK_J9o",
+          "duration": "7:57"
+        },
+        {
+          "name": "瑜伽磚版束角式",
+          "en": "Block-supported bound angle",
+          "kind": "modify",
+          "target": "髖關節、內收肌、腰椎",
+          "dose": "膝下與坐骨各墊一塊，停 2 分鐘",
+          "title": "【MukasaYoga】瑜珈磚初階 EP6 - 束角式超Easyｘ入門新手OK！#初學者友善 #放鬆髖關節",
+          "channel": "Mukasa",
+          "url": "https://www.youtube.com/watch?v=AASg22Yg6II",
+          "duration": "1:37"
+        },
+        {
+          "name": "仰臥束角式",
+          "en": "Supta Baddha Konasana",
+          "kind": "modify",
+          "target": "髖關節、內收肌、放鬆與副交感",
+          "dose": "膝下墊物，仰臥停留 3–5 分鐘",
+          "title": "Supta Baddha Konasana || Reclining Bound Angle Pose || Reclined Goddess Pose || Reclining Butterfly",
+          "channel": "Shammis Yogalaya",
+          "url": "https://www.youtube.com/watch?v=KJ_Ce1lynCw",
+          "duration": "4:23"
+        },
+        {
+          "name": "15 分鐘髖與下背陰瑜伽",
+          "en": "15 min yin for hips and lower back",
+          "kind": "follow",
+          "target": "髖關節、臀部、腰椎",
+          "dose": "每週 2–3 次，睡前跟完",
+          "title": "15 Min Yin Yoga for Hips & Lower Back l Gentle Release & Stretch",
+          "channel": "Travis Eliot",
+          "url": "https://www.youtube.com/watch?v=zxlrQsNRqUI",
+          "duration": "16:37"
+        },
+        {
+          "name": "髖與腿後側陰瑜伽長課",
+          "en": "Yin yoga for hips and hamstrings",
+          "kind": "follow",
+          "target": "髖關節、腿後側、放鬆與副交感",
+          "dose": "每週 1 次，跟完整支",
+          "title": "Yin Yoga for Flexibility - HIPS & HAMSTRINGS",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=gYc7ak-H6_g",
+          "duration": "38:16"
+        },
+        {
+          "name": "束角式深化與前彎變化",
+          "en": "Baddha Konasana deepening",
+          "kind": "deepen",
+          "target": "髖關節、內收肌、前彎",
+          "dose": "膝蓋能自行貼近地面後再練",
+          "title": "Baddha Konasana (Bound Angle Pose) Tutorial | Encyclopedia of Yoga with Kino MacGregor",
+          "channel": "Omstars",
+          "url": "https://www.youtube.com/watch?v=oTnRg6k6Sr8",
+          "duration": "15:42"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u5",
+      "name": "坐姿扭轉 Ardha Matsyendrasana",
+      "type": "asana",
+      "assessment": "坐在椅子或地上，雙手抱胸交叉放在肩膀上（把手臂從等式裡拿掉），骨盆與雙腳固定不動，只靠軀幹往右轉到底，用眼睛記下對準牆上的哪個點；換左邊做一次。這個「不用手」的角度才是你真正的扭轉活動度——如果加上手抓膝蓋能多轉一大截，代表平常都是用手臂把自己拉過去的。第二個檢查：轉到底時，坐骨有沒有一邊離地、腰有沒有塌？離地或塌陷就把坐骨墊高再測。第三：轉的時候先看肚臍再看胸口最後才轉頭，若你一開始就先甩頭，那扭轉是從頸椎開始的，順序要重來。",
+      "tight": [
+        "用手臂把自己扭過去，胸椎其實沒動、肩膀被拉歪",
+        "扭轉時脊椎塌陷變短，腰椎被壓縮而不是繞著長軸旋轉",
+        "下巴過度轉動帶動頸椎，用轉頭的幅度冒充脊椎旋轉",
+        "後方坐骨離地、骨盆跟著轉，把髖的動作算成扭轉幅度",
+        "只追求外觀角度，呼吸憋住、肋骨無法隨吸氣擴張"
+      ],
+      "weak": [
+        "胸椎旋轉活動度（腰椎本來就只有約 5 度可轉）",
+        "骨盆與雙腿穩定固定、軀幹獨立旋轉的分離控制",
+        "在旋轉中維持脊椎長度、吸氣延伸吐氣加深的節奏",
+        "左右旋轉差異的覺察與調整"
+      ],
+      "lesson": {
+        "why": "整支在講半魚王式的常見錯誤怎麼修正——從坐骨承重、下方腿的擺放到手臂該扮演支撐而不是槓桿，示範拆得慢且逐項對照錯誤版本。",
+        "title": "CORRECT TODAY YOUR ARDHA MATSYENDRASANA | HALF SPINAL TWIST | SITTING TWIST | @PrashantjYoga",
+        "channel": "Prashantj yoga",
+        "url": "https://www.youtube.com/watch?v=W4rTLSu3Qo0",
+        "duration": "15:41"
+      },
+      "drills": [
+        {
+          "name": "半魚王式完整解析",
+          "en": "Ardha Matsyendrasana breakdown",
+          "kind": "align",
+          "target": "扭轉、胸椎、腰椎",
+          "dose": "每側 5 個呼吸 × 3 輪",
+          "title": "Everything about Ardha Matsyendrasana 1 with David Meloni",
+          "channel": "Roads To Bliss",
+          "url": "https://www.youtube.com/watch?v=euxFaOVzwYA",
+          "duration": "8:07"
+        },
+        {
+          "name": "坐姿扭轉的基本正位",
+          "en": "Half spinal twist basics",
+          "kind": "align",
+          "target": "扭轉、胸椎、髖關節",
+          "dose": "每側停留 30–45 秒 × 2 輪",
+          "title": "How To Do HALF SPINAL TWIST POSE | ARDHA MATSYENDRASANA | Strengthen Spine | Simple Yoga Lessons",
+          "channel": "Mind Body Soul",
+          "url": "https://www.youtube.com/watch?v=wJpyMgbxytU",
+          "duration": "4:27"
+        },
+        {
+          "name": "椅子版脊椎扭轉",
+          "en": "Chair yoga spinal twist",
+          "kind": "modify",
+          "target": "扭轉、胸椎、腰椎",
+          "dose": "上班每 2 小時做一輪，每側 30 秒",
+          "title": "Yoga Techniques - Chair Yoga for Spine Health",
+          "channel": "UKHealthCare",
+          "url": "https://www.youtube.com/watch?v=dwjZQD55994",
+          "duration": "7:24"
+        },
+        {
+          "name": "10 分鐘椅子瑜伽（髖與下背）",
+          "en": "10 min chair yoga for hips and lower back",
+          "kind": "modify",
+          "target": "髖關節、腰椎、扭轉",
+          "dose": "久坐日每天一次",
+          "title": "10 minute CHAIR Yoga for Beginners, Seniors & Desk Workers | Tight Hips & Lower Back",
+          "channel": "SarahBethYoga",
+          "url": "https://www.youtube.com/watch?v=tWxKPB1uApU",
+          "duration": "12:26"
+        },
+        {
+          "name": "30 分鐘扭轉流動",
+          "en": "30 min spinal twist vinyasa",
+          "kind": "follow",
+          "target": "扭轉、胸椎、核心",
+          "dose": "每週 1–2 次，跟完整支",
+          "title": "30 min Intermediate Vinyasa Flow - SPINAL TWISTS",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=JHzxyyOxW5s",
+          "duration": "34:28"
+        },
+        {
+          "name": "20 分鐘扭轉伸展課",
+          "en": "20 min twist and stretch practice",
+          "kind": "follow",
+          "target": "扭轉、脊椎活動度、髖關節",
+          "dose": "每週 2 次",
+          "title": "Yoga For Detox (20 MIN Twist, Stretch and Move)",
+          "channel": "Fightmaster Yoga",
+          "url": "https://www.youtube.com/watch?v=AnmPvNKcpfU",
+          "duration": "20:38"
+        },
+        {
+          "name": "聖哲馬里奇式 C 完整教學",
+          "en": "Marichyasana C",
+          "kind": "deepen",
+          "target": "扭轉、胸椎、肩關節",
+          "dose": "能不用手維持脊椎長度後再練",
+          "title": "Marichyasana c 完整教學  - Vino 與 陳意涵",
+          "channel": "Space",
+          "url": "https://www.youtube.com/watch?v=sN2hqWsucM0",
+          "duration": "15:46"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u6",
+      "name": "仰臥扭轉與脊椎減壓",
+      "type": "asana",
+      "assessment": "仰臥，雙臂側平舉貼地成 T 字，雙膝彎曲併攏抬起，慢慢往右倒。檢查兩件事：左肩胛骨有沒有離開地面？膝蓋還沒落地肩膀就翻起來，代表你已經超過目前的活動度——請在膝蓋下方墊抱枕或折疊毯，讓膝蓋有支撐、肩膀回到地面，那才是有效的位置。第二：倒下去時腰椎有沒有從地面拱起、肋骨前緣有沒有翹出來？有的話把膝蓋往胸口再收一點再倒。停留時每次吐氣觀察膝蓋是否自然再沉一點，若三個呼吸後完全沒變化、只有拉扯感沒有放鬆感，就是位置太深，退回來一格。",
+      "tight": [
+        "為了讓膝蓋落地而讓對側肩膀離地，扭轉變成上背翻身",
+        "腰椎從地面拱起、肋骨前緣翹出，用腰椎代償胸椎旋轉",
+        "扭轉時憋氣或呼吸變淺，身體始終無法鬆開",
+        "落地時用彈震或用手壓膝蓋加速，隔天下背更緊",
+        "頭一直轉向膝蓋同側，頸椎跟著擠壓"
+      ],
+      "weak": [
+        "胸椎旋轉活動度與肩胛穩定在地面的分離控制",
+        "腰椎在扭轉中維持中立、不被拉出過度旋轉",
+        "長時間停留下的副交感啟動與呼吸放慢",
+        "腰方肌與臀中肌在被動拉長時的放鬆能力"
+      ],
+      "lesson": {
+        "why": "整堂以仰臥為主的下背舒緩課，扭轉、抱膝與骨盆微調交替出現，節奏慢到可以邊做邊檢查肩膀是否離地，適合當本單元的每日版本。",
+        "title": "15 Min Relaxing Yoga for Lower Back Tension Relief",
+        "channel": "Yoga With Bird",
+        "url": "https://www.youtube.com/watch?v=l9lh0QdyGxo",
+        "duration": "14:34"
+      },
+      "drills": [
+        {
+          "name": "仰臥扭轉 A：屈膝版",
+          "en": "Jathara Parivartanasana A",
+          "kind": "align",
+          "target": "扭轉、腰椎、胸椎",
+          "dose": "每側 8–10 個呼吸 × 2 輪",
+          "title": "Jathara Parivartanasana-A (Supine Spinal Twist-A) Benefits, How to Do by Yogi Ritesh- Siddhi Yoga",
+          "channel": "Siddhi Yoga International",
+          "url": "https://www.youtube.com/watch?v=UHAohS8ia98",
+          "duration": "5:45"
+        },
+        {
+          "name": "仰臥扭轉 B：伸腿版",
+          "en": "Jathara Parivartanasana B",
+          "kind": "align",
+          "target": "扭轉、核心、腰椎",
+          "dose": "每側 5 個呼吸 × 2 輪",
+          "title": "Jathara Parivartanasana-B (Supine Spinal Twist-B) Benefits, How to Do by Yogi Ritesh- Siddhi Yoga",
+          "channel": "Siddhi Yoga International",
+          "url": "https://www.youtube.com/watch?v=AFRuhENwywo",
+          "duration": "4:58"
+        },
+        {
+          "name": "陰瑜伽仰臥扭轉的調整版本",
+          "en": "Reclining twist with modifications",
+          "kind": "modify",
+          "target": "扭轉、腰椎、胸椎",
+          "dose": "膝下墊物，每側停 2–3 分鐘",
+          "title": "Yin Yoga Reclining Twist with modifications",
+          "channel": "Jennifer Raye",
+          "url": "https://www.youtube.com/watch?v=CbKqY5tHueY",
+          "duration": "4:34"
+        },
+        {
+          "name": "抱枕支撐的修復式停留",
+          "en": "Restorative yoga with bolster",
+          "kind": "modify",
+          "target": "腰椎、放鬆與副交感、呼吸控制",
+          "dose": "睡前挑 2 個姿勢各停 5 分鐘",
+          "title": "RESTORATIVE YOGA WITH BOLSTER | restorative yoga 10 minutes",
+          "channel": "Alexia K Yoga",
+          "url": "https://www.youtube.com/watch?v=c6Qweqs8CO4",
+          "duration": "11:21"
+        },
+        {
+          "name": "下背活動度序列",
+          "en": "Lower back mobility",
+          "kind": "follow",
+          "target": "腰椎、薦髂關節、脊椎活動度",
+          "dose": "久坐日下班後跟完整支",
+          "title": "Lower Back Mobility",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=zeWO_635loM",
+          "duration": "11:35"
+        },
+        {
+          "name": "15 分鐘脊椎陰瑜伽",
+          "en": "15 min yin yoga for spine alignment",
+          "kind": "follow",
+          "target": "脊椎活動度、腰椎、放鬆與副交感",
+          "dose": "每週 2–3 次",
+          "title": "15 Min Yin Yoga for Spine Alignment l Gentle Stretch for a Healthy Back",
+          "channel": "Travis Eliot",
+          "url": "https://www.youtube.com/watch?v=ryaTUVNNZyg",
+          "duration": "17:27"
+        },
+        {
+          "name": "仰臥扭轉與開髖組合",
+          "en": "Supine twists and hip openers lab",
+          "kind": "deepen",
+          "target": "扭轉、髖關節、胸椎",
+          "dose": "肩膀能貼地後再加入",
+          "title": "Yoga Asana Lab: Supine Twists & Hip Openers",
+          "channel": "Yogea Yoga",
+          "url": "https://www.youtube.com/watch?v=KtpmlTU8Qx8",
+          "duration": "7:12"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u7",
+      "name": "船式與坐姿核心",
+      "type": "asana",
+      "assessment": "坐在地上屈膝，雙手抱大腿後側，身體後傾到小腿能離地並與地面平行（半船式）。放開雙手停 20 秒，觀察三件事：腰有沒有塌成 C 字往後倒、胸口有沒有掉下來、有沒有憋氣。只要腰一塌就把手放回大腿後側，這代表你今天該練的是半船式而不是全船式。第二個判準：把手放在下腹，正常吐氣不憋——如果一撐起來就自動閉氣、脖子與下巴繃緊往前伸，那負荷已超過核心能承受的範圍，退回屈膝版並縮短停留到 10 秒 × 多輪。腿能伸直但腰塌的人，永遠比腿彎著背直的人退步得快。",
+      "tight": [
+        "腰椎代償：下背拱起或塌陷，靠脊椎而不是腹部撐住",
+        "屏息用力，整段停留幾乎沒有呼吸",
+        "頸部緊繃、下巴前伸，肩膀聳起貼近耳朵",
+        "急著把腿伸直，結果胸口塌陷、整個人往後滾",
+        "只做全船式不練半船式與退階版，導致每次都只能撐幾秒"
+      ],
+      "weak": [
+        "腹橫肌與腹斜肌在等長收縮下的耐力",
+        "髖屈肌（髂腰肌）與核心的協同，而不是互相搶工作",
+        "在核心用力時維持胸椎伸展與胸口開闊",
+        "負荷下維持順暢呼吸節奏的能力"
+      ],
+      "lesson": {
+        "why": "30 分鐘的中文船式系列課，從半船式一路堆疊到全船式與變化，每個階段都給退階選項，適合直接當本單元的主課表操作。",
+        "title": "30分鐘 基礎瑜伽【船式系列】Yoga Basics ★ ★ #肌力提升 #核心力量 #每日瑜伽 #初學者瑜珈",
+        "channel": "Yoga with Jade",
+        "url": "https://www.youtube.com/watch?v=OKfUfi6GSRE",
+        "duration": "32:37"
+      },
+      "drills": [
+        {
+          "name": "船式正位拆解",
+          "en": "Navasana alignment",
+          "kind": "align",
+          "target": "核心、髖關節、腰椎",
+          "dose": "每輪 5 個呼吸 × 3 輪",
+          "title": "How to do Navasana | Boat Pose in Ashtanga Yoga",
+          "channel": "David and Jelena Yoga",
+          "url": "https://www.youtube.com/watch?v=5dUOD0LeU3k",
+          "duration": "7:21"
+        },
+        {
+          "name": "船式練核心（中文）",
+          "en": "Boat pose for beginners",
+          "kind": "align",
+          "target": "核心、腰椎、股四頭",
+          "dose": "每輪 15–20 秒 × 4 輪",
+          "title": "船式練核心 How to do Navasana - Boat Pose for Beginners",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=BRBRjo9_9DA",
+          "duration": "6:53"
+        },
+        {
+          "name": "伸展帶輔助船式",
+          "en": "Boat pose with a strap",
+          "kind": "modify",
+          "target": "核心、腿後側、腰椎",
+          "dose": "帶勾腳掌，每輪 20 秒 × 3 輪",
+          "title": "boat pose using a yoga strap",
+          "channel": "littlekoan",
+          "url": "https://www.youtube.com/watch?v=5N8iNSlyi38",
+          "duration": "2:31"
+        },
+        {
+          "name": "瑜伽磚夾腿版船式",
+          "en": "Boat pose with a block",
+          "kind": "modify",
+          "target": "核心、內收肌、骨盆底",
+          "dose": "大腿夾磚，每輪 20 秒 × 3 輪",
+          "title": "How To Do Boat Pose For Beginners With A Block | Yoga For Abs For Beginners",
+          "channel": "Body By Yoga",
+          "url": "https://www.youtube.com/watch?v=za2Xm8LIfrw",
+          "duration": "1:16"
+        },
+        {
+          "name": "30 分鐘溫和船式核心課",
+          "en": "30 min gentle core flow",
+          "kind": "follow",
+          "target": "核心、腰椎、髖關節",
+          "dose": "每週 2 次，跟完整支",
+          "title": "30分鐘 溫和瑜伽【船式核心】Gentle Flow Yoga ★ ★ #瑜珈教學 #yogacore #中文瑜伽教學 #boatpose #流動瑜珈 #流瑜伽",
+          "channel": "Yoga with Jade",
+          "url": "https://www.youtube.com/watch?v=JNamNo8Fl8g",
+          "duration": "33:52"
+        },
+        {
+          "name": "Iyengar 腹部力量課",
+          "en": "Iyengar yoga for abdominal strength",
+          "kind": "follow",
+          "target": "核心、腰椎、髖關節",
+          "dose": "每週 1–2 次",
+          "title": "Yoga for STRONG ABDOMINAL muscles | Iyengar Yoga",
+          "channel": "Heather Kitchen Yoga",
+          "url": "https://www.youtube.com/watch?v=b_S63w9B450",
+          "duration": "23:25"
+        },
+        {
+          "name": "Ashtanga 船式進階",
+          "en": "Mastering Navasana",
+          "kind": "deepen",
+          "target": "核心、髖關節、平衡",
+          "dose": "半船式能穩定 30 秒後再練",
+          "title": "Master Navasana in Ashtanga Yoga Primary Series NOW!",
+          "channel": "Ashtanga Yoga • Body Mechanics • Breathwork",
+          "url": "https://www.youtube.com/watch?v=rI4nkNVVVs4",
+          "duration": "10:26"
+        }
+      ]
+    },
+    {
+      "id": "ch4-u8",
+      "name": "貓牛式與脊椎波動",
+      "type": "asana",
+      "assessment": "四足跪姿，手腕在肩下、膝在髖下，請人從側面拍一段影片或對著鏡子做。貓式時看兩件事：胸椎（肩胛骨之間）有沒有真的拱起來變圓？還是只有腰在動、上背始終平的？若肩胛之間紋風不動，就把注意力放在「用手推地把兩片肩胛骨推開」再試。牛式時看腰有沒有一下子塌到底、肋骨前緣往前翹出，那是腰椎過度伸展而不是脊椎均勻延展。第三個判準是節奏：一次吸氣走完牛、一次吐氣走完貓，若你做完 5 次不到 20 秒，就是靠慣性甩，改成每個方向走 4 秒、逐節推進。",
+      "tight": [
+        "只動腰椎不動胸椎，肩胛之間完全沒有變化",
+        "動作過快失去節奏，用甩的而不是逐節控制",
+        "牛式時肋骨前緣翹出、腰椎塌到底造成下背擠壓",
+        "手腕承重不平均，重量都壓在腕橫紋，手腕痛卻繼續做",
+        "呼吸與動作脫節，吸吐與脊椎方向對不上"
+      ],
+      "weak": [
+        "脊椎逐節（節段式）屈曲與伸展的控制能力",
+        "胸椎活動度與肩胛前引後收的協調",
+        "呼吸與動作同步的節奏感，為串連章節打底",
+        "四足跪姿下的肩膀穩定與核心中立支撐"
+      ],
+      "lesson": {
+        "why": "凱蒂的脊椎活動日課把貓牛放進完整的脊椎六向活動裡，講解慢、每個方向都提醒該感覺到哪一段脊椎，適合當本單元每天 12 分鐘的固定課表。",
+        "title": "自我覺察 14日瑜珈挑戰- Day5.脊椎活動 Yoga for Awareness",
+        "channel": "凱蒂瑜伽 Flow With Katie",
+        "url": "https://www.youtube.com/watch?v=v27SMc5XmHw",
+        "duration": "11:57"
+      },
+      "drills": [
+        {
+          "name": "貓牛式正位（物理治療觀點）",
+          "en": "Cat-cow alignment",
+          "kind": "align",
+          "target": "脊椎活動度、胸椎、核心",
+          "dose": "每天 8–10 回合",
+          "title": "瑜珈--貓牛式cat cow yoga pose , 紓緩痠痛，延展背部脊椎，讓脊椎柔軟不僵硬，喚醒深層核心肌群。",
+          "channel": "全人物理治療所",
+          "url": "https://www.youtube.com/watch?v=nGFe2xwdTB8",
+          "duration": "4:01"
+        },
+        {
+          "name": "貓牛式常見錯誤與修正",
+          "en": "Cat-cow common errors",
+          "kind": "align",
+          "target": "胸椎、腰椎、肩胛",
+          "dose": "對照錯誤版本各做 5 回合",
+          "title": "瑜珈貓牛式常見錯誤 如何修正？ 教你更有效伸展脊椎 ｜ Cat-Cow pose common errors (How to fix them) [Deka Yoga]",
+          "channel": "DEKA YOGA",
+          "url": "https://www.youtube.com/watch?v=xhXIX_xinr8",
+          "duration": "5:29"
+        },
+        {
+          "name": "分節式貓牛（脊椎波動）",
+          "en": "Segmental cat-cow",
+          "kind": "align",
+          "target": "脊椎活動度、胸椎、頸椎",
+          "dose": "每個方向走 4 秒 × 6 回合",
+          "title": "How to do a Segmental Cat Cow",
+          "channel": "TurnFit - Vancouver Personal Trainers",
+          "url": "https://www.youtube.com/watch?v=mSzU47-uPb4",
+          "duration": "3:06"
+        },
+        {
+          "name": "坐姿貓牛（辦公室版）",
+          "en": "Seated cat-cow",
+          "kind": "modify",
+          "target": "胸椎、腰椎、脊椎活動度",
+          "dose": "工作中每小時 6 回合",
+          "title": "Seated Cat Cow - Great Computer Break",
+          "channel": "Brian Abelson",
+          "url": "https://www.youtube.com/watch?v=7Tnyx5hkFwA",
+          "duration": "2:17"
+        },
+        {
+          "name": "15 分鐘脊椎伸展課",
+          "en": "15 min yoga for your spine",
+          "kind": "follow",
+          "target": "脊椎活動度、胸椎、肩胛",
+          "dose": "每週 3 次",
+          "title": "15 min Upper Body Yoga Stretch - Yoga For Your Spine",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=ekBwaykW7Jw",
+          "duration": "15:02"
+        },
+        {
+          "name": "脊椎正位完整課（中文）",
+          "en": "Spinal alignment class",
+          "kind": "follow",
+          "target": "脊椎活動度、腰椎、骨盆底",
+          "dose": "每週 1–2 次，跟完整支",
+          "title": "【脊椎正位】姿式正了，身體不歪斜｜Naomi老師｜YogaAsia 亞洲瑜伽",
+          "channel": "亞洲瑜伽 Yoga Asia",
+          "url": "https://www.youtube.com/watch?v=q4CIQD_tjPQ",
+          "duration": "22:34"
+        },
+        {
+          "name": "貓牛式進階：膝離地核心穩定",
+          "en": "Cat-cow to knee hover",
+          "kind": "deepen",
+          "target": "核心、脊椎活動度、肩關節",
+          "dose": "維持中立脊椎，每輪 10 秒 × 5 輪",
+          "title": "基礎核心運動只花三分鐘，從貓牛式保持脊椎正中位到「雙腳膝蓋離地」，讓腰背痛消失！",
+          "channel": "全人物理治療所",
+          "url": "https://www.youtube.com/watch?v=8sdOE9X9qfY",
+          "duration": "4:20"
+        }
+      ]
+    }
+  ]
+}

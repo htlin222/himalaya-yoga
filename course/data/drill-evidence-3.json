@@ -1,0 +1,252 @@
+{
+  "categories": [
+    {
+      "id": "meditation",
+      "name": "靜坐與正念冥想",
+      "evidence_grade": "moderate",
+      "summary": "這是本課文獻量最大、但品質落差也最大的一類。Goyal 2014 在 JAMA Intern Med 篩過 18,753 篇後只納入 47 篇「有主動對照組」的 RCT，結論是正念冥想對焦慮（8 週效果量 0.38）、憂鬱（0.30）、疼痛（0.33）只有小到中等的效果，而且「沒有證據顯示冥想優於任何主動治療」（藥物、運動或其他行為療法）；正向情緒、注意力、睡眠、體重則是無效或證據不足。近年最好的單篇 RCT（MBSR vs escitalopram，n=208）顯示 8 週 MBSR 不劣於第一線抗焦慮藥，是目前最有力的正面證據；但冥想 App 的統合分析效果量只有 g≈0.24–0.28，且與主動對照組相比不顯著。特別要說清楚的是不良反應：系統性回顧估計冥想相關不良事件盛行率約 8.3%（觀察性研究中高達 33%），美國人口樣本中 32.3% 的練習者回報過冥想相關負面經驗、10.6% 曾出現某種程度的功能損害，最常見的是焦慮、創傷記憶再體驗與情緒敏感度升高；不過 2026 年兩項 RCT 發現有做與沒做引導冥想者的負面經驗發生率並無差異，因此「這些經驗是冥想造成的」尚未被證實，較可能部分反映本來就存在的心理困擾。結論：可以教，但必須同時告知效果有限、不優於其他主動做法，且有創傷史者需要更謹慎的引導。",
+      "citations": [
+        {
+          "pmid": "24395196",
+          "title": "Meditation programs for psychological stress and well-being: a systematic review and meta-analysis",
+          "journal": "JAMA Intern Med",
+          "year": 2014,
+          "design": "meta-analysis",
+          "takeaway": "47 篇有主動對照組的 RCT：正念冥想對焦慮 0.38、憂鬱 0.30、疼痛 0.33（8 週）為小到中等效果，且無證據顯示優於藥物、運動或其他行為療法。"
+        },
+        {
+          "pmid": "36350591",
+          "title": "Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial",
+          "journal": "JAMA Psychiatry",
+          "year": 2023,
+          "design": "rct",
+          "takeaway": "n=208 的不劣性試驗：8 週 MBSR 在焦慮症上不劣於 escitalopram（CGI-S 組間差 -0.07，95% CI -0.38 至 0.23），且藥物組 78.6% 出現研究相關不良事件、MBSR 組僅 15.4%。"
+        },
+        {
+          "pmid": "38056219",
+          "title": "The efficacy of mindfulness apps on symptoms of depression and anxiety: An updated meta-analysis of randomized controlled trials",
+          "journal": "Clin Psychol Rev",
+          "year": 2024,
+          "design": "meta-analysis",
+          "takeaway": "45 篇 RCT：冥想 App 對憂鬱 g=0.24、焦慮 g=0.28（小效果）；與主動治療對照組相比則不顯著（憂鬱 g=-0.15、焦慮 g=0.10）。"
+        },
+        {
+          "pmid": "32820538",
+          "title": "Adverse events in meditation practices and meditation-based therapies: a systematic review",
+          "journal": "Acta Psychiatr Scand",
+          "year": 2020,
+          "design": "systematic-review",
+          "takeaway": "83 篇研究、6,703 名練習者：冥想不良事件總盛行率 8.3%（實驗性研究 3.7%、觀察性研究 33.2%），最常見為焦慮 33%、憂鬱 27%、認知異常 25%，且可發生在無精神病史者身上。"
+        },
+        {
+          "pmid": "34074221",
+          "title": "Prevalence of meditation-related adverse effects in a population-based sample in the United States",
+          "journal": "Psychother Res",
+          "year": 2022,
+          "design": "cross-sectional",
+          "takeaway": "美國人口樣本 434 人：32.3% 回報冥想相關不良反應、50% 至少符合一項具體項目、10.4% 持續一個月以上，10.6% 有某種程度功能損害；童年逆境經驗是風險因子。"
+        },
+        {
+          "pmid": "42284591",
+          "title": "Prevalence and Predictors of Self-Reported Adverse Experiences in Digital Meditation Training: 2 Randomized Controlled Trials",
+          "journal": "JMIR Ment Health",
+          "year": 2026,
+          "design": "rct",
+          "takeaway": "兩項 RCT（n=315、n=594）：10.1–27.9% 回報負面經驗，但有做與沒做引導冥想者的發生率無顯著差異，提示多數負面經驗可能反映原有的心理困擾而非冥想本身造成。"
+        }
+      ]
+    },
+    {
+      "id": "yoga-nidra",
+      "name": "瑜伽睡眠 Yoga Nidra",
+      "evidence_grade": "limited",
+      "summary": "研究數量在增加，但幾乎全是小樣本、且高度集中在印度單一地區。2026 年的統合分析只能納入 5 篇獨立研究：兩篇 RCT 的 PSQI 合併效果量看似很大（SMD -1.04）卻不顯著（p=0.50），ISI 同樣不顯著（SMD -1.00，p=0.06），GRADE 評為「極低確定性」，作者自己說結論只能當作假說。同年另一篇系統性回顧納入 6 篇 RCT（合計 n=244），多數報告睡眠潛伏期與睡眠效率改善，但多數研究有中到高偏誤風險，且幾乎沒有研究完整報告不良事件。最嚴謹的一篇睡眠實驗室隨機研究則是陰性結果：除了呼吸速率下降約 1.4–2.1 次/分之外，腦波 alpha 功率、心率變異度與入睡潛伏期都沒有組間差異。因此本課只能說 Yoga Nidra 是安全、可接受、受試者主觀喜歡的放鬆練習，不能宣稱它已被證實能治療失眠。",
+      "citations": [
+        {
+          "pmid": "42043659",
+          "title": "Effect of yoga Nidra (yogic sleep) in sleep disturbances and insomnia: systematic review and metanalysis",
+          "journal": "Sleep Breath",
+          "year": 2026,
+          "design": "meta-analysis",
+          "takeaway": "僅 5 篇獨立研究可納入；兩篇 RCT 的 PSQI 合併 SMD -1.04 但不顯著（p=0.50），ISI SMD -1.00（p=0.06）亦不顯著，GRADE 確定性為「極低」。"
+        },
+        {
+          "pmid": "41144325",
+          "title": "Efficacy of Yoga Nidra in Managing Sleep Disorders: A Systematic Review of Randomized Controlled Trials",
+          "journal": "J Integr Complement Med",
+          "year": 2026,
+          "design": "systematic-review",
+          "takeaway": "6 篇 RCT、n=244：多數報告睡眠潛伏期、總睡眠時間與睡眠效率改善，但多數研究偏誤風險中到高，且普遍缺乏不良事件與安全性報告。"
+        },
+        {
+          "pmid": "34825538",
+          "title": "Yoga nidra practice shows improvement in sleep in patients with chronic insomnia: A randomized controlled trial",
+          "journal": "Natl Med J India",
+          "year": 2021,
+          "design": "rct",
+          "takeaway": "41 名慢性失眠者隨機分派 Yoga Nidra 或 CBT-I：兩組主觀睡眠皆改善，Yoga Nidra 組多導睡眠圖 N2、N3 比例增加且唾液皮質醇顯著下降（p=0.041）——但樣本小且僅部分受試者重測 PSG。"
+        },
+        {
+          "pmid": "36731199",
+          "title": "A closer look at yoga nidra- early randomized sleep lab investigations",
+          "journal": "J Psychosom Res",
+          "year": 2023,
+          "design": "rct",
+          "takeaway": "睡眠實驗室隨機研究（n=22）：alpha 腦波功率、心率變異度、入睡潛伏期均無組間差異，只有呼吸速率顯著下降（練習中 -1.4、練習後 -2.1 次/分）。"
+        }
+      ]
+    },
+    {
+      "id": "visualization",
+      "name": "觀想與引導想像",
+      "evidence_grade": "limited",
+      "summary": "引導想像在術前焦慮與疼痛上有數篇統合分析支持，但效果量彼此差距極大，暗示的不是效果穩定而是研究品質不穩定。術前引導想像對成人術後疼痛的效果只有 d=-0.24（小），對成人特質焦慮 d=-0.64，而兒童術前狀態焦慮竟出現 d=-3.71 這種生理上難以置信的數字——這通常是小樣本加上未盲化的產物。纖維肌痛的統合分析（7 篇 RCT、387 人）顯示疼痛減輕 50% 的風險差為 0.18，心理困擾 SMD -0.40，但沒有任何一篇研究報告安全性資料。癌症病人的統合分析報告焦慮 SMD -1.30、憂鬱 -1.11，數字漂亮卻來自 9 篇小型、無法對受試者設盲的試驗，期待效應與發表偏誤無法排除。可以誠實地說：這是一種低成本、低風險的輔助放鬆技術，但它的效果量很可能被高估。",
+      "citations": [
+        {
+          "pmid": "32056813",
+          "title": "The effects of preoperative guided imagery interventions on preoperative anxiety and postoperative pain: A meta-analysis",
+          "journal": "Complement Ther Clin Pract",
+          "year": 2020,
+          "design": "meta-analysis",
+          "takeaway": "21 篇研究、8 篇進入統合分析：術前引導想像對成人術後疼痛 d=-0.24、成人特質焦慮 d=-0.64；兒童術前狀態焦慮 d=-3.71 的極端數值反映小樣本與未盲化的偏誤。"
+        },
+        {
+          "pmid": "27896907",
+          "title": "Efficacy, acceptability and safety of guided imagery/hypnosis in fibromyalgia - A systematic review and meta-analysis of randomized controlled trials",
+          "journal": "Eur J Pain",
+          "year": 2017,
+          "design": "meta-analysis",
+          "takeaway": "纖維肌痛 7 篇 RCT、387 人：疼痛減輕 ≥50% 的風險差 0.18（95% CI 0.02–0.35）、心理困擾 SMD -0.40；沒有任何一篇研究報告安全性資料。"
+        },
+        {
+          "pmid": "41094273",
+          "title": "The effectiveness of guided imagery on psychological outcomes and quality of life in cancer patients: a systematic review and meta-analysis",
+          "journal": "Support Care Cancer",
+          "year": 2025,
+          "design": "meta-analysis",
+          "takeaway": "癌症病人 9 篇 RCT、837 人：焦慮 SMD -1.30、憂鬱 SMD -1.11、生活品質 SMD 1.11，但信賴區間寬、樣本小（30–208 人）且無標準化療程，長期效果未知。"
+        }
+      ]
+    },
+    {
+      "id": "restorative",
+      "name": "修復與陰瑜伽",
+      "evidence_grade": "limited",
+      "summary": "這一類最常見的宣稱是「支撐體式能降低壓力荷爾蒙、修復自律神經」，但目前品質最高的試驗直接打臉這個說法。PRYSMS 是一項 48 週、180 人、以主動伸展為對照組的隨機試驗：修復瑜伽只在空腹血糖上略優於伸展（-0.35 vs -0.03 mmol/L），其餘代謝指標皆無差異；其皮質醇子研究更發現是「伸展組」的清醒與睡前皮質醇下降較多、知覺壓力減少較多（1 年時 2.0 分，p=0.04），作者推測差異來自團體互動而非體式本身。支持修復／陰瑜伽的其他證據都是小樣本且對照組為候補名單：陰瑜伽 5 週 RCT（n=105）顯示血漿 adrenomedullin、焦慮與睡眠問題改善，護理師的修復瑜伽交叉試驗（n=20）顯示主觀壓力分數下降，但這類設計無法區分技法本身與「有人帶你躺下休息 60 分鐘」的效果。合理的教法是：它舒服、風險低、對久坐者是可負擔的入門，但別把它講成有獨立的生理療效。",
+      "citations": [
+        {
+          "pmid": "24418351",
+          "title": "Restorative yoga and metabolic risk factors: the Practicing Restorative Yoga vs. Stretching for the Metabolic Syndrome (PRYSMS) randomized trial",
+          "journal": "J Diabetes Complications",
+          "year": 2014,
+          "design": "rct",
+          "takeaway": "48 週、180 人、對照組為主動伸展：修復瑜伽僅在空腹血糖優於伸展（-0.35 vs -0.03 mmol/L，p=0.002），其他代謝指標無組間差異。"
+        },
+        {
+          "pmid": "25127084",
+          "title": "Effect of restorative yoga vs. stretching on diurnal cortisol dynamics and psychosocial outcomes in individuals with the metabolic syndrome: the PRYSMS randomized controlled trial",
+          "journal": "Psychoneuroendocrinology",
+          "year": 2014,
+          "design": "rct",
+          "takeaway": "PRYSMS 皮質醇子研究：6 個月時「伸展組」清醒與睡前皮質醇下降較多、慢性壓力嚴重度與知覺壓力改善較多（1 年時知覺壓力多降 2.0 分，p=0.04），方向與「修復瑜伽降壓力荷爾蒙」的宣稱相反。"
+        },
+        {
+          "pmid": "18710330",
+          "title": "Restorative yoga in adults with metabolic syndrome: a randomized, controlled pilot trial",
+          "journal": "Metab Syndr Relat Disord",
+          "year": 2008,
+          "design": "rct",
+          "takeaway": "26 人先導試驗：可行性與滿意度極高（87% 認為體式容易執行），但血壓僅呈趨勢（p=0.07），代謝效益未達顯著，作者結論是需要更大型試驗。"
+        },
+        {
+          "pmid": "30020987",
+          "title": "Five-week yin yoga-based interventions decreased plasma adrenomedullin and increased psychological health in stressed adults: A randomized controlled trial",
+          "journal": "PLoS One",
+          "year": 2018,
+          "design": "rct",
+          "takeaway": "105 名壓力偏高的中年人隨機分三組：陰瑜伽與陰瑜伽＋正念組相較於「不練習」對照組，血漿 adrenomedullin、焦慮與睡眠問題顯著改善——但對照組為無介入，無法排除期待效應。"
+        },
+        {
+          "pmid": "31368154",
+          "title": "Restorative yoga for occupational stress among Japanese female nurses working night shift: Randomized crossover trial",
+          "journal": "J Occup Health",
+          "year": 2019,
+          "design": "rct",
+          "takeaway": "20 名日本夜班護理師交叉試驗：主觀心理與身體壓力反應分數下降，但生命徵象無顯著變化，樣本極小且無盲化。"
+        }
+      ]
+    },
+    {
+      "id": "joint-mobility",
+      "name": "關節活動度與暖身",
+      "evidence_grade": "moderate",
+      "summary": "暖身是本組中證據相對最紮實的一項，但要注意「暖身有用」與「靜態伸展當暖身有用」是兩件事。32 篇高品質研究的統合分析顯示，含活動的暖身在 79% 的測量指標上改善了表現，且幾乎沒有證據顯示暖身有害。結構化暖身方案對兒童與青少年運動傷害的預防有明確效果，合併傷害發生率比 0.64（減少 36%），但調整發表偏誤後降為 0.70，且預測區間跨過 1.0（0.34–1.19），代表在個別族群不一定重現，遵從度是主要調節因子。相對地，運動前單獨做長時間靜態伸展會小幅削弱肌力（-5.4%），因此課堂暖身應以動態活動為主、靜態伸展留到課後或縮短在 45 秒以內。另外值得知道的是：阻力訓練本身就能增加關節活動度（ES=0.73），效果與伸展訓練沒有顯著差異——柔軟度不是只能靠拉筋換來的。",
+      "citations": [
+        {
+          "pmid": "19996770",
+          "title": "Effects of warming-up on physical performance: a systematic review with meta-analysis",
+          "journal": "J Strength Cond Res",
+          "year": 2010,
+          "design": "meta-analysis",
+          "takeaway": "32 篇高品質研究：含活動的暖身在 79% 的測量指標上改善表現，且幾乎沒有證據顯示暖身對運動者有害。"
+        },
+        {
+          "pmid": "35627873",
+          "title": "Effectiveness of Warm-Up Intervention Programs to Prevent Sports Injuries among Children and Adolescents: A Systematic Review and Meta-Analysis",
+          "journal": "Int J Environ Res Public Health",
+          "year": 2022,
+          "design": "meta-analysis",
+          "takeaway": "15 篇研究：結構化暖身方案使兒童與青少年上下肢運動傷害發生率比降至 0.64（95% CI 0.54–0.75，減少 36%）；校正發表偏誤後為 0.70，預測區間 0.34–1.19，遵從度是關鍵調節因子。"
+        },
+        {
+          "pmid": "22316148",
+          "title": "Does pre-exercise static stretching inhibit maximal muscular performance? A meta-analytical review",
+          "journal": "Scand J Med Sci Sports",
+          "year": 2013,
+          "design": "meta-analysis",
+          "takeaway": "104 篇研究：運動前靜態伸展使肌力下降 5.4%（SMD -0.10）、爆發表現下降 2.0%；伸展總時長 ≤45 秒時負面效應最小，作者建議不要以靜態伸展作為唯一暖身。"
+        },
+        {
+          "pmid": "36622555",
+          "title": "Resistance Training Induces Improvements in Range of Motion: A Systematic Review and Meta-Analysis",
+          "journal": "Sports Med",
+          "year": 2023,
+          "design": "meta-analysis",
+          "takeaway": "55 篇研究：阻力訓練可增加關節活動度（ES=0.73），與伸展訓練相比無顯著差異（ES=0.08，p=0.79）；但僅用自身體重的阻力訓練沒有顯著效果。"
+        }
+      ]
+    },
+    {
+      "id": "prop-modification",
+      "name": "輔具與替代式",
+      "evidence_grade": "limited",
+      "summary": "磚、伸展帶、抱枕、牆面或椅子本身幾乎沒有專屬 RCT，能查到的最接近證據是「以椅子取代站姿」的改編式課程。目前規模最大的一項是英國 NIHR 的 Gentle Years Yoga 試驗（454 名 65 歲以上多重慢性病長者、12 週椅子瑜伽 vs 常規照護）：12 個月追蹤下生活品質、焦慮、憂鬱、孤獨感與跌倒次數皆無統計上顯著差異（EQ-5D-5L 調整後平均差 0.020，95% CI -0.006 至 0.045，p=0.14），但沒有任何嚴重相關不良事件，介入被評為安全、可接受且可能具成本效益。較小的先導 RCT（n=131）顯示椅子瑜伽相較衛教組可降低疼痛干擾並維持 3 個月，但疼痛、步速、疲勞的改善在介入結束後就消失；而椅子瑜伽與一般椅上運動相比則沒有顯著差異。誠實的說法是：輔具的價值在於讓更多身體條件受限的人能安全地參與，而不是輔具本身有獨立療效——它換來的是可近性與依從性，不是額外的生理效果。",
+      "citations": [
+        {
+          "pmid": "39259017",
+          "title": "Chair-based yoga programme for older adults with multimorbidity: RCT with embedded economic and process evaluations",
+          "journal": "Health Technol Assess",
+          "year": 2024,
+          "design": "rct",
+          "takeaway": "454 名多重慢性病長者的實用性 RCT：12 週椅子瑜伽相較常規照護，12 個月時 EQ-5D-5L 無顯著差異（調整後平均差 0.020，p=0.14），焦慮、憂鬱、孤獨與跌倒亦無差異；但無嚴重相關不良事件，且有 79% 機率符合成本效益門檻。"
+        },
+        {
+          "pmid": "28008603",
+          "title": "A Pilot Randomized Controlled Trial of the Effects of Chair Yoga on Pain and Physical Function Among Community-Dwelling Older Adults With Lower Extremity Osteoarthritis",
+          "journal": "J Am Geriatr Soc",
+          "year": 2017,
+          "design": "rct",
+          "takeaway": "131 名下肢退化性關節炎長者（無法做站姿運動）：椅子瑜伽相較衛教組降低疼痛干擾並維持至 3 個月（p=0.022），但 WOMAC 疼痛、步速、疲勞的改善在介入結束後未維持，平衡則無效果。"
+        },
+        {
+          "pmid": "31609869",
+          "title": "A Pilot Study of the Effects of Chair Yoga and Chair-Based Exercise on Biopsychosocial Outcomes in Older Adults With Lower Extremity Osteoarthritis",
+          "journal": "Holist Nurs Pract",
+          "year": 2019,
+          "design": "rct",
+          "takeaway": "先導研究：椅子瑜伽與椅上運動皆隨時間改善身體功能與行動力，但兩種介入之間沒有顯著差異——支持「輔具提供可近性而非獨特療效」的解讀。"
+        }
+      ]
+    }
+  ]
+}
