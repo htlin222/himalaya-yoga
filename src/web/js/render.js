@@ -168,13 +168,21 @@ function drillGroup(kind, list) {
 
 /* --- 實證註記 ------------------------------------------------------------ */
 
+// 實證文字裡的 **重點** 要真的變粗體。先 esc() 再換標記，
+// 所以來源字串裡的 < > 已經被逸出，這裡只會產生我們自己的 <strong>。
+function emph(val) {
+  return esc(val)
+    .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+    .replace(/\n{2,}/g, "<br><br>");
+}
+
 function evidence(ev, unitId) {
   if (!ev) return "";
   const g = gradeOf(ev.evidence_grade);
 
   const row = (key, val) =>
     val
-      ? `<div class="Evidence__row"><span class="Evidence__key">${key}</span><span>${esc(val)}</span></div>`
+      ? `<div class="Evidence__row"><span class="Evidence__key">${key}</span><span>${emph(val)}</span></div>`
       : "";
 
   const cites = (ev.citations || []).length
@@ -394,9 +402,9 @@ export function renderStance(stance) {
       ? `<details>
            <summary>看完整實證（${s.key_findings.length} 項發現）</summary>
            <ul class="StanceCard__findings">
-             ${s.key_findings.map((f) => `<li>${esc(f)}</li>`).join("")}
+             ${s.key_findings.map((f) => `<li>${emph(f)}</li>`).join("")}
            </ul>
-           ${s.caveats ? `<ul class="StanceCard__findings"><li>${esc(s.caveats)}</li></ul>` : ""}
+           ${s.caveats ? `<ul class="StanceCard__findings"><li>${emph(s.caveats)}</li></ul>` : ""}
          </details>`
       : "";
 
@@ -419,8 +427,8 @@ export function renderStance(stance) {
           <span class="Label ${toneCls(g)}">${g.label}</span>
         </header>
         <div class="StanceCard__body">
-          <p class="StanceCard__verdict">${esc((CFG.stance?.verdicts || {})[s.unit] || "")}</p>
-          <p class="StanceCard__summary">${esc(s.summary)}</p>
+          <p class="StanceCard__verdict">${emph((CFG.stance?.verdicts || {})[s.unit] || "")}</p>
+          <p class="StanceCard__summary">${emph(s.summary)}</p>
           ${findings}
         </div>
         <footer class="StanceCard__foot">
