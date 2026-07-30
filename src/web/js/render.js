@@ -515,6 +515,22 @@ export function renderChapter(ch, doneSet) {
 
 /* --- 首頁 ---------------------------------------------------------------- */
 
+// 文案佔位符：必須與 src/build/seo.py 的 token_map() 保持一致。
+// 這裡原本只認得 {units} 與 {videos}，而且 {videos} 錯對到 video_slots，
+// 導致設定檔用 {lessonUnits} 時會把佔位符原樣印到頁面上。
+function fillTokens(text, meta) {
+  const t = {
+    units: meta.units,
+    lessonUnits: meta.lesson_units ?? 0,
+    drillUnits: meta.drill_units ?? 0,
+    slots: meta.video_slots ?? meta.units,
+    videos: meta.video_unique ?? 0,
+    problems: meta.problem_units ?? 0,
+    evidence: meta.evidence_checked ?? 0,
+  };
+  return String(text || "").replace(/\{(\w+)\}/g, (m, k) => (k in t ? String(t[k]) : m));
+}
+
 export function renderHome(course) {
   const { meta, chapters, stance } = course;
 
@@ -619,7 +635,7 @@ ${esc(L.stanceLede || "")}
       <div>
         <h2 class="Landing__h2">${esc(L.ctaTitle || "")}</h2>
         <p class="Landing__lede">
-${esc((L.ctaLede || "").replace("{units}", meta.units).replace("{videos}", meta.video_slots))}
+${esc(fillTokens(L.ctaLede, meta))}
         </p>
       </div>
       <div class="Landing__ctaBtns">

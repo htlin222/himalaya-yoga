@@ -279,8 +279,17 @@ def main() -> int:
 
     dupes = {u: n for u, n in seen_urls.items() if n > 1}
 
-    # concept-* 不屬於任何章節，抽出來當首頁的立場聲明
-    stance = [evidence[k] for k in ("concept-1", "concept-2", "concept-3") if k in evidence]
+    # concept-* 不屬於任何章節，抽出來當首頁的立場聲明。
+    # 這裡原本寫死 concept-1..3，設定檔多寫的立場會被靜靜丟掉——
+    # 沉默的失敗最貴，改成掃出所有 concept-*，依數字排序。
+    def _concept_no(key: str) -> tuple[int, str]:
+        tail = key.split("-", 1)[1] if "-" in key else ""
+        return (int(tail), "") if tail.isdigit() else (10**6, key)
+
+    stance = [
+        evidence[k]
+        for k in sorted((k for k in evidence if k.startswith("concept-")), key=_concept_no)
+    ]
 
     # 肌群索引：依部位分組，數量少的不進篩選器（避免上百個一次性標籤）
     muscle_index = [
