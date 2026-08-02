@@ -227,8 +227,13 @@ def validate(node, schema: dict, path: str, defs: dict, out: list[str]) -> None:
 
 
 def sprite_icons() -> set[str]:
-    m = re.search(r"ICON_NAMES = (\[.*?\]);", (WEB / "js" / "icons.js").read_text(), re.S)
-    return set(json.loads(m.group(1))) if m else set()
+    """從 icons.js 讀出已打包的圖示名。
+
+    這裡刻意不用 json.loads：ICON_NAMES 是 JS 陣列，任何 formatter 補上 trailing
+    comma 都會讓 JSON 解析當場炸掉——稽核不該因為別人格式化過原始碼就整個停擺。
+    """
+    m = re.search(r"ICON_NAMES = \[(.*?)\];", (WEB / "js" / "icons.js").read_text(), re.S)
+    return set(re.findall(r'"([^"]+)"', m.group(1))) if m else set()
 
 
 def css_tones() -> set[str]:
@@ -699,6 +704,28 @@ def audit_depth(cfg: dict, units: list[dict], opts: dict, rep: Report) -> None:
                 sec,
                 f"{sum(1 for r in units if r['unit'].get('type') in need)} 個 {'/'.join(sorted(need))} 單元都有 assessment",
             )
+
+    # 傳承立場一律要有逐字出處：說「傳承怎麼說」而拿不出原文，就只是另一個沒來源的宣稱
+    trad = [r for r in units if r["unit"].get("tradition")]
+    if naked := [
+        f"{r['unit'].get('id')} / {r['unit'].get('name')}"
+        for r in trad
+        if not r["unit"].get("traditionRefs")
+    ]:
+        rep.err(sec, f"{len(naked)} 條傳承立場沒有附逐字出處", naked)
+    elif incomplete := [
+        f"{r['unit'].get('id')} / 第 {i + 1} 筆"
+        for r in trad
+        for i, ref in enumerate(r["unit"]["traditionRefs"])
+        if not (ref.get("quote") and ref.get("source") and ref.get("url"))
+    ]:
+        rep.err(sec, f"{len(incomplete)} 筆傳承出處缺少引文、出處或連結", incomplete)
+    elif trad:
+        rep.ok(
+            sec,
+            f"{len(trad)} 條傳承立場 · "
+            f"{sum(len(r['unit']['traditionRefs']) for r in trad)} 筆逐字出處全數附連結",
+        )
 
     if nowhy := [
         f"{r['unit'].get('id')}"

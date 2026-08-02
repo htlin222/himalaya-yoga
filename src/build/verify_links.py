@@ -55,6 +55,60 @@ def walk(course: dict):
                 yield ch["code"], u["id"], d.get("name", "?"), d
 
 
+def ref_urls(course: dict) -> dict[str, list[str]]:
+    """傳承出處連結 -> 引用它的單元。
+
+    fragment（#page=3）不會送到伺服器，去重時先剝掉，不然同一份 PDF 會被打好幾次。
+    """
+    out: dict[str, list[str]] = {}
+    for ch in course["chapters"]:
+        for u in ch["units"]:
+            for ref in u.get("traditionRefs") or []:
+                if url := ref.get("url"):
+                    out.setdefault(url.split("#", 1)[0], []).append(f"{ch['code']} {u['id']}")
+    return out
+
+
+def check_ref(url: str) -> tuple[str, bool, str]:
+    """出處連結能取到 200 就算活著。有些站不吃 HEAD，所以用 GET 但只讀開頭。"""
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    try:
+        with urllib.request.urlopen(req, timeout=25) as res:
+            res.read(2048)
+            ctype = (res.headers.get("Content-Type") or "?").split(";")[0]
+            return url, res.status == 200, f"HTTP {res.status} · {ctype}"
+    except urllib.error.HTTPError as e:
+        return url, False, f"HTTP {e.code}"
+    except Exception as e:
+        return url, False, f"連線失敗：{type(e).__name__}"
+
+
+def verify_refs(course: dict) -> int:
+    """驗證傳承立場的出處連結，回傳失效數。
+
+    這些連結是「傳承怎麼說」唯一能被讀者核對的憑據，官網改版就會靜默失效，
+    所以跟影片連結一樣要重打，不能只信寫進資料時那一次。
+    """
+    refs = ref_urls(course)
+    if not refs:
+        return 0
+
+    print(f"\n檢查 {len(refs)} 個傳承出處連結…\n")
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        results = list(pool.map(check_ref, sorted(refs)))
+
+    dead = 0
+    for url, ok, msg in results:
+        cites = refs[url]
+        print(f"   {'✓' if ok else '✗'} {url}")
+        print(f"      {msg} · 被 {len(cites)} 處引用（{', '.join(sorted(set(cites))[:3])}…）")
+        if not ok:
+            dead += 1
+
+    print(f"\n出處連結有效 {len(refs) - dead} / {len(refs)}")
+    return dead
+
+
 def main() -> int:
     prune = "--prune" in sys.argv
     course = json.loads(COURSE.read_text())
@@ -85,7 +139,9 @@ def main() -> int:
 
     alive = len(urls) - len(dead)
     print(f"\n有效 {alive} / {len(urls)}（{alive / len(urls) * 100:.1f}%）")
-    return 1 if dead and not prune else 0
+
+    bad_refs = verify_refs(course)
+    return 1 if (dead and not prune) or bad_refs else 0
 
 
 if __name__ == "__main__":

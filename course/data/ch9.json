@@ -1,657 +1,489 @@
 {
-  "chapter": "CH9",
-  "title": "冥想、正念與瑜伽睡眠",
-  "units": [
-    {
-      "id": "ch9-u1",
-      "name": "靜坐的身體條件：怎麼坐才坐得久",
-      "type": "meditation",
-      "assessment": "設定 15 分鐘計時器坐一次。若在 10 分鐘內就必須換姿勢、腳麻到需要伸直、或下背開始痠到無法忽略，就代表坐姿設置有問題而不是你定力不夠——把坐骨墊高到膝蓋低於髖部再試一次，多數人這樣就能坐滿 15 分鐘。第二個當場可測的判準：坐好之後把手掌插進大腿與地板之間，若膝蓋懸空、大腿前側緊繃，代表墊高不足或需要在膝下加毯；若骨盆往後倒、腰椎變成 C 形，也是同一個問題。",
-      "tight": [
-        "坐墊太薄或直接坐地板，骨盆後傾、腰椎變 C 形，只能靠腰背肌硬撐",
-        "為了「標準」硬做雙盤／單盤，膝蓋內側被扭到、腓神經被壓迫而腳麻",
-        "下巴前引、頭往前掉，10 分鐘後頸部與斜方肌先陣亡",
-        "把坐不住歸因於「心不定」，於是一直換冥想方法卻不換坐姿"
-      ],
-      "weak": [
-        "坐骨承重與骨盆中立的定位能力",
-        "髖關節外旋與屈曲活動度（決定膝蓋能不能低於髖部）",
-        "脊椎在無支撐下維持自然曲線的耐力",
-        "辨識「該忍」與「該調整」的身體訊號"
-      ],
-      "lesson": {
-        "title": "如何開始靜坐？搭配自我推拿按摩，從姿勢開始喚醒身體、正確呼吸減緩壓力的【靜坐 / 打坐 / 冥想教學】",
-        "channel": "Bodylearning - No.1 brand of the Spine Care in TW",
-        "url": "https://www.youtube.com/watch?v=ETdqUVG-Nm4",
-        "duration": "23:20",
-        "why": "繁中、脊椎健康背景的頻道，從坐骨定位與骨盆角度講起，再帶自我按摩鬆開髖與下背，正好對應「坐不久是設置問題」這件事，而不是只教你閉眼呼吸。"
-      },
-      "drills": [
-        {
-          "name": "靜坐坐姿的四個檢查點",
-          "en": "Meditation posture checkpoints",
-          "kind": "align",
-          "target": "骨盆底、腰椎、髖關節",
-          "dose": "看完後照著調整一次，坐 5 分鐘自檢",
-          "title": "How To Sit For Meditation with Perfect Posture",
-          "channel": "Got ROM",
-          "url": "https://www.youtube.com/watch?v=fZrJPUU9fTE",
-          "duration": "5:12"
-        },
-        {
-          "name": "靜坐第一關鍵：怎麼坐",
-          "en": "The first key to sitting practice",
-          "kind": "align",
-          "target": "腰椎、骨盆底、專注",
-          "dose": "看一次，對照自己的坐墊高度",
-          "title": "No.61   靜坐進步的第一關鍵─怎麼「坐」才好❓(有繁體、簡體cc字幕)",
-          "channel": "Quietravelog",
-          "url": "https://www.youtube.com/watch?v=YDom4ZccZOM",
-          "duration": "15:01"
-        },
-        {
-          "name": "椅子上的靜坐設置",
-          "en": "Sitting on a chair for meditation",
-          "kind": "modify",
-          "target": "腰椎、髖關節",
-          "dose": "椅子坐 10 分鐘 × 每日 1 次",
-          "title": "Meditation for Beginners -Sitting on a Chair",
-          "channel": "Turiya Moore",
-          "url": "https://www.youtube.com/watch?v=vgO6erMHHS0",
-          "duration": "5:24"
-        },
-        {
-          "name": "跪坐（Seiza）姿勢設置",
-          "en": "Seiza kneeling position",
-          "kind": "modify",
-          "target": "膝關節、腳踝、腰椎",
-          "dose": "跪坐凳或磚上 5–10 分鐘",
-          "title": "How to kneel in the seiza position for meditation",
-          "channel": "Zenways",
-          "url": "https://www.youtube.com/watch?v=r8lSl3_Svac",
-          "duration": "16:36"
-        },
-        {
-          "name": "盤腿前的髖部準備",
-          "en": "Prep for sukhasana",
-          "kind": "follow",
-          "target": "髖關節、內收肌、膝關節",
-          "dose": "靜坐前做一次完整流程",
-          "title": "How To Sit Cross Legged In Sukhasana Easy Pose - DAY 5 - Beginners Yoga For Inflexible People",
-          "channel": "Yoga With Bird",
-          "url": "https://www.youtube.com/watch?v=s9av96oNAOk",
-          "duration": "22:49"
-        },
-        {
-          "name": "盤不起來的根本原因",
-          "en": "Why you can't sit cross-legged",
-          "kind": "deepen",
-          "target": "髖關節、臀部、膝關節",
-          "dose": "每週 2–3 次，持續 4 週",
-          "title": "Why You Can't Sit Cross Legged (And How to Fix It)",
-          "channel": "Upright Health",
-          "url": "https://www.youtube.com/watch?v=kUtYRiOC3sE",
-          "duration": "19:50"
-        }
-      ]
-    },
-    {
-      "id": "ch9-u2",
-      "name": "觀息法 Anapana：以呼吸為錨",
-      "type": "meditation",
-      "assessment": "坐 10 分鐘，每次發現自己跑掉就在心裡默記一次，結束後看數字。超過 20 次代表錨點太細——把注意力從鼻孔下緣換到腹部起伏，或改成數息（一吸一吐算一次，數到 10 再從 1 開始）。第二個判準：數息時若三次以內就忘記數到第幾，代表現在還需要更粗的錨點；能連續數完三輪 1–10 不斷線，才算真的抓得住呼吸。注意觀息是「觀察」不是「控制」——若做完覺得胸悶或喘，代表你在改造呼吸而不是看著它。",
-      "tight": [
-        "把觀息做成深呼吸練習，刻意拉長吸氣導致換氣過度、頭暈",
-        "一發現走神就自責，反而多加一層情緒干擾",
-        "錨點選得太細（只盯鼻孔一點），初學者撐不到三分鐘",
-        "用力盯著呼吸，眉心與下顎跟著繃緊"
-      ],
-      "weak": [
-        "持續注意力與「發現走神—溫和帶回」的循環",
-        "對細微身體感覺（鼻息溫度、腹部起伏）的辨識力",
-        "不介入呼吸的自然節律，區分觀察與控制",
-        "在無外部刺激下維持清醒的能力"
-      ],
-      "lesson": {
-        "title": "正念冥想 如何觀呼吸操作指導 安那般那 安般法 十六特勝 Mindfulness Meditation How to Breathing meditation Guide Daily buddhist",
-        "channel": "Hello Sutta",
-        "url": "https://www.youtube.com/watch?v=eSt7Ck-h7gk",
-        "duration": "25:58",
-        "why": "繁中、直接從安那般那的傳統操作講起，把「觀」與「控制」的差別、錨點放哪裡、走神怎麼處理講得很細，是少見有次第說明而不是只放引導音檔的中文教學。"
-      },
-      "drills": [
-        {
-          "name": "呼吸禪修入門講解",
-          "en": "Introduction to breathing meditation",
-          "kind": "align",
-          "target": "呼吸控制、專注",
-          "dose": "看一次，之後每兩週回看",
-          "title": "Introduction To Breathing Meditation | Buddhism In English",
-          "channel": "Buddhism",
-          "url": "https://www.youtube.com/watch?v=-dHOWvFZa4M",
-          "duration": "6:23"
-        },
-        {
-          "name": "僧侶示範的三個入門呼吸法",
-          "en": "First three breathing techniques",
-          "kind": "align",
-          "target": "呼吸控制、專注",
-          "dose": "看一次，挑一種練一週",
-          "title": "A BUDDHIST monk teaches you the FIRST 3 BREATHING TECHNIQUES of mindfulness",
-          "channel": "Master Niels",
-          "url": "https://www.youtube.com/watch?v=Uq7nBj17maA",
-          "duration": "15:17"
-        },
-        {
-          "name": "Anapana 十分鐘引導",
-          "en": "Anapana 10-minute guided",
-          "kind": "follow",
-          "target": "專注、呼吸控制",
-          "dose": "每日 10 分鐘 × 2 週",
-          "title": "Anapana Meditation For All (English - 10 mins) (with Subtitles)",
-          "channel": "Vipassana Meditation",
-          "url": "https://www.youtube.com/watch?v=Oh5ii6R6LTM",
-          "duration": "10:10"
-        },
-        {
-          "name": "數息法：抓不到呼吸時的替代錨",
-          "en": "Counting the breath",
-          "kind": "modify",
-          "target": "專注、呼吸控制",
-          "dose": "走神太頻繁的那幾天改用這個",
-          "title": "Counting Meditation - Simple Breathing Meditation - Day 2",
-          "channel": "jbittersweet",
-          "url": "https://www.youtube.com/watch?v=ppaZpkBenmQ",
-          "duration": "6:49"
-        },
-        {
-          "name": "一行禪師的呼吸引導",
-          "en": "Calm - Ease guided meditation",
-          "kind": "follow",
-          "target": "呼吸控制、放鬆與副交感",
-          "dose": "每週 2–3 次，20 分鐘",
-          "title": "Calm - Ease | Guided Meditation by Thich Nhat Hanh",
-          "channel": "Plum Village App",
-          "url": "https://www.youtube.com/watch?v=XHvtIcaD194",
-          "duration": "20:24"
-        },
-        {
-          "name": "三十分鐘純語音長坐",
-          "en": "30-minute anapana sit",
-          "kind": "deepen",
-          "target": "專注",
-          "dose": "每週 1 次，能穩定坐滿 20 分鐘後再加入",
-          "title": "30 Minute Anapana Vipassanā Meditation for Deep Focus (Voice Only, No Music)",
-          "channel": "Declutter The Mind",
-          "url": "https://www.youtube.com/watch?v=Ql6DoopQtk8",
-          "duration": "30:26"
-        }
-      ]
-    },
-    {
-      "id": "ch9-u3",
-      "name": "身體掃描 Body Scan",
-      "type": "meditation",
-      "assessment": "躺著做一次 10 分鐘身體掃描，結束後點名四個部位：左腳掌、右腳掌、左手掌、右手掌。若其中兩個以上「完全感覺不到、只能用想像的」，代表本體感覺還沒建立，不是你不夠專心——先動一動該部位（勾腳、握拳三次）讓感覺出現，再重新掃描。第二個判準：若十次練習裡有三次以上在掃描到腿部之前就睡著，把姿勢從平躺改成靠牆坐，或把練習時間從睡前移到下午。",
-      "tight": [
-        "把身體掃描當成放鬆到睡著的工具，每次都沒掃完就睡",
-        "掃到痠痛部位就急著調整或按摩，變成處理疼痛而非觀察",
-        "用「想像」代替「感覺」，腦中畫圖但身體沒有實際感受",
-        "掃描速度太快，一分鐘掃完全身，等於什麼都沒觀察到"
-      ],
-      "weak": [
-        "本體感覺與內感受（interoception）的解析度",
-        "對不舒服的感覺保持不動作、不評價的耐受力",
-        "長時間躺姿下維持清醒的能力",
-        "從局部注意力平順移動到下一個部位的控制"
-      ],
-      "lesson": {
-        "title": "Body Scan Meditation - Jon Kabat-Zinn",
-        "channel": "Mindfulness 360",
-        "url": "https://www.youtube.com/watch?v=_DTmGtznab4",
-        "duration": "29:03",
-        "why": "MBSR 身體掃描的原始版本，由設計這套課程的 Jon Kabat-Zinn 本人引導，語速與停頓就是標準參照；先做過這一版，再回頭聽任何縮短版都知道被省略了什麼。"
-      },
-      "drills": [
-        {
-          "name": "身體掃描在做什麼",
-          "en": "What the body scan does",
-          "kind": "align",
-          "target": "放鬆與副交感、專注",
-          "dose": "看一次，練習前建立框架",
-          "title": "Mindful Body Scan (Short): Anxiety Skills #28",
-          "channel": "Therapy in a Nutshell",
-          "url": "https://www.youtube.com/watch?v=6iDKF-TrAfE",
-          "duration": "4:25"
-        },
-        {
-          "name": "十分鐘身體掃描",
-          "en": "10-minute body scan",
-          "kind": "follow",
-          "target": "放鬆與副交感",
-          "dose": "每日 10 分鐘 × 2 週",
-          "title": "The Body Scan (10 Minutes)",
-          "channel": "Dr. Elisha Goldstein",
-          "url": "https://www.youtube.com/watch?v=zsCVqFr6j1g",
-          "duration": "10:23"
-        },
-        {
-          "name": "中文十分鐘身體掃描",
-          "en": "Chinese guided body scan",
-          "kind": "follow",
-          "target": "放鬆與副交感、專注",
-          "dose": "每日 10 分鐘，聽不慣英文引導時用",
-          "title": "引導冥想 | 10分鐘身體掃描正念冥想每日練習快速減壓放鬆 10 Minute Chinese Guided Mindfulness Meditation Body Scan",
-          "channel": "Relaxed Rachel 放鬆瑞秋",
-          "url": "https://www.youtube.com/watch?v=vMJr4G-AVLY",
-          "duration": "10:00"
-        },
-        {
-          "name": "大休息式版本",
-          "en": "Savasana body scan",
-          "kind": "modify",
-          "target": "放鬆與副交感、腰椎",
-          "dose": "體位法練習後接上，9–10 分鐘",
-          "title": "10 Minute Guided Meditation for Relaxation - Savasana Body Scan",
-          "channel": "Yoga With Bird",
-          "url": "https://www.youtube.com/watch?v=rKBEGpzK25s",
-          "duration": "9:33"
-        },
-        {
-          "name": "MBSR 標準長版身體掃描",
-          "en": "35-minute MBSR body scan",
-          "kind": "deepen",
-          "target": "放鬆與副交感、專注",
-          "dose": "每週 3 次，35 分鐘",
-          "title": "35分鐘 身體掃描｜胡君梅",
-          "channel": "Chinese MBSR Service",
-          "url": "https://www.youtube.com/watch?v=pSd6TqVpnxM",
-          "duration": "35:00"
-        },
-        {
-          "name": "61 點放鬆法",
-          "en": "61 points relaxation",
-          "kind": "deepen",
-          "target": "專注、放鬆與副交感",
-          "dose": "每週 2 次，作為 Yoga Nidra 前導",
-          "title": "61 Points Relaxation | 10 min guided body scan",
-          "channel": "Yoganama",
-          "url": "https://www.youtube.com/watch?v=aYaUhX2acE0",
-          "duration": "10:50"
-        }
-      ]
-    },
-    {
-      "id": "ch9-u4",
-      "name": "瑜伽睡眠 Yoga Nidra",
-      "type": "meditation",
-      "assessment": "做一次 20 分鐘 Yoga Nidra 並錄音或計時。結束後檢查兩件事：一、有沒有錯過中段指令或聽到自己打呼——睡著代表睡眠債太大，不是練壞了，但要先補眠再談練習品質；二、結束當下能不能立刻一字不差說出自己的 sankalpa（決心語），說不出來代表前段的意圖設定被跳過了。第三個判準：做完若是昏沉想睡而不是清明鬆弛，把練習從睡前移到下午三點，並蓋厚毯、用毛巾蓋眼睛再試一次。",
-      "tight": [
-        "把 Yoga Nidra 當助眠音檔，每次都睡著，從沒完整走完一輪",
-        "躺姿沒有支撐，膝下無墊導致下背在 20 分鐘後開始痠",
-        "sankalpa 設成願望清單（我要變有錢），而不是現在式的短句",
-        "體溫下降沒保暖，中途冷醒或肌肉緊繃"
-      ],
-      "weak": [
-        "在清醒與睡眠交界處維持覺知的能力",
-        "身體部位輪轉（rotation of consciousness）的注意力速度",
-        "副交感啟動與深層休息的效率",
-        "意圖（sankalpa）的植入與回收"
-      ],
-      "lesson": {
-        "title": "Yoga Nidra: Introduction to the Complete Practice",
-        "channel": "Yoga International",
-        "url": "https://www.youtube.com/watch?v=6usuqKQOiqM",
-        "duration": "11:14",
-        "why": "喜馬拉雅體系的機構頻道，把完整 Yoga Nidra 的段落結構（準備、sankalpa、身體輪轉、呼吸覺察、收尾）一段段拆開說明，聽完再去做任何一支引導都知道自己現在走到哪一段。"
-      },
-      "drills": [
-        {
-          "name": "Yoga Nidra 是技法還是狀態",
-          "en": "Technique versus state",
-          "kind": "align",
-          "target": "放鬆與副交感、專注",
-          "dose": "看一次，練了兩週後再看一次",
-          "title": " Sarovara Yoga|What is Yoga Nidra? Techniques Versus a State of Consciousness",
-          "channel": "Ally Boothroyd ",
-          "url": "https://www.youtube.com/watch?v=czpEPMa-XPE",
-          "duration": "17:29"
-        },
-        {
-          "name": "十分鐘版：午休與神經系統重置",
-          "en": "Ten minute yoga nidra",
-          "kind": "follow",
-          "target": "放鬆與副交感",
-          "dose": "午休或工作空檔，10 分鐘",
-          "title": " Sarovara Yoga|Ten Minute Yoga Nidra | Reset Your Nervous System",
-          "channel": "Ally Boothroyd ",
-          "url": "https://www.youtube.com/watch?v=_noquwycq78",
-          "duration": "10:49"
-        },
-        {
-          "name": "中文瑜珈放鬆休息法",
-          "en": "Yoga nidra in Chinese",
-          "kind": "follow",
-          "target": "放鬆與副交感",
-          "dose": "每週 2 次，20 分鐘",
-          "title": "瑜珈放鬆休息法(Vita Liao翻譯) - Yoga Nidra",
-          "channel": "生活的藝術 Art of Living",
-          "url": "https://www.youtube.com/watch?v=xsEJInl_BDU",
-          "duration": "20:23"
-        },
-        {
-          "name": "Rod Stryker 引導版",
-          "en": "Guided yoga nidra with Rod Stryker",
-          "kind": "follow",
-          "target": "放鬆與副交感、專注",
-          "dose": "每週 1–2 次，22 分鐘",
-          "title": "Guided Yoga Nidra Meditation with Rod Stryker",
-          "channel": "Yoga International",
-          "url": "https://www.youtube.com/watch?v=-PxNLFJ91Io",
-          "duration": "22:20"
-        },
-        {
-          "name": "Satyananda 傳統完整版",
-          "en": "Satyananda-style yoga nidra",
-          "kind": "deepen",
-          "target": "放鬆與副交感、專注",
-          "dose": "每週 1 次，35 分鐘",
-          "title": "Yoga Nidra Meditation (as by Swami Satyananda)",
-          "channel": "Lotos Yoga Berlin",
-          "url": "https://www.youtube.com/watch?v=t8IWltctlbs",
-          "duration": "34:48"
-        },
-        {
-          "name": "四十五分鐘深度休息",
-          "en": "45-minute yoga nidra",
-          "kind": "deepen",
-          "target": "放鬆與副交感",
-          "dose": "週末或極度疲勞時，1 次",
-          "title": " Sarovara Yoga|45 Minute Yoga Nidra with Ally Boothroyd",
-          "channel": "Ally Boothroyd ",
-          "url": "https://www.youtube.com/watch?v=KUVZDuYfKMg",
-          "duration": "46:36"
-        }
-      ]
-    },
-    {
-      "id": "ch9-u5",
-      "name": "Mantra 冥想與持咒",
-      "type": "meditation",
-      "assessment": "持咒 10 分鐘後檢查兩件事：一、咒語有沒有被呼吸牽著跑——若你必須「趕」著唸完一句才能換氣，代表句子太長或速度太快，換成兩個音節的 So-Ham（吸氣 So、吐氣 Ham）；二、用念珠默念 108 遍，中途若忘記數到第幾顆超過兩次，代表現階段還需要出聲唸或動嘴唇，能默念完整 108 遍不掉線才進入純意念階段。若持咒後喉嚨乾緊或聲音發抖，是用喉嚨擠聲音而不是讓氣支撐。",
-      "tight": [
-        "把持咒唸成趕進度，速度愈來愈快、呼吸被切碎",
-        "用喉嚨出力擠聲音，唸十分鐘就沙啞",
-        "一直換咒語，每個都只唸三天，累積不出熟悉度",
-        "只在意發音標準與否，忘記注意力要放在聲音的振動與間隙"
-      ],
-      "weak": [
-        "以聽覺／振動為錨的專注力",
-        "咒語與呼吸節律的同步",
-        "念珠計數帶來的節奏穩定與時間感",
-        "從出聲唸到默念的內化過程"
-      ],
-      "lesson": {
-        "title": "The Essential Preparations for Mantra Chanting【實修系列】修行持咒的心法關鍵 ｜大悲菩提寺住持 妙淨法師開示｜Ven. Master Miao Jing",
-        "channel": "Great Compassion Bodhi Prajna Temple  大悲菩提寺 ",
-        "url": "https://www.youtube.com/watch?v=jan-acB0lBM",
-        "duration": "18:30",
-        "why": "繁中、由寺院住持講持咒的前置與心法：怎麼發聲、注意力放哪、為什麼「心念耳聞」比唸得快重要，補上大多數英文 mantra 影片只給音檔不給方法的缺口。"
-      },
-      "drills": [
-        {
-          "name": "OM 的正確唱誦方式",
-          "en": "Right ways to chant OM",
-          "kind": "align",
-          "target": "呼吸控制、專注",
-          "dose": "看一次，之後每次唱誦前對照",
-          "title": "Right ways to chant OM | Dr. Hansaji Yogendra",
-          "channel": "The Yoga Institute",
-          "url": "https://www.youtube.com/watch?v=eQTenvydZIo",
-          "duration": "7:03"
-        },
-        {
-          "name": "念珠（mala）的傳統用法",
-          "en": "Traditional way to use a mala",
-          "kind": "modify",
-          "target": "專注",
-          "dose": "看一次，之後每次持咒用念珠計數",
-          "title": "The Traditional Way to Use a Mala",
-          "channel": "Himalayan Institute",
-          "url": "https://www.youtube.com/watch?v=IuPmTCbZwSQ",
-          "duration": "3:18"
-        },
-        {
-          "name": "五分鐘 mantra 冥想入門",
-          "en": "5-minute mantra meditation",
-          "kind": "follow",
-          "target": "專注、放鬆與副交感",
-          "dose": "每日 1 次，第一週用",
-          "title": "5 min Mantra Meditation for Beginners - Easy Guided Meditation",
-          "channel": "Yoga with Kassandra",
-          "url": "https://www.youtube.com/watch?v=vbVh43mTHF4",
-          "duration": "7:38"
-        },
-        {
-          "name": "So-Ham 隨息持咒",
-          "en": "Sohum mantra meditation",
-          "kind": "follow",
-          "target": "呼吸控制、專注",
-          "dose": "每日 10 分鐘 × 2 週",
-          "title": "Sohum Mantra Meditation",
-          "channel": "Sam Alter",
-          "url": "https://www.youtube.com/watch?v=oBEGGQiH-k0",
-          "duration": "10:01"
-        },
-        {
-          "name": "二十分鐘 OM 冥想",
-          "en": "20-minute OM meditation",
-          "kind": "follow",
-          "target": "專注、呼吸控制",
-          "dose": "每週 2–3 次，20 分鐘",
-          "title": "20 Minutes OM Meditation | Day 12 of Beginner Camp",
-          "channel": "Satvic Yoga",
-          "url": "https://www.youtube.com/watch?v=KRm-Byqt9z4",
-          "duration": "19:53"
-        },
-        {
-          "name": "Ajapa Japa：不刻意的咒語覺察",
-          "en": "Ajapa japa practice",
-          "kind": "deepen",
-          "target": "呼吸控制、專注",
-          "dose": "能默念 108 遍後再進入，每週 1 次",
-          "title": "How to Do (Soham) Ajapa Japa Meditation | 40-Min Guided Practice | Arhanta Yoga",
-          "channel": "Arhanta Yoga",
-          "url": "https://www.youtube.com/watch?v=9ibQ5GdkPJY",
-          "duration": "51:31"
-        }
-      ]
-    },
-    {
-      "id": "ch9-u6",
-      "name": "慈心禪 Metta",
-      "type": "meditation",
-      "assessment": "對三個對象各做一分鐘祝福：自己、一個中性的人（例如今天遇到的便利商店店員）、一個你有心結的人。結束後問自己：哪一個對象一開口就卡住、胸口變緊、或覺得自己在說謊？多數人卡在「自己」而不是「討厭的人」。若卡在自己，先做自我慈悲版本（手放胸口、說出「這很痛苦／痛苦是每個人都有的／願我對自己溫柔一點」），不要急著跳到難相處的人；若三個對象都能唸完且胸口不緊，才把難相處的人加長到五分鐘。",
-      "tight": [
-        "跳過「自己」直接祝福別人，練久了變成道德表演而不是練習",
-        "太早挑最恨的人當對象，引發反彈情緒後放棄整套練習",
-        "把祝福語唸成口號，沒有停下來感覺胸口有沒有回應",
-        "覺得「假裝有善意很虛偽」就停手，忘記慈心是可訓練的能力而非情緒狀態"
-      ],
-      "weak": [
-        "對自己不帶條件的善意（自我慈悲）",
-        "把注意力從念頭轉到胸口感受的能力",
-        "面對難相處對象時的情緒耐受度",
-        "把祝福語與呼吸節律結合的穩定度"
-      ],
-      "lesson": {
-        "title": "Guided Loving Kindness Meditation... | Buddhism In English",
-        "channel": "Buddhism",
-        "url": "https://www.youtube.com/watch?v=sDi40FQcaIU",
-        "duration": "22:39",
-        "why": "把慈心禪的傳統次第（自己→親近的人→中性的人→難相處的人→一切眾生）完整走過一輪，而且邊帶邊解釋每一階為什麼要按這個順序，不是只念祝福詞。"
-      },
-      "drills": [
-        {
-          "name": "慈心禪的原理與常見卡點",
-          "en": "Sharon Salzberg on loving kindness",
-          "kind": "align",
-          "target": "放鬆與副交感、專注",
-          "dose": "看一次，練到卡住時再看一次",
-          "title": "Sharon Salzberg on Loving Kindness",
-          "channel": "What Meditation Really Is",
-          "url": "https://www.youtube.com/watch?v=bQSWsOORBFY",
-          "duration": "28:58"
-        },
-        {
-          "name": "十分鐘慈心練習",
-          "en": "10-minute metta practice",
-          "kind": "follow",
-          "target": "專注、放鬆與副交感",
-          "dose": "每日 10 分鐘 × 2 週",
-          "title": "10-Minute Loving Kindness Meditation | Guided Metta Practice with Sharon Salzberg",
-          "channel": "Tricycle",
-          "url": "https://www.youtube.com/watch?v=e-TeW9CI0bc",
-          "duration": "8:09"
-        },
-        {
-          "name": "中文慈心祝福",
-          "en": "Metta blessing in Chinese",
-          "kind": "follow",
-          "target": "放鬆與副交感",
-          "dose": "每週 3 次，11 分鐘",
-          "title": "慈心祝福 (11 分鐘) — 李秉穎老師｜正念練習音檔",
-          "channel": "台灣正念工坊 Taiwan Mindfulness Center",
-          "url": "https://www.youtube.com/watch?v=5UBMQIwPc1k",
-          "duration": "11:27"
-        },
-        {
-          "name": "一行禪師的愛的冥想",
-          "en": "Love meditation",
-          "kind": "follow",
-          "target": "放鬆與副交感、專注",
-          "dose": "每週 2 次，18 分鐘",
-          "title": "Love Meditation | Guided Metta Meditation by Thich Nhat Hanh",
-          "channel": "Plum Village App",
-          "url": "https://www.youtube.com/watch?v=5luvQp--B8U",
-          "duration": "17:45"
-        },
-        {
-          "name": "自我慈悲版：對自己說不出口時用",
-          "en": "Self-compassion break",
-          "kind": "modify",
-          "target": "放鬆與副交感",
-          "dose": "卡在「祝福自己」那一階時，每日 1 次",
-          "title": "Self-Compassion Break (Audio Meditation)",
-          "channel": "Christopher Germer, Ph.D.",
-          "url": "https://www.youtube.com/watch?v=T_80y_CT32c",
-          "duration": "12:22"
-        },
-        {
-          "name": "對難相處的人的慈心",
-          "en": "Metta for difficult people",
-          "kind": "deepen",
-          "target": "專注、放鬆與副交感",
-          "dose": "能穩定祝福自己之後，每週 1 次",
-          "title": "20 Minute Guided Loving-Kindness for Difficult People Who Have Hurt You (Voice Only, No Music)",
-          "channel": "Declutter The Mind",
-          "url": "https://www.youtube.com/watch?v=KWWcicFmzec",
-          "duration": "20:01"
-        }
-      ]
-    },
-    {
-      "id": "ch9-u7",
-      "name": "冥想遇到的困難：昏沉、掉舉與腿麻",
-      "type": "meditation",
-      "assessment": "連續坐 20 分鐘，把三種狀況各記一次發生時間：昏沉（頭往下點、失去指令）、掉舉（想到待辦事項、開始編故事）、腿麻。然後對照處方：昏沉多半在前 5 分鐘或飯後——把眼睛半開、下巴收、房間調亮、脊椎再拉長一次；掉舉多半在第 10–15 分鐘——換成數息或把注意力範圍放大到整個身體；腿麻若在 10 分鐘內出現且是「刺刺的」而不是「沉沉的」，代表壓到神經或坐骨墊高不足，該換姿勢而不是忍。三種都能當場指認並用對處方，這個單元就過了。",
-      "tight": [
-        "把昏沉當成放鬆、把恍神當成入定，坐了很久卻沒有練到專注",
-        "腿麻硬撐到失去知覺才換腿，起身時站不穩甚至跌倒",
-        "一走神就用力把注意力「抓」回來，愈用力愈緊繃",
-        "飯後或睡眠不足時排練習時間，等於每次都在跟生理狀態對打"
-      ],
-      "weak": [
-        "辨識昏沉與掉舉這兩種相反失衡的能力",
-        "對應調整（提高警醒 vs. 降低張力）的即時應用",
-        "從神經壓迫型腿麻中區分出單純的血流受限",
-        "不自責地回到錨點的心理習慣"
-      ],
-      "lesson": {
-        "title": "Taming Your Wandering Mind | Amishi Jha | TEDxCoconutGrove",
-        "channel": "TEDx Talks",
-        "url": "https://www.youtube.com/watch?v=Df2JBnql8lc",
-        "duration": "18:46",
-        "why": "注意力研究者用軍人與運動員的實驗資料說明走神是大腦預設狀態、不是個人失敗，並給出「注意力像伏地挺身一樣可訓練」的劑量觀點，正好拆掉「我不適合冥想」這個最常見的放棄理由。"
-      },
-      "drills": [
-        {
-          "name": "腳麻了怎麼辦",
-          "en": "What to do when your foot falls asleep",
-          "kind": "align",
-          "target": "髖關節、膝關節、腳踝",
-          "dose": "看一次，腿麻當天複習",
-          "title": "Rolf Sovik, PsyD - What Should I Do if My Foot Falls Asleep During Meditation?",
-          "channel": "Himalayan Institute",
-          "url": "https://www.youtube.com/watch?v=tGElMd-MkfY",
-          "duration": "9:22"
-        },
-        {
-          "name": "不要在冥想中睡著",
-          "en": "How not to fall asleep in meditation",
-          "kind": "align",
-          "target": "專注",
-          "dose": "看一次，昏沉期每週複習",
-          "title": "How Not to Fall Asleep During Meditation | Sadhguru",
-          "channel": "Sadhguru",
-          "url": "https://www.youtube.com/watch?v=gArpP3ZbUmE",
-          "duration": "7:22"
-        },
-        {
-          "name": "打坐的條件與忌諱",
-          "en": "Conditions and taboos of sitting practice",
-          "kind": "align",
-          "target": "專注、腰椎",
-          "dose": "看一次，建立練習前的檢查清單",
-          "title": "打坐要具備的條件及忌諱（聖嚴法師-大法鼓 0974）",
-          "channel": "聖嚴法師大法鼓",
-          "url": "https://www.youtube.com/watch?v=qgouBaZiaqo",
-          "duration": "8:37"
-        },
-        {
-          "name": "盤腿不腳麻的坐法調整",
-          "en": "Sit cross-legged without legs falling asleep",
-          "kind": "modify",
-          "target": "髖關節、膝關節、腳踝",
-          "dose": "每次靜坐前依此設置",
-          "title": "How to Sit Cross Legged without Legs Falling Asleep",
-          "channel": "Yoga Lifestyle with Melissa",
-          "url": "https://www.youtube.com/watch?v=tuTYtsO-218",
-          "duration": "5:22"
-        },
-        {
-          "name": "坐不住時的引導練習",
-          "en": "Meditation for a restless mind",
-          "kind": "follow",
-          "target": "專注、放鬆與副交感",
-          "dose": "掉舉嚴重的那幾天，10 分鐘",
-          "title": "Meditation for a Restless Mind",
-          "channel": "YogaEasy",
-          "url": "https://www.youtube.com/watch?v=0UQvVH27aS0",
-          "duration": "9:47"
-        },
-        {
-          "name": "走神的腦科學",
-          "en": "Mind-wandering in meditation",
-          "kind": "deepen",
-          "target": "專注",
-          "dose": "練滿一個月後看，重新校準期望值",
-          "title": "Mind-Wandering in Meditation -- Buddhist Wisdom meets Brain Science - Culadasa",
-          "channel": "Culadasa",
-          "url": "https://www.youtube.com/watch?v=GVoIxju59lc",
-          "duration": "9:02"
-        }
-      ]
-    }
-  ]
+	"chapter": "CH9",
+	"title": "Nadi Shodhana 與其預備",
+	"units": [
+		{
+			"id": "ch2-u3",
+			"name": "Nadi Shodhana 鼻孔交替呼吸",
+			"type": "breath",
+			"assessment": "用 Nasagra／Vishnu 手印完成 5 輪（一輪＝左吸右吐、右吸左吐）後，放下手自然呼吸，再分別按住一側鼻孔測試通氣量。合格標準是：兩側鼻孔的通暢感比開始練習前更接近，吸氣時沒有一側需要特別用力。若某一側從頭到尾都塞住吸不進氣，先停止、做鼻腔清潔或側躺開鼻再練。另外檢查兩件事：壓鼻翼的力道只要到「氣流被擋住」為止，若鼻樑被壓歪或留下紅印就是太用力；抬手那側的肩膀應保持放鬆下沉，若練完覺得肩頸痠，就把手肘撐在膝蓋或靠墊上。",
+			"tight": [
+				"手指壓得太用力，把鼻中隔推歪、鼻樑留下壓痕",
+				"抬手那側聳肩，練幾分鐘就肩頸痠",
+				"急著加長比例，導致每一輪最後都在搶氣",
+				"其中一側本來就鼻塞就硬練，變成單側過度用力吸氣"
+			],
+			"weak": [
+				"左右鼻腔氣流的覺察與平衡",
+				"吸氣與吐氣等長（1:1 或 1:2）的節奏控制",
+				"在數息中維持不中斷的專注力",
+				"副交感神經的自我調節能力"
+			],
+			"lesson": {
+				"title": "Yoga Breathing | Alternate Nostril Breathing",
+				"channel": "Yoga With Adriene",
+				"url": "https://www.youtube.com/watch?v=8VwufJrUhic",
+				"duration": "10:57",
+				"why": "從手印怎麼擺、手肘放哪裡、按壓力道多重講起，再帶完整幾輪，是把「動作細節」與「實際練習」一次講完的入門版本，適合第一次接觸的人照著做。"
+			},
+			"drills": [
+				{
+					"name": "Nadi Shodhana 第一階段",
+					"en": "Nadi Shodhana step one",
+					"kind": "align",
+					"target": "呼吸控制、專注",
+					"dose": "只做第一階段 5 輪，連續一週",
+					"title": "Nadi Shodhana Pranayama - Alternate Nostril Breath: Step One",
+					"channel": "Ally Boothroyd | Sarovara Yoga",
+					"url": "https://www.youtube.com/watch?v=kBvJDqSlOAE",
+					"duration": "10:41"
+				},
+				{
+					"name": "鼻孔交替呼吸的常見錯誤",
+					"en": "Anulom Vilom: most common mistakes",
+					"kind": "align",
+					"target": "呼吸控制、頸椎",
+					"dose": "看完後對照自己錄影檢查 1 次",
+					"title": "How to do Anulom Vilom Pranayama or Alternate Nostril Breathing, Most common mistakes",
+					"channel": "Namaste Yoga",
+					"url": "https://www.youtube.com/watch?v=DvR4QNouiXU",
+					"duration": "9:02"
+				},
+				{
+					"name": "手印替代版（Nasagra Mudra 手勢）",
+					"en": "Nasagra mudra hand position",
+					"kind": "modify",
+					"target": "呼吸控制、手腕、肩關節",
+					"dose": "手指或手腕不適時改用此手勢，練 5 輪",
+					"title": "Nasagra Mudra - Hand position for Alternate Nostril Breathing",
+					"channel": "Breathing to Heal",
+					"url": "https://www.youtube.com/watch?v=B_5SMqq_ydQ",
+					"duration": "0:59"
+				},
+				{
+					"name": "十五分鐘 Nadi Shodhana 引導",
+					"en": "15-min guided Nadi Shodhana",
+					"kind": "follow",
+					"target": "呼吸控制、放鬆與副交感",
+					"dose": "完整跟做 1 次，每週 2–3 次",
+					"title": "15 Min Nadi Shodhana Pranayama | Alternate Nostril Breathing for Stress & Nervous System Balance",
+					"channel": "The School of Breath",
+					"url": "https://www.youtube.com/watch?v=sh57g_tfviw",
+					"duration": "18:59"
+				},
+				{
+					"name": "經絡清潔呼吸完整課（繁中）",
+					"en": "Nadi Shodhana full class in Mandarin",
+					"kind": "follow",
+					"target": "呼吸控制、專注",
+					"dose": "完整跟做 1 次",
+					"title": "好好呼吸-瑜珈呼吸法-「經絡清潔呼吸 Nadi Shodhana Pranayama」｜#自然呼吸瑜珈 #瑜珈教學 #調息法 #左右鼻孔交替呼吸法 10 mins yoga",
+					"channel": "自然呼吸瑜珈館(高雄)",
+					"url": "https://www.youtube.com/watch?v=p7QjoZFEZLk",
+					"duration": "12:49"
+				},
+				{
+					"name": "不用手的意念版鼻孔交替",
+					"en": "Psychic alternate nostril breath",
+					"kind": "deepen",
+					"target": "呼吸控制、專注",
+					"dose": "手放膝上，純意念做 10 輪",
+					"title": "Nadi Shodhana Pranayama   Psychic Alternate Nostril Breath",
+					"channel": "Ally Boothroyd | Sarovara Yoga",
+					"url": "https://www.youtube.com/watch?v=gJT8KBeAdWI",
+					"duration": "10:54"
+				}
+			],
+			"tradition": "在傳承的次第裡，nadi-shodhana（細微能量通道的淨化）是呼吸覺察之後才分支出來的專門練習，而且 〈The Himalayan Yoga Tradition〉 說**光這一類至少就有七種形式**，每一種底下還各有變化。本單元教的是最通行的一種，可以當作入口，但不等於傳承所指的完整內容。",
+			"traditionRefs": [
+				{
+					"quote": "Nadi-shodhana or purification of subtle energy channels. At least seven different forms of this category of pranayama, together with: (a) preparatory exercises such as seven different kinds of bhastrikas or bellows, and (b) a number of variations to each of the seven channel-purifications may be practised.",
+					"source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.4",
+					"url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=4"
+				}
+			]
+		},
+		{
+			"id": "ch2-u7",
+			"name": "Bhastrika 風箱式呼吸（高強度）",
+			"type": "breath",
+			"assessment": "做一輪 15 下 Bhastrika（吸與吐都主動、力道對等），做完立刻檢查三件事：一、吸氣與吐氣的音量與時間長度應該幾乎一樣，若吐氣明顯比吸氣大聲、吸氣變成被動，那你做的其實是 Kapalbhati；二、把手放在下肋兩側，每一下都應感到肋骨明顯開合，若只有肩膀上下擺動代表在用胸式；三、做完停下來時應能立刻回到平穩的鼻呼吸，若必須大口喘氣、覺得頭暈、視野發白或手腳發麻，代表次數或速度都超過現階段能力，下次減半並拉長輪與輪之間的休息。",
+			"tight": [
+				"禁忌族群：高血壓、心臟病、青光眼、癲癇、疝氣、胃潰瘍、孕期、腹部或胸腔手術後恢復期、經期不宜；有恐慌症或過度換氣病史者請在教師指導下才練",
+				"頭暈、指尖或嘴唇發麻、視野發白代表換氣過度，立刻停止、回到自然呼吸並平躺休息",
+				"只有吐氣用力、吸氣被動，實際上做成了 Kapalbhati 而非 Bhastrika",
+				"用聳肩與頸部肌肉推動氣流，下肋完全沒有開合",
+				"輪與輪之間不休息就連做，或空腹不足／飯後立刻練"
+			],
+			"weak": [
+				"吸氣肌與吐氣肌對等出力的能力",
+				"胸廓與下肋在高速下的活動度",
+				"高強度呼吸後快速回到平穩呼吸的恢復能力",
+				"對換氣過度徵兆的辨識與自我喊停"
+			],
+			"lesson": {
+				"title": "Bhastrika Pranayama | Bhastrika Pranayama for Beginners | Breathing Exercise | @VentunoYoga",
+				"channel": "Yoga & You",
+				"url": "https://www.youtube.com/watch?v=BWxREnF5uQE",
+				"duration": "9:24",
+				"why": "把 Bhastrika 的節奏（吸吐等力）、每輪次數、輪間休息與注意事項按初學者順序講完，而不是直接示範一段猛烈的連續呼吸，適合當本單元第一支看的影片。"
+			},
+			"drills": [
+				{
+					"name": "風箱式呼吸逐步拆解",
+					"en": "Bhastrika step-by-step",
+					"kind": "align",
+					"target": "橫膈、核心、呼吸控制",
+					"dose": "第一週每輪只做 10 下 × 2 輪",
+					"title": "Bhastrika Pranayama (Bellows Breath) Breathing Basics: How to Do Step by Step for Beginners",
+					"channel": "Siddhi Yoga International",
+					"url": "https://www.youtube.com/watch?v=dlC_9T9W-Oo",
+					"duration": "6:20"
+				},
+				{
+					"name": "Bhastrika 動作要點示範",
+					"en": "How to do Bhastrika",
+					"kind": "align",
+					"target": "胸口、呼吸控制",
+					"dose": "跟做 1 輪，手放下肋確認開合",
+					"title": "How to do Bhastrika | Pranayama | Breathing Exercise | Yogalates with Rashmi",
+					"channel": "Yogalates With Rashmi",
+					"url": "https://www.youtube.com/watch?v=yl34Xo7ReXE",
+					"duration": "3:57"
+				},
+				{
+					"name": "Bhastrika 與 Kapalbhati 的差別",
+					"en": "Bhastrika vs Kapalabhati",
+					"kind": "align",
+					"target": "呼吸控制、核心",
+					"dose": "看完後各做 10 下，對比兩者手感",
+					"title": "Difference between Bhastrika Pranayama and Kapalabhati Pranayama",
+					"channel": "*Yoga in Daily Life *Vishwaguruji *Swamiji TV*",
+					"url": "https://www.youtube.com/watch?v=G0kHg9Ssll8",
+					"duration": "3:28"
+				},
+				{
+					"name": "風箱呼吸引導（繁中）",
+					"en": "Guided Bhastrika breathwork in Mandarin",
+					"kind": "follow",
+					"target": "橫膈、胸椎、呼吸控制",
+					"dose": "完整跟做 1 次，不適即停",
+					"title": "一招解決腰酸背痛！7分鐘【風箱呼吸引導】7 min Guided Bastrika Breathwork",
+					"channel": "The Breath Lab",
+					"url": "https://www.youtube.com/watch?v=5caQa2iKTG0",
+					"duration": "18:59"
+				},
+				{
+					"name": "三輪 Bhastrika 提振能量",
+					"en": "Bhastrika 3 rounds energy boost",
+					"kind": "follow",
+					"target": "呼吸控制、專注",
+					"dose": "早上完整跟做 1 次（3 輪）",
+					"title": "Bhastrika Pranayama I 3 Rounds I 5 Min ENERGY boost",
+					"channel": "Breathe With Sandy",
+					"url": "https://www.youtube.com/watch?v=3zsFEsmDFOg",
+					"duration": "5:49"
+				},
+				{
+					"name": "十五分鐘早晨提振呼吸序列",
+					"en": "15-minute morning energizing breathwork",
+					"kind": "deepen",
+					"target": "呼吸控制、專注",
+					"dose": "已能穩定做 3 輪者，每週 1–2 次完整跟做",
+					"title": "15 Minutes Morning Energizing Breathwork | Pranayama Breathing to perform at your ultimate level",
+					"channel": "The School of Breath",
+					"url": "https://www.youtube.com/watch?v=dhRAkWzlnIs",
+					"duration": "16:44"
+				}
+			],
+			"tradition": "傳承對 bhastrika 的定位跟坊間不同。〈The Himalayan Yoga Tradition〉 把**七種 bhastrika（風箱）列為 nadi-shodhana 的預備練習**，而不是進階或高階技法。本課程仍把它排在後面，理由是它的心血管與過度換氣風險；但在傳承的地圖上，它的位置是「準備」，不是「終點」。",
+			"traditionRefs": [
+				{
+					"quote": "(a) preparatory exercises such as seven different kinds of bhastrikas or bellows",
+					"source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.4",
+					"url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=4"
+				}
+			]
+		},
+		{
+			"id": "ch2-u6",
+			"name": "Kapalbhati 頭顱發光呼吸（高強度）",
+			"type": "breath",
+			"assessment": "先只做 20 下 Kapalbhati，速度約每秒 1 下，然後停下來自然呼吸並自我檢查。合格標準是：每一下都是腹部主動內縮把氣「噴」出去，吸氣完全被動、不出力；肩膀、胸口與臉部全程不動。若旁人看到你的肩膀隨每一下起伏，或你必須主動吸氣才接得上下一次，代表在做的是快速淺呼吸而不是 Kapalbhati。停下來後把手放在肚子上，腹部應該仍能自然起伏、不緊繃。做完若出現頭暈、視野發白、指尖或嘴唇發麻，就是換氣過度，立刻停止回到自然呼吸並平躺休息。",
+			"tight": [
+				"禁忌族群：高血壓、心臟病、青光眼或視網膜疾病、癲癇、疝氣、胃潰瘍、孕期、腹部或胸腔手術後恢復期、經期，都不適合練 Kapalbhati，請改做本章 u1 的橫膈呼吸或 u8 的延長吐氣",
+				"頭暈、視野發白、指尖或嘴唇發麻代表換氣過度，立刻停止回到自然呼吸並平躺休息",
+				"肩膀隨每一下上下起伏、用胸廓推氣，而不是腹部主動內縮",
+				"主動用力吸氣：Kapalbhati 只有吐氣是主動的，吸氣必須完全被動放鬆",
+				"飯後兩小時內練，或一開始就衝到 100 下以上"
+			],
+			"weak": [
+				"腹橫肌快速、節律性的收縮能力",
+				"橫膈的彈性回彈與被動吸氣",
+				"核心在快速動作下仍維持穩定的耐力",
+				"自我監控強度與及時喊停的身體覺察"
+			],
+			"lesson": {
+				"title": "Kapalbhati pranayama and kriya | no one will tell this | fire breath | everything about Kapalbhati",
+				"channel": "Prashantj yoga",
+				"url": "https://www.youtube.com/watch?v=k3kNuxe1Np8",
+				"duration": "13:45",
+				"why": "少數把「Kapalbhati 屬於淨化法而非一般調息」「哪些人不該練」「一開始該做幾下」都完整講到的長版教學，適合當本單元的安全底線說明，而不是只教怎麼做得更快。"
+			},
+			"drills": [
+				{
+					"name": "頭顱發光呼吸標準示範",
+					"en": "Kapalabhati: the skull shining breath",
+					"kind": "align",
+					"target": "核心、橫膈、呼吸控制",
+					"dose": "第一週每次只做 20 下 × 2 輪",
+					"title": "Kapalabhati Pranayama: The Skull Shining Breath",
+					"channel": "Yoga International",
+					"url": "https://www.youtube.com/watch?v=B6bnFlVkKrE",
+					"duration": "4:56"
+				},
+				{
+					"name": "正確做法：只有吐氣是主動的",
+					"en": "How to do Kapalbhati correctly",
+					"kind": "align",
+					"target": "核心、呼吸控制",
+					"dose": "對鏡子做 20 下，確認肩膀不動",
+					"title": "How to Do Kapalbhati Correctly | Shining Face & Cleanse Your Lungs | Dr Hansaji",
+					"channel": "The Yoga Institute",
+					"url": "https://www.youtube.com/watch?v=MuBLwjmIUM8",
+					"duration": "3:18"
+				},
+				{
+					"name": "Kapalbhati 該避免的事",
+					"en": "Things to avoid during Kapalabhati",
+					"kind": "align",
+					"target": "核心、呼吸控制、腰椎",
+					"dose": "練前必看一次，對照自己的錯誤清單",
+					"title": "Things to AVOID During Kapalabhati | Shining Skull Breath | Kapalabhati Common Mistakes",
+					"channel": "Akhanda Yoga by Dr.Yogrishi",
+					"url": "https://www.youtube.com/watch?v=rbqfvGuTC38",
+					"duration": "5:18"
+				},
+				{
+					"name": "十分鐘火呼吸引導（繁中）",
+					"en": "10-minute guided Kapalabhati in Mandarin",
+					"kind": "follow",
+					"target": "核心、橫膈",
+					"dose": "完整跟做 1 次，中途不適即停",
+					"title": "10分鐘 調息法【火呼吸法Kapalabhati】Pranayama ★ #調息法 #Kapalabhati",
+					"channel": "Yoga with Jade",
+					"url": "https://www.youtube.com/watch?v=TAJGDoidEKc",
+					"duration": "10:02"
+				},
+				{
+					"name": "頭顱清明呼吸法完整課（繁中）",
+					"en": "Kapalabhati full class in Mandarin",
+					"kind": "follow",
+					"target": "核心、呼吸控制",
+					"dose": "完整跟做 1 次，每週不超過 3 次",
+					"title": "好好呼吸-瑜珈呼吸法-「頭顱清明呼吸法 Kapala bhati Pranayama」｜#自然呼吸瑜珈 #瑜珈教學 #調息法 10 mins yoga",
+					"channel": "自然呼吸瑜珈館(高雄)",
+					"url": "https://www.youtube.com/watch?v=4QXHHcU9l2s",
+					"duration": "12:15"
+				},
+				{
+					"name": "40-50-60 下漸進加量",
+					"en": "Kapalbhati 40-50-60 breaths session",
+					"kind": "deepen",
+					"target": "核心、呼吸控制",
+					"dose": "已能穩定做 30 下者，再依此表漸進",
+					"title": "Kapalbhati Pranayama Session 40-50-60 Breaths | Breathwork & Pranayama with Michaël Bijker",
+					"channel": "Michael Bijker - Life Awareness Project",
+					"url": "https://www.youtube.com/watch?v=x8OcED7AsVo",
+					"duration": "6:35"
+				}
+			]
+		},
+		{
+			"id": "ch2-u4",
+			"name": "Bhramari 蜂鳴式呼吸",
+			"type": "breath",
+			"assessment": "以拇指輕蓋耳屏、其餘手指輕放在臉上，吸氣後閉嘴用鼻腔嗡鳴吐氣，連做 7 次。合格標準是：嗡鳴時把手掌貼在額頭與顴骨上能明顯感到震動，且每次嗡鳴能穩定持續 8 秒以上、音量不忽大忽小、結尾不斷音。若只有喉嚨在用力而臉部完全沒有震動感，代表音高太低或嘴巴沒有真正閉緊；若做完覺得耳朵痛或出現耳鳴，是手指壓進耳道太深，改成只輕蓋耳屏外緣，不要塞住耳道。中耳炎急性期、耳膜穿孔者請暫時不要按耳朵，只做嗡鳴即可。",
+			"tight": [
+				"手指塞進耳道太深造成耳朵痛或耳鳴，正確是輕蓋耳屏外緣",
+				"嗡鳴時嘴巴沒閉緊，聲音從嘴巴漏出、臉部沒有共振",
+				"把音壓在喉嚨用力擠，做幾次就喉嚨啞",
+				"吐氣尾端把氣完全擠光，導致下一口必須搶氣"
+			],
+			"weak": [
+				"延長吐氣（吐氣遠長於吸氣）的控制力",
+				"鼻腔與鼻竇共振的覺察",
+				"以聲音鎖住注意力、減少雜念的專注力",
+				"迷走神經張力與放鬆與副交感的啟動"
+			],
+			"lesson": {
+				"title": "Humming Bee Breath | Bhramari Pranayama Practice | Increase Nitric Oxide",
+				"channel": "The School of Breath",
+				"url": "https://www.youtube.com/watch?v=eBqFqUxOvSU",
+				"duration": "10:30",
+				"why": "把手指位置、音高怎麼選、一口氣該嗡多久都示範得很細，並解釋鼻腔共振與一氧化氮的關係，讓「為什麼要用鼻腔而不是喉嚨發聲」有明確理由。"
+			},
+			"drills": [
+				{
+					"name": "蜂鳴呼吸技術要點",
+					"en": "Bhramari technique essentials",
+					"kind": "align",
+					"target": "呼吸控制、專注",
+					"dose": "跟做 7 次嗡鳴",
+					"title": "Bhramari pranayama | Boosting the nitric oxide | Breathing technique",
+					"channel": "The Yoga Institute",
+					"url": "https://www.youtube.com/watch?v=Zqbrw5FtdKg",
+					"duration": "3:19"
+				},
+				{
+					"name": "蜂鳴呼吸逐步拆解",
+					"en": "Bhramari step-by-step for beginners",
+					"kind": "align",
+					"target": "呼吸控制、頸椎",
+					"dose": "分段練：先只嗡鳴不按耳，再加手印，各 5 次",
+					"title": "Bhramari Pranayama (Humming Bee Breath) How to Do Step by Step for Beginners with Benefits",
+					"channel": "Siddhi Yoga International",
+					"url": "https://www.youtube.com/watch?v=nQIl6ZdaaGo",
+					"duration": "7:45"
+				},
+				{
+					"name": "蜜蜂呼吸法（繁中教學）",
+					"en": "Bhramari Pranayama in Mandarin",
+					"kind": "align",
+					"target": "呼吸控制、放鬆與副交感",
+					"dose": "跟做 7 次，注意手指只蓋耳屏",
+					"title": "瑜珈呼吸法｜蜜蜂呼吸法Bhramari Pranayama｜RYT200瑜珈師資培訓 — YOGA JOURNEY 瑜珈旅程",
+					"channel": "YOGA JOURNEY瑜珈旅程",
+					"url": "https://www.youtube.com/watch?v=WPxZFDJ5mUU",
+					"duration": "4:50"
+				},
+				{
+					"name": "蜂鳴呼吸完整引導",
+					"en": "Guided bee breath practice",
+					"kind": "follow",
+					"target": "呼吸控制、放鬆與副交感",
+					"dose": "完整跟做 1 次",
+					"title": "Bee Breath | Bhramari Pranayama",
+					"channel": "Yoga With Adriene",
+					"url": "https://www.youtube.com/watch?v=jHAa1B0XctU",
+					"duration": "10:55"
+				},
+				{
+					"name": "長版蜂鳴呼吸：神經系統再平衡",
+					"en": "Extended Bhramari for nervous system reset",
+					"kind": "follow",
+					"target": "放鬆與副交感、專注",
+					"dose": "睡前完整跟做 1 次",
+					"title": "Humming Bee Breath to Relax & Rebalance Your Nervous System (Simple Bhramari Pranayama Practice)",
+					"channel": "hello inner light",
+					"url": "https://www.youtube.com/watch?v=HD2wscc5Q-4",
+					"duration": "24:19"
+				},
+				{
+					"name": "Bhramari 進階細節與變化",
+					"en": "Bhramari in depth and variations",
+					"kind": "deepen",
+					"target": "呼吸控制、專注",
+					"dose": "依影片提示調整音高與時長，練 12 次",
+					"title": "YOU SHOULD NOT SKIP | BHRAMARI PRANAYAMA | BHRAMARI BREATH | BHRAMARI FOR MEMORY | @PrashantjYoga",
+					"channel": "Prashantj yoga",
+					"url": "https://www.youtube.com/watch?v=bOBCtsNANlQ",
+					"duration": "12:54"
+				}
+			]
+		},
+		{
+			"id": "ch2-u5",
+			"name": "Sheetali 與 Sheetkari 清涼呼吸法",
+			"type": "breath",
+			"assessment": "捲舌成管（Sheetali）或牙齒輕合、從齒縫吸氣（Sheetkari），吸氣 4 秒後閉嘴用鼻子吐氣 6 秒，做 9 輪。合格標準是：吸氣時舌面與上顎明顯感到涼意，做完 9 輪後嘴唇與舌頭有微涼感、口水分泌增加。若舌頭捲不起來（這是遺傳差異，約有相當比例的人天生做不到），直接改做 Sheetkari 即算通過，不需勉強拉扯舌繫帶。另外檢查一件事：吐氣一定要用鼻子，若習慣用嘴吐氣會讓口腔更乾、練完口渴，代表流程做錯了。天氣冷、感冒或氣喘發作期不練。",
+			"tight": [
+				"吐氣也用嘴巴，導致口腔更乾、練完反而口渴",
+				"捲不起舌頭仍硬撐，拉扯舌繫帶或做出歪斜的假捲舌",
+				"在冷天、空調直吹或呼吸道感染時練，加重咳嗽與鼻塞",
+				"吸氣太快太猛，冷空氣直衝咽喉造成刺痛"
+			],
+			"weak": [
+				"以口吸鼻吐切換氣道的控制能力",
+				"延長吐氣、降低呼吸頻率的能力",
+				"對體溫與口腔感受的覺察（專注）",
+				"情緒過熱時主動降溫的自我調節（放鬆與副交感）"
+			],
+			"lesson": {
+				"title": "Pranayama - Sitali- Cooling Breath - (Or, Taco Breath!)",
+				"channel": "Yoga With Adriene",
+				"url": "https://www.youtube.com/watch?v=sXai5Wvcg1M",
+				"duration": "11:22",
+				"why": "用「taco 捲舌」的比喻把舌形講清楚，並明確說明捲不起舌頭的人該怎麼辦，同時強調吸氣用嘴、吐氣用鼻的順序——正是本單元最常做錯的地方。"
+			},
+			"drills": [
+				{
+					"name": "Sheetali 傳統示範（阿育吠陀）",
+					"en": "Sheetali demonstrated by Vasant Lad",
+					"kind": "align",
+					"target": "呼吸控制、放鬆與副交感",
+					"dose": "跟做 9 輪，觀察舌面涼感",
+					"title": "Sheetali Pranayama - The Cooling Breath - Demonstrated by Vasant Lad, BAM&S, MASc",
+					"channel": "The Ayurvedic Institute",
+					"url": "https://www.youtube.com/watch?v=X69POkv2bjo",
+					"duration": "6:27"
+				},
+				{
+					"name": "Sitali 技術拆解與適用時機",
+					"en": "Sitali Pranayama tutorial",
+					"kind": "align",
+					"target": "呼吸控制、專注",
+					"dose": "跟做 9 輪，記錄練前練後體感",
+					"title": "How to do Sitali Pranayama Tutorial - Yoga Breathing Technique and Benefits | Cooling Breath",
+					"channel": "BrettLarkinYoga",
+					"url": "https://www.youtube.com/watch?v=vthtFd3BUCc",
+					"duration": "6:59"
+				},
+				{
+					"name": "Sheetkari：捲不起舌頭的替代版",
+					"en": "Sheetkari (hissing breath) alternative",
+					"kind": "modify",
+					"target": "呼吸控制、放鬆與副交感",
+					"dose": "捲舌困難者改做這個版本 9 輪",
+					"title": "Sheetkari or Shitkari Pranayama (Hissing Breath) How to Do Step by Step for Beginners with Benefits",
+					"channel": "Siddhi Yoga International",
+					"url": "https://www.youtube.com/watch?v=yWI09RUBxY0",
+					"duration": "5:57"
+				},
+				{
+					"name": "清涼呼吸法引導（繁中）",
+					"en": "Guided cooling breath in Mandarin",
+					"kind": "follow",
+					"target": "呼吸控制、放鬆與副交感",
+					"dose": "完整跟做 1 次",
+					"title": "6分鐘 調息法【清涼呼吸法Cooling Breathing】Pranayama ★ #呼吸法 #SitaliPranayama",
+					"channel": "Yoga with Jade",
+					"url": "https://www.youtube.com/watch?v=Ck6Eq12jBPk",
+					"duration": "6:16"
+				},
+				{
+					"name": "十分鐘 Sheetali 降溫序列",
+					"en": "10-minute Sheetali cooling session",
+					"kind": "follow",
+					"target": "放鬆與副交感、專注",
+					"dose": "情緒過熱或午後燥熱時完整跟做 1 次",
+					"title": "10 Minute Sheetali Pranayama | How To Cool Your Body Down & Calm Anxiety",
+					"channel": "Breathe With Sandy",
+					"url": "https://www.youtube.com/watch?v=vNedEpLJIf0",
+					"duration": "17:27"
+				},
+				{
+					"name": "三種降溫調息的比較",
+					"en": "Three cooling pranayamas compared",
+					"kind": "deepen",
+					"target": "呼吸控制、放鬆與副交感",
+					"dose": "三種各做 6 輪，挑最有效的一種納入日常",
+					"title": "Beat Your Body Heat By Just doing these 3 Cooling Pranayam | Dr. Hansaji",
+					"channel": "The Yoga Institute",
+					"url": "https://www.youtube.com/watch?v=bASohZS2uoI",
+					"duration": "5:28"
+				}
+			]
+		}
+	]
 }

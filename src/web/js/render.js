@@ -176,6 +176,41 @@ function emph(val) {
     .replace(/\n{2,}/g, "<br><br>");
 }
 
+/* 傳承立場：說法後面一律附傳承公開文件的逐字原文與頁碼，讀者可以自己去核對 */
+function tradition(u) {
+  if (!u.tradition) return "";
+
+  const refs = (u.traditionRefs || [])
+    .map(
+      (r) => `
+        <li class="TraditionRef">
+          <blockquote class="TraditionRef__quote">${esc(r.quote)}</blockquote>
+          <cite class="TraditionRef__cite">${
+            r.url
+              ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.source)}</a>`
+              : esc(r.source)
+          }${r.sutra ? `<span class="TraditionRef__sutra">${esc(r.sutra)}</span>` : ""}</cite>
+        </li>`,
+    )
+    .join("");
+
+  return `
+    <div class="Tradition">
+      <span class="Tradition__icon">${icon("milestone", 16)}</span>
+      <span>
+        <span class="Tradition__label">${esc(UI.traditionLabel || "")}</span>${emph(u.tradition)}
+        ${
+          refs
+            ? `<details class="TraditionRefs">
+                 <summary>${esc(UI.traditionRefsLabel || "")}（${u.traditionRefs.length}）</summary>
+                 <ul class="TraditionRefs__list">${refs}</ul>
+               </details>`
+            : ""
+        }
+      </span>
+    </div>`;
+}
+
 function evidence(ev, unitId) {
   if (!ev) return "";
   const g = gradeOf(ev.evidence_grade);
@@ -383,6 +418,7 @@ export function renderUnit(u, done, locked = false) {
                </div>`
             : ""
         }
+        ${tradition(u)}
         ${muscles(u.tight, u.weak)}
         ${evidence(u.evidence, u.id)}
         ${groups}

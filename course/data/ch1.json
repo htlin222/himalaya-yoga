@@ -1,495 +1,288 @@
 {
-  "chapter": "CH1",
-  "title": "起點：安全、身體地圖與練習設定",
-  "units": [
-    {
-      "id": "ch1-u1",
-      "name": "這門課怎麼練：順序、頻率與最小可行練習",
-      "type": "foundation",
-      "assessment": "打開行事曆，數你過去 14 天實際做完的練習次數：少於 4 次，問題出在「單次太長」而不是「意志力不足」。接著做一次校準：設 10 分鐘計時器，只做一組全身伸展，計時結束就停。若你在第 3 分鐘之前就想關掉、或結束後覺得「這樣根本不算練」，代表你的心理門檻被長影片綁架了——先把最小可行練習訂在「即使今天最忙也做得到」的長度（多數人是 8–12 分鐘），連續七天不中斷之後再加長。反過來，若 10 分鐘結束時你完全不喘、也沒有任何部位有伸展感，代表強度不足，該往 20 分鐘的完整課移動。",
-      "tight": [
-        "一開始就挑 45–60 分鐘的課，做兩天就斷掉",
-        "只在「有空又有心情」時練，沒有固定的時段錨點",
-        "把痠痛當成有效的指標，隔天加倍練回來",
-        "同時追四五個頻道，每天換課表、沒有累積"
-      ],
-      "weak": [
-        "把練習拆成最小可行單位並穩定執行的能力",
-        "自我評估強度與恢復的能力",
-        "在有限時間內排出「暖身—主課—收尾」順序的能力"
-      ],
-      "lesson": {
-        "title": "Beginner’s Guide to Yoga – How to Choose a Class",
-        "channel": "YOGABODY",
-        "url": "https://www.youtube.com/watch?v=VcUGNZamNPA",
-        "duration": "16:53",
-        "why": "直接處理新手最先卡住的問題：哈達／流動／熱瑜伽／陰瑜伽差在哪、該從哪一種開始、第一堂課會發生什麼事。講的是「怎麼選、怎麼開始」而不是又一支跟練，正好當這一章的入口。"
-      },
-      "drills": [
-        {
-          "name": "一週該練幾次",
-          "en": "How often should you do yoga",
-          "kind": "deepen",
-          "target": "專注、放鬆與副交感",
-          "dose": "看一次，當場把下週三個練習時段寫進行事曆",
-          "title": "How Often Should You do Yoga?  - Yoga Tips!",
-          "channel": "Man Flow Yoga",
-          "url": "https://www.youtube.com/watch?v=wnLCN-Vbvec",
-          "duration": "5:59"
-        },
-        {
-          "name": "十分鐘最小可行練習",
-          "en": "10-minute beginner full practice",
-          "kind": "follow",
-          "target": "脊椎活動度、髖關節、呼吸控制",
-          "dose": "每週 3–5 次，忙碌日就只做這一支",
-          "title": "10-Minute Yoga For Beginners | Start Yoga Here...",
-          "channel": "Yoga With Adriene",
-          "url": "https://www.youtube.com/watch?v=j7rKKpwdXNE",
-          "duration": "12:16"
-        },
-        {
-          "name": "新手最常犯的錯",
-          "en": "Common beginner mistakes",
-          "kind": "align",
-          "target": "脊椎活動度、肩胛、呼吸控制",
-          "dose": "第一週看一次，第四週回頭再看一次",
-          "title": "Mistakes Beginners Do ⛔️ Yoga for Beginners",
-          "channel": "Idan Kirshner",
-          "url": "https://www.youtube.com/watch?v=UeAPVuiina0",
-          "duration": "12:40"
-        },
-        {
-          "name": "身體很硬時的入門版",
-          "en": "Full body stretch for stiff bodies",
-          "kind": "modify",
-          "target": "腿後側、髖關節、胸椎",
-          "dose": "10 分鐘，坐辦公室的日子晚上做",
-          "title": "10 Minute Yoga Full Body Stretch for Stiff Bodies",
-          "channel": "Yoga With Bird",
-          "url": "https://www.youtube.com/watch?v=SvPKFsCiMsw",
-          "duration": "10:17"
-        },
-        {
-          "name": "新手常問問題總整理",
-          "en": "Beginner yoga FAQ",
-          "kind": "deepen",
-          "target": "專注",
-          "dose": "看一次，記下三個和自己有關的答案",
-          "title": "Yoga FAQ - Your Quesitons Answered!",
-          "channel": "Yoga with Kassandra",
-          "url": "https://www.youtube.com/watch?v=yeOscvf8at8",
-          "duration": "9:34"
-        }
-      ]
-    },
-    {
-      "id": "ch1-u2",
-      "name": "禁忌與紅旗：哪些狀況要跳過哪些練習",
-      "type": "population",
-      "assessment": "練習前逐項自答，任何一項為「是」就先不要自行跟練，改為只做呼吸與支撐性休息，並先問醫療端：靜態血壓 ≥160/100 或未服藥控制的高血壓；已確診青光眼、視網膜剝離、或半年內眼科手術（頭低於心臟的姿勢一律跳過）；椎間盤突出且咳嗽、打噴嚏會把痛放射到臀部以下；懷孕滿 14 週後仍做仰臥超過 3 分鐘或俯臥壓迫腹部；骨質疏鬆診斷（脊椎屈曲與強力扭轉一律跳過）。練習「中」則用另一組即停紅旗：頭暈到需要扶牆、胸悶或胸痛、視線出現閃光或黑點、單側肢體麻或無力、關節出現尖銳刺痛而非肌肉的鈍脹感——出現任一項當場停止，改為側躺休息。",
-      "tight": [
-        "把「痛」和「伸展感」混為一談，忍著做完整堂課",
-        "有高血壓或青光眼卻照做倒立與長時間頭低於心臟的姿勢",
-        "經期或孕期照原課表練，只靠「感覺還好」判斷",
-        "以為緩慢的練習就沒有風險，忽略韌帶與關節被拉過頭"
-      ],
-      "weak": [
-        "在練習中辨識停止訊號並真的停下的能力",
-        "把個人病史轉譯成「這幾個姿勢不做」的能力",
-        "替換而非硬撐——找到同目的但安全的版本"
-      ],
-      "lesson": {
-        "title": "The Yoga Injury Matrix: the 8 Best Practices to Minimize Injuries in Yoga",
-        "channel": "Jason Crandell Yoga",
-        "url": "https://www.youtube.com/watch?v=hsfvvOjk6WE",
-        "duration": "34:25",
-        "why": "資深師資訓練者把「瑜伽為什麼會受傷」拆成負荷、頻率、動作品質等可操作的變項，而不是列一張嚇人的禁忌清單。這支給的是判斷架構，後面四支才是各族群的細則。"
-      },
-      "drills": [
-        {
-          "name": "不適的三個區間：什麼該停",
-          "en": "Three zones of discomfort",
-          "kind": "align",
-          "target": "專注、放鬆與副交感",
-          "dose": "看一次，之後每次練習中自問「我現在在第幾區」",
-          "title": "Ram Jain’s 3 Zones of Discomfort | How to Avoid Injury in Yoga | Arhanta Yoga",
-          "channel": "Arhanta Yoga",
-          "url": "https://www.youtube.com/watch?v=aM2lwBUQ-o8",
-          "duration": "2:39"
-        },
-        {
-          "name": "椎間盤突出要避開的體式",
-          "en": "Poses to avoid with a bulging disc",
-          "kind": "modify",
-          "target": "腰椎、薦髂關節、前彎",
-          "dose": "有下背放射痛時，先看完再決定課表",
-          "title": "Bulging Disc? 5 Yoga Poses to AVOID!",
-          "channel": "Will Harlow – Over-Fifties Specialist Physio",
-          "url": "https://www.youtube.com/watch?v=HdcQalVi3eI",
-          "duration": "10:23"
-        },
-        {
-          "name": "孕期不做的體式",
-          "en": "Poses to avoid during pregnancy",
-          "kind": "align",
-          "target": "核心、腰椎、扭轉",
-          "dose": "確認懷孕後立刻看，每個三月期重看一次",
-          "title": "Prenatal Yoga for Beginners: Yoga Poses to Avoid During Pregnancy",
-          "channel": "Erica Rodefer",
-          "url": "https://www.youtube.com/watch?v=o_IEZGkVv0w",
-          "duration": "9:23"
-        },
-        {
-          "name": "經期的可與不可",
-          "en": "Yoga during menstruation: do's and don'ts",
-          "kind": "align",
-          "target": "骨盆底、腰椎、放鬆與副交感",
-          "dose": "經期第 1–2 天前先看，據此調整當週課表",
-          "title": "Yoga During Periods | Do's and Don'ts of Yoga & Pranayama",
-          "channel": "FitNCalm Yogic Living",
-          "url": "https://www.youtube.com/watch?v=Yk1K_GvTsGk",
-          "duration": "5:21"
-        },
-        {
-          "name": "青光眼與高血壓的替代課",
-          "en": "Yoga for glaucoma and hypertension",
-          "kind": "modify",
-          "target": "呼吸控制、放鬆與副交感、脊椎活動度",
-          "dose": "全程頭不低於心臟，每週 2–3 次取代一般流動課",
-          "title": "30 Minute Yoga for Glaucoma & Hypertension",
-          "channel": "Jessica Nagy",
-          "url": "https://www.youtube.com/watch?v=HyN1fjO8Lk8",
-          "duration": "28:03"
-        }
-      ]
-    },
-    {
-      "id": "ch1-u3",
-      "name": "場地、墊子與輔具：最小器材集",
-      "type": "foundation",
-      "assessment": "墊子抓地力測試：赤腳（手掌乾燥）在墊上撐下犬式 30 秒，若手掌前滑超過 2 公分、或必須用力抓才不滑，這張墊子不適合有手撐的練習。厚度測試：跪姿把膝蓋直接壓在墊上 20 秒，若出現需要移開的壓痛，代表厚度不足，跪姿動作要加折毛毯。輔具需求測試：站姿前彎，手指若碰不到地板，就用最高面（約 23 公分）立起的磚墊在手下——磚是拿來把地板抬高到你的手邊，不是拿來練柔軟度的。場地測試：躺下手臂平舉畫一圈，若會撞到家具，練習空間不足，先清出約 2 公尺 × 1 公尺 並保留一面淨空的牆。",
-      "tight": [
-        "用太滑的旅行墊做下犬式，靠死抓手指代償",
-        "沒有磚就硬彎，用腰椎屈曲換取「手碰地」的假象",
-        "把輔具當成「初學者才要用」的東西，進階後就丟掉",
-        "在有地毯或不平地面練站姿平衡，腳踝一直在打架"
-      ],
-      "weak": [
-        "判斷何時該把地板抬高（磚）、何時該把手延長（帶）的能力",
-        "用家中現成物品替代輔具的能力",
-        "利用牆面提供回饋與支撐的能力"
-      ],
-      "lesson": {
-        "title": "How To Choose A Yoga Mat: Top 9 Common Yoga Mat Materials Explained",
-        "channel": "Yoga Workouts with Laura",
-        "url": "https://www.youtube.com/watch?v=JsehdTbEA-o",
-        "duration": "10:39",
-        "why": "把 PVC、TPE、天然橡膠、麂皮面等材質對應到「會不會滑、耐不耐用、重不重、有沒有氣味」四個實際問題，並說明厚度該怎麼依練習型態選。是講材質差異而不是推單一品牌。"
-      },
-      "drills": [
-        {
-          "name": "瑜伽磚的基本用法",
-          "en": "How to use yoga blocks",
-          "kind": "modify",
-          "target": "髖關節、腿後側、前彎",
-          "dose": "看一次，之後每支課前先決定磚要放哪、放第幾面",
-          "title": "HOW TO USE YOGA BLOCKS FOR BEGINNERS | Yoga for beginners | Yoga with Uliana",
-          "channel": "Yoga with Uliana",
-          "url": "https://www.youtube.com/watch?v=SxZ21BEdBwE",
-          "duration": "11:52"
-        },
-        {
-          "name": "伸展帶的十一種用法",
-          "en": "How to use a yoga strap",
-          "kind": "modify",
-          "target": "肩關節、腿後側、手臂支撐",
-          "dose": "挑 3 個和自己受限處相關的用法，各練 60 秒",
-          "title": "How to Use a Yoga Strap: 11 Easy Tips",
-          "channel": "FitNCalm Yogic Living",
-          "url": "https://www.youtube.com/watch?v=8oDAM5N9o4w",
-          "duration": "10:05"
-        },
-        {
-          "name": "沒有輔具的家中替代品",
-          "en": "DIY yoga props at home",
-          "kind": "modify",
-          "target": "髖關節、脊椎活動度",
-          "dose": "看一次，當場在家找出對應的書、毛巾、皮帶",
-          "title": "What to use instead of yoga blocks - DIY yoga props - Yoga Props Substitute for yoga at home",
-          "channel": "Di Hickman",
-          "url": "https://www.youtube.com/watch?v=9CRB3wq4aBY",
-          "duration": "4:50"
-        },
-        {
-          "name": "抱枕支撐的修復練習",
-          "en": "Restorative yoga with a bolster",
-          "kind": "follow",
-          "target": "胸口、放鬆與副交感、腰椎",
-          "dose": "每週 1–2 次，睡前做；沒有抱枕就用捲起的棉被",
-          "title": "RESTORATIVE YOGA WITH BOLSTER | restorative yoga 10 minutes",
-          "channel": "Alexia K Yoga",
-          "url": "https://www.youtube.com/watch?v=c6Qweqs8CO4",
-          "duration": "11:21"
-        },
-        {
-          "name": "把牆當成免費輔具",
-          "en": "Gentle yoga at the wall",
-          "kind": "follow",
-          "target": "腿後側、髖關節、腰椎",
-          "dose": "30 分鐘，需要回饋或平衡不穩的日子做",
-          "title": "Gentle Yoga at the Wall - Stretches for Lower Back, Hamstrings, Hips & Inner Thighs (30 Minutes)",
-          "channel": "YOGA UPLOAD with Maris Aylward",
-          "url": "https://www.youtube.com/watch?v=e8kIQv5S3po",
-          "duration": "29:44"
-        }
-      ]
-    },
-    {
-      "id": "ch1-u4",
-      "name": "身體地圖一：脊椎中立與骨盆位置",
-      "type": "foundation",
-      "assessment": "靠牆測骨盆：背貼牆站，腳跟離牆 5 公分，後腦、上背、臀部貼牆，再把手掌從腰後的縫隙水平穿過。手掌能平放、前後只剩約一掌厚＝中立；手掌加上拳頭都能輕鬆通過（縫隙大於一掌厚）＝骨盆前傾；手掌完全塞不進去、腰椎整段壓死牆面＝骨盆後傾。接著仰臥屈膝再測一次（同樣把手伸到腰下）：若躺著能做出中立、站著卻不行，代表問題是髖屈肌與腹部的控制，不是骨架結構，練得回來。最後測控制力：仰臥做骨盆前後傾各 10 次，若動作只在腰椎發生、肋骨跟著上下飄、或必須憋氣才做得動，代表你還沒有把骨盆和胸廓分開來動。",
-      "tight": [
-        "把「挺胸縮腹」誤當中立，實際上是腰椎過度前凸",
-        "捲尾骨捲過頭，變成骨盆後傾＋腰椎後凸",
-        "做骨盆傾斜時憋氣，用腹壁硬撐取代呼吸控制",
-        "只有腰椎在動，胸廓與骨盆沒有各自獨立的控制"
-      ],
-      "weak": [
-        "辨識自己在站姿與仰臥的骨盆位置",
-        "骨盆與胸廓分離控制（骨盆時鐘）",
-        "橫膈呼吸與腹內壓配合核心的能力",
-        "把中立脊椎帶進實際體式的能力"
-      ],
-      "lesson": {
-        "title": "骨盆歪斜真相大公開：物理治療師教你評估與矯正｜啾c物理治療師",
-        "channel": "啾c物理治療師",
-        "url": "https://www.youtube.com/watch?v=KgbjGncYBhI",
-        "duration": "14:05",
-        "why": "繁體中文物理治療師示範骨盆前後傾與左右歪斜的實際評估手法，並說明哪些是需要處理的、哪些是被網路誇大的。有評估、有對應動作，剛好接住這個單元的自我判定需求。"
-      },
-      "drills": [
-        {
-          "name": "骨盆前傾自我測試",
-          "en": "Anterior pelvic tilt test",
-          "kind": "align",
-          "target": "骨盆底、腰椎、髖關節",
-          "dose": "測一次，記錄結果；四週後複測",
-          "title": "Anterior Pelvic Tilt Test | Self Assessment You Can Do",
-          "channel": "GuerrillaZen Fitness",
-          "url": "https://www.youtube.com/watch?v=cTSR0_F4CpM",
-          "duration": "6:06"
-        },
-        {
-          "name": "骨盆後傾自我測試",
-          "en": "Posterior pelvic tilt test",
-          "kind": "align",
-          "target": "腰椎、髖關節、腿後側",
-          "dose": "與前傾測試同一天做，兩者比對",
-          "title": "Posterior Pelvic Tilt Test | Do this one at home easily!",
-          "channel": "GuerrillaZen Fitness",
-          "url": "https://www.youtube.com/watch?v=RsUmhCXSwUw",
-          "duration": "3:06"
-        },
-        {
-          "name": "骨盆時鐘",
-          "en": "Pelvic tilt and pelvic clock",
-          "kind": "follow",
-          "target": "腰椎、骨盆底、脊椎活動度",
-          "dose": "仰臥前後傾各 10 次＋順逆時鐘各 5 圈，每日一輪",
-          "title": "Healthy Back Series Part 1 - Pelvic Tilt and Pelvic Clock.wmv",
-          "channel": "MarinMovementCenter",
-          "url": "https://www.youtube.com/watch?v=Mw0JgOk_cPE",
-          "duration": "5:08"
-        },
-        {
-          "name": "呼吸、腹內壓與核心",
-          "en": "Intra-abdominal pressure breathing",
-          "kind": "align",
-          "target": "橫膈、核心、呼吸控制",
-          "dose": "仰臥 360 度呼吸 10 次，再帶到坐姿 10 次",
-          "title": "Functional Abs | Intra-Abdominal Pressure Breathing For Core Stability",
-          "channel": "REACH Rehab + Chiropractic Performance Center",
-          "url": "https://www.youtube.com/watch?v=CFCnlzaNQas",
-          "duration": "4:58"
-        },
-        {
-          "name": "把骨盆帶回中立的練習",
-          "en": "Restore neutral pelvic tilt",
-          "kind": "follow",
-          "target": "核心、髖關節、股四頭",
-          "dose": "測出前傾者每週 3 次，一次一輪",
-          "title": "How to Fix Anterior Pelvic Tilt (Restore Your Neutral Pelvic Tilt)",
-          "channel": "Man Flow Yoga",
-          "url": "https://www.youtube.com/watch?v=3sW1LOy7OAY",
-          "duration": "13:12"
-        }
-      ]
-    },
-    {
-      "id": "ch1-u5",
-      "name": "身體地圖二：肩胛、手腕與承重",
-      "type": "foundation",
-      "assessment": "手腕背屈測試：四足跪姿，手掌整片貼地、指尖朝前，肩膀垂直落在手腕正上方，維持 30 秒。若前臂與地面的夾角明顯小於 75 度（手腕彎不夠、手肘被迫彎曲）、手掌根必須離地、或 30 秒內腕橫紋處出現壓痛，即為手腕承重準備不足，短期內所有手撐姿勢改用拳頭或前臂版本。手指壓力測試：撐姿時請旁人抽走你的食指指根下的一張紙，若能輕易抽出，代表重量全壓在掌根，正是下犬式手腕痛的主因。肩胛測試：後腦、上背、臀部貼牆站，雙臂貼牆做 W 上舉成 Y，若手背在過頭之前就離牆、或腰椎被迫拱起離牆，代表肩屈活動度不足，長時間下犬與棒式先減量。",
-      "tight": [
-        "重量全壓在掌根，手指虛浮不吃力，腕關節被夾擠",
-        "下犬式聳肩、耳朵貼近肩膀，斜方肌上束整堂課緊繃",
-        "肩膀活動度不足時用腰椎後仰去換手臂過頭的角度",
-        "手肘過度伸直鎖死，把負荷丟給關節而非肌肉"
-      ],
-      "weak": [
-        "手腕背屈活動度與腕周肌力",
-        "掌根到指節的均勻分壓（手掌鎖印）",
-        "肩胛穩定與前鋸肌的推地能力",
-        "肩關節過頭活動度的自我評估"
-      ],
-      "lesson": {
-        "title": "Yoga Teacher's Companion #37: 5 Ways to Fix Wrist Discomfort in Down Dog, Chaturanga & Plank",
-        "channel": "Jason Crandell Yoga",
-        "url": "https://www.youtube.com/watch?v=f0QLiOKDOjo",
-        "duration": "15:28",
-        "why": "把新手最大的抱怨（下犬、棒式、四柱手腕痛）拆成五種具體處置：手掌分壓、手腕角度、前臂替代、負荷分配與課表安排。是解法清單而不是單純的伸展影片。"
-      },
-      "drills": [
-        {
-          "name": "肩關節活動度自測",
-          "en": "Shoulder mobility assessment",
-          "kind": "align",
-          "target": "肩關節、肩胛",
-          "dose": "左右各測一次，記錄不對稱側",
-          "title": "Shoulder Mobility Assessment",
-          "channel": "ACEfitness",
-          "url": "https://www.youtube.com/watch?v=GL6kBBMtWkY",
-          "duration": "4:58"
-        },
-        {
-          "name": "肩胛穩定三動作",
-          "en": "Scapular stability for yoga",
-          "kind": "align",
-          "target": "肩胛、肩關節、手臂支撐",
-          "dose": "每個動作 8–10 次 × 2 輪，手撐課前先做",
-          "title": "How to Improve Scapular Stability with Yoga 3 Simple Exercises",
-          "channel": "Man Flow Yoga",
-          "url": "https://www.youtube.com/watch?v=_zBKHaPFlTA",
-          "duration": "6:55"
-        },
-        {
-          "name": "手腕肌力與熱身",
-          "en": "Wrist strength routine",
-          "kind": "follow",
-          "target": "手腕、手肘、手臂支撐",
-          "dose": "每次有手撐的練習前做一輪，約 5 分鐘",
-          "title": "Yoga Wrist Strength - 5 Minute Wrist Exercise Routine",
-          "channel": "Livinleggings",
-          "url": "https://www.youtube.com/watch?v=ZQnAO1DhLEA",
-          "duration": "7:24"
-        },
-        {
-          "name": "手腕痛的當場調整",
-          "en": "Yogi hands for wrist pain",
-          "kind": "modify",
-          "target": "手腕、手臂支撐",
-          "dose": "手腕不適當天，所有撐姿改用這個手型",
-          "title": "WRIST PAIN in yoga? How to fix it with \"Yogi Hands\" 🙌",
-          "channel": "SarahBethYoga",
-          "url": "https://www.youtube.com/watch?v=aAw-syWMHvQ",
-          "duration": "3:20"
-        },
-        {
-          "name": "下犬式常見問題與改善",
-          "en": "Downward dog: common problems",
-          "kind": "align",
-          "target": "肩關節、手腕、腿後側",
-          "dose": "看一次，對著鏡子或錄影自我比對一次",
-          "title": "【動作解析】瑜珈下犬式-常見問題及改善｜物治歐巴 feat. Iris 瑜珈老師",
-          "channel": "物治歐巴  Oppa Physio ",
-          "url": "https://www.youtube.com/watch?v=9be-qoGqIJk",
-          "duration": "6:19"
-        }
-      ]
-    },
-    {
-      "id": "ch1-u6",
-      "name": "大休息 Savasana：每次練習的收尾",
-      "type": "foundation",
-      "assessment": "設 8 分鐘計時器做一次大休息，結束後回答三題：(1) 中途是否張眼確認時間超過 2 次；(2) 起身時是否比躺下前更累或更煩躁；(3) 是否在前 3 分鐘就想動腳或翻身。任一為「是」，代表你需要的是「支撐版」或「有語音引導版」，而不是更長的沉默躺著。身體檢查：躺下滿 1 分鐘後，刻意鬆開下巴與舌根，若你感覺到牙齒原本是輕輕咬著的、或肩膀突然掉下來一截，代表你剛剛是在「用力休息」。腰部檢查：仰臥時若腰下的縫隙讓你想拱背或想把腳踩回來，在膝下墊枕頭或捲毯，讓腰自然貼近地面。",
-      "tight": [
-        "練完直接起身收墊子，完全跳過收尾",
-        "躺著時仍在對抗——下巴咬緊、肩膀提著、腳趾用力",
-        "腰下懸空造成不適，靠拱背硬撐而非墊高膝蓋",
-        "把大休息當睡覺，設定太長反而醒來更昏沉"
-      ],
-      "weak": [
-        "從交感切換到副交感的能力",
-        "在靜止中維持清醒的專注（不是睡著）",
-        "用輔具讓身體真正被支撐的能力",
-        "身體掃描與局部放鬆的覺察"
-      ],
-      "lesson": {
-        "title": "Savasana (Corpse Pose) Benefits, How to Do & Contraindications by Yogi Sandeep - Siddhi Yoga",
-        "channel": "Siddhi Yoga International",
-        "url": "https://www.youtube.com/watch?v=TJNfblsl5i4",
-        "duration": "9:58",
-        "why": "師資培訓機構的體式拆解：擺位（腳張開角度、手掌朝上、下巴微收）、該躺多久、什麼狀況要改側躺或墊高，把大休息當成一個有做法的體式而非「隨便躺」。"
-      },
-      "drills": [
-        {
-          "name": "十分鐘引導大休息",
-          "en": "Guided savasana",
-          "kind": "follow",
-          "target": "放鬆與副交感、專注",
-          "dose": "每次練習後 5–10 分鐘",
-          "title": "Savasana (Corpse Yoga Pose) | 10-Minute Guided Relaxation",
-          "channel": "YOGA UPLOAD with Maris Aylward",
-          "url": "https://www.youtube.com/watch?v=G1j3erpSErE",
-          "duration": "10:22"
-        },
-        {
-          "name": "身體掃描",
-          "en": "Savasana body scan",
-          "kind": "follow",
-          "target": "專注、放鬆與副交感",
-          "dose": "每週 2–3 次，取代無引導的大休息",
-          "title": "10 Minute Guided Meditation for Relaxation - Savasana Body Scan",
-          "channel": "Yoga With Bird",
-          "url": "https://www.youtube.com/watch?v=rKBEGpzK25s",
-          "duration": "9:33"
-        },
-        {
-          "name": "十分鐘瑜珈休息術（中文引導）",
-          "en": "Yoga nidra in Mandarin",
-          "kind": "follow",
-          "target": "放鬆與副交感、呼吸控制",
-          "dose": "睡前或午休 10 分鐘",
-          "title": "【10分鐘瑜珈休息術】舒緩壓力｜快速充電｜改善失眠｜深層放鬆｜Yoga Nidra for Deep Relaxation",
-          "channel": "Siuyong Yoga",
-          "url": "https://www.youtube.com/watch?v=C7RbylzfMAw",
-          "duration": "10:13"
-        },
-        {
-          "name": "躺不住時的瑜伽睡眠",
-          "en": "10 minute yoga nidra",
-          "kind": "deepen",
-          "target": "放鬆與副交感、專注",
-          "dose": "心浮氣躁、無法安靜躺著的日子用這支替代",
-          "title": "10 Minute Yoga Nidra | Full Nervous System Massage",
-          "channel": "Ally Boothroyd | Sarovara Yoga",
-          "url": "https://www.youtube.com/watch?v=ApQ9NovgnA4",
-          "duration": "13:14"
-        },
-        {
-          "name": "靠牆抬腿：支撐版收尾",
-          "en": "Legs up the wall",
-          "kind": "modify",
-          "target": "腿後側、放鬆與副交感、腰椎",
-          "dose": "3–8 分鐘，久站久走或腰下懸空不適時取代平躺",
-          "title": "Legs Up The Wall - Foundations of Yoga",
-          "channel": "Yoga With Adriene",
-          "url": "https://www.youtube.com/watch?v=_OQEIiZLY-0",
-          "duration": "6:47"
-        }
-      ]
-    }
-  ]
+	"chapter": "CH1",
+	"title": "傳承與這門課的定位",
+	"units": [
+		{
+			"id": "ch11-u1",
+			"name": "八支 Ashtanga：瑜伽的完整架構",
+			"type": "philosophy",
+			"assessment": "拿一張紙，在 60 秒內默寫出八支的順序與各自的中文意思，不查資料。寫得出前四支（Yama、Niyama、Asana、Pranayama）卻卡在後四支（Pratyahara、Dharana、Dhyana、Samadhi），代表你對「瑜伽」的認識仍停在身體層面；若能說出「Asana 只是第三支、而且在《瑜伽經》裡只有三句話講它」，就算通過。",
+			"tight": [
+				"把八支當成「八個階段」，以為要練完前一支才能碰下一支——原文的次第性沒有那麼線性",
+				"誤以為 Asana 在帕坦加利體系中指的是體位序列，實際上《瑜伽經》2.46 只說「穩定而舒適的坐姿」",
+				"把 Pratyahara（收攝感官）當成閉眼放空，忽略它是感官與對象脫鉤的主動練習",
+				"以為 Samadhi 是一種情緒高峰經驗，而非認知結構的改變"
+			],
+			"weak": [
+				"能用一句話說出八支各自要處理的問題（人我關係／自我關係／身體／能量／感官／注意力／持續／融合）",
+				"能區分「帕坦加利的 Ashtanga」與「Pattabhi Jois 的 Ashtanga Vinyasa」是兩件事",
+				"能把自己現在的練習定位到八支的哪一格，並看出哪幾格從沒碰過"
+			],
+			"lesson": {
+				"title": "The 8 Limbs of Yoga Made Clear: A Modern, Practical Guide to Patanjali’s System",
+				"channel": "Jason Crandell Yoga",
+				"url": "https://www.youtube.com/watch?v=HwcEkciY-LA",
+				"duration": "15:24",
+				"why": "Jason Crandell 是資深師資培訓講師，這支不背誦名相，而是逐支說明「這一支在現代生活裡實際要求你做什麼」，並明確指出八支不是線性階梯。15 分鐘講完整個架構，密度剛好適合當本章入口。"
+			},
+			"drills": [
+				{
+					"name": "八支總覽：機構版系統講解",
+					"en": "Introduction to Patanjali's Eightfold Path",
+					"kind": "align",
+					"target": "專注",
+					"dose": "完整看一次，邊看邊列出八支的關鍵字",
+					"title": "Yoga & You: Introduction to Patanjali’s Eightfold Path of Yoga | Dr. Hansaji Yogendra",
+					"channel": "The Yoga Institute",
+					"url": "https://www.youtube.com/watch?v=T_RSVRbMXS4",
+					"duration": "16:55"
+				},
+				{
+					"name": "十分鐘八支速寫",
+					"en": "The 8 Limbs of Yoga Explained",
+					"kind": "modify",
+					"target": "專注",
+					"dose": "當作複習，看完後蓋起來口述一次",
+					"title": "What is Yoga? The 8 Limbs of Yoga Explained | Ep 1 Yoga Off the Mat | Emily Rowell Yoga",
+					"channel": "Emily Rowell Yoga",
+					"url": "https://www.youtube.com/watch?v=Q-U2ncEQ674",
+					"duration": "9:45"
+				},
+				{
+					"name": "八肢瑜伽是什麼（粵語繁中）",
+					"en": "What is Ashtanga Yoga (Cantonese)",
+					"kind": "follow",
+					"target": "專注",
+					"dose": "一次看完 30 分鐘，中文語境下重新對照名相",
+					"title": "【BB班】Ashtanga 八肢瑜伽是什麽？(1) - 《瑜伽經》簡介 Carmen Lam | Prana Yoga HK",
+					"channel": "Auntie Gold - Prana Yoga HK 般那瑜伽工作室",
+					"url": "https://www.youtube.com/watch?v=-nNJAnJCETw",
+					"duration": "30:51"
+				},
+				{
+					"name": "八支作為禪修次第",
+					"en": "The Eight Limbs of Yogic Meditation",
+					"kind": "deepen",
+					"target": "專注",
+					"dose": "分兩次看，第二次只記錄「與我原本理解不同的地方」",
+					"title": "The Eight Limbs of Yogic Meditation - Patanjali's Yoga Sutras",
+					"channel": "ArshaBodha - Swami Tadatmananda",
+					"url": "https://www.youtube.com/watch?v=vSaf47zusx4",
+					"duration": "22:02"
+				},
+				{
+					"name": "內在四支：收攝、專注、禪那",
+					"en": "Pratyahara, Dharana & Dhyana",
+					"kind": "align",
+					"target": "專注、放鬆與副交感",
+					"dose": "看完後實際做 5 分鐘 Dharana（單點凝視）驗證差異",
+					"title": "What is Meditation? - Pratyahara, Dharana & Dhyana | Ep 5 Yoga Off the Mat | Emily Rowell Yoga",
+					"channel": "Emily Rowell Yoga",
+					"url": "https://www.youtube.com/watch?v=laVT_0omKdE",
+					"duration": "12:33"
+				}
+			],
+			"tradition": "傳承看待這套系統的方式是整體的。〈The Himalayan Yoga Tradition〉 說，喜馬拉雅的瑜伽冥想**結合帕坦加利《瑜伽經》的智慧、密續（Tantras）的哲學與實踐，以及一長串聖者口傳的灌頂經驗**，並強調這「不是三個不相干元素的知性拼裝，而是各部分環環相扣的統一系統」。所以在傳承裡，八支不是八門可以分開修的科目，而是一條有先後的路——這門課的章節順序就是照這個次第重排的。",
+			"traditionRefs": [
+				{
+					"quote": "The Himalayan Tradition of Yoga Meditation combines the wisdom of Patanjali’s Yoga-sutras, the philosophy and practices of the Tantras, and the specific oral instructions and initiatory experiences passed on by a long line of saints and Yoga masters whose names may or may not be known. The Tradition is not an intellectual combining of three unrelated elements, but a unified system in which all the parts are integrally linked.",
+					"source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.1",
+					"url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=1"
+				},
+				{
+					"quote": "Transmission. This is the central point of the Himalayan tradition. From times immemorial the tradition has been passed on experientially in an unbroken chain of master disciple relationships.",
+					"source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.8",
+					"url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=8"
+				},
+				{
+					"quote": "Level One – Awareness: exploration and self-acceptance. Level Two – Control: mindfulness and regulation of emotions. Level Three – Synthesis: harmonious whole personality.",
+					"source": "Himalayan Yoga Tradition — 200, 500 & 600 Hour Teacher Training Program",
+					"url": "https://www.himalayanyogatradition.com/progression.html"
+				}
+			]
+		},
+		{
+			"id": "ch11-u5",
+			"name": "瑜伽的歷史：從古典到現代體位法",
+			"type": "philosophy",
+			"assessment": "回答一個問題：你今天做的拜日式（Surya Namaskar）最早的文獻紀錄大約是哪個年代？如果你的答案是「幾千年前」，去查一次——目前學界（Singleton、Goldberg、Alter 等）的證據指向 20 世紀初的印度，且與當時的體操與健身運動高度重疊。接著檢查你手上任何一本瑜伽書的第一章：它有沒有給「五千年歷史」這個說法附上任何一手文獻？沒有的話，那句話就是行銷文案而不是史學結論。",
+			"tight": [
+				"把「瑜伽有五千年歷史」當成史實複述——印度河谷印章的所謂『瑜伽坐姿』至今沒有學界共識",
+				"把《瑜伽經》當成現代體位練習的源頭，忽略哈達瑜伽文獻（11–18 世紀）才是體式的來源",
+				"假設現代體位序列全部來自印度傳統，忽略 19–20 世紀歐洲體操、丹麥式徒手操與印度民族主義健身運動的影響",
+				"把「有外來影響」誤讀成「瑜伽是假的」——歷史複雜不等於價值歸零"
+			],
+			"weak": [
+				"能區分前古典、古典（《瑜伽經》）、哈達、現代體位法四個層次的文獻與年代",
+				"能對任何「瑜伽歷史」說法追問「這個說法的一手材料是什麼」",
+				"能在不貶低練習價值的前提下，接受自己所練的體系是近百年的產物"
+			],
+			"lesson": {
+				"title": "What is Yoga? An Introduction to Yoga Studies",
+				"channel": "Yogic Studies",
+				"url": "https://www.youtube.com/watch?v=44YFKt3-fos",
+				"duration": "32:06",
+				"why": "Yogic Studies 是由宗教學研究者 Seth Powell 經營的學術型頻道，這支用學界（Mallinson、Singleton、White 等）的分期架構講「瑜伽」一詞在不同年代指的是什麼，全程標示證據來源。觀看數 17,081，以學術型內容而言已屬高流量。"
+			},
+			"drills": [
+				{
+					"name": "批判性的瑜伽史",
+					"en": "A Critical History of Yoga",
+					"kind": "align",
+					"target": "專注",
+					"dose": "看一次，記下三個你原本相信但沒有證據的說法",
+					"title": "A Critical History of Yoga",
+					"channel": "FuzzyTheory",
+					"url": "https://www.youtube.com/watch?v=jgYt74kq_I4",
+					"duration": "20:18"
+				},
+				{
+					"name": "拜日式的身世",
+					"en": "Unravelling the History of Surya Namaskar",
+					"kind": "align",
+					"target": "專注",
+					"dose": "看完後對照你自己學的拜日式版本差異",
+					"title": "Unravelling the History of Surya Namaskar",
+					"channel": "Keen on Yoga",
+					"url": "https://www.youtube.com/watch?v=vCQoibw5uQQ",
+					"duration": "33:40",
+					"why": "觀看數 2,232 低於一般門檻，但這是少數專門追溯拜日式文獻源流（含 20 世紀初 Aundh 邦推廣運動）的長談，主題不可替代，故依放寬標準採用。"
+				},
+				{
+					"name": "宗教學視角的瑜伽通史",
+					"en": "What is Yoga? (Let's Talk Religion)",
+					"kind": "follow",
+					"target": "專注",
+					"dose": "一次看完 50 分鐘，把時間軸畫出來",
+					"title": "What is Yoga?",
+					"channel": "Let's Talk Religion",
+					"url": "https://www.youtube.com/watch?v=gyVgSeu-Ks0",
+					"duration": "50:25"
+				},
+				{
+					"name": "Mark Singleton 談《Yoga Body》十年後",
+					"en": "Mark Singleton | Yoga Body, 10 Years Later",
+					"kind": "deepen",
+					"target": "專注",
+					"dose": "分兩次聽完，注意他如何回應學界對該書的批評",
+					"title": "YSP 15 Mark Singleton | Yoga Body, 10 Years Later",
+					"channel": "Yogic Studies",
+					"url": "https://www.youtube.com/watch?v=gAXiDm-okLY",
+					"duration": "81:24"
+				},
+				{
+					"name": "《Roots of Yoga》兩位作者對談",
+					"en": "James Mallinson and Mark Singleton, Roots of Yoga",
+					"kind": "deepen",
+					"target": "專注",
+					"dose": "分兩次聽完，重點在他們如何處理梵文一手材料",
+					"title": "NYSL: James Mallinson and Mark Singleton, Roots of Yoga",
+					"channel": "The New York Society Library",
+					"url": "https://www.youtube.com/watch?v=_3hPjoPXA6Y",
+					"duration": "90:04"
+				}
+			],
+			"tradition": "傳承對自己的來歷有一套自述：喜馬拉雅山中的聖者自吠陀時期以來師徒相傳、未曾中斷；一千二百年前 Shankaracharya 把教法整編為五個中心，而這一支屬於與 Shringeri Seat 相連的 **Bharati 世系**——〈The Himalayan Yoga Tradition〉 解釋，bha 是「知識之光」，rati 指「沉浸其中的愛慕者」。這是傳承的自我敘事，與本單元的學術瑜伽史是兩種性質不同的說法，可以並讀，但不宜互相取代。",
+			"traditionRefs": [
+				{
+					"quote": "Twelve hundred years ago Shankaracharya organized his teaching into five centers of the Himalayan Tradition. As one of those five, our tradition is the Bharati lineage connected with the Shankaracharyas at the Shringeri Seat. Bha means “the light of knowledge,” rati means “a lover who is absorbed in it,” thus, Bharati indicates one, who as a lover of knowledge, becomes totally absorbed in its light.",
+					"source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.1",
+					"url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=1"
+				}
+			]
+		},
+		{
+			"id": "ch11-u6",
+			"name": "現代瑜伽的爭議：文化挪用、師徒制與商業化",
+			"type": "philosophy",
+			"assessment": "做三個檢查。一、看看你最近上的課，老師有沒有在調整（adjustment）前徵詢同意？沒有的話，這在 2015 年之後的多數師資標準裡已屬應改進項目。二、翻一次你常去的瑜伽空間的行銷文案，數數看有幾個梵文詞被用作商品名稱而沒有任何脈絡說明。三、問自己：如果我尊敬的老師被指控濫權，我的第一反應是查證還是辯護？第三題的答案就是你在師徒制裡的風險位置。",
+			"tight": [
+				"把「文化挪用」的討論當成道德審判，因而整個迴避——結果連基本的脈絡歸屬都不做",
+				"以為性侵與濫權只是少數老師的個人問題，忽略師徒制本身的權力結構與「順從即進步」的敘事",
+				"把大師的教學成果與其行為切割成兩件無關的事，因而不去檢視體系本身如何掩蓋通報",
+				"把商業化簡化成「收錢就是墮落」，而不去看定價、師資培訓與勞動條件的實際結構"
+			],
+			"weak": [
+				"能區分挪用（appropriation）、鑑賞（appreciation）與歸屬（attribution）三件事",
+				"能辨識高控制團體的常見機制（資訊封閉、內外群體、以身體接觸試探界線）",
+				"能對自己所在的體系提出具體問句，而不是二選一的表態"
+			],
+			"lesson": {
+				"title": "You Are Here: Exploring Yoga and the Impacts of Cultural Appropriation",
+				"channel": "Tobias B. D. Wiggins",
+				"url": "https://www.youtube.com/watch?v=3OoBaDt9cvQ",
+				"duration": "25:24",
+				"why": "學術訓練背景的講者用 25 分鐘把「挪用」拆成殖民史、商品化與歸屬三個層次，語氣是分析而不是控訴，且明確區分了「不要練」與「練的時候要知道自己在練什麼」。60,130 次觀看，在這個主題裡屬於少見的高流量且中立。"
+			},
+			"drills": [
+				{
+					"name": "印度視角：殖民與挪用",
+					"en": "Devdutt Pattanaik on Colonization and Appropriation",
+					"kind": "align",
+					"target": "專注",
+					"dose": "看一次，對照上一支影片的西方視角",
+					"title": "Devdutt Pattanaik Talks About Colonization and Appropriation Within Yoga",
+					"channel": "Urban Sadhu Yoga",
+					"url": "https://www.youtube.com/watch?v=IG8J-7Xlsws",
+					"duration": "24:11",
+					"why": "觀看數 3,109 偏低，但由印度神話學者 Devdutt Pattanaik 親自談殖民脈絡，可以平衡以西方講者為主的挪用討論，主題不可替代。"
+				},
+				{
+					"name": "教師端的實務對談",
+					"en": "Yoga & Cultural Appropriation: Interview with Reema Datta",
+					"kind": "follow",
+					"target": "專注",
+					"dose": "一次聽完，記下三個可以立刻改的教學習慣",
+					"title": "Yoga & Cultural Appropriation: An Interview with Reema Datta",
+					"channel": "Jason Crandell Yoga",
+					"url": "https://www.youtube.com/watch?v=lF41wgkebbM",
+					"duration": "51:37",
+					"why": "觀看數 3,031 低於一般門檻，但這是兩位資深師資（其中 Reema Datta 為印度裔傳承教師）談「教師該怎麼做」的具體對話，而非抽象論戰，實用性高於流量。"
+				},
+				{
+					"name": "高控制團體的機制：入門版",
+					"en": "Yoga, Cults and Control",
+					"kind": "align",
+					"target": "專注",
+					"dose": "13 分鐘看完，先建立辨識清單",
+					"title": "Yoga, Cults and Control ~ with Matthew Remski & Alexandra Stein",
+					"channel": " Talk Beliefs ",
+					"url": "https://www.youtube.com/watch?v=8EzKNuDEYpw",
+					"duration": "12:45",
+					"why": "觀看數 2,801 偏低。Matthew Remski 是《Practice and All Is Coming》的作者、Ashtanga 濫權事件的主要調查者，Alexandra Stein 是研究高控制團體的社會心理學者；13 分鐘的濃縮版適合當這個艱難主題的入口。"
+				},
+				{
+					"name": "師徒制濫權的系統性分析",
+					"en": "Abuse and Cult Dynamics in Yoga",
+					"kind": "deepen",
+					"target": "專注",
+					"dose": "分兩次看完，注意他對「體系如何掩蓋」的分析",
+					"title": "Abuse and Cult Dynamics in Yoga: A Conversation with Matthew Remski",
+					"channel": "LMU Center for Religion and Spirituality",
+					"url": "https://www.youtube.com/watch?v=DsmRO9pNn7A",
+					"duration": "44:24",
+					"why": "觀看數 1,859，剛過放寬後的門檻。由大學宗教與靈性研究中心主辦，語氣是學術訪談而非爆料，是目前少數能同時談 Pattabhi Jois、Bikram 等個案又不獵奇的公開紀錄。"
+				},
+				{
+					"name": "身心靈產業的商業化與陰謀論化",
+					"en": "Conspirituality: the wellness industry critique",
+					"kind": "deepen",
+					"target": "專注",
+					"dose": "分三次聽完，重點在他們對產業誘因結構的分析",
+					"title": "Conspirituality: Derek Beres, Matthew Remski, and Julian Walker - Buddha at the Gas Pump Interview",
+					"channel": "Buddha at the Gas Pump®",
+					"url": "https://www.youtube.com/watch?v=KuD4jFo98nM",
+					"duration": "111:22"
+				}
+			],
+			"tradition": "這個單元談的濫權風險，傳承自己有明確立場。〈The Himalayan Yoga Tradition〉 寫道：**這不是一個「老師自稱上師、學生被要求相信他所說的一切」的傳承**——教法來自傳承本身，學生可以回頭用傳承來檢驗老師講的話站不站得住。把權威放在傳承而不是某個人身上，本身就是一種防止個人崇拜的結構設計。",
+			"traditionRefs": [
+				{
+					"quote": "The Himalayan Tradition is not a tradition where a teacher proclaims himself a guru and students are expected to believe whatever he says, rather, the teachings come from the Tradition and the student can look to the Tradition to support and make sense of what the teacher says.",
+					"source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.1",
+					"url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=1"
+				}
+			]
+		}
+	]
 }

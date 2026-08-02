@@ -1,564 +1,850 @@
 {
   "chapter": "CH5",
-  "title": "串連：拜日式、拜月式與流動",
+  "title": "體式與自我觀察一：站姿、平衡與紮根",
   "units": [
     {
-      "id": "ch5-u1",
-      "name": "Vinyasa 的基本單位：四柱、上犬與下犬",
-      "type": "sequence",
-      "assessment": "用手機從側面錄下自己做一次四柱：從高平板下降時，肩膀最低點不可低於手肘，上臂與地面約略平行，手肘貼在肋骨兩側不向外張開。回放影片時只要看到（1）肩膀掉到手肘以下、（2）胸口先塌下去而骨盆還高、（3）身體像折刀一樣中段下墜，任一項出現就是陽性。陽性就退回膝蓋落地版，連續做 8 次都能維持上述三點、且每次都能自己控制下降速度（不是靠重力砸下去），才回到完整四柱。",
+      "id": "ch3-u1",
+      "name": "山式 Tadasana：站姿的原點",
+      "type": "asana",
+      "assessment": "背貼牆站，腳跟離牆 5 公分，雙腳與髖同寬。薦骨與上背應自然貼牆，腰後只容得下一隻手掌的厚度；若腰後可以塞進整個拳頭，是骨盆前傾加肋骨外翻。接著雙手輕壓下肋骨前緣，正常吸氣時肋骨往兩側擴張，若肋骨明顯往前上方頂出手掌，代表你是用肋骨外翻在「站直」。最後閉眼站 30 秒，若身體持續往腳跟或前腳掌漂移、無法停在足弓正中，紮根尚未建立，先做足底與姿勢檢測再談進階站姿。",
       "tight": [
-        "下降時肩膀低於手肘、肱骨頭往前滑，長期造成肩夾擠",
-        "手肘往身體外側張開，變成寬距伏地挺身",
-        "胸口先塌、骨盆留在高處，腰椎過度伸展",
-        "上犬時聳肩、大腿貼地拖行，把壓力全丟給下背",
-        "下犬時圓背、把身體重量全部壓在手腕上"
+        "重心整個壓在腳跟、前腳掌幾乎不吃力",
+        "骨盆往前推、用髖關節前側韌帶掛住身體",
+        "肋骨外翻，胸口靠挺胸而不是靠脊椎延長",
+        "膝蓋鎖死超伸、腳趾抓地"
       ],
       "weak": [
-        "前鋸肌與肩胛穩定（維持肩胛貼背不翼狀外突）",
-        "離心控制：能用 3 秒把身體慢慢放到四柱",
-        "核心與臀部同時收緊維持一直線的能力",
-        "上犬所需的胸椎伸展與腿部主動離地"
+        "足弓與足底內在肌的支撐力",
+        "骨盆中立位的控制",
+        "下肋骨向內收的腹壁張力",
+        "閉眼時的本體感覺與重心微調"
       ],
       "lesson": {
-        "title": "How to do a Vinyasa (Flow)",
-        "channel": "Cathy Madeo Yoga",
-        "url": "https://www.youtube.com/watch?v=oUgpXY7QhpQ",
-        "duration": "8:20",
-        "why": "把「一個 vinyasa」拆成平板→四柱→上犬→下犬四段，逐段講手的位置、肩胛怎麼走、腳背怎麼翻，是整章之後所有串連的最小單位。8 分鐘講完，適合每次練習前重看一次。"
+        "title": "Mountain Pose (Tadasana) - Yoga With Adriene",
+        "channel": "Yoga With Adriene",
+        "url": "https://www.youtube.com/watch?v=NYhH8Gr35cI",
+        "duration": "12:30",
+        "why": "Adriene 把山式從腳掌一路往上帶到頭頂，逐段講重量分配、骨盆與肋骨的關係，是少數把「站著」當成一個完整體式來教的長版拆解，適合當本單元的主課。"
       },
       "drills": [
         {
-          "name": "四柱的肩膀正位：三個必要動作",
-          "en": "Chaturanga Alignment: 3 Shoulder Actions",
+          "name": "脊椎正位站姿拆解",
+          "en": "Spinal alignment in standing",
           "kind": "align",
-          "target": "肩關節、肩胛、核心",
-          "dose": "看完後對鏡子練 5 次下降，每次停在中段 3 秒",
-          "title": "Chaturanga Alignment: 3 Necessary Actions for the Shoulders",
-          "channel": "TheYogiMatt",
-          "url": "https://www.youtube.com/watch?v=3MfBDAaqpcw",
-          "duration": "5:23"
+          "target": "脊椎活動度、腰椎、骨盆底",
+          "dose": "跟做 1 遍，之後每天站姿自我檢查 2 分鐘",
+          "title": "【脊椎正位】姿式正了，身體不歪斜｜Naomi老師｜YogaAsia 亞洲瑜伽",
+          "channel": "亞洲瑜伽 Yoga Asia",
+          "url": "https://www.youtube.com/watch?v=q4CIQD_tjPQ",
+          "duration": "22:34"
         },
         {
-          "name": "四柱最常見的錯誤與肩傷預防",
-          "en": "Chaturanga Common Errors & Shoulder Pain",
+          "name": "Iyengar 山式逐步教學",
+          "en": "Tadasana step by step (Iyengar)",
           "kind": "align",
-          "target": "肩關節、手腕、核心",
-          "dose": "對照影片自我檢查一次，找出自己犯的那一項",
-          "title": "AVOID SHOULDER PAIN! Most Common Errors & How To Fix Your Yoga Push-Ups (Chaturanga)",
-          "channel": "Man Flow Yoga",
-          "url": "https://www.youtube.com/watch?v=Y3FrnSX-PuQ",
-          "duration": "3:47"
+          "target": "核心、腰椎、腳踝",
+          "dose": "每個口令停留 5 個呼吸，共 1 輪",
+          "title": "How to do MOUNTIAN POSE (Tadasana) | step by step | Iyengar Yoga",
+          "channel": "Heather Kitchen Yoga",
+          "url": "https://www.youtube.com/watch?v=elBp2FpAOOI",
+          "duration": "3:48"
         },
         {
-          "name": "膝蓋落地版四柱（退階）",
-          "en": "Knee-down Chaturanga Push-ups",
+          "name": "足底四角落的紮根",
+          "en": "Four corners of the feet",
+          "kind": "align",
+          "target": "足底、腳踝",
+          "dose": "左右腳各感受 60 秒 × 2 輪",
+          "title": "Four Corners of the Feet",
+          "channel": "YogaUOnline",
+          "url": "https://www.youtube.com/watch?v=j7PQVXzZOxQ",
+          "duration": "7:59"
+        },
+        {
+          "name": "靠牆 20 秒姿勢檢測",
+          "en": "20-second wall posture test",
           "kind": "modify",
-          "target": "肩關節、肩胛、核心",
-          "dose": "8 次 × 3 組，每次下降數 3 秒",
-          "title": "Tools & Techniques to Strengthen Your Chaturanga Dandasana Part One: Knee-down Push-ups A&B",
-          "channel": "Jennilee Toner",
-          "url": "https://www.youtube.com/watch?v=o-9hIiVWou4",
-          "duration": "3:31"
+          "target": "脊椎活動度、頸椎、骨盆底",
+          "dose": "每天早晚各測 1 次，各 20 秒",
+          "title": "20 Second Posture Test",
+          "channel": "Whole Body Health Physical Therapy",
+          "url": "https://www.youtube.com/watch?v=5UhS6k8yBDg",
+          "duration": "1:36"
         },
         {
-          "name": "瑜伽磚輔助四柱（定位深度）",
-          "en": "Chaturanga on Yoga Blocks",
-          "kind": "modify",
-          "target": "肩關節、肩胛、核心",
-          "dose": "兩塊磚放胸口兩側，5 次 × 3 組",
-          "title": "Tools & Techniques to Strengthen Your Chaturanga Dandasana Part Two: Chaturanga on Yoga Blocks",
-          "channel": "Jennilee Toner",
-          "url": "https://www.youtube.com/watch?v=RVzAgt8czRs",
-          "duration": "2:38"
-        },
-        {
-          "name": "上犬與眼鏡蛇的差別",
-          "en": "Cobra vs Upward Facing Dog",
-          "kind": "align",
-          "target": "胸椎、腰椎、後彎、肩關節",
-          "dose": "各做 3 次交替比較，感受大腿是否離地",
-          "title": "What's the Difference Between Cobra & Up Dog?",
-          "channel": "Jenni Rawlings Yoga & Movement Science",
-          "url": "https://www.youtube.com/watch?v=oiGcLSXTdDA",
-          "duration": "9:17"
-        },
-        {
-          "name": "下犬式的五個修正",
-          "en": "Downward Dog: 5 Alignment Fixes",
-          "kind": "align",
-          "target": "肩關節、腿後側、脊椎活動度、手腕",
-          "dose": "逐條試一次，每次停留 5 個呼吸",
-          "title": "How to Improve Downward Dog: 5 Fixes for Alignment & Stability | Yoga Teaching Tips & Techniques #40",
-          "channel": "Jason Crandell Yoga",
-          "url": "https://www.youtube.com/watch?v=GSkenErd-R0",
-          "duration": "13:05"
-        }
-      ]
-    },
-    {
-      "id": "ch5-u2",
-      "name": "拜日式 A Surya Namaskar A",
-      "type": "sequence",
-      "assessment": "連續做 5 輪拜日式 A，全程只用鼻子呼吸且不需要停下來喘氣，每一次動作轉換都落在一次完整的吸或吐上——做得到才進入拜日式 B。若第 3 輪就開始用嘴呼吸，代表節奏太快，把每個動作延長到 3 秒重來。另外檢查第 5 輪的前彎是否還跟第 1 輪一樣深、四柱是否還撐得住不塌腰；如果動作品質在後兩輪明顯崩壞，先做 3 輪就停，寧可少做也不要把錯誤重複 5 次。",
-      "tight": [
-        "為了快而用嘴呼吸、或乾脆憋氣衝過四柱",
-        "跳回跳前時膝蓋鎖死、落地聲響很大",
-        "前彎時強行打直膝蓋，把拉扯留在腿後側肌腱",
-        "手往上舉時肋骨外翻、腰椎代償"
-      ],
-      "weak": [
-        "一次呼吸配一個動作的節奏感",
-        "全身連續動作下的心肺耐力",
-        "站姿前彎與下犬的腿後側延展",
-        "把練習變成每日儀式的習慣建立"
-      ],
-      "lesson": {
-        "title": "15分鐘 基礎瑜伽【拜日式A】Yoga Basics ★ ★",
-        "channel": "Yoga with Jade",
-        "url": "https://www.youtube.com/watch?v=bSXrXG3IRUo",
-        "duration": "15:38",
-        "why": "繁體中文口令，先逐格拆解拜日式 A 的每一個位置與呼吸點，再帶著做完整幾輪。15 分鐘剛好是「學會」與「做完」兩件事一次解決，之後每天可以只跟後半段。"
-      },
-      "drills": [
-        {
-          "name": "拜日式 A 逐步拆解",
-          "en": "Sun Salutation A Step-by-Step",
-          "kind": "align",
-          "target": "脊椎活動度、肩關節、腿後側",
-          "dose": "跟著拆解走 2 輪，每個位置停 3 個呼吸",
-          "title": "How to do a Sun Salutation A | Yoga for Beginners Pose Tutorial",
-          "channel": "SarahBethYoga",
-          "url": "https://www.youtube.com/watch?v=UPszTB6UzaA",
-          "duration": "9:43"
-        },
-        {
-          "name": "拜日式 A 完整教學（繁中）",
-          "en": "Sun Salutation A Full Tutorial (Chinese)",
-          "kind": "align",
-          "target": "脊椎活動度、肩關節、呼吸控制",
-          "dose": "看一次、跟做 2 輪",
-          "title": "如何拜日式 - 拜日式A 完整教學 | 伸展強健肌肉, 放鬆心智進入靜心, 對太陽致敬 感恩生命的存在!",
-          "channel": "PaulaYogaStyle | 寶拉瑜伽風",
-          "url": "https://www.youtube.com/watch?v=8ZoYEoRmT2U",
-          "duration": "6:40"
-        },
-        {
-          "name": "簡化版拜日式（不跳、可退階）",
-          "en": "Modified Sun Salutation",
-          "kind": "modify",
-          "target": "腿後側、肩關節、膝關節",
-          "dose": "手腕或肩膀不適的日子改做這版，1 次 10 分鐘",
-          "title": "10 Minute Modified Sun Salutation | Yoga | Gaiam",
-          "channel": "Gaiam",
-          "url": "https://www.youtube.com/watch?v=zCxK5v2zLb0",
-          "duration": "10:52"
-        },
-        {
-          "name": "慢速跟練：10 分鐘拜日式",
-          "en": "10 min Sun Salutation Practice (slow)",
-          "kind": "follow",
-          "target": "呼吸控制、脊椎活動度、專注",
-          "dose": "每天早上 1 次，連續 7 天",
-          "title": "Day 10 - 10 min Sun Salutation Practice -30 Days of Yoga",
-          "channel": "Yoga With Adriene",
-          "url": "https://www.youtube.com/watch?v=8AakYeM23sI",
-          "duration": "12:39"
-        },
-        {
-          "name": "晨間拜日式流動",
-          "en": "15 min Morning Sun Salutations Flow",
-          "kind": "follow",
-          "target": "呼吸控制、髖關節、肩關節",
-          "dose": "起床後 1 次，取代咖啡前的暖身",
-          "title": "15 min Morning Sun Salutations Yoga Flow - Yoga with Kassandra",
-          "channel": "Yoga with Kassandra",
-          "url": "https://www.youtube.com/watch?v=ZP34IA0d8LI",
-          "duration": "14:19"
-        },
-        {
-          "name": "少口令快節奏版（進階速度）",
-          "en": "Intermediate Sun Salutation, Minimal Cues",
+          "name": "站姿重心的進階控制",
+          "en": "Advanced standing posture control",
           "kind": "deepen",
-          "target": "呼吸控制、核心、專注",
-          "dose": "已能穩定做 5 輪後才用，1 次 9 分鐘",
-          "title": "10 Minute Yoga Sun Salutation Flow (Intermediate Yoga with Minimal Cues",
-          "channel": "Yoga With Bird",
-          "url": "https://www.youtube.com/watch?v=awJQjfWtBcQ",
-          "duration": "9:04"
+          "target": "核心、骨盆底、腰椎",
+          "dose": "跟做 1 遍，選 2 個動作每天各 8 下",
+          "title": "“Standing Up Straight” WON’T Fix Your Posture! (but this will)",
+          "channel": "Conor Harris",
+          "url": "https://www.youtube.com/watch?v=M5adoW_wDes",
+          "duration": "11:13"
+        },
+        {
+          "name": "骨盆前傾的站姿修正流",
+          "en": "Yoga flow for anterior pelvic tilt",
+          "kind": "follow",
+          "target": "骨盆底、腰椎、髖關節",
+          "dose": "完整跟練 1 遍，每週 2 次",
+          "title": "Yoga for Anterior Pelvic Tilt - Low Back Posture Yoga",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=OTm05bjtL80",
+          "duration": "36:35"
+        },
+        {
+          "name": "足部專題練習",
+          "en": "Yoga for the feet",
+          "kind": "follow",
+          "target": "足底、腳踝",
+          "dose": "完整跟練 1 遍，每週 1–2 次",
+          "title": "Yoga For The Feet | 30 Minute Practice | Yoga With Adriene",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=ea4MF7IqILA",
+          "duration": "30:25"
+        }
+      ],
+      "tradition": "這門課把體式三章命名為「體式與自我觀察」，依據在這裡。〈The Himalayan Yoga Tradition〉說傳承教的是**體式配合對身、息、心各種狀態的完整覺察**，並直言「體式練習的一個主要成分是自我覺察，是在身、息、尤其是心的所有狀態中的深度自我觀察」。師資培訓的課程表也把這一科列為 **Asana as meditation**（體式作為冥想）。所以在傳承裡，體式的目標不是把動作做到位——做到位只是能不能持續觀察下去的前提。",
+      "traditionRefs": [
+        {
+          "quote": "the Himalayan tradition teaches the method of asanas coupled with full awareness of the states of the body, breath and mind in a detailed methodology. In fact a major component in the practice of postures is self-awareness, a deep self-observation, in all states of body, breath and especially the mind.",
+          "source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.3",
+          "url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=3",
+          "sutra": "YS I.20"
+        },
+        {
+          "quote": "Asana as meditation, Joints and Glands Exercises, cleansing, anatomy and physiology, subtle body awareness.",
+          "source": "Himalayan Yoga Tradition — Program Features（課程內容）",
+          "url": "https://www.himalayanyogatradition.com/features.html"
         }
       ]
     },
     {
-      "id": "ch5-u3",
-      "name": "拜日式 B Surya Namaskar B",
-      "type": "sequence",
-      "assessment": "拜日式 B 一輪包含 2 次幻椅與 2 次戰士一，強度比 A 明顯高一階。連續做 3 輪，過程中檢查三件事：幻椅停留時膝蓋不超過腳尖、雙手舉過頭而肋骨不外翻；戰士一時後腳外緣壓實地面、前膝對準第二腳趾不內夾；全程仍只用鼻子呼吸。做完立刻自摸脈搏，若需要停下來喘超過 30 秒才能講話，代表強度過頭——退回拜日式 A 再練兩週，或把 B 減成 2 輪。",
+      "id": "ch3-u2",
+      "name": "下犬式 Adho Mukha Svanasana",
+      "type": "asana",
+      "assessment": "下犬式停留 60 秒，用手機側面錄影自檢三件事。第一，脊椎從尾骨到後腦是不是一條斜直線；若腰段出現明顯圓弧，代表你為了踩地把背犧牲掉了，請把膝蓋彎到背能打直為止，彎膝是正常且正確的。第二，看肩膀有沒有塌到耳朵旁邊、上背有沒有陷下去；若有，代表重量壓在肩關節而不是由前鋸肌撐住。第三，60 秒內若手腕根部出現壓痛而不只是痠，代表重心過度往前，先回去做牆邊下犬與手腕減壓版本。",
       "tight": [
-        "幻椅時重心壓在腳尖、膝蓋前推超過腳尖",
-        "幻椅舉手時肋骨外翻、下背擠壓",
-        "戰士一硬把骨盆扭正，造成薦髂關節與後膝扭轉",
-        "戰士一後腳跟浮起、外緣沒踩實",
-        "為了跟上速度改用嘴呼吸"
+        "為了腳跟踩地而把背拱圓",
+        "肩膀塌陷、上背下沉到肩關節上",
+        "重心過度前移導致手腕根部受壓",
+        "膝蓋鎖死、骨盆無法上提"
       ],
       "weak": [
-        "股四頭與臀部在長時間屈膝下的耐力",
-        "髖屈肌延展（戰士一的後腳側）",
-        "上肢舉過頭時的胸椎伸展與肩關節活動度",
-        "高強度下維持鼻呼吸的心肺控制"
+        "前鋸肌與肩胛上旋的支撐力",
+        "髖屈曲角度與腿後側延展",
+        "手掌指腹主動壓地的分散能力",
+        "核心維持脊椎中立的耐力"
       ],
       "lesson": {
-        "title": "17分鐘 基礎瑜伽【拜日式B】Yoga Basics ★ ★",
-        "channel": "Yoga with Jade",
-        "url": "https://www.youtube.com/watch?v=CrxRpZ3kogw",
-        "duration": "17:08",
-        "why": "繁中口令，把 B 比 A 多出來的幻椅與戰士一單獨挑出來講清楚，再接回完整串連。對已經會 A 的人來說是最短的升級路徑。"
+        "title": "初學者必學，下犬式教學｜Jen老師｜YogaAsia 亞洲瑜伽",
+        "channel": "亞洲瑜伽 Yoga Asia",
+        "url": "https://www.youtube.com/watch?v=YwFOL6vFfhE",
+        "duration": "8:25",
+        "why": "亞洲瑜伽 Jen 老師的繁中版本，從四足跪姿一步步進到下犬，特別強調「先讓背直、腳跟不必落地」的順序，正好對治這個單元最常見的圓背錯誤。"
       },
       "drills": [
         {
-          "name": "拜日式 B 逐格解說",
-          "en": "Sun Salutation B Breakdown",
+          "name": "物理治療視角的下犬式問題排查",
+          "en": "Down dog troubleshooting (physio)",
           "kind": "align",
-          "target": "股四頭、髖關節、肩關節",
-          "dose": "先跟拆解走 1 輪，再自己走 1 輪",
-          "title": "Sun Salutation B - Surya Namaskara B",
-          "channel": "Yoga With Adriene",
-          "url": "https://www.youtube.com/watch?v=_ENYL8qxKx0",
-          "duration": "9:03"
+          "target": "肩關節、手腕、腿後側",
+          "dose": "看完後照著檢查自己的下犬 3 次",
+          "title": "【動作解析】瑜珈下犬式-常見問題及改善｜物治歐巴 feat. Iris 瑜珈老師",
+          "channel": "物治歐巴  Oppa Physio ",
+          "url": "https://www.youtube.com/watch?v=9be-qoGqIJk",
+          "duration": "6:19"
         },
         {
-          "name": "初學者的拜日式 B 步驟教學",
-          "en": "Sun Salutation B Step-by-Step for Beginners",
+          "name": "下犬式的肩膀機制",
+          "en": "Shoulders explained in down dog",
           "kind": "align",
-          "target": "股四頭、髖關節、呼吸控制",
-          "dose": "跟做 1 次，特別注意進出戰士一的腳步",
-          "title": "SUN SALUTATION B FOR YOGA BEGINNERS - Step-by-Step Surya Namaskar",
-          "channel": "Charlie Follows",
-          "url": "https://www.youtube.com/watch?v=LHmF4_k5EcU",
-          "duration": "12:31"
+          "target": "肩關節、肩胛、胸椎",
+          "dose": "照口令調整肩胛，停留 5 個呼吸 × 3 輪",
+          "title": "Shoulders Explained in Downward Facing Dog",
+          "channel": "Cathy Madeo Yoga",
+          "url": "https://www.youtube.com/watch?v=0Xu5euybwmc",
+          "duration": "5:50"
         },
         {
-          "name": "幻椅式正位拆解",
-          "en": "Utkatasana / Chair Pose Alignment",
+          "name": "新手下犬式常見狀況與調整",
+          "en": "Beginner down dog adjustments",
           "kind": "align",
-          "target": "股四頭、膝關節、腳踝、核心",
-          "dose": "停留 30 秒 × 3 組，每次確認腳跟踩實",
-          "title": "Chair Pose Tutorial - Alignment & Tricks for Beginners - Utkatasana",
-          "channel": "Yoga with Kassandra",
-          "url": "https://www.youtube.com/watch?v=NUTWhwm04WY",
-          "duration": "9:09"
+          "target": "腿後側、脊椎活動度、肩關節",
+          "dose": "跟做 1 遍，挑最符合自己的 1 個調整練 1 週",
+          "title": "新手下犬式的常見狀況，該怎麼調整? How to do downward facing dog? step by step",
+          "channel": "Alysia的瑜珈人生旅行",
+          "url": "https://www.youtube.com/watch?v=7YNlc6eKoEg",
+          "duration": "14:15"
         },
         {
-          "name": "戰士一的骨盆到底要不要擺正",
-          "en": "Should You Square Your Hips in Warrior 1?",
+          "name": "牆邊下犬式",
+          "en": "Downward dog on the wall",
+          "kind": "modify",
+          "target": "肩關節、脊椎活動度、腿後側",
+          "dose": "牆邊停留 30 秒 × 3 輪",
+          "title": "How to Do：DOWNWARD FACING DOG ON THE WALL",
+          "channel": "Leap Fitness",
+          "url": "https://www.youtube.com/watch?v=0rMcC-P79F4",
+          "duration": "0:58"
+        },
+        {
+          "name": "手腕敏感者的下犬替代版",
+          "en": "Down dog for sensitive wrists",
+          "kind": "modify",
+          "target": "手腕、手肘、肩關節",
+          "dose": "挑 1 種替代法，每次練習前先做 2 分鐘",
+          "title": "How to Modify Downward Facing Dog for Sensitive Wrists",
+          "channel": "Yoga with Zelinda",
+          "url": "https://www.youtube.com/watch?v=jBe-IsF1C-0",
+          "duration": "3:51"
+        },
+        {
+          "name": "下犬式入門拆解跟練",
+          "en": "Downward dog break down class",
+          "kind": "follow",
+          "target": "肩關節、腿後側、核心",
+          "dose": "完整跟練 1 遍",
+          "title": "Yoga For Beginners - Downward Dog Break Down || Beginner Yoga",
+          "channel": "YOGATX",
+          "url": "https://www.youtube.com/watch?v=xYkHfUiff_A",
+          "duration": "12:05"
+        },
+        {
+          "name": "下犬式的 5 種功能性變化",
+          "en": "5 functional down dog variations",
+          "kind": "deepen",
+          "target": "肩關節、核心、手臂支撐",
+          "dose": "每個變化 5 個呼吸，跑完 1 輪",
+          "title": "5 Functional Downward Dog Variations for Strength & Mobility - Yoga Teacher Tips + Techniques",
+          "channel": "Jason Crandell Yoga",
+          "url": "https://www.youtube.com/watch?v=Izv9FFT6Lmw",
+          "duration": "14:18"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u3",
+      "name": "戰士一式與戰士二式",
+      "type": "asana",
+      "assessment": "戰士二式停留 45 秒，前腳膝蓋正上方應該看得見自己的第二、三腳趾；若低頭時膝蓋擋住大腳趾（膝內扣），先把停留改成半蹲高度。接著檢查後腳：整個腳掌外緣要吃得住地，若後腳跟會不自覺掀起、或必須靠前腳撐住才不倒，代表步距太長。戰士一式則靠牆測骨盆：後側骨盆前上棘轉正時若後腳跟必須離地，代表你的髖旋轉活動度不足，應該接受骨盆不完全轉正、改以延長腰椎為優先。",
+      "tight": [
+        "前膝往內扣、不與第二腳趾同向",
+        "後腳跟掀起、外緣沒吃地",
+        "骨盆歪斜或硬轉正導致腰椎代償",
+        "上半身往前傾、重量壓在前腳"
+      ],
+      "weak": [
+        "臀中肌維持前膝外展的力量",
+        "後腳髖內收與足弓外側的支撐",
+        "軀幹在不對稱站姿下的中立控制",
+        "長時間停留的股四頭肌耐力"
+      ],
+      "lesson": {
+        "title": "英雄一英雄二 Warrior One & Two {Flow with Katie}",
+        "channel": "凱蒂瑜伽 Flow With Katie",
+        "url": "https://www.youtube.com/watch?v=Q-TX9m7Y7Ng",
+        "duration": "11:07",
+        "why": "凱蒂用繁中把英雄一與英雄二放在一起教，直接對比兩式的骨盆方向與後腳角度差異，能一次解決學員最常混淆的「腳掌怎麼擺、骨盆要不要轉正」。"
+      },
+      "drills": [
+        {
+          "name": "戰士二式正位教學",
+          "en": "Warrior II correct alignment",
           "kind": "align",
-          "target": "髖關節、薦髂關節、膝關節",
-          "dose": "每側停留 5 個呼吸，比較擺正與不擺正的差別",
+          "target": "髖關節、膝關節、肩關節",
+          "dose": "每側停留 5 個呼吸 × 3 輪",
+          "title": "How to Do Warrior II Pose with Correct Alignment",
+          "channel": "Yoga International",
+          "url": "https://www.youtube.com/watch?v=pJhevMZfOHA",
+          "duration": "4:27"
+        },
+        {
+          "name": "戰士一式的骨盆要不要轉正",
+          "en": "Should you square your hips in Warrior 1",
+          "kind": "align",
+          "target": "骨盆底、髖關節、腰椎",
+          "dose": "看完後用鏡子檢查自己的骨盆 2 分鐘",
           "title": "Should You Square Your Hips in Warrior 1?  Yoga Alignment Explained-- Yoga Teacher Tips & Techniques",
           "channel": "Jason Crandell Yoga",
           "url": "https://www.youtube.com/watch?v=1wT9ThITt5s",
           "duration": "11:12"
         },
         {
-          "name": "拜日式 B 完整跟練（繁中）",
-          "en": "Sun Salutation B Full Follow-Along",
-          "kind": "follow",
-          "target": "股四頭、髖關節、呼吸控制",
-          "dose": "每週 3 次，1 次 15 分鐘",
-          "title": "拜日式 B｜15 分鐘全身燃脂瑜伽暖身 Sun Salutation B | 15 min total body yoga { Flow with Katie }",
-          "channel": "凱蒂瑜伽 Flow With Katie",
-          "url": "https://www.youtube.com/watch?v=yJhv5HdeV7k",
-          "duration": "15:38"
-        },
-        {
-          "name": "阿斯坦加傳統數息版 A 與 B",
-          "en": "Ashtanga Counted Surya Namaskara A & B",
-          "kind": "deepen",
-          "target": "呼吸控制、專注、核心",
-          "dose": "熟悉 B 之後，用數息節奏各做 3 輪與 2 輪",
-          "title": "Ashtanga Yoga: Surya Namaskara A and B with David Garrigues",
-          "channel": "Asana Kitchen with David Garrigues",
-          "url": "https://www.youtube.com/watch?v=Lg_Ja-liVuQ",
-          "duration": "13:53"
-        }
-      ]
-    },
-    {
-      "id": "ch5-u4",
-      "name": "拜月式 Chandra Namaskar",
-      "type": "sequence",
-      "assessment": "傍晚或睡前做 3 輪完整拜月式，做完立刻檢查兩件事：一是側邊延展（半月／門閂那一段）時骨盆有沒有跟著歪掉、肋骨有沒有外翻，可用背靠牆做一次來對照；二是做完後的呼吸應該比開始時更慢更長，心率不升反降。若做完反而更亢奮、心跳更快，代表你把拜月式當拜日式在做——把每個動作再放慢一倍、去掉所有跳躍，重做一輪。",
-      "tight": [
-        "把拜月式做成拜日式的速度，失去降溫收攝的目的",
-        "側彎時骨盆偏移、變成單純的腰椎側折",
-        "女神式（蹲姿）時膝蓋內夾、腳掌外緣浮起",
-        "低弓箭步時後腳膝蓋直接壓在硬地上"
-      ],
-      "weak": [
-        "側鏈與內收肌的延展",
-        "髖關節外展與外旋活動度",
-        "慢速動作下的平衡與重心轉移",
-        "以動作誘發放鬆與副交感的能力"
-      ],
-      "lesson": {
-        "title": "25分鐘 溫和瑜伽【拜月式】Gentle Flow Yoga ★ ★ #瑜珈教學 #MoonSalutation #中文瑜伽教學",
-        "channel": "Yoga with Jade",
-        "url": "https://www.youtube.com/watch?v=RCDXoVqKg20",
-        "duration": "26:35",
-        "why": "拜月式的繁中資源極少，這支是少數把整套動作順序、呼吸與節奏講完整的中文課，而且刻意做成溫和流動，符合拜月式降溫收攝的原意。"
-      },
-      "drills": [
-        {
-          "name": "拜月式動作順序速覽",
-          "en": "Moon Salutation Tutorial",
+          "name": "戰士二式的肌肉解剖動畫",
+          "en": "Warrior II anatomy animation",
           "kind": "align",
-          "target": "髖關節、內收肌、脊椎活動度",
-          "dose": "先看完記住順序，再對照練 1 輪",
-          "title": "Moon Salutation Tutorial",
-          "channel": "Yoga International",
-          "url": "https://www.youtube.com/watch?v=0RBUP1b87Tk",
-          "duration": "3:07"
+          "target": "髖關節、股四頭、臀部",
+          "dose": "看 1 遍後帶著解剖意象重做 3 輪",
+          "title": "Perfect Your Warrior II Pose: Alignment, Strength, and Balance",
+          "channel": "Muscle & Motion",
+          "url": "https://www.youtube.com/watch?v=F3-NMf5CCDw",
+          "duration": "3:37"
         },
         {
-          "name": "拜月式逐式拆解與降溫原理",
-          "en": "How to Do a Moon Salutation",
-          "kind": "align",
-          "target": "髖關節、內收肌、放鬆與副交感",
-          "dose": "跟著拆解走 1 輪，每個位置停 3 個呼吸",
-          "title": "HOW TO DO A MOON SALUTATION - for a calming and cooling practice",
-          "channel": "Jacqui Noel Yoga",
-          "url": "https://www.youtube.com/watch?v=KsjH9c7GrqI",
-          "duration": "12:27"
-        },
-        {
-          "name": "半拜月式（縮短版）",
-          "en": "Half Moon Salutation",
+          "name": "柔軟度受限者的戰士二式",
+          "en": "Warrior II for inflexible bodies",
           "kind": "modify",
-          "target": "髖關節、內收肌、脊椎活動度",
-          "dose": "時間只有 12 分鐘、或膝蓋不適時改做這版",
-          "title": "12分鐘 基礎瑜伽【半拜月式】Yoga Basics ★ ★ #拜月式 #moonsalutation",
+          "target": "髖關節、內收肌、膝關節",
+          "dose": "縮短步距版每側 30 秒 × 3 輪",
+          "title": "Warrior 2 Yoga Tutorial | How To Do Warrior 2 Pose The Right Way! (Especially If You're Inflexible)",
+          "channel": "Body By Yoga",
+          "url": "https://www.youtube.com/watch?v=v_kN5qefV-o",
+          "duration": "3:49"
+        },
+        {
+          "name": "勇士系列基礎跟練",
+          "en": "Warrior series basics class",
+          "kind": "follow",
+          "target": "髖關節、股四頭、核心",
+          "dose": "完整跟練 1 遍，每週 2 次",
+          "title": "15分鐘  基礎瑜伽【勇士系列】Yoga Basics  ★  ★ #WarriorPose",
           "channel": "Yoga with Jade",
-          "url": "https://www.youtube.com/watch?v=Aow48up2US0",
-          "duration": "12:53"
+          "url": "https://www.youtube.com/watch?v=aJn8mPNwsa0",
+          "duration": "14:01"
         },
         {
-          "name": "拜月式跟練：腿部伸展與開髖",
-          "en": "16 min Moon Salutations Follow-Along",
+          "name": "和平戰士流動課",
+          "en": "Peaceful warrior yoga class",
           "kind": "follow",
-          "target": "髖關節、腿後側、內收肌",
-          "dose": "每週 2 次，晚上做 1 次 16 分鐘",
-          "title": "16 分鐘-拜月式｜腿部伸展與開髖 16 min Moon Salutations ｛Flow with Katie｝",
-          "channel": "凱蒂瑜伽 Flow With Katie",
-          "url": "https://www.youtube.com/watch?v=CxssQzu1KlU",
-          "duration": "16:11"
+          "target": "髖關節、脊椎活動度、平衡",
+          "dose": "完整跟練 1 遍",
+          "title": "Peaceful Warrior Yoga |  Yoga With Adriene",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=YUIlJU7-rB4",
+          "duration": "27:40"
         },
         {
-          "name": "睡前拜月式",
-          "en": "Moon Salutations for Better Sleep",
-          "kind": "follow",
-          "target": "放鬆與副交感、髖關節、呼吸控制",
-          "dose": "睡前 1 次，做完直接躺下",
-          "title": "15 Min Moon Salutations | Yoga Routine For Better Sleep",
-          "channel": "Charlie Follows",
-          "url": "https://www.youtube.com/watch?v=oROcJnaw0NU",
-          "duration": "16:57"
-        },
-        {
-          "name": "Shiva Rea 版拜月式＋靜心",
-          "en": "Shiva Rea Moon Salutation + Meditation",
+          "name": "Ashtanga 戰士 A/B 串連",
+          "en": "Virabhadrasana A & B in Ashtanga",
           "kind": "deepen",
-          "target": "髖關節、專注、放鬆與副交感",
-          "dose": "熟悉基本順序後，每月滿月前後做 1 次",
-          "title": "Yoga Moon Salutation | Shiva Rea | Short PM Workout + Meditation",
-          "channel": "The Yoga Portal",
-          "url": "https://www.youtube.com/watch?v=BBB4wJ_BAiQ",
-          "duration": "17:27"
+          "target": "髖關節、肩關節、股四頭",
+          "dose": "跟做 5 個呼吸的標準停留 × 2 輪",
+          "title": "How to do Virabhadrasana | Warrior Pose A & B in Ashtanga Yoga",
+          "channel": "David and Jelena Yoga",
+          "url": "https://www.youtube.com/watch?v=RK6NPOC0BZU",
+          "duration": "12:26"
         }
       ]
     },
     {
-      "id": "ch5-u5",
-      "name": "呼吸與動作的同步",
-      "type": "sequence",
-      "assessment": "打開手機錄音，跟著自己做一輪拜日式 A，錄完立刻回放。合格的標準有三：（1）每一次動作轉換的起點都聽得到吸氣或吐氣的開始，不是動作先走呼吸後補；（2）動作結束的瞬間，那一次呼吸也剛好結束，沒有「動作做完了還在吸」；（3）全程沒有任何一次憋氣或臨時補一口氣。任一項不合格，就把整輪速度放慢到每個動作 4 秒，重錄一次。連續 5 輪都通過才算掌握。",
+      "id": "ch3-u4",
+      "name": "三角式與側角式",
+      "type": "asana",
+      "assessment": "三角式停留 40 秒，把下方那隻手先放在小腿而不是地板。檢查兩件事：第一，下方腰側是不是塌陷成一個凹折？站直看鏡子，兩側腰的長度應該接近相等，若下側腰明顯變短、上側腰被拉長，代表你是「往下折」而不是「往側邊延長」。第二，把下手完全離開支撐 3 秒，若上半身立刻往下掉，代表原本是靠手撐地把身體壓下去的，請改用瑜伽磚墊高，直到手一離開身體仍能維持高度為止。",
       "tight": [
-        "四柱到上犬那一段習慣性憋氣",
-        "動作先動、呼吸後補，兩者永遠差半拍",
-        "為了配合影片速度而縮短呼吸長度",
-        "喉式呼吸做成用力擠壓喉嚨，聲音大但吸不深"
+        "靠下方手撐地，用手把上身壓下去",
+        "下側腰塌陷、兩側腰不等長",
+        "前膝超伸鎖死",
+        "為了手碰地而讓胸口朝向地板"
       ],
       "weak": [
-        "呼吸控制：延長吐氣並讓它撐完整個動作",
-        "橫膈與肋廓的活動範圍",
-        "以呼吸決定動作速度（而不是相反）的專注力",
-        "長時間練習下維持鼻呼吸的能力"
+        "側腹與腰方肌維持等長延伸的能力",
+        "髖關節側向摺疊（外展加屈曲）的活動度",
+        "上側肩關節外旋與胸椎開展",
+        "前腿股四頭肌不鎖膝的控制"
       ],
       "lesson": {
-        "title": "BREATHING - VINYASA - SUN SALUTATION: 10 Days Yoga Challenge *Day 1*",
-        "channel": "SaturnoMovement",
-        "url": "https://www.youtube.com/watch?v=XyjBC4zFxsc",
-        "duration": "15:30",
-        "why": "直接把「呼吸法 → vinyasa → 拜日式」三件事串成一堂課，先教呼吸怎麼走，再把呼吸放進串連裡驗證，正是這個單元要處理的因果順序。"
+        "title": "Triangle Pose  |  Trikonasana  |  Foundations of Yoga",
+        "channel": "Yoga With Adriene",
+        "url": "https://www.youtube.com/watch?v=upFYlxZHif0",
+        "duration": "8:25",
+        "why": "Adriene 的 Foundations 系列把三角式從腳掌、髖摺疊講到上手方向，特別點出「先延長再側彎」的順序，是本單元最核心的觀念。"
       },
       "drills": [
         {
-          "name": "喉式（勝利）呼吸入門",
-          "en": "Ujjayi Breathing",
+          "name": "三角式的解剖與常見問題",
+          "en": "Triangle pose anatomy & common problems",
           "kind": "align",
-          "target": "呼吸控制、橫膈、專注",
-          "dose": "坐姿練 10 個呼吸，再帶進下犬停留",
-          "title": "Ujjayi Breathing | Yoga with Adriene",
-          "channel": "Yoga With Adriene",
-          "url": "https://www.youtube.com/watch?v=IQrsJ-yZWV8",
-          "duration": "6:52"
+          "target": "髖關節、腰椎、腿後側",
+          "dose": "看 1 遍，對照自己拍的側面照",
+          "title": "The Triangle Pose: Anatomy, Common Problems & Solutions",
+          "channel": "Muscle & Motion",
+          "url": "https://www.youtube.com/watch?v=xFOB-ph8KdE",
+          "duration": "1:48"
         },
         {
-          "name": "喉式呼吸法（繁中）",
-          "en": "Ujjayi Pranayama (Chinese)",
+          "name": "三角家族一次看懂",
+          "en": "The whole triangle family",
           "kind": "align",
-          "target": "呼吸控制、橫膈、專注",
-          "dose": "每天練 10 分鐘，連續 5 天",
-          "title": "10分鐘 調息法【喉式呼吸法Ujjayi Breathing】Pranayama ★ #呼吸法 #勝利呼吸法",
-          "channel": "Yoga with Jade",
-          "url": "https://www.youtube.com/watch?v=nCmzJVsBBko",
-          "duration": "9:13"
+          "target": "髖關節、扭轉、腿後側",
+          "dose": "跟做 1 遍，每式停留 5 個呼吸",
+          "title": "零基础瑜伽：EP. 13 三角家族大集合Ⅰ三角式Ⅰ扭转三角Ⅰ金字塔Ⅰ侧角伸展Ⅰ腿部拉伸&脊柱延展",
+          "channel": "跟鹅练瑜伽Yoga Goose",
+          "url": "https://www.youtube.com/watch?v=-lSeaEGZEno",
+          "duration": "6:57"
         },
         {
-          "name": "拜日式的每一格該吸還是吐",
-          "en": "How to Sync Breath in Sun Salutation",
+          "name": "Iyengar 側角式逐步教學",
+          "en": "Extended side angle step by step (Iyengar)",
           "kind": "align",
-          "target": "呼吸控制、脊椎活動度、專注",
-          "dose": "邊看邊在紙上寫下每一格的吸／吐，再做 1 輪對照",
-          "title": "Surya Namaskar (part 2) with Breath Awareness | How to Sync Breath in Sun Salutation",
-          "channel": "Yoga & You",
-          "url": "https://www.youtube.com/watch?v=Ey4qJFFsReU",
-          "duration": "3:28"
+          "target": "髖關節、內收肌、胸口",
+          "dose": "每側停留 5 個呼吸 × 3 輪",
+          "title": "How to do EXTENDED SIDE ANGLE POSE (Utthita Parsvakonasana) | step by step | Iyengar Yoga",
+          "channel": "Heather Kitchen Yoga",
+          "url": "https://www.youtube.com/watch?v=qXlFNjzLIWA",
+          "duration": "8:57"
         },
         {
-          "name": "為什麼瑜伽要這樣呼吸",
-          "en": "Ujjayi Ocean Breathing Explained",
-          "kind": "align",
-          "target": "呼吸控制、橫膈、專注",
-          "dose": "看完後練 3 分鐘，確認喉嚨放鬆而聲音仍在",
-          "title": "Ujjayi \"Ocean\" Breathing - How to Breathe in Yoga",
-          "channel": "YOGABODY",
-          "url": "https://www.youtube.com/watch?v=iYHNHGKAy2I",
-          "duration": "8:29"
+          "name": "用磚做的三角式",
+          "en": "Triangle pose with a block",
+          "kind": "modify",
+          "target": "髖關節、腰椎、腿後側",
+          "dose": "磚放最高格，每側 40 秒 × 3 輪",
+          "title": "Triangle Pose with a Block",
+          "channel": "Gigi Yogini",
+          "url": "https://www.youtube.com/watch?v=bXjaxYUBKig",
+          "duration": "2:01"
         },
         {
-          "name": "19 分鐘呼吸重建練習",
-          "en": "Reunite With Your Breath",
+          "name": "三角式變化跟練",
+          "en": "Triangle pose variations class",
           "kind": "follow",
-          "target": "呼吸控制、橫膈、放鬆與副交感",
-          "dose": "每週 2 次，練完接一輪拜日式",
-          "title": "Reunite With Your Breath  |  19-Minute Breath Practice",
-          "channel": "Yoga With Adriene",
-          "url": "https://www.youtube.com/watch?v=Oy4wvF9Z24A",
-          "duration": "19:14"
+          "target": "髖關節、腿後側、平衡",
+          "dose": "完整跟練 1 遍",
+          "title": "20分鐘 基礎瑜伽【三角式 變化】Yoga Basics ★ ★ #trianglepose #中文瑜伽 #瑜珈教學",
+          "channel": "Yoga with Jade",
+          "url": "https://www.youtube.com/watch?v=rl8qy4rrino",
+          "duration": "20:28"
         },
         {
-          "name": "長停留＋呼吸練習的流動課",
-          "en": "Long Holds with Breathing Exercises",
+          "name": "站姿體式基礎課",
+          "en": "Standing pose foundation class",
+          "kind": "follow",
+          "target": "髖關節、股四頭、核心",
+          "dose": "完整跟練 1 遍，每週 1–2 次",
+          "title": "Yoga standing pose foundation class | Yoga Dose",
+          "channel": "Yoga Dose",
+          "url": "https://www.youtube.com/watch?v=p-R9ULERLxs",
+          "duration": "24:05"
+        },
+        {
+          "name": "扭轉三角式",
+          "en": "Revolved triangle pose",
           "kind": "deepen",
-          "target": "呼吸控制、核心、專注",
-          "dose": "每週 1 次，測試自己在吃力停留下還能不能維持鼻呼吸",
-          "title": "Yoga Class with Long Strong Holds and Breathing Exercises: Be Calm & Strong",
-          "channel": "Breathe and Flow",
-          "url": "https://www.youtube.com/watch?v=evxOhWTr22k",
-          "duration": "26:26"
+          "target": "扭轉、胸椎、腿後側",
+          "dose": "每側 5 個呼吸 × 2 輪",
+          "title": "Revolved Triangle Pose — Cues and Alignment Tips (YOGA TUTORIAL)",
+          "channel": "YYOGA at Home — yoga classes + tutorials",
+          "url": "https://www.youtube.com/watch?v=sX11hp65x14",
+          "duration": "2:53"
         }
       ]
     },
     {
-      "id": "ch5-u6",
-      "name": "自己編一套流動：串連的原則",
-      "type": "sequence",
-      "assessment": "拿一張紙，在 10 分鐘內寫出一套 30 分鐘的序列（寫體式名稱與停留呼吸數就好），寫完後自我檢查四件事：（1）暖身有沒有先動過峰值體式會用到的關節；（2）峰值體式前有沒有至少兩個逐步接近的前導動作；（3）峰值之後有沒有反向動作抵銷（後彎後接扭轉或前彎、深開髖後接中立位）；（4）最後有沒有 5 分鐘以上的收操與大休息。四項全中才算及格，缺哪一項就補上並重寫一次；然後真的照著練一次，練完再回頭改。",
+      "id": "ch3-u5",
+      "name": "幻椅式 Utkatasana",
+      "type": "asana",
+      "assessment": "幻椅式停留 45 秒，低頭看：腳尖必須看得見，膝蓋略微超過腳尖是正常的（腳踝背屈本來就會讓小腿前傾），但若膝蓋已經蓋掉整個腳掌、腳跟開始浮起，就是重心太前。第二個判準看腰：一手放在下背，停留時腰椎應維持自然弧度，若手感覺到腰窩明顯加深、下肋往前開，代表你是靠腰椎前凸把手臂舉起來的，此時把手臂改成合掌胸前或平行向前。第三，45 秒結束時應該是大腿前側先燒，而不是下背先痠。",
       "tight": [
-        "一開始就直接進峰值體式，沒有暖身梯度",
-        "整堂課只有加強沒有抵銷，練完腰痠背緊",
-        "動作之間銜接需要一直站起躺下，破壞流動",
-        "把喜歡的體式亂塞，序列沒有主題也沒有目的"
+        "膝蓋過度前移、腳跟浮起",
+        "腰椎過度前凸、下肋外開",
+        "手臂硬舉過頭導致聳肩",
+        "膝蓋往內夾、腳掌外緣浮起"
       ],
       "weak": [
-        "峰值體式的逆向拆解能力（從目標倒推前導）",
-        "暖身→漸進→峰值→收操的結構感",
-        "依照當天身體狀態調整強度的判斷力",
-        "把單一體式排成可重複流動的編排思維"
+        "股四頭與臀部的等長耐力",
+        "腳踝背屈活動度",
+        "腹壁維持肋骨下沉的能力",
+        "肩屈曲不代償腰椎的活動度"
       ],
       "lesson": {
-        "title": "Simplified Yoga Sequencing",
-        "channel": "Heart & Bones Yoga- Anatomy & Mobility",
-        "url": "https://www.youtube.com/watch?v=RLn7GxzQaHM",
-        "duration": "10:08",
-        "why": "用解剖與動作科學的角度把序列編排簡化成幾條可操作的規則（先動哪裡、怎麼漸進、怎麼收），10 分鐘就給出一個能立刻套用的框架，不是抽象的教學哲學。"
+        "title": "Chair Pose Tutorial - Alignment & Tricks for Beginners - Utkatasana",
+        "channel": "Yoga with Kassandra",
+        "url": "https://www.youtube.com/watch?v=NUTWhwm04WY",
+        "duration": "9:10",
+        "why": "Kassandra 用 9 分鐘專講幻椅式的重量分配、腰椎位置與手臂高度取捨，並示範停留時該有哪些肌肉出力，是這個體式少見的完整拆解。"
       },
       "drills": [
         {
-          "name": "峰值體式序列的基本做法",
-          "en": "Peak Pose Sequencing Basics",
+          "name": "幻椅式的正位到底怎麼算",
+          "en": "What's the right alignment for chair pose",
           "kind": "align",
-          "target": "專注、脊椎活動度、髖關節",
-          "dose": "選一個峰值體式，照方法倒推寫出 5 個前導動作",
-          "title": "How to Create a Peak Pose Sequence: the Basics! ~ Yoga Sequencing with Rachel",
-          "channel": "Rachel Scott",
-          "url": "https://www.youtube.com/watch?v=ekbxseVZRek",
-          "duration": "4:30"
+          "target": "膝關節、腳踝、腰椎",
+          "dose": "看 1 遍，用側面錄影對照 1 次",
+          "title": "What's the Right Alignment for Chair Pose (Utkatasana)?",
+          "channel": "Jenni Rawlings Yoga & Movement Science",
+          "url": "https://www.youtube.com/watch?v=hKBh7FkGMvA",
+          "duration": "4:45"
         },
         {
-          "name": "課程編排的步驟流程",
-          "en": "How to Plan & Sequence a Class",
+          "name": "幻椅式技術走查",
+          "en": "Chair pose technique walkthrough",
           "kind": "align",
-          "target": "專注、脊椎活動度",
-          "dose": "照著步驟寫出一套 20 分鐘序列",
-          "title": "How To Plan & Sequence Yoga Classes Step-by-Step",
-          "channel": "Yoga Teacher School",
-          "url": "https://www.youtube.com/watch?v=mREzOsy0kO0",
-          "duration": "5:41"
+          "target": "股四頭、核心、腳踝",
+          "dose": "跟著口令停留 30 秒 × 3 輪",
+          "title": "Chair Pose - Technique Walkthrough",
+          "channel": "Man Flow Yoga",
+          "url": "https://www.youtube.com/watch?v=3cmRrQAZqRU",
+          "duration": "3:01"
         },
         {
-          "name": "序列編排的十個步驟",
-          "en": "10 Steps to Sequence a Yoga Class",
+          "name": "幻椅式基本示範",
+          "en": "Utkatasana basic demonstration",
           "kind": "align",
-          "target": "專注、髖關節、脊椎活動度",
-          "dose": "跟著十個步驟做一次完整編排，寫成講義",
-          "title": "10 Steps to Sequence a Yoga Class",
-          "channel": "Ashley Hagen",
-          "url": "https://www.youtube.com/watch?v=e78G7qZCpsg",
-          "duration": "23:58"
+          "target": "股四頭、脊椎活動度、肩關節",
+          "dose": "每次練習前看 1 遍再做 3 輪",
+          "title": "Yoga Pose : Utkatasana or Chair Pose",
+          "channel": "YogaEasy",
+          "url": "https://www.youtube.com/watch?v=zFWIGX0xYJU",
+          "duration": "3:21"
         },
         {
-          "name": "編排最常犯的五個錯誤",
-          "en": "Yoga Sequencing Mistakes: 5 Fixes",
+          "name": "靠牆幻椅式",
+          "en": "Chair pose on the wall",
+          "kind": "modify",
+          "target": "股四頭、腰椎、膝關節",
+          "dose": "靠牆停留 30 秒 × 4 輪",
+          "title": "Chair Pose on the Wall",
+          "channel": "Ann Swanson Wellness",
+          "url": "https://www.youtube.com/watch?v=rz3djUXm8Eo",
+          "duration": "5:33"
+        },
+        {
+          "name": "幻椅式腿部強化跟練",
+          "en": "10-minute legs with chair pose",
+          "kind": "follow",
+          "target": "股四頭、臀部、核心",
+          "dose": "完整跟練 1 遍，每週 2 次",
+          "title": "10 Minute Legs | Chair Pose | Flow to Fit Yoga | Fitness with Amie",
+          "channel": "Pilates, Yoga & Fitness by Amie - Flow To Fit Yoga",
+          "url": "https://www.youtube.com/watch?v=SJzoEPJmdlk",
+          "duration": "9:23"
+        },
+        {
+          "name": "腿部力量瑜伽課",
+          "en": "Yoga for leg strength",
+          "kind": "follow",
+          "target": "股四頭、臀部、膝關節",
+          "dose": "完整跟練 1 遍",
+          "title": "10 Minute Yoga For Leg Strength",
+          "channel": "Candace Cabrera ",
+          "url": "https://www.youtube.com/watch?v=CfwmOA8xs3Y",
+          "duration": "12:39"
+        },
+        {
+          "name": "單腿幻椅式",
+          "en": "One-legged chair pose",
           "kind": "deepen",
-          "target": "專注、薦髂關節、肩關節",
-          "dose": "拿自己寫好的序列逐條比對，找出至少一個要改的地方",
-          "title": "Yoga Sequencing Mistakes: 5 Fixes for Better Class Planning | Yoga Teaching Tips & Techniques #44",
+          "target": "平衡、股四頭、核心",
+          "dose": "每側 20 秒 × 3 輪",
+          "title": "One-Legged Chair Pose: Balance & Stability",
+          "channel": "Muscle & Motion",
+          "url": "https://www.youtube.com/watch?v=LRIMOoDkU6Y",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u6",
+      "name": "樹式與單腳平衡",
+      "type": "asana",
+      "assessment": "樹式睜眼停留 60 秒，同時用鼻子做完整的 5 秒吸、5 秒吐；若你發現自己在停留中屏住呼吸，代表是用僵硬而不是用控制在平衡，先降低抬腳高度到小腿內側。接著檢查支撐腳：腳趾應該可以在停留中主動抬起再放下，若一抬腳趾整個人就晃倒，代表你是靠腳趾抓地代償足弓與臀中肌。最後閉眼再測 20 秒，一般成人閉眼單腳站能撐 15 秒以上算及格，撐不到 5 秒表示前庭與本體感覺輸入需要另外訓練。",
+      "tight": [
+        "停留中不自覺屏住呼吸",
+        "視線游移、找不到固定凝視點",
+        "支撐腳腳趾死抓地板",
+        "支撐側骨盆往外頂、上身側傾"
+      ],
+      "weak": [
+        "臀中肌控制骨盆水平的力量",
+        "足弓與足底內在肌的動態穩定",
+        "凝視點（drishti）與注意力的維持",
+        "腳踝周邊的本體感覺回饋"
+      ],
+      "lesson": {
+        "title": "Tree Pose - Vrksasana - Yoga With Adriene",
+        "channel": "Yoga With Adriene",
+        "url": "https://www.youtube.com/watch?v=yVE4XXFFO70",
+        "duration": "12:09",
+        "why": "Adriene 花 12 分鐘只講樹式，從支撐腳的重量分配、骨盆水平講到呼吸與凝視點，並示範三種抬腳高度，適合當作本單元反覆回看的主課。"
+      },
+      "drills": [
+        {
+          "name": "單腿平衡與樹式",
+          "en": "Single-leg balance and tree pose",
+          "kind": "align",
+          "target": "平衡、髖關節、足底",
+          "dose": "每側 60 秒 × 2 輪",
+          "title": "瑜伽單腿平衡，樹式｜Eileen老師｜YogaAsia 亞洲瑜伽",
+          "channel": "亞洲瑜伽 Yoga Asia",
+          "url": "https://www.youtube.com/watch?v=EFJTHAuH5g4",
+          "duration": "5:08"
+        },
+        {
+          "name": "樹式正位與技巧",
+          "en": "Tree pose alignment & tips",
+          "kind": "align",
+          "target": "平衡、髖關節、核心",
+          "dose": "每側 5 個呼吸 × 3 輪",
+          "title": "Tree Pose Alignment & Tips - Yoga for Beginners",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=ZRS0dXit51Q",
+          "duration": "6:21"
+        },
+        {
+          "name": "如何改善站姿平衡",
+          "en": "How to improve standing balances",
+          "kind": "align",
+          "target": "平衡、專注、腳踝",
+          "dose": "看 1 遍，挑 2 個提示套用在樹式",
+          "title": "Discover How to Improve Standing Balances in Yoga | Yoga Teacher Tips & Techniques #47",
           "channel": "Jason Crandell Yoga",
-          "url": "https://www.youtube.com/watch?v=A4t7hBD1RoU",
-          "duration": "34:12"
+          "url": "https://www.youtube.com/watch?v=gOBeLhH3jrs",
+          "duration": "12:37"
         },
         {
-          "name": "從零編一堂流動課（含完整範例）",
-          "en": "Sequence a Vinyasa Class with Example",
+          "name": "扶椅子的平衡練習",
+          "en": "Chair-supported balance practice",
+          "kind": "modify",
+          "target": "平衡、腳踝、臀部",
+          "dose": "扶椅背完成 1 遍，每週 2–3 次",
+          "title": "Chair Yoga for Balance - Improve your Strength & Mobility",
+          "channel": "Yoga by Kierstie Payge",
+          "url": "https://www.youtube.com/watch?v=uoP5Pr3vkPM",
+          "duration": "10:41"
+        },
+        {
+          "name": "站姿平衡跟練（腿部肌力）",
+          "en": "Standing balance practice class",
+          "kind": "follow",
+          "target": "平衡、股四頭、臀部",
+          "dose": "完整跟練 1 遍",
+          "title": "站姿平衡練習(腿部肌肉鍛鍊) Yoga for improve balance {Flow with Katie}",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=i7MPzlgfJ2s",
+          "duration": "14:04"
+        },
+        {
+          "name": "初學者平衡與穩定課",
+          "en": "Beginner yoga for balance & stability",
+          "kind": "follow",
+          "target": "平衡、核心、腳踝",
+          "dose": "完整跟練 1 遍，每週 2 次",
+          "title": "15 min Beginner Yoga for Balance & Stability",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=AT_Eon4STrw",
+          "duration": "15:03"
+        },
+        {
+          "name": "足踝力量進階訓練",
+          "en": "Foot & ankle strengthening progression",
           "kind": "deepen",
-          "target": "專注、髖關節、核心",
-          "dose": "看完後照範例格式寫出自己的 45 分鐘課",
-          "title": "How to sequence a vinyasa flow yoga class | yoga class plan example",
-          "channel": "Juliana Larochelle",
-          "url": "https://www.youtube.com/watch?v=NXCs4nL_FtY",
-          "duration": "31:02"
+          "target": "足底、腳踝、平衡",
+          "dose": "挑 3 個動作，每側 10 下 × 3 組",
+          "title": "Build Strong Feet: Exercises To Strengthen Your Foot & Ankle",
+          "channel": "E3 Rehab",
+          "url": "https://www.youtube.com/watch?v=S5xKokqeOb4",
+          "duration": "17:53"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u7",
+      "name": "鷹式、舞王式與進階平衡",
+      "type": "asana",
+      "assessment": "鷹式雙腳交叉纏繞後停留 30 秒，判準是：能不能維持鼻吸鼻吐而不憋氣，以及膝蓋是否始終指向正前方；若骨盆歪向支撐側、膝蓋往外飄，先做腳尖點地的半鷹式。舞王式抓同側腳踝抬到最高後停留 20 秒，若你必須把胸口一路往下掉才抬得起腳，或抬腿側的骨盆明顯往外翻開，代表推力來自腰椎而非髖伸展，改用瑜伽帶延長距離。三個進階平衡（鷹式、舞王式、戰士三式）任一在 20 秒內落地兩次以上，就先回單元六補基礎。",
+      "tight": [
+        "停留時屏息，只靠肌肉僵硬撐住",
+        "抬腿側骨盆外翻、腰椎過度前凸",
+        "支撐腳腳趾抓地、腳踝內外翻晃動",
+        "肩膀聳起、上背無法維持延長"
+      ],
+      "weak": [
+        "單腳站立時髖外展肌的持續輸出",
+        "髖伸展與股四頭前側的延展",
+        "肩關節後側與胸椎的開展",
+        "呼吸與平衡同時進行的注意力分配"
+      ],
+      "lesson": {
+        "title": "Yoga Asana Lab: Balancing Poses (Dancer's pose, Eagle pose, Tree Pose)",
+        "channel": "Yogea Yoga",
+        "url": "https://www.youtube.com/watch?v=5u_Z0XB9Kic",
+        "duration": "6:45",
+        "why": "把舞王式、鷹式、樹式放在同一支影片裡逐一拆解，剛好對應本單元的三個核心平衡體式，講解時同時交代重心、凝視點與呼吸的處理。"
+      },
+      "drills": [
+        {
+          "name": "鷹式示範與拆解",
+          "en": "Eagle pose demonstration",
+          "kind": "align",
+          "target": "平衡、肩關節、髖關節",
+          "dose": "每側 30 秒 × 3 輪",
+          "title": "專業瑜伽導師 Karen Ho 示範 - 鷹式",
+          "channel": "Dave Cheung",
+          "url": "https://www.youtube.com/watch?v=pxOzgTegoJQ",
+          "duration": "3:22"
         },
         {
-          "name": "把序列變成可持續的每日routine",
-          "en": "Create Your Own Yoga Routine",
+          "name": "戰士三式正位",
+          "en": "Warrior III alignment",
           "kind": "align",
-          "target": "專注、放鬆與副交感、脊椎活動度",
-          "dose": "設計一套 15 分鐘的每日版，連續執行 7 天再檢討",
-          "title": "How to Create the Perfect Yoga Routine In 2025",
+          "target": "平衡、臀部、腿後側",
+          "dose": "每側 20 秒 × 3 輪",
+          "title": "英雄三 Warrior III {Flow with Katie}",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=NJhvwztun7A",
+          "duration": "7:19"
+        },
+        {
+          "name": "舞王式逐步建立",
+          "en": "Dancer pose step by step",
+          "kind": "align",
+          "target": "平衡、髖關節、後彎",
+          "dose": "每側 5 個呼吸 × 2 輪",
+          "title": "Day 15 - Dancer Pose - 30 Pose Journey",
+          "channel": "Yoga with Allie Van Fossen",
+          "url": "https://www.youtube.com/watch?v=XNPYAIt3S3Y",
+          "duration": "8:28"
+        },
+        {
+          "name": "用瑜伽帶做舞王式",
+          "en": "Dancer pose with a strap",
+          "kind": "modify",
+          "target": "後彎、肩關節、髖關節",
+          "dose": "每側 30 秒 × 3 輪",
+          "title": "Dancer With a Strap",
+          "channel": "Wanderlust",
+          "url": "https://www.youtube.com/watch?v=5aBkCWquRXE",
+          "duration": "0:59"
+        },
+        {
+          "name": "肩膀受限者的鷹式變化",
+          "en": "Eagle variations for tight shoulders",
+          "kind": "modify",
+          "target": "肩關節、肩胛、胸椎",
+          "dose": "挑 2 種變化，每側 30 秒 × 3 輪",
+          "title": "Eagle Pose Variations for Men with Tight Shoulders (Inflexible Modification Series)",
+          "channel": "Man Flow Yoga",
+          "url": "https://www.youtube.com/watch?v=mWyaEU_Lv1w",
+          "duration": "21:48"
+        },
+        {
+          "name": "平衡與不對稱體式流動課",
+          "en": "Balance & asymmetrical poses flow",
+          "kind": "follow",
+          "target": "平衡、核心、髖關節",
+          "dose": "完整跟練 1 遍，每週 1 次",
+          "title": "Intermediate Vinyasa Yoga for Balance, Core & Asymmetrical Poses",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=eTNjOPcKgSI",
+          "duration": "36:06"
+        },
+        {
+          "name": "完全舞王式與其變化",
+          "en": "Full king dancer pose",
+          "kind": "deepen",
+          "target": "後彎、肩關節、平衡",
+          "dose": "每側 3 個呼吸 × 3 輪",
+          "title": "Yoga: Full King Dancer Pose with Modifications",
+          "channel": "Yoga with Bianca l BFunctionalYoga",
+          "url": "https://www.youtube.com/watch?v=LTleU90H9hs",
+          "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "id": "ch3-u8",
+      "name": "站姿前彎與寬腿前彎",
+      "type": "asana",
+      "assessment": "站姿前彎前先做一個對照測試：兩腳與髖同寬，一手放下背、一手放骨盆側面，慢慢往下折。正常應該是骨盆先往後轉、大腿後側先有拉扯感；若下背那隻手感覺到腰椎立刻捲起、而骨盆幾乎沒動，代表你是用腰椎代償而不是髖屈。第二，膝蓋保持微彎往下折時，指尖能到的高度應該比鎖死膝蓋時更低——若反而更高，表示你原本是靠鎖膝與腰椎彎曲換來的假深度。寬腿前彎則測頭頂：若頭頂離地超過一個磚高，就先用磚墊著練 60 秒。",
+      "tight": [
+        "用腰椎捲曲代償髖屈曲",
+        "膝蓋鎖死超伸換取假深度",
+        "為了摸地而聳肩、頸部緊繃",
+        "寬腿前彎時腳掌外緣浮起、膝蓋內塌"
+      ],
+      "weak": [
+        "髖鉸鏈（hip hinge）的動作模式",
+        "腿後側肌群的可控延展範圍",
+        "前彎時維持脊椎中立的核心",
+        "股四頭主動收縮讓膝蓋不鎖死的能力"
+      ],
+      "lesson": {
+        "title": "站姿分腿前彎 Prasarita Padottanasana {Flow with Katie}",
+        "channel": "凱蒂瑜伽 Flow With Katie",
+        "url": "https://www.youtube.com/watch?v=T9k9y2i4OSs",
+        "duration": "11:34",
+        "why": "凱蒂用繁中拆解寬腿前彎的腳掌角度、骨盆前轉與頭頂落點，並示範用磚承接頭部的做法，正好對應本單元最需要的「先髖後脊」順序。"
+      },
+      "drills": [
+        {
+          "name": "從髖折而不是從脊椎折",
+          "en": "Forward bend from hip not the spine",
+          "kind": "align",
+          "target": "髖關節、腰椎、腿後側",
+          "dose": "空手練 10 次，再套用到前彎",
+          "title": "Forward Bend from Hip Not the Spine",
+          "channel": "Margaret Martin, Physical Therapist",
+          "url": "https://www.youtube.com/watch?v=3X4Tr5TN8CY",
+          "duration": "3:01"
+        },
+        {
+          "name": "膕旁肌伸展的坐骨關鍵",
+          "en": "Hamstring stretch from the sit bones",
+          "kind": "align",
+          "target": "腿後側、髖關節、腰椎",
+          "dose": "每側 30 秒 × 3 輪",
+          "title": "膕旁肌伸展，久坐大腿後側緊繃縮短，想改善大腿後側柔軟度，原來拉筋秘訣是「坐骨」！分享如何正確拉長膕旁肌卻不傷害腰椎。",
+          "channel": "全人物理治療所",
+          "url": "https://www.youtube.com/watch?v=HD9hT2HhDs8",
+          "duration": "5:28"
+        },
+        {
+          "name": "半站姿前彎的解剖",
+          "en": "Ardha Uttanasana anatomy",
+          "kind": "align",
+          "target": "腿後側、脊椎活動度、核心",
+          "dose": "看 1 遍，停留 5 個呼吸 × 3 輪",
+          "title": "Half Standing Forward Bend (Ardha Uttanasana) - Yoga Pose Tutorial by Muscle and Motion",
+          "channel": "Muscle & Motion",
+          "url": "https://www.youtube.com/watch?v=2_yNresGBQE",
+          "duration": "3:29"
+        },
+        {
+          "name": "用磚做的前彎",
+          "en": "Forward fold with a block",
+          "kind": "modify",
+          "target": "腿後側、腰椎、髖關節",
+          "dose": "磚放最高格，停留 60 秒 × 3 輪",
+          "title": "How To Do Forward Fold For Beginners | Hint: Try Using A Yoga Block To Help With Tight Hamstrings",
+          "channel": "Body By Yoga",
+          "url": "https://www.youtube.com/watch?v=sEBFsU_CnNw",
+          "duration": "2:40"
+        },
+        {
+          "name": "寬腿前彎完整教學跟練",
+          "en": "Wide-legged forward fold class",
+          "kind": "follow",
+          "target": "腿後側、內收肌、髖關節",
+          "dose": "完整跟練 1 遍",
+          "title": "Standing Wide-Legged Forward Fold  |  Prasarita Padottanasana",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=F7you4Sw1o0",
+          "duration": "12:58"
+        },
+        {
+          "name": "前彎柔軟度跟練課",
+          "en": "Forward folds practice-along",
+          "kind": "follow",
+          "target": "腿後側、髖關節、脊椎活動度",
+          "dose": "完整跟練 1 遍，每週 2 次",
+          "title": "Yoga For Flexibility: Forward Folds (17 Min Practice Along)",
           "channel": "Cathy Madeo Yoga",
-          "url": "https://www.youtube.com/watch?v=i-rRJv90UGs",
-          "duration": "11:00"
+          "url": "https://www.youtube.com/watch?v=GztOh3xFxG0",
+          "duration": "16:38"
+        },
+        {
+          "name": "腿後側可動範圍進階開發",
+          "en": "Advanced hamstring unlocking",
+          "kind": "deepen",
+          "target": "腿後側、髖關節、前彎",
+          "dose": "每側 60 秒 × 2 輪",
+          "title": "Unlock Your Hamstrings Fast",
+          "channel": "Cathy Madeo Yoga",
+          "url": "https://www.youtube.com/watch?v=kRiudRykGWg",
+          "duration": "5:35"
         }
       ]
     }

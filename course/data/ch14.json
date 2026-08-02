@@ -1,0 +1,750 @@
+{
+  "chapter": "CH14",
+  "title": "每日 sadhana：情境練習",
+  "units": [
+    {
+      "id": "ch10-u1",
+      "name": "晨間 15 分鐘喚醒",
+      "type": "sequence",
+      "assessment": "做完 15 分鐘後，站直做一次前彎，指尖比練習前更靠近地面，而且起身時不會眼前發黑，就是強度剛好。第二個判準看接下來一小時：不需要靠咖啡因就能專注做事，代表這支把交感神經溫和叫醒了；若練完反而想躺回床上、或心跳過了十分鐘還降不下來，代表晨間強度放太高，改成床上版或縮到 10 分鐘。",
+      "tight": [
+        "剛起床就把前彎拉到底——椎間盤在起床後含水量最高，腰椎最不耐彎",
+        "一開場就衝拜日式，心率拉滿，結果整個上午更疲乏",
+        "下犬式裡頭懸著、肩膀夾耳，頸椎整段被吊住",
+        "為了趕上班把呼吸省略，15 分鐘做成快速伸展操"
+      ],
+      "weak": [
+        "脊椎由頸到薦椎逐段喚醒的活動度",
+        "起床後心肺與交感神經的溫和上升曲線",
+        "拜日式裡呼吸與動作的同步",
+        "固定時段練習的行為習慣本身"
+      ],
+      "lesson": {
+        "title": "15 min Gentle Morning Yoga - Full Body Stretch",
+        "channel": "Yoga with Kassandra",
+        "url": "https://www.youtube.com/watch?v=Y8vJqiePu1I",
+        "duration": "16:46",
+        "why": "Kassandra 這支是典型的「起床後可直接跟」的溫和晨練：從躺姿與貓牛開始、不預設你已經暖身，也沒有跳躍動作，15 分鐘走完脊椎屈伸、側彎、扭轉與站姿，正好是這個單元要建立的模板。"
+      },
+      "drills": [
+        {
+          "name": "15 分鐘晨間全身伸展",
+          "en": "15-Min Morning Full-Body Stretch",
+          "kind": "follow",
+          "target": "脊椎活動度、腿後側、肩關節",
+          "dose": "起床後 1 輪，每週 4–5 天",
+          "title": "15分鐘早晨瑜伽-全身伸展 15 min morning yoga full body stretch { Flow With Katie }",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=aHjIDqj0Usk",
+          "duration": "15:18"
+        },
+        {
+          "name": "日出流動",
+          "en": "Sunrise Yoga",
+          "kind": "follow",
+          "target": "脊椎活動度、髖關節、呼吸控制",
+          "dose": "1 輪，配合鼻吸鼻吐",
+          "title": "Sunrise Yoga  |  15-Minute Morning Yoga Practice",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=r7xsYgTeM2Q",
+          "duration": "15:34"
+        },
+        {
+          "name": "15 分鐘晨間流動",
+          "en": "Morning Yoga Flow",
+          "kind": "follow",
+          "target": "核心、髖關節、平衡",
+          "dose": "1 輪；想要更醒可接 5 次拜日式",
+          "title": "15 MIN MORNING YOGA FLOW || Wake Up & Feel Energised",
+          "channel": "Move With Nicole",
+          "url": "https://www.youtube.com/watch?v=Vr3h5X9kmUo",
+          "duration": "15:43"
+        },
+        {
+          "name": "晨間拜日式 10 分鐘",
+          "en": "Morning Sun Salutations",
+          "kind": "follow",
+          "target": "脊椎活動度、肩關節、呼吸控制",
+          "dose": "1 輪（約 6–8 循環）",
+          "title": "10 Min Morning Sun Salutations | Beginner Friendly Yoga Flow",
+          "channel": "Charlie Follows",
+          "url": "https://www.youtube.com/watch?v=I9_wJmIAckA",
+          "duration": "11:04"
+        },
+        {
+          "name": "拜日式 A 逐格拆解",
+          "en": "Sun Salutation A Breakdown",
+          "kind": "align",
+          "target": "肩關節、脊椎活動度、呼吸控制",
+          "dose": "看完後照著單練 3 循環",
+          "title": "How to do a Sun Salutation A | Yoga for Beginners Pose Tutorial",
+          "channel": "SarahBethYoga",
+          "url": "https://www.youtube.com/watch?v=UPszTB6UzaA",
+          "duration": "9:43"
+        },
+        {
+          "name": "床上版晨伸展",
+          "en": "Morning Stretch in Bed",
+          "kind": "modify",
+          "target": "腰椎、髖關節、放鬆與副交感",
+          "dose": "醒來躺著 1 輪，起身前完成",
+          "title": "10 min Morning Yoga Stretch IN BED - Beginner Yoga At Home",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=pbEM2Q67NKs",
+          "duration": "11:17"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u2",
+      "name": "晨間 45 分鐘完整練習",
+      "type": "sequence",
+      "assessment": "45 分鐘版的判準不在做得完，而在做完之後：結束後 30 分鐘還想做事、還能專心工作，就是劑量對了；若練完只想再睡一次或整天沒力，代表把晨練當訓練課上了，退回 35 分鐘版。過程中另一個現場判準是站姿系列——若戰士二撐不到教練喊換邊、前腿一直發抖，就縮短停留、把手放腰上，不要硬撐完整版。",
+      "tight": [
+        "跳過前 10 分鐘的暖身直接進站姿系列，膝與薦髂承受第一波衝擊",
+        "為了跟上影片而縮短每個體式的呼吸，變成 45 分鐘的趕場",
+        "完全空腹又低血糖硬做，做到一半發抖冒冷汗",
+        "清晨關節滑液還不足就追求最大幅度，把「暖不開」誤當柔軟度不夠"
+      ],
+      "weak": [
+        "站姿系列的肌耐力與下肢負荷能力",
+        "拜日式串連中連續 45 分鐘不斷的呼吸節奏",
+        "前彎、後彎、扭轉交替的脊椎耐受度",
+        "把長時段練習排進生活的時間管理能力"
+      ],
+      "lesson": {
+        "title": "45 Min Morning Yoga Flow | Full Body Yoga for All Levels",
+        "channel": "Yoga With Tim",
+        "url": "https://www.youtube.com/watch?v=WdOcag5C_DE",
+        "duration": "47:17",
+        "why": "Yoga With Tim 有正統師資訓練背景，這支 45 分鐘從地板暖身、拜日式、站姿系列到收操的比例分配是教科書式的，指令具體且會交代每個轉換要看哪裡，適合當這個單元的骨架課。"
+      },
+      "drills": [
+        {
+          "name": "40 分鐘晨間全身流動",
+          "en": "40-Min Morning Flow",
+          "kind": "follow",
+          "target": "脊椎活動度、髖關節、核心",
+          "dose": "1 輪，週末或有空的早晨",
+          "title": "40 Min Morning Yoga Flow | Full Body Yoga for All Levels",
+          "channel": "Charlie Follows",
+          "url": "https://www.youtube.com/watch?v=rmtmLfDSuUA",
+          "duration": "41:04"
+        },
+        {
+          "name": "35 分鐘晨間伸展與提振",
+          "en": "35-Min Morning Stretch & Energize",
+          "kind": "follow",
+          "target": "脊椎活動度、腿後側、肩關節",
+          "dose": "1 輪；45 分鐘版做不完時的替代",
+          "title": "35 min Morning Yoga to STRETCH & ENERGIZE",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=ZgHo2xL3vX0",
+          "duration": "37:56"
+        },
+        {
+          "name": "45 分鐘更新練習",
+          "en": "Yoga For Renewal",
+          "kind": "follow",
+          "target": "髖關節、腰椎、呼吸控制",
+          "dose": "1 輪，慢速版",
+          "title": "Yoga For Renewal   |   45-Minute Yoga Practice",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=U5kgE1Q51M0",
+          "duration": "44:10"
+        },
+        {
+          "name": "40 分鐘中文晨間瑜伽",
+          "en": "40-Min Morning Yoga (Mandarin)",
+          "kind": "follow",
+          "target": "脊椎活動度、髖關節、平衡",
+          "dose": "1 輪，需要中文口令時用這支",
+          "title": "40分鐘早晨瑜珈 - 全身拉伸/連結內在/放鬆醒腦/初學友善 Morning Yoga to Start Your Day - 菲比瑜珈 Move With Phoebe",
+          "channel": "菲比瑜珈",
+          "url": "https://www.youtube.com/watch?v=bSa2sctCeOs",
+          "duration": "40:29"
+        },
+        {
+          "name": "拜日式教學拆解",
+          "en": "How to Teach Sun Salutations",
+          "kind": "align",
+          "target": "肩關節、脊椎活動度、核心",
+          "dose": "看一次，再回頭修正自己的轉換",
+          "title": "Yoga Teacher's Companion #26: How to Teach the Most Essential Sun Salutations to Beginners",
+          "channel": "Jason Crandell Yoga",
+          "url": "https://www.youtube.com/watch?v=CYgbjeJtVG8",
+          "duration": "19:43"
+        },
+        {
+          "name": "60 分鐘力量流動",
+          "en": "60-Min Power Yoga Vitality",
+          "kind": "deepen",
+          "target": "核心、手臂支撐、髖關節",
+          "dose": "1 輪，一週最多 2 次",
+          "title": "60 Min Power Yoga VITALITY l Boost Your Energy & Strength",
+          "channel": "Travis Eliot",
+          "url": "https://www.youtube.com/watch?v=Pork_4_mGRA",
+          "duration": "60:46"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u3",
+      "name": "辦公室與久坐者的桌邊練習",
+      "type": "sequence",
+      "assessment": "坐在椅子上背貼椅背，轉頭看左肩、再看右肩：若一側明顯轉不過去或轉到底會痛，先做肩頸與胸椎段。再從椅子上不用手站起來一次，若必須撐大腿才起得來，代表髖屈肌與臀部已經被坐姿關機。這個單元的劑量判準是頻率不是長度——每坐 60–90 分鐘做 5 分鐘，比下班後補做 30 分鐘有效。",
+      "tight": [
+        "把「聳肩繞圈」當放鬆，實際只是讓上斜方肌更緊",
+        "低頭族猛拉頸椎後側，忽略真正卡住的是胸椎",
+        "在有滾輪的椅子上做需要撐體重的動作，椅子滑走",
+        "只做上半身，髖屈肌與臀部一整天完全沒動"
+      ],
+      "weak": [
+        "胸椎的伸展與旋轉活動度",
+        "深層頸屈肌與肩胛穩定肌的耐力",
+        "髖屈肌長度與臀部啟動",
+        "在不換衣服、不用瑜伽墊的條件下維持練習頻率"
+      ],
+      "lesson": {
+        "title": "Office Break Yoga  |  14-Minute Yoga Practice",
+        "channel": "Yoga With Adriene",
+        "url": "https://www.youtube.com/watch?v=M-8FvC3GD8c",
+        "duration": "14:19",
+        "why": "Adriene 這支全程在椅子與桌邊完成，穿著上班服、不用墊子就能做，14 分鐘剛好塞得進午休或會議之間的空檔；它示範的是「桌邊練習該長什麼樣」，而不是把地板課搬到椅子上。"
+      },
+      "drills": [
+        {
+          "name": "免墊肩頸放鬆 17 分鐘",
+          "en": "No-Mat Neck & Shoulder Release",
+          "kind": "follow",
+          "target": "頸椎、肩胛、胸椎",
+          "dose": "每天下午 1 輪",
+          "title": "17分鐘舒緩瑜伽-每日肩頸伸展放鬆 (免用瑜伽墊) 17min Gentle yoga for neck and shoulders (no yoga mat) { Flow With Katie }",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=4_IEhwWfSAs",
+          "duration": "17:08"
+        },
+        {
+          "name": "坐姿伸展 25 分鐘",
+          "en": "25-Min Seated Stretch",
+          "kind": "follow",
+          "target": "頸椎、胸椎、腰椎",
+          "dose": "久坐日 1 輪，可坐在辦公椅上做",
+          "title": "25分鐘坐著伸展告別痠痛緊繃 25 min sitting yoga stretch { Flow with Katie }",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=Iw8KOvvJKOM",
+          "duration": "26:19"
+        },
+        {
+          "name": "桌邊 6 分鐘快速版",
+          "en": "Yoga at Your Desk",
+          "kind": "follow",
+          "target": "頸椎、肩關節、手腕",
+          "dose": "每坐 90 分鐘做 1 輪",
+          "title": "Yoga at Your Desk",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=tAUf7aajBWE",
+          "duration": "6:24"
+        },
+        {
+          "name": "椅子瑜伽：緊髖與下背",
+          "en": "Chair Yoga for Tight Hips & Low Back",
+          "kind": "modify",
+          "target": "髖關節、腰椎、臀部",
+          "dose": "1 輪；行動受限或無法下地時的主要版本",
+          "title": "10 minute CHAIR Yoga for Beginners, Seniors & Desk Workers | Tight Hips & Lower Back",
+          "channel": "SarahBethYoga",
+          "url": "https://www.youtube.com/watch?v=tWxKPB1uApU",
+          "duration": "12:26"
+        },
+        {
+          "name": "胸椎活動度：圓肩駝背的第一步",
+          "en": "Thoracic Mobility for Rounded Shoulders",
+          "kind": "align",
+          "target": "胸椎、肩胛、胸口",
+          "dose": "每日 1 輪，動作各 10 次",
+          "title": "駝背改善從這步開始！打開胸椎活動度，告別圓肩上背痛｜啾c物理治療師",
+          "channel": "啾c物理治療師",
+          "url": "https://www.youtube.com/watch?v=mXqVxRPNRC8",
+          "duration": "8:47"
+        },
+        {
+          "name": "5 分鐘辦公室坐姿伸展",
+          "en": "5-Min Office Seated Stretch",
+          "kind": "follow",
+          "target": "頸椎、肩胛、腰椎",
+          "dose": "空檔隨時 1 輪",
+          "title": "5分鐘辦公室運動｜舒緩肩頸痠痛 腰痠痛｜坐姿伸展",
+          "channel": "一米六健身服利社",
+          "url": "https://www.youtube.com/watch?v=e6KfzPVTyRM",
+          "duration": "5:46"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u4",
+      "name": "下班 20 分鐘解痠痛",
+      "type": "sequence",
+      "assessment": "回家先做這個測試：仰躺、兩腿伸直貼地，若腰與地板之間能整個手掌塞進去、而且大腿前側緊到抬不起頭，就是髖屈肌把骨盆往前拉了一整天，先做開髖與腰椎段。做完 20 分鐘再測一次，掌心與腰之間只剩一層薄縫就代表選對了；若做完腰更痠，把所有後彎改成手肘撐地的支撐版本。",
+      "tight": [
+        "一下班就報復性深拉，把「累出來的痠」誤當「緊出來的緊」",
+        "下背痛時只做嬰兒式與前彎，卻從不練臀部與後鏈",
+        "邊看手機邊做，呼吸完全沒進來，只是換個姿勢滑手機",
+        "以為要拉到痛才有效，停留時整條腿在發抖"
+      ],
+      "weak": [
+        "髖屈肌長度與臀部力量的重新平衡",
+        "腰椎的減壓與屈伸交替耐受",
+        "從工作模式切換到副交感的能力",
+        "20 分鐘、可以天天執行的固定流程"
+      ],
+      "lesson": {
+        "title": "Yoga To Heal Stress  |  20-Minute Yoga Practice",
+        "channel": "Yoga With Adriene",
+        "url": "https://www.youtube.com/watch?v=tD_l3fDTFyg",
+        "duration": "20:34",
+        "why": "Adriene 這支 20 分鐘專門處理「壓力累積在身體哪裡」：節奏慢、停留長，重心放在肩頸與髖，收尾有明確的躺姿放鬆，剛好對應下班後既痠又緊繃、但不想再運動的狀態。"
+      },
+      "drills": [
+        {
+          "name": "20 分鐘溫和舒壓伸展",
+          "en": "20-Min Gentle Stress Release",
+          "kind": "follow",
+          "target": "肩關節、腰椎、放鬆與副交感",
+          "dose": "下班後 1 輪",
+          "title": "20 min Gentle Yoga Stretch - Melt Away Stress & Relax",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=iHrubSLWEjA",
+          "duration": "19:16"
+        },
+        {
+          "name": "髖與下背深層釋放",
+          "en": "Hips & Lower Back Release",
+          "kind": "follow",
+          "target": "髖關節、腰椎、臀部",
+          "dose": "1 輪，每側停留至少 5 次呼吸",
+          "title": "20 Min Yoga For Hips & Lower Back Release | Deep Yoga Stretch",
+          "channel": "Yoga With Tim",
+          "url": "https://www.youtube.com/watch?v=IQe2RR_Bgzo",
+          "duration": "19:32"
+        },
+        {
+          "name": "20 分鐘溫和流動",
+          "en": "20-Min Gentle Flow",
+          "kind": "follow",
+          "target": "脊椎活動度、腿後側、髖關節",
+          "dose": "1 輪，想動一動的日子用這支",
+          "title": "20 MIN GENTLE YOGA FLOW || Relaxing Flow to Stretch & Feel Good",
+          "channel": "Move With Nicole",
+          "url": "https://www.youtube.com/watch?v=8cltCOUpYTQ",
+          "duration": "20:21"
+        },
+        {
+          "name": "坐姿版：告別下背痛",
+          "en": "Seated Yoga for Low Back Pain",
+          "kind": "follow",
+          "target": "腰椎、髖關節、薦髂關節",
+          "dose": "1 輪；不想下地時坐著做",
+          "title": "22 分鐘舒緩瑜伽坐著伸展告別下背痛 22 min gentle yoga { Flow with Katie }",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=-5nUYwefK8o",
+          "duration": "22:56"
+        },
+        {
+          "name": "20 分鐘全身深層拉筋",
+          "en": "20-Min Full Body Deep Stretch",
+          "kind": "follow",
+          "target": "腿後側、內收肌、肩關節",
+          "dose": "1 輪，睡前 2 小時內做",
+          "title": "20分鐘 拉筋運動｜全身伸展｜深層放鬆 疲憊的身體 FULL BODY DEEP STRETCH",
+          "channel": "一米六健身服利社",
+          "url": "https://www.youtube.com/watch?v=-Lqg9xZU9CA",
+          "duration": "20:33"
+        },
+        {
+          "name": "腰大肌與髖屈肌解剖拆解",
+          "en": "Psoas & Hip Flexor Anatomy",
+          "kind": "align",
+          "target": "髖關節、股四頭、腰椎",
+          "dose": "看一次，再挑 1 個版本每側 60 秒 × 2",
+          "title": "Psoas Stretch: 3 Hip Flexor Stretches & Anatomy",
+          "channel": "YOGABODY",
+          "url": "https://www.youtube.com/watch?v=3SVJvstoBR0",
+          "duration": "10:02"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u5",
+      "name": "晚間 45 分鐘放鬆流動",
+      "type": "sequence",
+      "assessment": "練到一半停下來數 30 秒呼吸：若換算成一分鐘還在 16 次以上、或必須張嘴喘，代表這支對晚上太快了，降速或換一支。結束後躺平 2 分鐘，肩膀能自然貼地、下巴與眉心不緊，就是強度對了。最後看兩小時後——若反而更清醒睡不著，把後半段的後彎與強扭轉換成陰瑜伽版本。",
+      "tight": [
+        "晚上做成流汗的力量課，體溫與皮質醇拉高，反而更難入睡",
+        "用晚間練習補償白天沒運動，一次做滿強度",
+        "在冷房間做長停留，肌肉越停越僵",
+        "音樂開很大聲、燈全開，交感神經整場沒關過"
+      ],
+      "weak": [
+        "吐氣延長、呼吸拉長的控制",
+        "髖與腿後側的長時間停留耐受",
+        "一天結束時把注意力從外收回身體的能力",
+        "45 分鐘不看時鐘的專注"
+      ],
+      "lesson": {
+        "title": "45 min Slow Flow DEEP STRETCH Yoga for Flexibility - STRETCH & RELAX",
+        "channel": "Yoga with Kassandra",
+        "url": "https://www.youtube.com/watch?v=X4MchDHkJWw",
+        "duration": "46:12",
+        "why": "Kassandra 這支 45 分鐘慢流的節奏正好落在「還在動、但不會把人叫醒」的區間：每個體式停 5–8 次呼吸、幾乎沒有跳躍與核心衝刺，是晚間版本最安全的預設值。"
+      },
+      "drills": [
+        {
+          "name": "放鬆版晚間流動",
+          "en": "Chilled Evening Flow",
+          "kind": "follow",
+          "target": "脊椎活動度、髖關節、放鬆與副交感",
+          "dose": "1 輪，睡前 2 小時以上",
+          "title": "CHILLED EVENING YOGA FLOW - Yoga with Charlie Follows",
+          "channel": "Charlie Follows",
+          "url": "https://www.youtube.com/watch?v=1eZQRhHCygE",
+          "duration": "42:38"
+        },
+        {
+          "name": "40 分鐘重置流動",
+          "en": "Detox and Reset",
+          "kind": "follow",
+          "target": "扭轉、髖關節、呼吸控制",
+          "dose": "1 輪，一週 1–2 次",
+          "title": "Detox and Reset  |  40-Minute Yoga Practice",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=vbgxIwQoyN4",
+          "duration": "40:39"
+        },
+        {
+          "name": "神經系統重置",
+          "en": "Nervous System Reset",
+          "kind": "follow",
+          "target": "放鬆與副交感、呼吸控制、脊椎活動度",
+          "dose": "高壓日 1 輪",
+          "title": "30 min Yoga to Relax & Stretch - NERVOUS SYSTEM RESET",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=sEKSoHrIG8I",
+          "duration": "36:47"
+        },
+        {
+          "name": "燭光晚間慢流",
+          "en": "Candlelight Evening Slow Flow",
+          "kind": "follow",
+          "target": "腿後側、髖關節、專注",
+          "dose": "1 輪，關大燈只留一盞",
+          "title": "Candlelight Yoga For Evening Relaxation | 35-Min Gentle Slow Flow Class ~ HappyHaves Full Moon",
+          "channel": "Jess Yoga",
+          "url": "https://www.youtube.com/watch?v=-2-Od1JFQJ4",
+          "duration": "35:57"
+        },
+        {
+          "name": "45 分鐘晚間流動瑜伽（繁中）",
+          "en": "45-Minute Evening Slow Flow (Mandarin)",
+          "kind": "follow",
+          "target": "脊椎活動度、髖關節、腿後側、放鬆與副交感",
+          "dose": "晚餐後 2 小時以上進行，全程鼻呼吸，結束直接接大休息",
+          "title": "45分流動瑜珈 45 mins yoga flow {Flow with Katie}",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=PdGJRxO6pPY",
+          "duration": "47:06"
+        },
+        {
+          "name": "無輔具陰瑜伽 45 分鐘",
+          "en": "45-Min Yin Yoga, No Props",
+          "kind": "modify",
+          "target": "髖關節、內收肌、放鬆與副交感",
+          "dose": "沒有磚與抱枕時用這支，1 輪",
+          "title": "45 Minute Yin Yoga To Stretch & Relax {No Props}  || Devi Daly Yoga",
+          "channel": "Devi Daly Yoga",
+          "url": "https://www.youtube.com/watch?v=52UUkcAtKEc",
+          "duration": "45:58"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u6",
+      "name": "睡前 15 分鐘助眠",
+      "type": "sequence",
+      "assessment": "做完躺平閉眼 3 分鐘：若腦中還在跑明天的待辦，代表這支引導語太多或動作太激活，改成純躺姿版本。第二個判準是隔天早上——比平常更難起床，表示睡前練習排太晚或做太長。時間點也是判準的一部分：睡前練習應落在上床前 30–60 分鐘，15 分鐘就該收，做完直接關燈，不要再回去滑手機。",
+      "tight": [
+        "睡前把開髖拉到痛，痛覺把交感神經重新叫醒",
+        "排在關燈前 5 分鐘才做，身體體溫還沒降下來",
+        "在床墊上做需要手撐的體式，床面塌陷讓手腕與腰吃力",
+        "練完接著滑手機，前面 15 分鐘等於白做"
+      ],
+      "weak": [
+        "吐氣長於吸氣的呼吸節律",
+        "腿部與下背的靜態放鬆能力",
+        "睡前儀式的一致性與可重複性",
+        "從清醒到睡意之間的過渡"
+      ],
+      "lesson": {
+        "title": "Wind Down Yoga   |  12-Minute Bedtime Yoga",
+        "channel": "Yoga With Adriene",
+        "url": "https://www.youtube.com/watch?v=BiWDsfZ3zbo",
+        "duration": "12:03",
+        "why": "Adriene 這支 12 分鐘幾乎全程在地板與躺姿，沒有站姿與後彎，語速刻意放慢，是「睡前該做多少」的最低有效劑量示範；時間短到幾乎沒有藉口跳過。"
+      },
+      "drills": [
+        {
+          "name": "16 分鐘睡前背腿放鬆",
+          "en": "16-Min Bedtime Back & Legs Release",
+          "kind": "follow",
+          "target": "腰椎、腿後側、放鬆與副交感",
+          "dose": "上床前 1 輪",
+          "title": "16 分鐘睡前瑜伽-舒緩背部痠痛、改善臀腿緊繃 16 min bedtime yoga-Lower back and legs release { Flow with Katie }",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=wMORFC1ZlGg",
+          "duration": "16:23"
+        },
+        {
+          "name": "15 分鐘睡前瑜伽",
+          "en": "15-Min Bedtime Yoga",
+          "kind": "follow",
+          "target": "髖關節、腰椎、呼吸控制",
+          "dose": "1 輪，燈調暗",
+          "title": "15 Min Bedtime Yoga | Relaxing Yoga Before Bed",
+          "channel": "Charlie Follows",
+          "url": "https://www.youtube.com/watch?v=6XJhSa7g_rU",
+          "duration": "15:23"
+        },
+        {
+          "name": "晚間伸展序列",
+          "en": "Evening Yoga Stretches",
+          "kind": "follow",
+          "target": "脊椎活動度、腿後側、放鬆與副交感",
+          "dose": "1 輪",
+          "title": "15 min Evening Yoga Stretches – Day #7 (BEDTIME YOGA FOR BEGINNERS)",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=u7rd78aPtZM",
+          "duration": "14:57"
+        },
+        {
+          "name": "助眠版睡前練習",
+          "en": "Yoga for Restful Sleep",
+          "kind": "follow",
+          "target": "髖關節、腰椎、呼吸控制",
+          "dose": "1 輪，睡前 30 分鐘",
+          "title": "Yoga for Bedtime for More Restful Sleep",
+          "channel": "Breathe and Flow",
+          "url": "https://www.youtube.com/watch?v=RI5gOBeTqyE",
+          "duration": "14:07"
+        },
+        {
+          "name": "床上版睡前瑜伽",
+          "en": "Bedtime Yoga in Bed",
+          "kind": "modify",
+          "target": "腰椎、髖關節、放鬆與副交感",
+          "dose": "已經躺下時 1 輪，做完直接睡",
+          "title": "15 min Bedtime Yoga in Bed for Better Sleep | Tension relief to fall asleep",
+          "channel": "SarahBethYoga",
+          "url": "https://www.youtube.com/watch?v=5sKIdUn7lPU",
+          "duration": "15:13"
+        },
+        {
+          "name": "靠牆抬腿式拆解",
+          "en": "Legs Up The Wall Breakdown",
+          "kind": "align",
+          "target": "腿後側、腰椎、放鬆與副交感",
+          "dose": "看完後靠牆停 5–10 分鐘",
+          "title": "Legs Up The Wall - Foundations of Yoga",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=_OQEIiZLY-0",
+          "duration": "6:47"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u7",
+      "name": "經期與低能量日的練習",
+      "type": "sequence",
+      "assessment": "判準看做完之後的兩小時：經血量沒有變化、下腹悶脹減輕、身體覺得暖，就是劑量對了；若出血量明顯變多、頭暈或下腹更墜，當天就停在躺姿與有支撐的體式。倒立在經期是否安全，各體系說法不一、也沒有一致的研究結論——這裡採取的判準是你自己做完的身體反應，而不是任何老師的斷言。",
+      "tight": [
+        "把「經期不能練」解讀成完全不動，骨盆循環反而更差",
+        "用力做核心與深度扭轉，直接壓迫腹腔",
+        "低能量日照常上平常強度的流動，練完整天更累",
+        "支撐式底下的抱枕與毯子高度不夠，肌肉整場都在半空出力"
+      ],
+      "weak": [
+        "骨盆與下腹的循環與放鬆",
+        "用輔具替代出力的能力",
+        "讀懂當天身體訊號並即時調整劑量",
+        "副交感主導下的長時間停留"
+      ],
+      "lesson": {
+        "title": "Yoga for Cramps and PMS  |  20-Minute Home Yoga",
+        "channel": "Yoga With Adriene",
+        "url": "https://www.youtube.com/watch?v=4JaCcp39iVI",
+        "duration": "21:00",
+        "why": "Adriene 這支語氣刻意保守：全程在地板、以躺姿與坐姿為主，明確說了「今天不需要做到最深」，沒有對經期能不能倒立這類爭議下斷言，適合當這個單元的預設課。"
+      },
+      "drills": [
+        {
+          "name": "經期舒緩瑜伽（中文）",
+          "en": "Yoga During Menstruation (Mandarin)",
+          "kind": "follow",
+          "target": "髖關節、腰椎、骨盆底",
+          "dose": "經期第 1–3 天 1 輪",
+          "title": "經期舒緩瑜伽 Yoga during menstruation{Flow with Katie}",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=B_hkKxRHnns",
+          "duration": "15:28"
+        },
+        {
+          "name": "20 分鐘生理期舒緩",
+          "en": "20-Min Menstrual Relief",
+          "kind": "follow",
+          "target": "髖關節、腰椎、放鬆與副交感",
+          "dose": "1 輪，全程可用抱枕墊高",
+          "title": "20分鐘 療癒瑜伽【生理期舒緩】Yoga For Relaxation ★ #瑜珈教學​ #生理痛 #經期舒展 #YogaForMenstrualCarmp",
+          "channel": "Yoga with Jade",
+          "url": "https://www.youtube.com/watch?v=VBYfrZAPJho",
+          "duration": "23:05"
+        },
+        {
+          "name": "經痛舒緩練習",
+          "en": "Yoga For Period Pain",
+          "kind": "follow",
+          "target": "髖關節、腰椎、骨盆底",
+          "dose": "經痛當天 1 輪",
+          "title": "20 Min Yoga For Period Pain | Gentle Yoga For All Levels to Ease Cramps",
+          "channel": "Charlie Follows",
+          "url": "https://www.youtube.com/watch?v=_ta-8gMYG2s",
+          "duration": "21:31"
+        },
+        {
+          "name": "低能量日陰瑜伽",
+          "en": "Yin Yoga for Fatigue & Depletion",
+          "kind": "follow",
+          "target": "髖關節、腿後側、放鬆與副交感",
+          "dose": "疲乏日 1 輪，每式停 3–5 分鐘",
+          "title": "Yin Yoga for Fatigue and Depletion - 30 min Unwind",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=XpVe3GV7IVM",
+          "duration": "30:04"
+        },
+        {
+          "name": "用磚的經期版本",
+          "en": "Period Yoga with a Block",
+          "kind": "modify",
+          "target": "髖關節、腰椎、骨盆底",
+          "dose": "1 輪，磚放在薦骨或膝下",
+          "title": "PERIOD YOGA ( with an Optional Block ) - Yoga for Cramps , Soreness & Lower Body Aches",
+          "channel": "Yoga With Bird",
+          "url": "https://www.youtube.com/watch?v=BD11hgvRDZg",
+          "duration": "28:03"
+        },
+        {
+          "name": "修復瑜伽：支撐式",
+          "en": "Restorative Yoga with Props",
+          "kind": "modify",
+          "target": "放鬆與副交感、腰椎、胸口",
+          "dose": "1 輪，抱枕或摺棉被墊高胸椎",
+          "title": "20 Minute Restorative Yoga for Stress & Emotional Relief",
+          "channel": "Yoga With Bird",
+          "url": "https://www.youtube.com/watch?v=HPloqo53Plc",
+          "duration": "20:12"
+        }
+      ]
+    },
+    {
+      "id": "ch10-u8",
+      "name": "旅行、無墊與小空間練習",
+      "type": "sequence",
+      "assessment": "先量空間：站直、雙臂側平舉轉一圈不碰到東西，就夠做站姿系列；只夠躺下不夠站，就直接選床上版。再量地面：赤腳單腳站 30 秒，若在飯店地毯或磁磚上會滑、會晃，全部改成扶牆或扶桌版本。長途飛行後的判準是做完腳踝腫脹感下降、能站直而不用把骨盆前推代償。",
+      "tight": [
+        "在厚地毯上做手撐體式，手腕陷進軟墊、承重角度整個跑掉",
+        "把行李箱當輔具卻沒卡住輪子，一施力就滑走",
+        "下飛機立刻做深度腿後側伸展，此時肌肉還在缺水與久壓狀態",
+        "空間不夠硬做，撞到床角或家具導致反射性收縮"
+      ],
+      "weak": [
+        "不靠墊子也能站穩的紮根與平衡",
+        "久坐久飛後的髖屈肌長度與腳踝循環",
+        "用牆、床、椅子替代磚與帶的輔具思維",
+        "旅途中維持練習頻率的彈性"
+      ],
+      "lesson": {
+        "title": "Yoga For Travel  |  Yoga With Adriene",
+        "channel": "Yoga With Adriene",
+        "url": "https://www.youtube.com/watch?v=C0U7v4iCemM",
+        "duration": "23:50",
+        "why": "Adriene 這支就是為旅途設計的：空間需求小、不需要輔具，內容集中在久坐久飛之後最卡的髖屈肌、下背與腳踝，飯店房間地毯上就能整段做完。"
+      },
+      "drills": [
+        {
+          "name": "免手撐站姿旅行流動",
+          "en": "Standing Hands-Free Travel Flow",
+          "kind": "follow",
+          "target": "平衡、髖關節、脊椎活動度",
+          "dose": "抵達飯店後 1 輪",
+          "title": "TRAVEL YOGA – 10 min Standing HANDS FREE Yoga Flow (Hotel, No Mat, Small Space)",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=szXcZx2iVns",
+          "duration": "10:21"
+        },
+        {
+          "name": "20 分鐘全站姿無墊流動",
+          "en": "20-Min Standing Flow, No Mat",
+          "kind": "follow",
+          "target": "平衡、腿後側、核心",
+          "dose": "1 輪，赤腳站在硬地板上",
+          "title": "20 minute Full Body STANDING Yoga Flow (no mat needed!)",
+          "channel": "SarahBethYoga",
+          "url": "https://www.youtube.com/watch?v=qJs5IpktRII",
+          "duration": "20:08"
+        },
+        {
+          "name": "10 分鐘無墊站姿伸展",
+          "en": "10-Min Standing Stretch, No Mat",
+          "kind": "follow",
+          "target": "肩關節、腿後側、脊椎活動度",
+          "dose": "工作空檔或旅途中 1 輪",
+          "title": "10 MIN STANDING YOGA STRETCH | Yoga Without Mat | Yoga with Uliana",
+          "channel": "Yoga with Uliana",
+          "url": "https://www.youtube.com/watch?v=2ghl626p4P8",
+          "duration": "10:01"
+        },
+        {
+          "name": "時差與長途飛行後練習",
+          "en": "Jet Lag Travel Yoga",
+          "kind": "follow",
+          "target": "髖關節、腳踝、腰椎",
+          "dose": "落地當天 1 輪",
+          "title": "Yoga for Travel - Jet Lag Yoga to Stretch Your Entire Body!",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=WBw8sMpJkX8",
+          "duration": "17:58"
+        },
+        {
+          "name": "免墊全身舒展（中文）",
+          "en": "Full Body Gentle Stretch, No Mat (Mandarin)",
+          "kind": "follow",
+          "target": "脊椎活動度、肩關節、髖關節",
+          "dose": "1 輪，地毯或床邊即可",
+          "title": "全身輕鬆舒展【療癒瑜伽】Yoga For Relaxation ★ Full Body Gentle Stretch / No Mat Needed",
+          "channel": "Yoga with Jade",
+          "url": "https://www.youtube.com/watch?v=sG3c8ttdoRg",
+          "duration": "27:36"
+        },
+        {
+          "name": "候機與座位版",
+          "en": "Airport & Seated Travel Yoga",
+          "kind": "modify",
+          "target": "頸椎、肩胛、腳踝",
+          "dose": "候機或轉機時 1 輪",
+          "title": "Airport Yoga | 13 Minute Travel Yoga Practice",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=JYLlnvoCvGI",
+          "duration": "13:18"
+        }
+      ]
+    }
+  ]
+}

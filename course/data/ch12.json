@@ -1,666 +1,867 @@
 {
   "chapter": "CH12",
-  "title": "特殊族群、傷害預防與替代方案",
+  "title": "Dharana：Trataka、專注與脈輪",
   "units": [
     {
-      "id": "ch12-u1",
-      "name": "下背痛者的瑜伽調整",
-      "type": "population",
-      "assessment": "先做三個當場可判定的紅旗篩檢：一、痛是否往臀部以下放射到大腿或小腿，甚至到腳趾；二、平躺伸直抬腿到 30–70 度之間是否誘發同一條腿的電擊樣痛；三、腳趾是否使不上力、鞍部（會陰、內側大腿）是否麻木、大小便功能是否改變。只要其中任何一項為陽性，這就不是可以用瑜伽處理的狀況——立刻停止練習並就醫。若只是久坐後的腰部痠緊、活動十分鐘後緩解、按壓腰側肌肉會痛但沒有任何神經症狀，才適用本單元。再做一個方向偏好測試：趴姿用手肘撐起上半身停 30 秒，若腿的痛往腰部集中（向心化）代表你偏好伸展方向；若坐姿抱膝屈曲較舒服則偏好屈曲方向，之後選體式就朝舒服的方向走。",
+      "id": "ch7-u5",
+      "name": "Trataka 凝視法",
+      "type": "energy",
+      "assessment": "把蠟燭放在正前方、火焰高度與眼睛齊平、距離約一臂長，室內無風。凝視 60 秒盡量不眨眼，然後閉眼觀察殘像停留多久。若 60 秒內眼睛就開始刺痛、流淚不止或必須用力瞪大，代表距離太近、環境太乾或你在「用力看」，應縮短到每輪 20–30 秒。合格標準：能在不刻意用力的狀態下維持 1 分鐘、閉眼後殘像至少停留 10 秒、睜眼後視線在 30 秒內恢復清晰。凝視後若出現持續超過 10 分鐘的視力模糊、眼痛或頭痛，就要停止並重新評估是否適合。",
       "tight": [
-        "急性期不要做深度前彎（站姿前彎、坐姿前彎、犁式）。彎腰同時圓背會讓椎間盤前側壓力大幅上升，這是最常見的把痛練壞的動作。",
-        "不要用「拉緊腿後側就會好」的邏輯猛拉腿後側。坐骨神經被激惹時，直腿前彎其實是在牽拉神經而不是肌肉，痛會愈拉愈敏感。",
-        "眼鏡蛇式與上犬式不要用手把身體硬撐到最高。腰椎過度伸展加上骨盆前傾，會把壓力集中在腰椎小面關節，做完當下爽、隔天更痛。",
-        "扭轉時不要用手臂把自己「扳」得更深。急性下背痛期的扭轉一律減幅到只做胸椎範圍，骨盆保持朝正前方。",
-        "不要在有神經症狀（放射痛、無力、麻木）時繼續練習還想著「動一動就會鬆」——那是就醫指標，不是練習指標。"
+        "青光眼、視網膜疾患、嚴重乾眼症者不宜長時間凝視；癲癇患者要避開任何閃爍光源，燭火搖晃即屬此類",
+        "戴隱形眼鏡練習，眼球更乾更容易刺痛——建議取下再練",
+        "用力瞪大眼睛、皺眉、額頭出力，把凝視做成對抗",
+        "火焰太近或有風而不斷晃動，眼睛被迫追焦，反而更累",
+        "一次練太久（超過 10 分鐘連續凝視）造成眼睛不適與頭痛"
       ],
       "weak": [
-        "先學會用呼吸建立腹內壓，把「核心穩定」從硬繃肚子改成可持續的呼吸控制，這是所有替代方案的基礎。",
-        "分節控制脊椎：能區分骨盆前後傾與腰椎屈伸，才有辦法在體式中保持中立腰椎。",
-        "深層穩定肌（多裂肌、腹橫肌）的低負荷耐力訓練，取代高強度的仰臥起坐式核心。",
-        "全程坐姿與支撐版本的替代路徑：椅子／牆面版本的側伸展、扭轉與髖伸展，讓急性期也有東西可以做。"
+        "單點專注（dharana）的持續時間",
+        "眼球固視的穩定度與眨眼衝動的耐受",
+        "閉眼後對殘像／內在影像的觀察力",
+        "從外在對象轉向內在對象的注意力轉移能力"
       ],
       "lesson": {
-        "title": "所有運動的基礎！呼吸法如何穩定核心、改善腰痛，治療師教你呼吸基本功｜啾c物理治療師",
-        "channel": "啾c物理治療師",
-        "url": "https://www.youtube.com/watch?v=aU86wIpmgz0",
-        "duration": "11:49",
-        "why": "把「核心穩定」講成可執行的呼吸操作而非口號：示範肋廓擴張、腹內壓建立與常見的憋氣／挺肚代償，正好是下背痛者在瑜伽裡最缺的底層能力。物理治療師講解，沒有任何療效宣稱。"
+        "title": "The Yogic Practice for Laser Sharp Focus & Clear Vision: Trataka Meditation",
+        "channel": "Satvic Yoga",
+        "url": "https://www.youtube.com/watch?v=ssCk4aQhtxg",
+        "duration": "9:55",
+        "why": "把環境佈置、蠟燭距離高度、每輪時間、外部凝視轉內部凝視的完整流程一次講完，是這個冷門主題裡結構最完整的一支。標題的「clear vision」屬宣傳語，請把它當專注力訓練而非視力療法看待。"
       },
       "drills": [
         {
-          "name": "下背痛成因自我測試",
-          "en": "Self-screening for low back pain",
+          "name": "Trataka 技法拆解",
+          "en": "Trataka Kriya Breakdown",
           "kind": "align",
-          "target": "腰椎、薦髂關節",
-          "dose": "練習前先測一次，症狀改變時再測",
-          "title": "下背痛一定是椎間盤突出嗎？教你自主測試腰痛成因！｜詹珞瑤 物理治療師 Veronica Rehab",
-          "channel": "詹珞瑤",
-          "url": "https://www.youtube.com/watch?v=jGxyBRQ-Afc",
-          "duration": "3:47"
+          "target": "專注",
+          "dose": "凝視 30 秒 × 3 輪，中間閉眼休息",
+          "title": "Improve Your Eyesight Naturally & Sharpern your Focus | Trataka Kriya",
+          "channel": "The Yoga Institute",
+          "url": "https://www.youtube.com/watch?v=0R5fto2vCns",
+          "duration": "5:48",
+          "why": "The Yoga Institute（孟買，1918 年創立）是現存最老的瑜伽機構之一，講法保守、步驟明確，適合當作傳統版本的對照。"
         },
         {
-          "name": "腰椎椎間盤問題的居家四動作",
-          "en": "Four home movements for lumbar disc issues",
-          "kind": "align",
-          "target": "腰椎、核心",
-          "dose": "每個動作 10 次 × 2 輪，痛加劇就停",
-          "title": "告別下背痛！腰椎椎間盤突出、壓迫？居家必備的四個動作！",
-          "channel": "光合物理治療所",
-          "url": "https://www.youtube.com/watch?v=T3zCpaxL5nw",
-          "duration": "6:47"
-        },
-        {
-          "name": "腰椎穩定度訓練",
-          "en": "Lumbar stabilization exercises",
-          "kind": "align",
-          "target": "腰椎、核心、骨盆底",
-          "dose": "每個動作 8–10 次，每天 1 輪",
-          "title": "Low Back (Lumbar) Stabilization Exercises",
-          "channel": "Rehab Science",
-          "url": "https://www.youtube.com/watch?v=DndzRZaZpQ0",
-          "duration": "9:51"
-        },
-        {
-          "name": "多裂肌與脊椎穩定進階",
-          "en": "Multifidus and spinal stability progression",
-          "kind": "deepen",
-          "target": "腰椎、核心",
-          "dose": "5 個動作各 10 次，隔天一次",
-          "title": "怕閃到腰，就練多裂肌，5個穩定脊椎運動，幫你腰痛out｜#閃到腰 #多裂肌 #啾c物理治療師 #彈力帶輔助訓練",
-          "channel": "啾c物理治療師",
-          "url": "https://www.youtube.com/watch?v=hMWeJ2EqN64",
-          "duration": "13:46"
-        },
-        {
-          "name": "全程坐姿的下背替代序列",
-          "en": "Seated-only sequence for low back",
-          "kind": "modify",
-          "target": "腰椎、髖關節、脊椎活動度",
-          "dose": "急性期每天 1 次，全程坐姿",
-          "title": "22 分鐘舒緩瑜伽坐著伸展告別下背痛 22 min gentle yoga { Flow with Katie }",
-          "channel": "凱蒂瑜伽 Flow With Katie",
-          "url": "https://www.youtube.com/watch?v=-5nUYwefK8o",
-          "duration": "22:56"
-        },
-        {
-          "name": "溫和下背恢復流",
-          "en": "Gentle lower back recovery flow",
+          "name": "醫師引導的凝視練習",
+          "en": "Guided Trataka with Dr. K",
           "kind": "follow",
-          "target": "腰椎、髖關節、放鬆與副交感",
-          "dose": "症狀緩解期每週 2–3 次",
-          "title": "20 Min Gentle Yoga for Lower Back Recovery l Healing Relief",
-          "channel": "Travis Eliot",
-          "url": "https://www.youtube.com/watch?v=wZ33I0kueck",
-          "duration": "21:50"
+          "target": "專注、放鬆與副交感",
+          "dose": "完整跟練一次",
+          "title": "Guided Trataka Meditation with Dr. K",
+          "channel": "Not HealthyGamerGG",
+          "url": "https://www.youtube.com/watch?v=snt1i5_1uhY",
+          "duration": "6:11",
+          "why": "引導者是精神科醫師，會提醒「眼睛想眨就眨、不要對抗」，對容易把凝視做成硬撐的人是重要的校正。"
+        },
+        {
+          "name": "十分鐘燭光凝視引導",
+          "en": "10-Minute Candle Gazing",
+          "kind": "follow",
+          "target": "專注",
+          "dose": "跟練一次，睡前或晨起",
+          "title": "Tratak Meditation | Candle Gazing Meditation | 10 Mins Guided Mediation for Relaxation | Bharti Yoga",
+          "channel": "Bharti Yoga",
+          "url": "https://www.youtube.com/watch?v=yp58DGsNUWE",
+          "duration": "8:57"
+        },
+        {
+          "name": "散焦凝視替代版（中文）",
+          "en": "Defocused Gazing Variation (Mandarin)",
+          "kind": "modify",
+          "target": "專注、放鬆與副交感",
+          "dose": "以散焦方式凝視牆面一點 5 分鐘",
+          "title": "散焦凝視法 I 你所忽略的冥想技巧 I 讓冥想事半功倍 🧘‍♀️㊙ 冥想睡著了 畫面不見了 怎麼辦？＃推薦影片 ＃冥想 ＃靈性生活",
+          "channel": "三眼瑜珈士 ",
+          "url": "https://www.youtube.com/watch?v=us-Y_ztLcgI",
+          "duration": "22:24",
+          "why": "眼睛乾澀、或有光敏感／癲癇顧慮而不能盯燭火的人，散焦凝視是可行的替代路徑。6,640 觀看在繁中凝視法影片裡已屬前段，且是少數不用燭火的版本。"
+        },
+        {
+          "name": "凝視法的進階與原理",
+          "en": "The Depth of Trataka",
+          "kind": "deepen",
+          "target": "專注",
+          "dose": "看完後把練習延長到外部 3 分鐘＋內部 5 分鐘",
+          "title": "The Simplicity & Power Of Trataka Meditation | With Dr Vignesh Devraj",
+          "channel": "Dr. Vignesh Devraj",
+          "url": "https://www.youtube.com/watch?v=556Ld9n32is",
+          "duration": "7:35",
+          "why": "阿育吠陀醫師的講法，把重點放在「外部凝視只是入口，真正的練習在閉眼之後」，補上前面幾支跟練影片沒說清楚的進程。"
+        }
+      ],
+      "tradition": "在傳承的架構裡，凝視法屬於 **dharana（專注）**。〈The Himalayan Yoga Tradition〉 說受過訓練的導師會引導學生專注在身體的各個定點、脈輪點與 tattvas 上；《Vijnana-bhairava》密續列出上百種觸發意識轉變的方法，《Malini-vijayottara-tantra》更列出將近一千三百種 dharana。凝視法是其中最容易自己起步的一種。",
+      "traditionRefs": [
+        {
+          "quote": "Dharana or concentrations and pra-vrttis or resultant experiences. A proficient preceptor in the Himalayan tradition is trained in various methods of concentrations, (a) on various focal points in the physical body, (b) at the chakra points, (c) in the tattvas, and so forth.",
+          "source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.7",
+          "url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=7",
+          "sutra": "YS III.1; I.35–36"
+        },
+        {
+          "quote": "The Vijnana-bhairava Tantra teaches a hundred different ways in which an altered state of consciousness may be triggered, and the Malini-vijayottara-tantra enumerates nearly thirteen hundred dharanas.",
+          "source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.7",
+          "url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=7"
         }
       ]
     },
     {
-      "id": "ch12-u2",
-      "name": "頸椎問題與倒立的替代方案",
-      "type": "population",
-      "assessment": "測三件事。一、坐姿把頭慢慢轉向左右各一次，若任一側轉不到 60 度（下巴無法接近肩膀正上方）或轉到底時手臂出現麻、電、痠，記錄為陽性。二、把頭往後仰並轉向痛側停 10 秒（Spurling 概念），若誘發手臂放射痛或指尖麻，代表可能有神經根壓迫。三、做「下巴後收」：靠牆坐，下巴水平往後推做出雙下巴停 10 秒，若做不出來或做完頭痛加劇，代表深層頸屈肌無力且組織敏感。任一項陽性，或出現手部持續無力、寫字握筷變笨拙、雙手同時麻、走路不穩，就停止所有承重於頸部的體式並就醫。全部陰性且只是久坐後的肩頸緊繃，才適用本單元。",
+      "id": "ch8-u1",
+      "name": "脈輪系統導論：它是什麼、不是什麼",
+      "type": "energy",
+      "assessment": "閉眼站立，把注意力依序放到腳掌、骨盆、下腹、胸口、喉嚨、眉心、頭頂，每處停留三個呼吸。若某一段你說得出顏色、說得出象徵，卻說不出那裡的皮膚溫度、衣物接觸感或隨呼吸的起伏，代表那一段對你而言還是「概念」而不是「感覺」。這一章要練的就是把注意力真的送到那個區域，而不是在腦中補一張圖。整輪掃完若耗時不到一分鐘，代表你是在點名不是在停留，重做一次並把每處拉長到十秒。",
       "tight": [
-        "頸椎椎間盤突出、頸椎狹窄、曾有頸部外傷或揮鞭症者，肩立式（Sarvangasana）與犁式（Halasana）一律不做，不是減量而是完全跳過——這兩個體式讓幾乎全身重量壓在 C7 上，同時把頸椎推到極限屈曲。",
-        "頭倒立（Sirsasana）不是「練熟就安全」。頸椎有病史者請直接改為海豚式或牆邊 L 型，用手臂與肩胛承重，頭不落地。",
-        "肩立式時不要在頸下墊得不夠或墊到頭。標準做法是肩膀墊高、頭低於肩、頸部保留自然弧度；如果只能用「頭墊起來」才做得到，就代表你不該做這個體式。",
-        "進到倒立類體式後不要轉頭去看旁邊。頸椎在負重屈曲下旋轉是最高風險的組合。",
-        "不要用「痛就是在排毒／在鬆開沾黏」解釋手麻。上肢麻、無力屬於神經症狀，不是伸展不夠。"
+        "把脈輪當成器官或腺體去找，找不到就認定自己「堵住了」",
+        "跳過身體感覺，直接用顏色與圖像想像取代覺察",
+        "把生活裡的情緒起伏歸因於某一輪失衡，反而不去看睡眠、姿勢與訓練量",
+        "只記住一套七輪對照表，不知道不同傳統的輪數與位置本來就不同"
       ],
       "weak": [
-        "用腿上牆式（Viparita Karani）取得倒立的循環與副交感效果，頸椎零負重。",
-        "支撐版半肩立與髖高於心臟的替代姿勢，把「倒立」重新定義為髖高於心臟而不是頭撐地。",
-        "深層頸屈肌與肩胛穩定肌的低負荷訓練，改善頭前引姿勢。",
-        "分辨機械性肩頸痠痛與神經根症狀的能力，知道什麼時候該把墊子收起來去掛號。"
+        "由下而上逐段掃描身體、把注意力停在指定區域的能力",
+        "分辨「真的感覺到」與「腦中想像出來」的差別",
+        "理解脈輪一詞在不同文本傳統中的差異，不被單一現代版本綁住",
+        "把注意力框架當工具使用，而不是當診斷"
       ],
       "lesson": {
-        "title": "頸椎保養完整教學：預防頸椎退化、改善肩頸痠痛｜啾c物理治療師",
-        "channel": "啾c物理治療師",
-        "url": "https://www.youtube.com/watch?v=gGiL3T64tww",
-        "duration": "10:25",
-        "why": "從頸椎結構、姿勢負荷講到具體的活動度與肌力操作，把「頸椎要保養什麼」拆成可執行的項目。物理治療師觀點，沒有把退化講成可以治癒，正好當本單元替代方案的判斷依據。"
+        "title": "Ep 22 ~ The Energy Body",
+        "channel": "Christopher Wallis (Hareesh)",
+        "url": "https://www.youtube.com/watch?v=_ZLl8Qye9tM",
+        "duration": "43:34",
+        "why": "梵文學者 Christopher Wallis 直接從原典講「能量身」在傳統文獻中怎麼被描述，並指出現代普及版的七輪對照表是後來重組的產物。這支剛好回答本單元的「不是什麼」，讓你之後練每一輪時知道自己在使用一個注意力地圖，而不是解剖圖。"
       },
       "drills": [
         {
-          "name": "頸椎壓迫的四個居家動作",
-          "en": "Four home movements for cervical compression",
-          "kind": "align",
-          "target": "頸椎、肩胛",
-          "dose": "每個動作 10 次 × 2 輪",
-          "title": "告別脖子痛！頸椎椎間盤突出、壓迫？你最需要的四個動作！Physical therapy for neck pain and cervical disc herniation",
-          "channel": "光合物理治療所",
-          "url": "https://www.youtube.com/watch?v=XzezDAuIFXU",
-          "duration": "7:22"
+          "name": "昆達里尼瑜伽的原始樣貌",
+          "en": "What Kundalini Yoga Originally Was",
+          "kind": "deepen",
+          "target": "專注",
+          "dose": "33 分鐘看完 1 次，記下三個與你原本認知不同的點",
+          "title": "What is the original Kundalinī Yoga?",
+          "channel": "Christopher Wallis (Hareesh)",
+          "url": "https://www.youtube.com/watch?v=qkLOOO6cVxI",
+          "duration": "33:07"
         },
         {
-          "name": "頸椎神經壓迫的自我判別",
-          "en": "Screening for cervical nerve compression",
-          "kind": "align",
-          "target": "頸椎",
-          "dose": "出現手麻時測一次",
-          "title": "頸椎退化？肩頸痠痛？手麻無力？神經壓迫嗎？  自我保健 ep.1【大安國際物理治療中心】",
-          "channel": "大安國際物理治療中心Amazing International Clinic",
-          "url": "https://www.youtube.com/watch?v=irHmFKW8PJw",
-          "duration": "4:45"
+          "name": "密續脈絡與現代脈輪教學的差別",
+          "en": "How Tantrik Yoga Differs",
+          "kind": "deepen",
+          "target": "專注",
+          "dose": "15 分鐘看完，寫下一句你打算不再複述的說法",
+          "title": "What distinguishes Tantrik Yoga?",
+          "channel": "Christopher Wallis (Hareesh)",
+          "url": "https://www.youtube.com/watch?v=oBre29vFKY0",
+          "duration": "14:52"
         },
         {
-          "name": "頸椎退化性椎間盤的四項運動",
-          "en": "Exercises for cervical degenerative disc disease",
-          "kind": "align",
-          "target": "頸椎、肩胛",
-          "dose": "每個動作 10 次，每天 1–2 輪",
-          "title": "4 Exercises for Cervical Degenerative Disc Disease",
-          "channel": "Rehab Science",
-          "url": "https://www.youtube.com/watch?v=Pkn7SLp9DSc",
-          "duration": "9:43"
+          "name": "五層身：脈輪被放在哪一層",
+          "en": "The Koshas in Five Minutes",
+          "kind": "deepen",
+          "target": "專注",
+          "dose": "7 分鐘，看兩次；第二次邊看邊對照自己的身體分層感受",
+          "title": "The Koshas: 5 Minutes with Dr. Robert",
+          "channel": "Dr. Robert Svoboda",
+          "url": "https://www.youtube.com/watch?v=IB9gkRYlLaI",
+          "duration": "7:08"
         },
         {
-          "name": "腿上牆式（倒立替代第一選擇）",
-          "en": "Viparita Karani",
-          "kind": "modify",
-          "target": "倒立、放鬆與副交感、腰椎",
-          "dose": "5–15 分鐘，每天可做",
-          "title": "Viparita Karani (Legs Up the Wall Pose) How to Do Step by Step for Beginners with Benefits",
-          "channel": "Siddhi Yoga International",
-          "url": "https://www.youtube.com/watch?v=TzahhHZvOks",
-          "duration": "5:49"
+          "name": "中文脈輪名詞對照",
+          "en": "Chakra Vocabulary in Chinese",
+          "kind": "deepen",
+          "target": "專注",
+          "dose": "4 分鐘，對照本章八個單元名稱各看一次",
+          "title": "瑜伽小知識: 認識人體的能量中心脈輪Chakra (eng sub)  ｜倪晨曦Yoga With Elva",
+          "channel": "Yoga With Elva",
+          "url": "https://www.youtube.com/watch?v=66XpQRT4Z5k",
+          "duration": "4:18"
         },
         {
-          "name": "肩立式的支撐替代版本",
-          "en": "Supported alternatives to shoulderstand",
-          "kind": "modify",
-          "target": "頸椎、肩關節、倒立",
-          "dose": "依影片示範選一個版本，每次 2–5 分鐘",
-          "title": "Can't do sarvangasana? This changes everything",
-          "channel": "Namaste Yoga",
-          "url": "https://www.youtube.com/watch?v=L6bWq2ss-BU",
-          "duration": "8:17"
-        },
-        {
-          "name": "腿上牆修復練習",
-          "en": "Restorative legs-up-the-wall practice",
+          "name": "七區域體式與靜坐串連",
+          "en": "Seven-Region Asana and Meditation Sequence",
           "kind": "follow",
-          "target": "倒立、放鬆與副交感、呼吸控制",
-          "dose": "每週 2–3 次，睡前尤佳",
-          "title": "30 min Restorative Yoga for Deep Healing & Relaxation - Legs Up The Wall",
+          "target": "脊椎活動度、專注",
+          "dose": "35 分鐘完整跟練 1 次，作為本章的體感基準",
+          "title": "30 Mins Asanas & Meditation to activate the 7 chakras",
+          "channel": "Satvic Yoga",
+          "url": "https://www.youtube.com/watch?v=24RYHE3HlCQ",
+          "duration": "35:08"
+        },
+        {
+          "name": "由下而上的身體掃描",
+          "en": "Guided Body Scan",
+          "kind": "follow",
+          "target": "放鬆與副交感、專注",
+          "dose": "23 分鐘，睡前 1 次，練「把注意力搬到指定區域並停住」",
+          "title": "20 Minute Guided Meditation Body Scan 🌕 ( Relaxation, Anxiety, Stress, Insomnia, Sleep )",
+          "channel": "Yoga With Bird",
+          "url": "https://www.youtube.com/watch?v=hgT5eAQX88Y",
+          "duration": "22:55"
+        }
+      ],
+      "tradition": "傳承在這裡有一段少見的直接警告。〈The Himalayan Yoga Tradition〉 指出：**現在有許多未受灌頂的老師，在自己都還沒掌握 sumeru pranayama 之前就開始教脈輪的喚醒**；沒有適當準備（例如維持脊椎的正確方式）就做，「可能導致傷害」，而若沒有用對咒語——不是隨便哪一句都行——可能徒勞，甚至更糟。在傳承的架構裡，脈輪專注屬於 dharana，位置在呼吸覺察與 pratyahara 之後，且需要師承指導。本章把脈輪當作注意力的地圖來介紹，不教喚醒。",
+      "traditionRefs": [
+        {
+          "quote": "Many uninitiated teachers nowadays try to teach chakra awakening without having first mastered this sumeru pranayama. Also, if one is not initiated by a master into this method, s/he cannot induce the experience of sumeru breathing.",
+          "source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.4",
+          "url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=4"
+        },
+        {
+          "quote": "(b) If it is done without the appropriate preparations, such as the correct way of maintaining the spine, it can lead to harm, and (c) if it is done without using the appropriate mantra – not just any arbitrary mantra – it may be futile, or worse, in that without the proper mantra one may not be able to channel the energy, resulting in possible disturbances and diseases.",
+          "source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.5",
+          "url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=5"
+        },
+        {
+          "quote": "Systems of meditation, science of mantra, chakra concentrations, purifying the personality, five koshas, advanced shavasana techniques, and yoga-nidra.",
+          "source": "Himalayan Yoga Tradition — Program Features（課程內容）",
+          "url": "https://www.himalayanyogatradition.com/features.html"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u2",
+      "name": "海底輪 Muladhara：紮根與安全感",
+      "type": "energy",
+      "assessment": "赤腳站立、雙腳與髖同寬、閉眼 30 秒。若身體明顯前後搖晃，或腳趾必須抓緊地板才站得住，代表你是用抓握代替重心分佈。第二項：蹲到底的深蹲（腳跟不離地），若腳跟浮起、膝蓋往內夾，或下背必須整個拱起才蹲得下去，代表踝背屈與髖外旋不足。這兩項有任一項陽性，這一輪就先練足踝與髖的活動度和支撐，不要急著追「接地」的感覺。",
+      "tight": [
+        "腳趾死命抓地、足弓塌陷，用抓握取代重心分佈",
+        "深蹲時腳跟離地、腰椎後凸代償",
+        "把骨盆底收縮做成夾臀加憋氣",
+        "站姿把重心整個丟到腳跟外側或膝蓋鎖死"
+      ],
+      "weak": [
+        "足底與腳踝的支撐力與觸地感受",
+        "髖外旋與踝背屈的活動度",
+        "單腳站立時的重心微調能力",
+        "骨盆底能收也能放的控制"
+      ],
+      "lesson": {
+        "title": "Grounding Root Chakra Yoga | with Ally Boothroyd",
+        "channel": "Ally Boothroyd | Sarovara Yoga",
+        "url": "https://www.youtube.com/watch?v=_yUu6keF2kE",
+        "duration": "27:43",
+        "why": "Ally 的口令幾乎全部落在「腳掌哪一處在承重」「骨盆重量怎麼分配」這種可執行的指示上，體式集中在站姿、深蹲與坐姿前側，正好對應本單元要練的下肢與骨盆底。長度 28 分鐘可以當每週固定的一堂課。"
+      },
+      "drills": [
+        {
+          "name": "下肢紮根流動",
+          "en": "Lower Body Grounding Flow",
+          "kind": "follow",
+          "target": "髖關節、腿後側、平衡",
+          "dose": "38 分鐘完整跟練，每週 1–2 次",
+          "title": "Root Chakra Grounding Yoga Flow  - Lower Body Muladhara Yoga",
           "channel": "Yoga with Kassandra",
-          "url": "https://www.youtube.com/watch?v=SGZdaH_fVNE",
-          "duration": "31:51"
+          "url": "https://www.youtube.com/watch?v=rTcGy-KgCz4",
+          "duration": "38:13"
+        },
+        {
+          "name": "花環式深蹲拆解",
+          "en": "Malasana Squat Breakdown",
+          "kind": "align",
+          "target": "髖關節、腳踝、骨盆底",
+          "dose": "12 分鐘看完，之後每天蹲姿停留 60 秒 × 3 輪",
+          "title": "Malasana Yogi Squat Pose Tutorial - Tips & Tricks for Beginners",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=z0G3QQ4RoEw",
+          "duration": "12:07"
+        },
+        {
+          "name": "足弓與足底肌力",
+          "en": "Foot and Arch Strength",
+          "kind": "align",
+          "target": "足底、腳踝",
+          "dose": "每個動作 10 下 × 2 輪，隔天做",
+          "title": "Fix Weak Feet FAST [Top 5 Exercises for Strength & Stability]",
+          "channel": "Squat University",
+          "url": "https://www.youtube.com/watch?v=XTfhKUZWd0E",
+          "duration": "5:29"
+        },
+        {
+          "name": "骨盆底與根鎖",
+          "en": "Pelvic Floor and Mula Bandha",
+          "kind": "align",
+          "target": "骨盆底、呼吸控制",
+          "dose": "9 分鐘跟做，收 5 秒放 5 秒 × 10 次",
+          "title": "Pelvic Floor Yoga Practice | Mula Bandha",
+          "channel": "Ann Swanson Wellness",
+          "url": "https://www.youtube.com/watch?v=kjAYoQXgWdo",
+          "duration": "8:58"
+        },
+        {
+          "name": "站姿平衡串連",
+          "en": "Standing Balance Flow",
+          "kind": "follow",
+          "target": "平衡、腳踝、股四頭",
+          "dose": "15 分鐘，每週 2 次，單腳姿勢各停 5 個呼吸",
+          "title": "Standing Yoga Flow For Balance - 15 Minute Lower Body Focus",
+          "channel": "Jess Yoga",
+          "url": "https://www.youtube.com/watch?v=10mu1VoOSAU",
+          "duration": "15:33"
+        },
+        {
+          "name": "海底輪八式（中文）",
+          "en": "Eight Poses for the Root",
+          "kind": "follow",
+          "target": "骨盆底、髖關節、腿後側",
+          "dose": "19 分鐘，每式停 5 個呼吸，每週 2 次",
+          "title": "8個瑜珈動作啟動海底輪·給自己安全感✊18分鐘快速開啟能量穩定內在力量，札根接地氣！Yoga with Sophie蘇菲瑜珈",
+          "channel": "蘇菲瑜伽",
+          "url": "https://www.youtube.com/watch?v=xWoBObnipOU",
+          "duration": "18:49"
         }
       ]
     },
     {
-      "id": "ch12-u3",
-      "name": "手腕疼痛的承重調整",
-      "type": "population",
-      "assessment": "跪姿在墊上把手掌打開撐地，手腕呈 90 度背屈，體重往前移到手上停 30 秒。若 30 秒內出現手腕背側夾擠痛、或必須把手指翹起來才撐得住，代表背屈活動度或負荷能力不足，先做本單元的準備動作再回到四足跪姿。接著測小指側：手掌撐地把身體重量偏向小指側停 10 秒，若尺側（小指側那一邊的腕關節）出現尖銳痛或喀啦聲，懷疑三角纖維軟骨（TFCC）受激惹，暫停所有手撐地體式。若有夜間麻醒、拇指到中指的持續麻木、拇指基部肌肉萎縮、或掉東西握不住，這是腕隧道或神經問題的就醫指標，不要靠練習處理。",
+      "id": "ch8-u3",
+      "name": "生殖輪 Svadhisthana：骨盆與創造力",
+      "type": "energy",
+      "assessment": "仰躺做躺姿鴿式（一腳踝跨上另一腿膝上），把下方大腿拉近胸口。若骨盆必須離地翻起、或膝蓋內側先出現尖銳痛感，代表髖外旋受限而你正在用膝蓋換角度。第二項：坐姿雙腳掌相對，若膝蓋離地超過一個拳頭且腰椎立不起來、必須用手撐地才坐得住，代表內收肌緊加骨盆後傾。兩項任一陽性，這一輪就把重點放在髖的活動度與骨盆位置，不要用腰椎晃動去追伸展感。",
       "tight": [
-        "手腕痛時不要繼續「多做幾次下犬就會習慣」。反覆在疼痛下承重是把肌腱與軟骨問題慢性化最快的方法。",
-        "撐地時不要把重量全塌在手腕根部（腕橫紋）。正確是十指張開、食指根與拇指根確實壓地，把壓力分散到整個手掌。",
-        "不要用「手指翹起來」來閃避背屈不足——那只是把負荷轉嫁到手腕背側關節面。",
-        "尺側（小指側）痛時特別要避開側棒式與單手承重的扭轉，那些姿勢會把剪力集中在 TFCC。",
-        "不要用護腕或楔形墊當長期解法而完全不練手腕的肌力，那只是把問題延後。"
+        "鴿式時骨盆歪斜，把壓力丟到膝蓋內側",
+        "開髖時用腰椎旋轉與骨盆前傾代償",
+        "追角度而憋氣，肩頸整個縮起來",
+        "把停留時間拉長當作進步，忽略疼痛位置換了"
       ],
       "weak": [
-        "手腕背屈活動度與承重耐力的漸進訓練，讓四足跪姿與下犬式重新變成可負擔的動作。",
-        "前臂屈肌／伸肌的離心肌力，處理反覆發作型的手腕疼痛。",
-        "完全不用手撐地的完整練習路徑（拳撐、前臂撐、無手序列），讓急性期仍能維持練習頻率。",
-        "拜日式的無手腕負重改編版本，維持流動練習的節奏感。"
+        "髖外旋、內收肌與髖屈的活動度",
+        "骨盆在動作中維持中立的控制",
+        "在不適感中維持穩定而不憋的呼吸",
+        "分辨伸展感與關節擠壓感"
       ],
       "lesson": {
-        "title": "手腕一直在痛？ 從止痛到恢復手腕力量 ｜#啾c物理治療師 #運動治療 #肌腱 #手腕 #媽媽手",
-        "channel": "啾c物理治療師",
-        "url": "https://www.youtube.com/watch?v=VM61_xKjs7s",
-        "duration": "16:15",
-        "why": "完整走過「先止痛、再恢復活動度、最後練回承重肌力」的三階段，並示範每階段的具體動作與判斷時機。正好對應瑜伽練習者從停手撐地到回到下犬式的過程。"
+        "title": "45 min Sacral Chakra Yoga - Yoga for HIPS Strength & Stretch",
+        "channel": "Yoga with Kassandra",
+        "url": "https://www.youtube.com/watch?v=56FiwujrxZk",
+        "duration": "43:35",
+        "why": "難得同時練髖的肌力與伸展，不是一路癱在被動開髖裡。Kassandra 在每個髖姿都會說明骨盆該朝哪、什麼時候該退出，適合當這一輪的主課。"
       },
       "drills": [
         {
-          "name": "手撐地會痛的處理",
-          "en": "Wrist pain when weight-bearing on hands",
+          "name": "晨間開髖短流",
+          "en": "Morning Hip Opening Flow",
+          "kind": "follow",
+          "target": "髖關節、內收肌",
+          "dose": "13 分鐘，晨間 1 次",
+          "title": "10 min SACRAL CHAKRA Morning Yoga - HIP OPENING Yoga",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=AglYtpF0y6E",
+          "duration": "13:19"
+        },
+        {
+          "name": "鴿式解剖與常見錯誤",
+          "en": "Pigeon Pose Anatomy",
           "kind": "align",
-          "target": "手腕、手肘",
-          "dose": "每個動作 10 次 × 2 輪",
-          "title": "手撐地會痛！？手腕痛該如何物理治療？在家自己可以怎麼做？Physical therapy for wrist pain when supporting on your hands",
-          "channel": "光合物理治療所",
-          "url": "https://www.youtube.com/watch?v=sxYuJkm10qw",
-          "duration": "5:14"
-        },
-        {
-          "name": "反覆發作型手腕痛的保養",
-          "en": "Care routine for recurrent wrist pain",
-          "kind": "align",
-          "target": "手腕、手肘",
-          "dose": "每天 1 輪，持續 4 週",
-          "title": "手腕痛反覆發作？原來是這裡的肌肉在作怪！保養運動一次解鎖｜#啾c物理治療師 #運動治療 #手腕痛 #力量訓練 #手部保養",
-          "channel": "啾c物理治療師",
-          "url": "https://www.youtube.com/watch?v=PrzmHvCY30w",
-          "duration": "13:10"
-        },
-        {
-          "name": "手腕疼痛復健動作",
-          "en": "Wrist pain rehab exercises",
-          "kind": "align",
-          "target": "手腕",
-          "dose": "每個動作 10–15 次，每天 1 輪",
-          "title": "Wrist Pain Rehab Exercises",
-          "channel": "Rehab Science",
-          "url": "https://www.youtube.com/watch?v=Aky1uJBS5UY",
-          "duration": "7:07"
-        },
-        {
-          "name": "手腕承重肌力進階",
-          "en": "Progressive wrist loading routine",
-          "kind": "deepen",
-          "target": "手腕、手臂支撐",
-          "dose": "每週 2–3 次，無痛範圍內加量",
-          "title": "Strong Wrist Routine | Handstands + Calisthenics",
-          "channel": "Tom Merrick",
-          "url": "https://www.youtube.com/watch?v=S89dl42KlE0",
-          "duration": "9:29"
-        },
-        {
-          "name": "全程不撐手的完整練習",
-          "en": "Hands-free yoga practice",
-          "kind": "modify",
-          "target": "手腕、核心、肩關節",
-          "dose": "手腕急性期每週 2–3 次",
-          "title": "30 minute Hands Free Yoga for Sore Wrists | Sarah Beth Yoga",
-          "channel": "SarahBethYoga",
-          "url": "https://www.youtube.com/watch?v=fAb7odSLWW0",
-          "duration": "29:58"
-        },
-        {
-          "name": "拜日式的無腕負重改編",
-          "en": "Wrist-friendly sun salutation variation",
-          "kind": "modify",
-          "target": "手腕、肩關節、脊椎活動度",
-          "dose": "3–5 輪取代原本的拜日式",
-          "title": "Wrist pain? Try this alternative sun salutation",
-          "channel": "Ashtanga Yoga Girl",
-          "url": "https://www.youtube.com/watch?v=vp44UHIvYLE",
-          "duration": "11:22"
-        }
-      ]
-    },
-    {
-      "id": "ch12-u4",
-      "name": "膝關節問題與跪姿替代",
-      "type": "population",
-      "assessment": "做三個當場判定的測試。一、跪姿測試：在墊上加一條對折毛毯跪下，臀部往腳跟坐，若膝蓋前側出現壓迫痛或完全坐不下去，代表跪姿類體式（英雄式、駱駝式、貓牛）都需要墊高或替代。二、單腳下階測試：站在一階樓梯上，單腳緩慢下降 5 次，若膝蓋前側或內側出現疼痛、或膝蓋往內塌（膝外翻），代表股四頭與臀肌控制不足，弓箭步與戰士式需要縮小幅度。三、盤腿測試：坐姿盤腿，若膝蓋懸空離地超過一個拳頭高、或膝蓋內側被拉扯到痛，代表髖關節活動度不足而由膝關節代償，坐姿一律墊高。若膝關節出現卡住無法伸直（絞鎖）、明顯腫脹、走路會突然軟腳，這是半月板或韌帶損傷的就醫指標，停止練習並就醫。",
-      "tight": [
-        "膝蓋痛時不要硬做全蓮花或半蓮花。把腳踝架到對側大腿上會在膝關節製造扭轉剪力，而膝關節幾乎不能承受旋轉——痛的是膝蓋，問題常常在髖。",
-        "英雄式坐不下去時不要靠「多坐幾次就開了」。膝前側被壓到痛就是負荷過大，請直接坐磚或坐瑜伽枕。",
-        "弓箭步與戰士式不要讓前腳膝蓋超過腳趾且往內塌。膝蓋要對準第二、三腳趾方向，幅度縮小到不痛為止。",
-        "扭轉時不要用膝蓋當支點去撐地板。單膝跪地扭轉時膝下一定要有厚墊，且旋轉發生在胸椎不是膝關節。",
-        "膝蓋腫脹或發熱時不要練。那是發炎徵象，此時牽拉與負重只會延長恢復期。"
-      ],
-      "weak": [
-        "股四頭與臀部肌力，讓膝關節在弓箭步與站姿平衡中有足夠支撐。",
-        "髖關節與腳踝的活動度，減少膝關節被迫代償旋轉。",
-        "跪姿的替代路徑：坐磚、墊毯、椅子版、以及完全不跪地的站姿與仰臥版本。",
-        "盤腿的輔具版本，讓靜坐與呼吸練習不再靠膝關節硬撐。"
-      ],
-      "lesson": {
-        "title": "膝關節退化不用怕，這 8 個護膝法讓你帶回家｜#膝蓋退化 #膝蓋 #啾c物理治療師",
-        "channel": "啾c物理治療師",
-        "url": "https://www.youtube.com/watch?v=Utg95EEcVPo",
-        "duration": "11:45",
-        "why": "把膝關節保護拆成負荷管理、肌力、活動度等八個具體策略，講清楚哪些動作模式該調整。用「保養與調整」而不是「治好退化」的框架，正是本單元需要的定位。"
-      },
-      "drills": [
-        {
-          "name": "蹲與下樓梯痛的三步驟",
-          "en": "Three steps for squat and stair knee pain",
-          "kind": "align",
-          "target": "膝關節、股四頭",
-          "dose": "每個步驟 10 次 × 2 輪",
-          "title": "【膝蓋痛】一蹲就痛 | 下樓梯痛的關鍵在哪裡？三個步驟帶你解決！Physical therapy for knee pain when  squatting",
-          "channel": "光合物理治療所",
-          "url": "https://www.youtube.com/watch?v=LyUkwoo49c8",
-          "duration": "4:39"
-        },
-        {
-          "name": "上下樓梯的膝關節控制",
-          "en": "Knee control on stairs",
-          "kind": "align",
-          "target": "膝關節、臀部",
-          "dose": "每天上下樓時刻意練 10 階",
-          "title": "走樓梯就膝蓋痛？不正確上下樓姿勢可能會加速退化！｜詹珞瑤 物理治療師 Veronica Rehab",
-          "channel": "詹珞瑤",
-          "url": "https://www.youtube.com/watch?v=rCKfrjOYLEA",
-          "duration": "5:40"
-        },
-        {
-          "name": "膝周肌力強化",
-          "en": "Knee strengthening progression",
-          "kind": "deepen",
-          "target": "膝關節、股四頭、臀部",
-          "dose": "每週 3 次，每個動作 12 次 × 3 組",
-          "title": "膝蓋退化！如何加強肌力？延緩退化！",
-          "channel": "光合物理治療所",
-          "url": "https://www.youtube.com/watch?v=JL7x_5JGCj4",
+          "target": "髖關節、臀部、膝關節",
+          "dose": "6 分鐘看完，再拍一張自己的鴿式側面照對照骨盆角度",
+          "title": "Pigeon Pose | Full Anatomical Analysis + Mistakes to Avoid",
+          "channel": "Muscle & Motion",
+          "url": "https://www.youtube.com/watch?v=0NvqT1j3000",
           "duration": "6:07"
         },
         {
-          "name": "盤腿坐不下的輔具替代",
-          "en": "Prop alternatives for cross-legged sitting",
+          "name": "鴿式的墊高與替代版本",
+          "en": "Modified Pigeon Pose",
           "kind": "modify",
-          "target": "膝關節、髖關節、內收肌",
-          "dose": "靜坐前先做一次，坐姿全程墊高",
-          "title": "無法盤腿？試試以下輔助姿勢┆蓮花坐中3個需要放鬆的部位",
-          "channel": "yogi peter",
-          "url": "https://www.youtube.com/watch?v=0oFhlcGDhu8",
-          "duration": "13:20"
+          "target": "髖關節、膝關節",
+          "dose": "臀下墊磚或抱枕，每側 90 秒 × 2 輪",
+          "title": "How To Modify Pigeon Pose  || Pigeon stretch beginner",
+          "channel": "Di Hickman",
+          "url": "https://www.youtube.com/watch?v=qgZp9hMlSW4",
+          "duration": "11:24"
         },
         {
-          "name": "不跪地、不弓箭步的替代練習",
-          "en": "No-kneeling, no-lunge alternative workout",
-          "kind": "modify",
-          "target": "膝關節、核心、臀部",
-          "dose": "每週 2 次，取代跪姿為主的序列",
-          "title": "Knee Friendly Pilates Workout - No Kneeling, Squats or Lunges!",
-          "channel": "Jessica Valant",
-          "url": "https://www.youtube.com/watch?v=TRhXYH7QSfo",
-          "duration": "11:27"
-        },
-        {
-          "name": "敏感膝關節的完整流動",
-          "en": "Yoga flow for sensitive knees",
+          "name": "生殖輪體式導覽（中文）",
+          "en": "Sacral Chakra Poses in Chinese",
           "kind": "follow",
-          "target": "膝關節、髖關節、腳踝",
-          "dose": "無痛期每週 2 次",
-          "title": "Yoga For Sensitive Knees  |  Yoga With Adriene",
-          "channel": "Yoga With Adriene",
-          "url": "https://www.youtube.com/watch?v=VfSlEgg4ApE",
-          "duration": "31:18"
+          "target": "髖關節、骨盆底",
+          "dose": "9 分鐘，每週 2 次",
+          "title": "【脈輪】生殖輪—熱情、活力和創造力｜Karina & Kathy老師｜YogaAsia 亞洲瑜伽",
+          "channel": "亞洲瑜伽 Yoga Asia",
+          "url": "https://www.youtube.com/watch?v=mDiEgFmX3Jc",
+          "duration": "8:46"
+        },
+        {
+          "name": "晚間鬆髖流動",
+          "en": "Evening Hip Release Flow",
+          "kind": "follow",
+          "target": "髖關節、腰椎",
+          "dose": "30 分鐘，晚間 1 次，每週 2 次",
+          "title": "30 Min Evening Yoga Flow | Yoga to Release Hip Tension",
+          "channel": "Charlie Follows",
+          "url": "https://www.youtube.com/watch?v=34ppQHbaHI8",
+          "duration": "29:57"
+        },
+        {
+          "name": "可自主調節的開髖版本",
+          "en": "Trauma-Informed Hip Opening",
+          "kind": "modify",
+          "target": "髖關節、放鬆與副交感",
+          "dose": "20 分鐘；情緒起伏大或身體很防衛的日子改用這支",
+          "title": "20-Minute Trauma-Informed Yoga for Hip Opening | Deep Stretches for Inner Hip Release",
+          "channel": "Caitlin K'eli Yoga",
+          "url": "https://www.youtube.com/watch?v=w253F0NAMhg",
+          "duration": "19:41"
         }
       ]
     },
     {
-      "id": "ch12-u5",
-      "name": "孕期瑜伽",
-      "type": "population",
-      "assessment": "先確認三件事再上墊：一、已由產檢醫師確認為低風險妊娠，沒有前置胎盤、子宮頸閉鎖不全、早產徵象、妊娠高血壓或子癲前症。二、用「說話測試」控制強度——練習中若喘到無法完整說出一句話，就是太強，立刻降階。三、第 16 週後（或只要仰躺會頭暈、噁心、心悸）就不再做長時間仰臥，改為左側臥或上半身墊高 30 度以上，因為子宮壓迫下腔靜脈會造成仰臥低血壓症候群。出現以下任何一項就立即停止並就醫：陰道出血或有液體流出、規律宮縮、持續腹痛、胎動明顯減少、頭痛合併視力模糊、小腿單側腫脹疼痛、胸痛或呼吸困難。產後要恢復練習前先確認已完成產後回診、惡露結束，並檢查腹直肌分離寬度。",
+      "id": "ch8-u4",
+      "name": "太陽神經叢 Manipura：核心與意志",
+      "type": "energy",
+      "assessment": "仰躺屈膝，把雙手手背墊在下背與地面之間，然後把雙腿伸直、慢慢往下放。若腿還沒降到 45 度，下背就已經拱起把手放鬆掉，代表核心無法在腿的槓桿下維持骨盆位置——這是你的實際起始高度，往後只在這個角度以上練。第二項：坐姿扭轉時請人從上方看，若骨盆跟著轉、胸廓相對骨盆幾乎沒有轉幅，代表你在轉骨盆不是轉胸椎。",
       "tight": [
-        "不要做躺姿的深度後彎與需要憋氣用力的動作。腹壓劇烈上升對骨盆底與腹白線都是額外負擔。",
-        "第 16 週後不要長時間仰臥（超過 3–5 分鐘），也不要做仰臥起坐、船式這類把腹直肌拉開的捲腹動作，改用側臥與四足跪姿版本。",
-        "不要做腹部朝下的體式（眼鏡蛇式、上犬式、俯臥後彎、鱷魚式），懷孕中期以後應直接替換成貓牛式或四足跪姿版本。",
-        "不要做封閉式深度扭轉（用手把身體扳到極限、腹部被壓迫的扭轉）。孕期只做開放式、幅度小、發生在胸椎的扭轉。",
-        "不要因為孕期鬆弛素讓關節變鬆就趁機拉更深。這時候「拉得更遠」不是進步，是關節不穩定，產後容易留下骨盆與薦髂關節疼痛。",
-        "不要做倒立、跳躍、需要單腳平衡而沒有牆或椅子扶持的動作，以及任何有跌倒風險的體式。"
+        "扭轉時骨盆跟著轉，實際只有腰椎在扭",
+        "核心動作靠憋氣與縮脖子撐住",
+        "船式時腰椎拱起、用髖屈肌代替腹部",
+        "把腹部發抖當成訓練有效的唯一指標"
       ],
       "weak": [
-        "依三期分別調整的完整練習路徑：初期以維持與適應為主，中期加入支撐版本，後期以骨盆與呼吸準備為主。",
-        "骨盆底肌的協調——學會放鬆而不只是收縮，這對生產與產後恢復同等重要。",
-        "呼吸與橫膈的控制，取代孕期不能用的核心捲腹訓練。",
-        "常見體式的孕期改編邏輯（俯臥後彎改站姿或跪姿、扭轉改開放式、仰臥改側臥或墊高），讓你能自己改編任何一堂一般課。"
+        "四肢移動時腹部維持骨盆與肋骨位置的能力",
+        "胸椎旋轉與骨盆分離的控制",
+        "核心出力同時維持順暢呼吸",
+        "扭轉時的脊椎分段控制"
       ],
       "lesson": {
-        "title": "孕婦可以運動嗎？孕婦安全運動全攻略 ft. 烏烏醫師 { Flow with Katie }",
-        "channel": "凱蒂瑜伽 Flow With Katie",
-        "url": "https://www.youtube.com/watch?v=XjOVpr0Lgo8",
-        "duration": "20:13",
-        "why": "由婦產科醫師與瑜伽老師對談，把孕期運動的適應症、禁忌症、強度控制與常見迷思一次講清楚，且是繁體中文。本單元其他影片都是練習，這支負責建立「什麼時候不能練」的判斷框架。"
-      },
-      "drills": [
-        {
-          "name": "孕期第一期練習",
-          "en": "First trimester prenatal yoga",
-          "kind": "follow",
-          "target": "髖關節、骨盆底、呼吸控制",
-          "dose": "每週 2–3 次，疲倦或孕吐時縮短",
-          "title": "Pregnancy Yoga For First Trimester (safe for all trimesters)",
-          "channel": "Pregnancy and Postpartum TV",
-          "url": "https://www.youtube.com/watch?v=3VHnnpBJVsk",
-          "duration": "28:00"
-        },
-        {
-          "name": "孕期第二期練習",
-          "en": "Second trimester prenatal yoga",
-          "kind": "follow",
-          "target": "髖關節、腰椎、骨盆底",
-          "dose": "每週 2–3 次",
-          "title": "Pregnancy Yoga For Second Trimester",
-          "channel": "Pregnancy and Postpartum TV",
-          "url": "https://www.youtube.com/watch?v=D75ClMK09TA",
-          "duration": "23:56"
-        },
-        {
-          "name": "孕期第三期練習",
-          "en": "Third trimester prenatal yoga",
-          "kind": "follow",
-          "target": "骨盆底、髖關節、放鬆與副交感",
-          "dose": "每週 2–3 次，全程用椅子或牆輔助",
-          "title": "THIRD TRIMESTER PREGNANCY YOGA | Relaxing Prenatal Yoga for the 3rd Trimester | LEMon Yoga",
-          "channel": "LEMon Yoga",
-          "url": "https://www.youtube.com/watch?v=2fn1ScIvrhk",
-          "duration": "19:25"
-        },
-        {
-          "name": "俯臥後彎的孕期改編",
-          "en": "Adapting cobra and updog for pregnancy",
-          "kind": "modify",
-          "target": "胸椎、腰椎、後彎",
-          "dose": "遇到俯臥後彎時直接替換",
-          "title": "PREGNANCY YOGA MODIFICATION | How to adapt Updog & Cobra pose for Pregnancy with LEMon Yoga",
-          "channel": "LEMon Yoga",
-          "url": "https://www.youtube.com/watch?v=mHcEgh8qfIk",
-          "duration": "5:33"
-        },
-        {
-          "name": "孕期瑜伽常見錯誤",
-          "en": "Common pregnancy yoga mistakes",
-          "kind": "align",
-          "target": "腰椎、骨盆底、核心",
-          "dose": "開始孕期練習前看一次",
-          "title": "Are you making these pregnancy yoga mistakes? Learn how to practice yoga safely during pregnancy.",
-          "channel": "Bettina Rae",
-          "url": "https://www.youtube.com/watch?v=wBjgsfKv9a0",
-          "duration": "7:49"
-        },
-        {
-          "name": "孕期骨盆底呼吸",
-          "en": "Pelvic floor breathing for pregnancy",
-          "kind": "align",
-          "target": "骨盆底、橫膈、呼吸控制",
-          "dose": "每天 5 分鐘，三期皆可",
-          "title": "Best Pregnancy Breathing Exercises for your Pelvic Floor // ALL TRIMESTERS",
-          "channel": "Dr. Chris Pieton || Pelvic Floor PT",
-          "url": "https://www.youtube.com/watch?v=jtny8WVKUKQ",
-          "duration": "8:29"
-        }
-      ]
-    },
-    {
-      "id": "ch12-u6",
-      "name": "銀髮族與椅子瑜伽",
-      "type": "population",
-      "assessment": "用兩個有常模的測試決定起點。一、五次起立坐下（Five Times Sit-to-Stand）：坐在標準高度的椅子上，雙手抱胸，盡快完成起立坐下五次並計時。60–69 歲超過 11 秒、70–79 歲超過 12 秒、80 歲以上超過 14 秒，代表下肢肌力不足，本單元先從坐姿與扶椅站姿版本開始，不做無支撐的單腳平衡。二、單腳站立計時：扶著椅背找到平衡後放手，記錄能站幾秒；不到 10 秒代表跌倒風險升高，所有站姿平衡體式一律保留一手扶椅或扶牆。若有以下情況先就醫再練：一年內曾跌倒兩次以上、站起來會眼前發黑、走路時腿麻或無力、近期骨折或人工關節置換未滿三個月、已診斷骨質疏鬆但未與醫師確認可做的活動範圍。",
-      "tight": [
-        "已知骨質疏鬆或骨密度偏低者，不要做深度前彎與捲腹式的脊椎屈曲，也不要做用力的脊椎扭轉——脊椎壓迫性骨折最常發生在負重屈曲。",
-        "不要在沒有扶手可及的位置練站姿平衡。所有單腳動作都要在椅背或牆面伸手可及的範圍內做。",
-        "起身不要一口氣站起。有姿勢性低血壓（起身會頭暈）的人先在椅上做幾次踝泵，再分兩段起身。",
-        "不要把「銀髮族＝只能伸展」當前提。純伸展不會改善跌倒風險，肌力與平衡訓練才會，要練得夠但要有支撐。",
-        "頸部不要做快速大範圍的繞圈。年長者常合併頸椎退化與椎動脈狀況，繞圈改成分段的前後左右轉動。"
-      ],
-      "weak": [
-        "全程坐姿的替代路徑，讓行動受限或平衡不佳者也能完成一堂完整的課。",
-        "下肢肌力（起立坐下、坐姿抬腿）與踝關節策略，直接對應跌倒預防。",
-        "扶椅版的站姿體式，把戰士式、樹式的效益保留下來但把跌倒風險移除。",
-        "骨質疏鬆友善的動作選擇：以伸展方向的脊椎動作與軸向承重取代屈曲與扭轉。"
-      ],
-      "lesson": {
-        "title": "Gentle Chair Yoga for Beginners and Seniors",
+        "title": "Solar Plexus Chakra Flow - 45 min Manipura Yoga for POWER",
         "channel": "Yoga with Kassandra",
-        "url": "https://www.youtube.com/watch?v=1DYH5ud3zHo",
-        "duration": "18:06",
-        "why": "完整示範一堂只用椅子的課如何涵蓋脊椎活動度、肩頸與髖關節，動作指令清楚、節奏慢、每個動作都有停頓可以跟上。適合當本單元的標準範本。"
+        "url": "https://www.youtube.com/watch?v=W81L0B2P_U0",
+        "duration": "44:48",
+        "why": "整堂課的動作邏輯就是核心支撐加脊椎扭轉，站姿與坐姿扭轉都有給退階版本。45 分鐘是這一輪的完整主課，注意力落在肋骨與腹部之間的連結，而不是在想像火焰。"
       },
       "drills": [
         {
-          "name": "中高齡坐姿伸展與核心",
-          "en": "Seated stretch and core for older adults",
+          "name": "晨間核心短流",
+          "en": "Morning Core Flow",
           "kind": "follow",
-          "target": "脊椎活動度、核心、肩胛",
-          "dose": "每週 3 次，全程坐姿",
-          "title": "【中高齡運動 - 坐姿伸展核心】舒緩肩頸僵硬、增進核心肌力  ▏北木健身",
-          "channel": "Beiimu fitness",
-          "url": "https://www.youtube.com/watch?v=H1QJh6QGPzM",
-          "duration": "14:27"
+          "target": "核心、扭轉",
+          "dose": "13 分鐘，晨間 1 次",
+          "title": "10 min SOLAR PLEXUS CHAKRA Morning Yoga - Yoga for ENERGY",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=3eNXV4e-yzk",
+          "duration": "12:49"
         },
         {
-          "name": "年長者下肢肌力三動作",
-          "en": "Three lower-body strength moves for older adults",
+          "name": "扭轉的正位原則",
+          "en": "How Twists Actually Work",
           "kind": "align",
-          "target": "膝關節、臀部、股四頭",
-          "dose": "每週 2–3 次，扶椅進行",
-          "title": "年長者的肌力訓練! 三個初學者必做下肢動作!  ▏北木健身",
-          "channel": "Beiimu fitness",
-          "url": "https://www.youtube.com/watch?v=nbgF_8kinjg",
-          "duration": "15:37"
+          "target": "扭轉、胸椎、腰椎",
+          "dose": "25 分鐘看完，之後每次扭轉先確認骨盆有沒有跟著轉",
+          "title": "How To Practice and Teach Yoga Twists: Teaching Tips for Yoga Teachers",
+          "channel": "Rachel Scott",
+          "url": "https://www.youtube.com/watch?v=SpCcQIuubFA",
+          "duration": "25:29"
         },
         {
-          "name": "體能較弱者的降階版本",
-          "en": "Scaled routine for low-capacity seniors",
-          "kind": "modify",
-          "target": "核心、髖關節、腳踝",
-          "dose": "每天 1 次，感覺輕鬆再進階",
-          "title": "體能較弱的銀髮族適用的強身運動【琵塔琪 物理治療師】",
-          "channel": "琵塔琪 物理治療師 Pi Tachi Physiotherapist",
-          "url": "https://www.youtube.com/watch?v=kd-TfyIWexE",
-          "duration": "12:20"
+          "name": "核心為主的短練習",
+          "en": "Core-Focused Short Practice",
+          "kind": "follow",
+          "target": "核心",
+          "dose": "15 分鐘，每週 2–3 次",
+          "title": "Yoga for POWER & CONFIDENCE | Solar Plexus Chakra Focused | 15 Minutes | Lots of Core Work",
+          "channel": "Black Yogi Nico Marie",
+          "url": "https://www.youtube.com/watch?v=ElCliH1_cYA",
+          "duration": "14:31"
         },
         {
-          "name": "跌倒預防的核心動作",
-          "en": "Fall prevention exercises",
+          "name": "腹部動態 kriya",
+          "en": "Abdominal Kriya",
+          "kind": "deepen",
+          "target": "核心、呼吸控制",
+          "dose": "29 分鐘，隔天做；動作與呼吸節奏必須同步，跟不上就降速",
+          "title": "30 Min Third Chakra Kriya: Abdominal & Navel Strengthening Kriya | YOGA FOR ENERGY",
+          "channel": "BrettLarkinYoga",
+          "url": "https://www.youtube.com/watch?v=9DyHo8Zx7AE",
+          "duration": "28:38"
+        },
+        {
+          "name": "臍輪前彎扭轉（中文）",
+          "en": "Navel Region Forward Folds and Twists",
+          "kind": "follow",
+          "target": "核心、扭轉、前彎",
+          "dose": "20 分鐘，每週 2 次",
+          "title": "輪到身體說 7日脈輪瑜珈練習-DAY3. 「臍輪」推動自我力量｜#自然呼吸瑜珈 #瑜珈教學 #前彎扭轉 20 mins Chakra Yoga- Solar Plexus Chakra",
+          "channel": "自然呼吸瑜珈館(高雄)",
+          "url": "https://www.youtube.com/watch?v=iR9VSkdFkMs",
+          "duration": "20:06"
+        },
+        {
+          "name": "船式拆解",
+          "en": "Navasana Breakdown",
           "kind": "align",
-          "target": "平衡、腳踝、臀部",
-          "dose": "每天 1 輪，扶椅背進行",
-          "title": "Fall Prevention Exercises with Physical Therapist Lora Stutzman",
-          "channel": "Johns Hopkins Medicine",
-          "url": "https://www.youtube.com/watch?v=q3faZkO4gbc",
-          "duration": "4:03"
-        },
-        {
-          "name": "銀髮平衡訓練七式",
-          "en": "Seven balance exercises for seniors",
-          "kind": "align",
-          "target": "平衡、腳踝、專注",
-          "dose": "每週 3–5 次，每個動作 30 秒",
-          "title": "7 Balance Exercises for Seniors-Fall Prevention by Physical Therapists",
-          "channel": "Bob & Brad",
-          "url": "https://www.youtube.com/watch?v=BNC4bi3Ucac",
-          "duration": "11:16"
-        },
-        {
-          "name": "骨質疏鬆友善的椅子瑜伽",
-          "en": "Chair yoga for osteoporosis",
-          "kind": "modify",
-          "target": "胸椎、平衡、脊椎活動度",
-          "dose": "每週 3 次",
-          "title": "Chair Yoga for OSTEOPOROSIS - 10 min Exercises and Stretches for Bone Density and Balance",
-          "channel": "Yoga with Joelle",
-          "url": "https://www.youtube.com/watch?v=OM9PJJCFhIU",
-          "duration": "11:40"
+          "target": "核心、髖關節",
+          "dose": "7 分鐘看完，屈膝版船式 20 秒 × 5 輪",
+          "title": "How to do Navasana | Boat Pose in Ashtanga Yoga",
+          "channel": "David and Jelena Yoga",
+          "url": "https://www.youtube.com/watch?v=5dUOD0LeU3k",
+          "duration": "7:21"
         }
       ]
     },
     {
-      "id": "ch12-u7",
-      "name": "高血壓、青光眼與心血管疾病的禁忌處理",
-      "type": "population",
-      "assessment": "上墊前先量血壓並記錄。靜息收縮壓 ≥180 或舒張壓 ≥110 時當天不練，先就醫調整用藥。收縮壓 160–179 之間只做坐姿與仰臥的溫和練習，不做任何頭低於心臟的姿勢與閉氣。練習中的自我監測用「說話測試」：無法完整說出一整句話就是太強。青光眼族群做一個當場可判定的檢查——任何讓你頭低於心臟、或需要屏息用力的動作（下犬式、深度前彎、肩立式、閉氣式呼吸法），做完後若出現眼睛脹痛、看燈有光暈、視線模糊，代表眼壓被推高，該姿勢直接從你的練習中移除。出現以下任一項立即停止並就醫：胸悶胸痛、冷汗、心悸或脈搏不規則、突然單側無力或口齒不清、休息後仍持續的呼吸困難、突發劇烈頭痛合併視力改變。已裝支架、心衰竭、近期心肌梗塞或心臟手術者，開始任何練習前都必須先取得心臟科醫師的運動處方。",
+      "id": "ch8-u5",
+      "name": "心輪 Anahata：胸廓開展與連結",
+      "type": "energy",
+      "assessment": "靠牆站，腳跟離牆約一個腳掌，臀部、上背、後腦貼牆，雙手扣在腦後把手肘往兩側打開。若無法在不讓肋骨前推、不讓下背離牆拱起的前提下讓兩側手肘碰到牆，代表胸椎伸展受限——這一輪先練胸椎活動度，不要用腰椎代償去追開胸的感覺。加測一項：趴姿人面獅身式停 30 秒，若疼痛集中在下背而不是感覺在上背前側被打開，同樣是折錯節段。",
       "tight": [
-        "不做屏息（Kumbhaka）與任何需要用力憋氣的動作。Valsalva 動作會讓血壓與眼壓同時飆升，這對高血壓、青光眼與心血管疾病三個族群都是共同禁忌。",
-        "不做頭低於心臟的體式：肩立式、犁式、頭倒立、手倒立、下犬式維持過久、深度站姿前彎。青光眼者眼壓在倒立時可上升一倍以上，高血壓者則是腦部灌流壓驟變。",
-        "不做火呼吸（Kapalabhati）與 Bhastrika 這類強力快速的呼吸法。改用等長或延長吐氣的緩慢呼吸。",
-        "不做高溫瑜伽與長時間的手臂高舉維持。高溫會使血壓與心率反應變得難以預測，手臂長時間過頭則明顯增加心臟後負荷。",
-        "不要因為「今天感覺不錯」就自行停藥或跳過量血壓。這章的定位是調整與替代方案，瑜伽不取代藥物治療。",
-        "不要在飯後一小時內或服用降壓藥後立刻做大幅度的起身動作，姿勢性低血壓造成的暈厥跌倒才是最實際的風險。"
+        "後彎時肋骨前推，動作折在腰椎而不是胸椎",
+        "把開胸做成聳肩夾肩胛加憋氣",
+        "下巴前伸、頸椎過度後仰去換視覺上的幅度",
+        "只做被動趴撐，胸椎本身沒有主動伸展"
       ],
       "weak": [
-        "把「倒立」的效益改由腿上牆式與髖略高於心臟的支撐姿勢取得，頭部不低於心臟。",
-        "以延長吐氣的緩慢呼吸與 Yoga Nidra 建立副交感反應，取代強力呼吸法。",
-        "採用醫院心臟復健的強度分級方式（自覺費力程度、說話測試）來安排每次練習的量。",
-        "以支撐版本的坐姿與仰臥序列，建立一條完全不含屏息、不含頭低位的完整練習路徑。"
+        "胸椎伸展與旋轉的活動度",
+        "肩胛在胸廓上滑動的控制",
+        "後彎時維持肋骨下沉與腹部支撐",
+        "上背伸肌在開展位置的耐力"
       ],
       "lesson": {
-        "title": "Yoga for High Blood Pressure - What to do & what to avoid",
-        "channel": "Yoga with Zelinda",
-        "url": "https://www.youtube.com/watch?v=0TSL7nIZS1g",
-        "duration": "15:48",
-        "why": "少數把「該避開什麼」講得比「該做什麼」還清楚的瑜伽影片：明確列出倒立、屏息、快速呼吸法與過頭維持的問題，並逐一給替代版本。沒有任何「瑜伽降血壓可以停藥」的宣稱。"
+        "title": "How to improve thoracic spine mobility (lesson & exercises)",
+        "channel": "Heart & Bones Yoga- Anatomy & Mobility",
+        "url": "https://www.youtube.com/watch?v=_RlBVo0EsTY",
+        "duration": "41:56",
+        "why": "先講清楚胸椎在解剖上能動多少、肋骨怎麼限制它，再帶一整套主動活動度動作。這正是本單元要的：把「開胸」拆成可量測的胸椎伸展與旋轉，而不是靠感覺追幅度。"
       },
       "drills": [
         {
-          "name": "血壓管理的六原則",
-          "en": "Six principles of blood pressure control",
+          "name": "十五分鐘開胸（中文）",
+          "en": "15-Minute Heart Opening in Chinese",
+          "kind": "follow",
+          "target": "胸椎、胸口、肩關節",
+          "dose": "15 分鐘，每週 3 次",
+          "title": "15分鐘瑜珈開胸-改善駝背端正姿勢，敞開心胸感受愛 15 min heart opening yoga { Flow with Katie }",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=4SsmYx_6kwg",
+          "duration": "15:29"
+        },
+        {
+          "name": "胸廓與上半身開展流動",
+          "en": "Chest and Upper Body Opening Flow",
+          "kind": "follow",
+          "target": "胸口、肩關節、胸椎",
+          "dose": "24 分鐘，每週 1–2 次",
+          "title": "Chest & Upper Body Opening Flow",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=CZJVeUD_Ou8",
+          "duration": "24:16"
+        },
+        {
+          "name": "上背、胸口與肩的伸展",
+          "en": "Upper Back, Chest and Shoulder Stretch",
           "kind": "align",
+          "target": "胸椎、肩胛、頸椎",
+          "dose": "16 分鐘，久坐日的下午做 1 次",
+          "title": "Yoga for Upper Back, Chest and Shoulder - BEST Upper Body Stretch",
+          "channel": "Yoga With Bird",
+          "url": "https://www.youtube.com/watch?v=y2Zk8dA5KNs",
+          "duration": "16:26"
+        },
+        {
+          "name": "胸椎迷你課",
+          "en": "Thoracic Spine Mini Class",
+          "kind": "align",
+          "target": "胸椎",
+          "dose": "10 分鐘，每天 1 次連續兩週",
+          "title": "Yoga for Thoracic Spine (mini class)",
+          "channel": "Heart & Bones Yoga- Anatomy & Mobility",
+          "url": "https://www.youtube.com/watch?v=hjeD8D7dfLA",
+          "duration": "10:04"
+        },
+        {
+          "name": "胸口區域的陰瑜伽長停留",
+          "en": "Yin for the Chest",
+          "kind": "follow",
+          "target": "胸口、肩關節、放鬆與副交感",
+          "dose": "28 分鐘，每個姿勢停 3 分鐘，每週 1 次",
+          "title": "30 min Heart Chakra Yin Yoga for Love & Compassion with Affirmations",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=ryWOpZOEkWo",
+          "duration": "28:25"
+        },
+        {
+          "name": "胸椎主動活動度課表",
+          "en": "Thoracic Mobility Routine",
+          "kind": "deepen",
+          "target": "胸椎、肩胛",
+          "dose": "12 分鐘，每個動作 8–10 下，隔天做",
+          "title": "10 Min. Thoracic Spine Mobility Routine | Stretch & Strengthen Upper & Mid Back",
+          "channel": "mobility by julia reppel",
+          "url": "https://www.youtube.com/watch?v=426rzPkx4D8",
+          "duration": "12:36"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u6",
+      "name": "喉輪 Vishuddha：頸部與表達",
+      "type": "energy",
+      "assessment": "坐正、下巴微收，緩慢向左右各轉頭到底。若任一側轉幅明顯較小，或必須抬起下巴才轉得過去，代表頸椎旋轉受限並且你在用伸展換旋轉。第二項：發持續的「嗡」聲並計時，若撐不到 15 秒、聲音抖動、或喉嚨馬上乾緊，代表你是用喉部擠壓製造聲音而不是用穩定吐氣支撐。這一輪的目標是把轉幅補齊、把發聲交還給呼吸。",
+      "tight": [
+        "轉頭時抬下巴，用頸椎伸展換旋轉角度",
+        "唱誦或發聲時縮喉、靠擠壓製造音量",
+        "肩膀聳起，把頸部動作變成肩部代償",
+        "頸部伸展做太猛，追求「喀」一聲的鬆動感"
+      ],
+      "weak": [
+        "頸椎旋轉與側屈的活動度",
+        "用穩定吐氣支撐持續發聲",
+        "頸部深層屈肌維持下巴微收的耐力",
+        "上斜方與肩胛提肌放鬆的能力"
+      ],
+      "lesson": {
+        "title": "Yoga Therapy: Neck Pain - Cervical Spine alignment: LauraGYOGA",
+        "channel": "Laura Goellner - Yoga Therapy",
+        "url": "https://www.youtube.com/watch?v=kewKGLE9rUg",
+        "duration": "17:22",
+        "why": "從頸椎排列與頭部前傾講起，示範怎麼在不抬下巴的前提下練旋轉與深層屈肌。這一輪的所有發聲與唱誦練習都建立在這個頸部位置上，先把它練對。"
+      },
+      "drills": [
+        {
+          "name": "晨間頸部伸展",
+          "en": "Morning Neck Stretches",
+          "kind": "follow",
+          "target": "頸椎、肩胛",
+          "dose": "15 分鐘，晨間或久坐兩小時後 1 次",
+          "title": "10 min THROAT CHAKRA Morning Yoga - Yoga NECK STRETCHES",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=uIpWkBnAYPc",
+          "duration": "14:39"
+        },
+        {
+          "name": "喉輪八式（中文）",
+          "en": "Eight Poses for the Throat",
+          "kind": "follow",
+          "target": "頸椎、肩關節",
+          "dose": "15 分鐘，每週 2 次",
+          "title": "8個瑜珈動作啟動喉輪·擁有表達的能力！♥️15分鐘打開喉輪 Yoga with Sophie蘇菲瑜珈",
+          "channel": "蘇菲瑜伽",
+          "url": "https://www.youtube.com/watch?v=-CQ1grDcodg",
+          "duration": "15:05"
+        },
+        {
+          "name": "OM 唱誦引導",
+          "en": "Guided OM Chanting",
+          "kind": "follow",
           "target": "呼吸控制、放鬆與副交感",
-          "dose": "開始本單元前看一次",
-          "title": "如何改善高血壓？台大醫院王宗道醫師：預防血壓飆高「SABCDE」6原則｜Heho專家說",
-          "channel": "Heho",
-          "url": "https://www.youtube.com/watch?v=i_i-VWdD7-E",
-          "duration": "2:48"
+          "dose": "18 分鐘，唱誦時把手放喉部與胸骨感覺振動位置",
+          "title": "Powerful OM Chanting Guided Meditation by Yogrishi Vishvketu",
+          "channel": "Akhanda Yoga by Dr.Yogrishi",
+          "url": "https://www.youtube.com/watch?v=HN2N_rlEXKg",
+          "duration": "17:38"
         },
         {
-          "name": "青光眼該避開的活動",
-          "en": "Activities that worsen glaucoma",
+          "name": "蜂鳴呼吸技法",
+          "en": "Bhramari Technique",
           "kind": "align",
-          "target": "倒立、呼吸控制",
-          "dose": "安排序列前確認一次",
-          "title": "Which Activities Make Glaucoma Worse? - Ask an Ophthalmologist",
-          "channel": "EyeSmart — American Academy of Ophthalmology",
-          "url": "https://www.youtube.com/watch?v=RHPBxZCB24c",
-          "duration": "1:39"
+          "target": "呼吸控制",
+          "dose": "2 分鐘看完，蜂鳴呼吸 8 回合，吐氣哼滿再換氣",
+          "title": "Learn the Humming Bee Breath Technique - Bhramari Pranayama | Yoga",
+          "channel": "SIKANA English",
+          "url": "https://www.youtube.com/watch?v=KkurfEQrg94",
+          "duration": "2:08"
         },
         {
-          "name": "青光眼族群的無倒立核心練習",
-          "en": "Non-inverted core practice for glaucoma",
-          "kind": "modify",
-          "target": "核心、脊椎活動度、呼吸控制",
-          "dose": "每週 2 次，全程頭不低於心臟",
-          "title": "Pilates for Glaucoma Patients",
-          "channel": "Glaucoma Research Foundation Videos",
-          "url": "https://www.youtube.com/watch?v=Hj2O8TEup8U",
-          "duration": "28:59",
-          "why": "由青光眼研究基金會製作，示範一套刻意避開頭低位與屏息的墊上練習，正好可以直接當作瑜伽序列裡倒立與深前彎的替代段落。"
-        },
-        {
-          "name": "心臟復健的運動強度分級",
-          "en": "Cardiac rehab exercise principles",
+          "name": "喉式呼吸拆解",
+          "en": "Ujjayi Breath Breakdown",
           "kind": "align",
-          "target": "呼吸控制、平衡",
-          "dose": "作為安排練習量的依據",
-          "title": "Cardiac Rehabilitation Exercises",
-          "channel": "Cleveland Clinic",
-          "url": "https://www.youtube.com/watch?v=JIXkf_i3kG0",
-          "duration": "10:12"
+          "target": "呼吸控制、頸椎",
+          "dose": "7 分鐘看完，接著單純練喉式呼吸 5 分鐘",
+          "title": "Ujjayi Breathing | Yoga with Adriene",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=IQrsJ-yZWV8",
+          "duration": "6:52"
         },
         {
-          "name": "低至中強度居家心臟復健",
-          "en": "Low-to-moderate intensity home cardiac rehab",
+          "name": "哼聲與頸前放鬆",
+          "en": "Humming for the Throat",
+          "kind": "align",
+          "target": "頸椎、放鬆與副交感",
+          "dose": "每次哼 30 秒 × 5 輪，中間正常呼吸兩次",
+          "title": "Hum to Activate the Vagus Nerve",
+          "channel": "Tune Up Fitness",
+          "url": "https://www.youtube.com/watch?v=QSAvPgqQ2L0",
+          "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u7",
+      "name": "眉心輪 Ajna：專注與洞察",
+      "type": "energy",
+      "assessment": "坐正，手臂前伸豎起拇指，眼睛盯住指甲 60 秒。若中途眼睛酸脹到必須閉上、或回神時發現視線早就飄走而你不知道飄了多久，代表「發現走神」的能力還沒建立，先把時間降到 20 秒做到穩定再往上加。第二項：單腳站立，睜眼 30 秒、閉眼 20 秒。若閉眼立刻倒，代表你的平衡高度依賴視覺定點，本輪的凝視練習正好補這一塊。",
+      "tight": [
+        "凝視時皺眉瞪眼，把專注做成臉部與眼周緊繃",
+        "走神後責備自己，練習變成情緒消耗",
+        "把看到光或畫面當成進度指標",
+        "為了不眨眼而憋氣"
+      ],
+      "weak": [
+        "維持單一凝視點的持續注意力",
+        "察覺走神並溫和帶回的能力",
+        "眼睛放鬆但視線穩定的控制",
+        "不靠視覺也能維持平衡的本體感覺"
+      ],
+      "lesson": {
+        "title": "The Yogic Practice for Laser Sharp Focus & Clear Vision: Trataka Meditation",
+        "channel": "Satvic Yoga",
+        "url": "https://www.youtube.com/watch?v=ssCk4aQhtxg",
+        "duration": "9:55",
+        "why": "把 trataka 的操作條件講得很具體：距離、燭焰高度、什麼時候閉眼、閉眼後看什麼。這一輪要的就是一個可重複執行的凝視流程，而不是抽象的「打開第三眼」。"
+      },
+      "drills": [
+        {
+          "name": "眉心輪體式串連",
+          "en": "Ajna Yoga Sequence",
           "kind": "follow",
-          "target": "平衡、腳踝、呼吸控制",
-          "dose": "每週 3 次，全程以能說話為上限",
-          "title": "Low-Moderate Intensity Cardiac Rehab Home Program",
-          "channel": "NewYork-Presbyterian Hospital",
-          "url": "https://www.youtube.com/watch?v=Z9nxS5tmQRI",
-          "duration": "27:38"
+          "target": "專注、平衡",
+          "dose": "31 分鐘，每週 1 次；平衡姿勢全程盯住固定一點",
+          "title": "Third Eye Chakra Yoga Sequence: Trust Your Intuition & Inner Guidance | Chakra Challenge",
+          "channel": "BrettLarkinYoga",
+          "url": "https://www.youtube.com/watch?v=Wvmd9bHnnjs",
+          "duration": "30:59"
         },
         {
-          "name": "Yoga Nidra 深層休息",
-          "en": "Yoga Nidra for deep rest",
+          "name": "引導式凝視練習",
+          "en": "Guided Trataka",
           "kind": "follow",
-          "target": "放鬆與副交感、專注、呼吸控制",
-          "dose": "每週 3–5 次，仰臥或上半身墊高",
-          "title": "30 Minute Yoga Nidra For Deep Rest",
+          "target": "專注",
+          "dose": "6 分鐘，每天早晨 1 次連續兩週",
+          "title": "Guided Trataka Meditation with Dr. K",
+          "channel": "Not HealthyGamerGG",
+          "url": "https://www.youtube.com/watch?v=snt1i5_1uhY",
+          "duration": "6:11"
+        },
+        {
+          "name": "九個凝視點",
+          "en": "The Nine Drishti Points",
+          "kind": "align",
+          "target": "專注、平衡",
+          "dose": "7 分鐘看完，下一次流動練習指定三個姿勢用對應凝視點",
+          "title": "Drishti - The Nine Focal Points In The Ashtanga Vinyasa Yoga Practice. Vital Techniques",
+          "channel": "Yogic Tara",
+          "url": "https://www.youtube.com/watch?v=7dSr0I4xNjs",
+          "duration": "7:20"
+        },
+        {
+          "name": "以凝視為主軸的流動",
+          "en": "Gaze-Led Practice",
+          "kind": "follow",
+          "target": "平衡、專注",
+          "dose": "20 分鐘，每週 1–2 次",
+          "title": "Center - Day 18 - Gaze",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=OeTbwCuzLtM",
+          "duration": "19:49"
+        },
+        {
+          "name": "傳統機構的專注技法整理",
+          "en": "Concentration Techniques from The Yoga Institute",
+          "kind": "align",
+          "target": "專注",
+          "dose": "5 分鐘看完，挑其中 1 個技法練滿一週再換",
+          "title": "Easy Ways to Balance your Ajna Chakra to enhance concentration | Dr. Hansaji Yogendra",
+          "channel": "The Yoga Institute",
+          "url": "https://www.youtube.com/watch?v=gcUQ9X8f3-g",
+          "duration": "4:56"
+        },
+        {
+          "name": "正念呼吸覺察（中文）",
+          "en": "Mindful Breathing in Chinese",
+          "kind": "follow",
+          "target": "專注、呼吸控制",
+          "dose": "12 分鐘，每天 1 次；走神就數回到呼吸的次數",
+          "title": "正念呼吸引導練習—陳德中老師",
+          "channel": "台灣正念工坊 Taiwan Mindfulness Center",
+          "url": "https://www.youtube.com/watch?v=XvUJl71hHhM",
+          "duration": "12:11"
+        }
+      ]
+    },
+    {
+      "id": "ch8-u8",
+      "name": "頂輪 Sahasrara：整合與靜坐",
+      "type": "energy",
+      "assessment": "在地板上盤腿坐 5 分鐘，不靠牆、不動。若膝蓋高於髖、必須圓背才坐得住，或 5 分鐘內下背酸到非換姿勢不可，代表你缺的是坐姿的髖與脊椎支撐，不是定力。處理方式很具體：把坐骨墊高到膝蓋低於髖為止（一到三塊磚或折疊毯），再重測一次 5 分鐘。能在不圓背的情況下坐滿 5 分鐘，才有條件把時間往 15、20 分鐘加。",
+      "tight": [
+        "硬盤腿導致圓背、膝蓋懸空扭到內側",
+        "把坐不住歸因於心不定，忽略髖與腳踝的限制",
+        "為了坐滿時間忍痛不調整，練成腰痛",
+        "頭往前伸、下巴抬起，脖子撐住整顆頭的重量"
+      ],
+      "weak": [
+        "找到坐骨承重、脊椎自然直立的坐姿",
+        "用坐墊、磚、牆把坐姿撐到可以久坐",
+        "長時間維持覺察而不與身體訊號對抗",
+        "把一整章分區的注意力練習整合成一次完整靜坐"
+      ],
+      "lesson": {
+        "title": "How to Sit in Meditation - Open Your Hips!",
+        "channel": "YOGABODY",
+        "url": "https://www.youtube.com/watch?v=e6fFsXlRkyA",
+        "duration": "16:14",
+        "why": "直接處理大多數人靜坐失敗的真正原因：髖與腳踝坐不住，而不是心不定。示範坐骨墊高的高度怎麼抓、哪些髖部準備動作能讓膝蓋落下來，是這一輪的前置條件。"
+      },
+      "drills": [
+        {
+          "name": "整合式躺姿引導",
+          "en": "Full-Length Guided Nidra",
+          "kind": "follow",
+          "target": "放鬆與副交感、專注",
+          "dose": "47 分鐘，週末 1 次；躺姿，膝下墊枕",
+          "title": "Crown Chakra Yoga Nidra with Ally Boothroyd",
           "channel": "Ally Boothroyd | Sarovara Yoga",
-          "url": "https://www.youtube.com/watch?v=8mM5Oks8yZc",
-          "duration": "31:29",
-          "why": "全程仰臥或側臥的引導式休息，沒有任何體式、屏息或姿勢改變，是這三個族群都能安全執行的副交感訓練，用來取代強力呼吸法。"
+          "url": "https://www.youtube.com/watch?v=Xjc7laQEKEc",
+          "duration": "47:16"
+        },
+        {
+          "name": "靜坐坐姿排列",
+          "en": "Meditation Sitting Posture",
+          "kind": "align",
+          "target": "腰椎、髖關節",
+          "dose": "5 分鐘看完，調整坐墊高度後試坐 10 分鐘",
+          "title": "How To Sit For Meditation with Perfect Posture",
+          "channel": "Got ROM",
+          "url": "https://www.youtube.com/watch?v=fZrJPUU9fTE",
+          "duration": "5:12"
+        },
+        {
+          "name": "坐不住時的替代坐姿",
+          "en": "Alternative Sitting Positions",
+          "kind": "modify",
+          "target": "腰椎、髖關節",
+          "dose": "7 分鐘，實際測試三種坐姿各 5 分鐘，記下哪一種最久不痛",
+          "title": "Sitting Positions for Meditation (No More Back Pain!)",
+          "channel": "Peaceful Breathing - Meditation and Mindfulness ",
+          "url": "https://www.youtube.com/watch?v=767oowLuNpU",
+          "duration": "7:00"
+        },
+        {
+          "name": "傳統體系的引導休息",
+          "en": "Yoga Nidra with Rod Stryker",
+          "kind": "follow",
+          "target": "放鬆與副交感",
+          "dose": "22 分鐘，每週 2 次",
+          "title": "Guided Yoga Nidra Meditation with Rod Stryker",
+          "channel": "Yoga International",
+          "url": "https://www.youtube.com/watch?v=-PxNLFJ91Io",
+          "duration": "22:20"
+        },
+        {
+          "name": "身體、空間與覺察",
+          "en": "Body, Space and Awareness",
+          "kind": "follow",
+          "target": "專注、放鬆與副交感",
+          "dose": "15 分鐘，每天 1 次，坐姿",
+          "title": "A Guided Meditation on the Body, Space, and Awareness with Yongey Mingyur Rinpoche",
+          "channel": "Yongey Mingyur Rinpoche",
+          "url": "https://www.youtube.com/watch?v=5GSeWdjyr1c",
+          "duration": "14:39"
+        },
+        {
+          "name": "頂輪冥想引導（中文）",
+          "en": "Crown Chakra Guided Meditation in Chinese",
+          "kind": "follow",
+          "target": "專注、放鬆與副交感",
+          "dose": "26 分鐘，每週 1–2 次，坐姿或躺姿皆可",
+          "title": "頂輪冥想引導 | 卸下自我 意識開悟 蓮花盛開",
+          "channel": "MeditTime冥想片刻",
+          "url": "https://www.youtube.com/watch?v=OPW37v9xyjk",
+          "duration": "26:03"
         }
       ]
     }

@@ -1,495 +1,506 @@
 {
   "chapter": "CH11",
-  "title": "瑜伽哲學與經典",
+  "title": "Pratyahara：Shavasana、Yoga Nidra 與 Japa",
   "units": [
     {
-      "id": "ch11-u1",
-      "name": "八支 Ashtanga：瑜伽的完整架構",
-      "type": "philosophy",
-      "assessment": "拿一張紙，在 60 秒內默寫出八支的順序與各自的中文意思，不查資料。寫得出前四支（Yama、Niyama、Asana、Pranayama）卻卡在後四支（Pratyahara、Dharana、Dhyana、Samadhi），代表你對「瑜伽」的認識仍停在身體層面；若能說出「Asana 只是第三支、而且在《瑜伽經》裡只有三句話講它」，就算通過。",
+      "id": "ch1-u6",
+      "name": "大休息 Savasana：每次練習的收尾",
+      "type": "foundation",
+      "assessment": "設 8 分鐘計時器做一次大休息，結束後回答三題：(1) 中途是否張眼確認時間超過 2 次；(2) 起身時是否比躺下前更累或更煩躁；(3) 是否在前 3 分鐘就想動腳或翻身。任一為「是」，代表你需要的是「支撐版」或「有語音引導版」，而不是更長的沉默躺著。身體檢查：躺下滿 1 分鐘後，刻意鬆開下巴與舌根，若你感覺到牙齒原本是輕輕咬著的、或肩膀突然掉下來一截，代表你剛剛是在「用力休息」。腰部檢查：仰臥時若腰下的縫隙讓你想拱背或想把腳踩回來，在膝下墊枕頭或捲毯，讓腰自然貼近地面。",
       "tight": [
-        "把八支當成「八個階段」，以為要練完前一支才能碰下一支——原文的次第性沒有那麼線性",
-        "誤以為 Asana 在帕坦加利體系中指的是體位序列，實際上《瑜伽經》2.46 只說「穩定而舒適的坐姿」",
-        "把 Pratyahara（收攝感官）當成閉眼放空，忽略它是感官與對象脫鉤的主動練習",
-        "以為 Samadhi 是一種情緒高峰經驗，而非認知結構的改變"
+        "練完直接起身收墊子，完全跳過收尾",
+        "躺著時仍在對抗——下巴咬緊、肩膀提著、腳趾用力",
+        "腰下懸空造成不適，靠拱背硬撐而非墊高膝蓋",
+        "把大休息當睡覺，設定太長反而醒來更昏沉"
       ],
       "weak": [
-        "能用一句話說出八支各自要處理的問題（人我關係／自我關係／身體／能量／感官／注意力／持續／融合）",
-        "能區分「帕坦加利的 Ashtanga」與「Pattabhi Jois 的 Ashtanga Vinyasa」是兩件事",
-        "能把自己現在的練習定位到八支的哪一格，並看出哪幾格從沒碰過"
+        "從交感切換到副交感的能力",
+        "在靜止中維持清醒的專注（不是睡著）",
+        "用輔具讓身體真正被支撐的能力",
+        "身體掃描與局部放鬆的覺察"
       ],
       "lesson": {
-        "title": "The 8 Limbs of Yoga Made Clear: A Modern, Practical Guide to Patanjali’s System",
-        "channel": "Jason Crandell Yoga",
-        "url": "https://www.youtube.com/watch?v=HwcEkciY-LA",
-        "duration": "15:24",
-        "why": "Jason Crandell 是資深師資培訓講師，這支不背誦名相，而是逐支說明「這一支在現代生活裡實際要求你做什麼」，並明確指出八支不是線性階梯。15 分鐘講完整個架構，密度剛好適合當本章入口。"
+        "title": "Savasana (Corpse Pose) Benefits, How to Do & Contraindications by Yogi Sandeep - Siddhi Yoga",
+        "channel": "Siddhi Yoga International",
+        "url": "https://www.youtube.com/watch?v=TJNfblsl5i4",
+        "duration": "9:58",
+        "why": "師資培訓機構的體式拆解：擺位（腳張開角度、手掌朝上、下巴微收）、該躺多久、什麼狀況要改側躺或墊高，把大休息當成一個有做法的體式而非「隨便躺」。"
       },
       "drills": [
         {
-          "name": "八支總覽：機構版系統講解",
-          "en": "Introduction to Patanjali's Eightfold Path",
-          "kind": "align",
-          "target": "專注",
-          "dose": "完整看一次，邊看邊列出八支的關鍵字",
-          "title": "Yoga & You: Introduction to Patanjali’s Eightfold Path of Yoga | Dr. Hansaji Yogendra",
-          "channel": "The Yoga Institute",
-          "url": "https://www.youtube.com/watch?v=T_RSVRbMXS4",
-          "duration": "16:55"
-        },
-        {
-          "name": "十分鐘八支速寫",
-          "en": "The 8 Limbs of Yoga Explained",
-          "kind": "modify",
-          "target": "專注",
-          "dose": "當作複習，看完後蓋起來口述一次",
-          "title": "What is Yoga? The 8 Limbs of Yoga Explained | Ep 1 Yoga Off the Mat | Emily Rowell Yoga",
-          "channel": "Emily Rowell Yoga",
-          "url": "https://www.youtube.com/watch?v=Q-U2ncEQ674",
-          "duration": "9:45"
-        },
-        {
-          "name": "八肢瑜伽是什麼（粵語繁中）",
-          "en": "What is Ashtanga Yoga (Cantonese)",
+          "name": "十分鐘引導大休息",
+          "en": "Guided savasana",
           "kind": "follow",
-          "target": "專注",
-          "dose": "一次看完 30 分鐘，中文語境下重新對照名相",
-          "title": "【BB班】Ashtanga 八肢瑜伽是什麽？(1) - 《瑜伽經》簡介 Carmen Lam | Prana Yoga HK",
-          "channel": "Auntie Gold - Prana Yoga HK 般那瑜伽工作室",
-          "url": "https://www.youtube.com/watch?v=-nNJAnJCETw",
-          "duration": "30:51"
+          "target": "放鬆與副交感、專注",
+          "dose": "每次練習後 5–10 分鐘",
+          "title": "Savasana (Corpse Yoga Pose) | 10-Minute Guided Relaxation",
+          "channel": "YOGA UPLOAD with Maris Aylward",
+          "url": "https://www.youtube.com/watch?v=G1j3erpSErE",
+          "duration": "10:22"
         },
         {
-          "name": "八支作為禪修次第",
-          "en": "The Eight Limbs of Yogic Meditation",
-          "kind": "deepen",
-          "target": "專注",
-          "dose": "分兩次看，第二次只記錄「與我原本理解不同的地方」",
-          "title": "The Eight Limbs of Yogic Meditation - Patanjali's Yoga Sutras",
-          "channel": "ArshaBodha - Swami Tadatmananda",
-          "url": "https://www.youtube.com/watch?v=vSaf47zusx4",
-          "duration": "22:02"
-        },
-        {
-          "name": "內在四支：收攝、專注、禪那",
-          "en": "Pratyahara, Dharana & Dhyana",
-          "kind": "align",
+          "name": "身體掃描",
+          "en": "Savasana body scan",
+          "kind": "follow",
           "target": "專注、放鬆與副交感",
-          "dose": "看完後實際做 5 分鐘 Dharana（單點凝視）驗證差異",
-          "title": "What is Meditation? - Pratyahara, Dharana & Dhyana | Ep 5 Yoga Off the Mat | Emily Rowell Yoga",
-          "channel": "Emily Rowell Yoga",
-          "url": "https://www.youtube.com/watch?v=laVT_0omKdE",
-          "duration": "12:33"
-        }
-      ]
-    },
-    {
-      "id": "ch11-u2",
-      "name": "Yama 與 Niyama：墊子之外的十條",
-      "type": "philosophy",
-      "assessment": "挑 Yama 裡的 Satya（不妄語）觀察一週，每天睡前記下當天有幾次「為了避免尷尬或討人喜歡而說了不精確的話」。若一週結束時你的清單少於 3 筆，多半不是你做得好，而是你還沒學會觀察——這比背誦十條定義更接近這個單元的目的。另一個當場可做的檢查：說出 Aparigraha（不貪積）與 Asteya（不偷盜）的差別，說不清楚就代表你只記得名字。",
-      "tight": [
-        "把 Yama/Niyama 當成道德誡命清單去「遵守」，而不是當成觀察自己的工具",
-        "把 Ahimsa 簡化成吃素，忽略它同時指向對自己身體的不暴力（例如硬壓進體式）",
-        "把 Brahmacharya 直接譯成禁慾，忽略它在多數註釋傳統裡指的是能量的節制與導向",
-        "只練 Yama（對外）而完全跳過 Niyama（對內），或反過來只做 Tapas 式的自我鞭策"
-      ],
-      "weak": [
-        "能把抽象戒律轉成一個當週可執行、可記錄的觀察任務",
-        "能分辨「我做到了」與「我沒有機會不做到」的差別",
-        "能說出 Niyama 五條各自對應的內在功課，尤其 Santosha（知足）與被動接受的差異"
-      ],
-      "lesson": {
-        "title": "Moral Guidelines for Yogis - The Yamas & Niyamas | Ep 2 Yoga Off the Mat | Emily Rowell Yoga",
-        "channel": "Emily Rowell Yoga",
-        "url": "https://www.youtube.com/watch?v=-pjfxZDSoEQ",
-        "duration": "15:14",
-        "why": "十條一次講完而且每一條都給了現代生活的具體例子（社群媒體、消費、人際界線），不是逐字翻譯梵文。15 分鐘的長度讓人願意重看，適合當這個單元的骨架。"
-      },
-      "drills": [
-        {
-          "name": "五條 Yama 拆解",
-          "en": "The 5 Yamas",
-          "kind": "align",
-          "target": "專注",
-          "dose": "看完後為每一條寫下一個自己這個月的真實例子",
-          "title": "The 5 Yamas | Yoga Values",
-          "channel": "Kinga Gorski",
-          "url": "https://www.youtube.com/watch?v=LeR47XWLqgU",
-          "duration": "7:42"
+          "dose": "每週 2–3 次，取代無引導的大休息",
+          "title": "10 Minute Guided Meditation for Relaxation - Savasana Body Scan",
+          "channel": "Yoga With Bird",
+          "url": "https://www.youtube.com/watch?v=rKBEGpzK25s",
+          "duration": "9:33"
         },
         {
-          "name": "五條 Niyama 拆解",
-          "en": "The 5 Niyamas",
-          "kind": "align",
-          "target": "專注",
-          "dose": "看完後挑一條當本週的內在功課",
-          "title": "5 Niyamas of Yoga | Yoga Values",
-          "channel": "Kinga Gorski",
-          "url": "https://www.youtube.com/watch?v=ftcFYur-ku0",
-          "duration": "7:20"
+          "name": "十分鐘瑜珈休息術（中文引導）",
+          "en": "Yoga nidra in Mandarin",
+          "kind": "follow",
+          "target": "放鬆與副交感、呼吸控制",
+          "dose": "睡前或午休 10 分鐘",
+          "title": "【10分鐘瑜珈休息術】舒緩壓力｜快速充電｜改善失眠｜深層放鬆｜Yoga Nidra for Deep Relaxation",
+          "channel": "Siuyong Yoga",
+          "url": "https://www.youtube.com/watch?v=C7RbylzfMAw",
+          "duration": "10:13"
         },
         {
-          "name": "回到《瑜伽經》原文讀 Yama",
-          "en": "Yoga Sutras: The Yamas",
+          "name": "躺不住時的瑜伽睡眠",
+          "en": "10 minute yoga nidra",
           "kind": "deepen",
-          "target": "專注",
-          "dose": "配著經文段落看一次，記下與通俗版本的落差",
-          "title": "The Yoga Sutras of Patanjali (Part 8): The Yamas! Learn Yoga Philosophy with Rachel",
-          "channel": "Rachel Scott",
-          "url": "https://www.youtube.com/watch?v=Dr_H82tQHU0",
-          "duration": "29:56"
+          "target": "放鬆與副交感、專注",
+          "dose": "心浮氣躁、無法安靜躺著的日子用這支替代",
+          "title": "10 Minute Yoga Nidra | Full Nervous System Massage",
+          "channel": "Ally Boothroyd | Sarovara Yoga",
+          "url": "https://www.youtube.com/watch?v=ApQ9NovgnA4",
+          "duration": "13:14"
         },
         {
-          "name": "持戒與遵行為何重要（粵語繁中）",
-          "en": "Why Yama & Niyama Matter (Cantonese)",
-          "kind": "follow",
-          "target": "專注",
-          "dose": "分兩次看完 57 分鐘，第二次只聽提問段落",
-          "title": "【BB班】Ashtanga 八肢瑜伽是什麽？(2) - Yama 持戒 & Niyama 遵行的重要性 - Carmen Lam｜ Prana Yoga HK",
-          "channel": "Auntie Gold - Prana Yoga HK 般那瑜伽工作室",
-          "url": "https://www.youtube.com/watch?v=95-h5TqkYIs",
-          "duration": "57:04"
-        },
-        {
-          "name": "持戒精進：六分鐘繁中導讀",
-          "en": "Yama & Niyama in Chinese (short intro)",
+          "name": "靠牆抬腿：支撐版收尾",
+          "en": "Legs up the wall",
           "kind": "modify",
-          "target": "專注",
-          "dose": "通勤時看一次，作為中文名相對照表",
-          "title": "《瑜珈經》｜《八肢瑜珈》持戒(Yama)、精進(Niyama)，身心靈自由，平靜、喜悅、幸福的人生鑰匙！(序言) (Yoga Sutra) (Ashtanga yoga)",
-          "channel": "許庭甄 Evelyn yoga",
-          "url": "https://www.youtube.com/watch?v=jjlBhtDT7Gc",
-          "duration": "5:42"
+          "target": "腿後側、放鬆與副交感、腰椎",
+          "dose": "3–8 分鐘，久站久走或腰下懸空不適時取代平躺",
+          "title": "Legs Up The Wall - Foundations of Yoga",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=_OQEIiZLY-0",
+          "duration": "6:47"
+        }
+      ],
+      "tradition": "傳承看待 shavasana 比「放鬆」重得多。〈The Himalayan Yoga Tradition〉 說這些內在練習「細緻而複雜，遠遠超過單純的放鬆」，可以依 **annamaya kosha（食物層）→ pranamaya kosha（氣層）→ manomaya kosha（意層）** 的邏輯進程來練，最後才是 yoga-nidra。本單元教的是這個進程的第一層。",
+      "traditionRefs": [
+        {
+          "quote": "Shavasana practices serve as ways of entering one’s own subtle body. The interior exercises are detailed and complex and go far beyond mere relaxations. They may be practised at the levels of annamaya kosha, pranamaya kosha, or manomaya kosha in a logical progression.",
+          "source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.6",
+          "url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=6"
         }
       ]
     },
     {
-      "id": "ch11-u3",
-      "name": "帕坦加利《瑜伽經》Yoga Sutras",
-      "type": "philosophy",
-      "assessment": "把 1.2「yogaś citta-vṛtti-nirodhaḥ」用自己的話翻成一句中文，然後回答：這句話裡「nirodha」是「停止」還是「約束」？兩種讀法會導向完全不同的練習方式（前者要你消滅念頭，後者要你不被念頭帶走）。你若答不出來自己採用的是哪一種讀法，代表你只是背過這句話。再檢查一次：說得出《瑜伽經》分成哪四品（pāda）嗎？",
+      "id": "ch9-u3",
+      "name": "身體掃描 Body Scan",
+      "type": "meditation",
+      "assessment": "躺著做一次 10 分鐘身體掃描，結束後點名四個部位：左腳掌、右腳掌、左手掌、右手掌。若其中兩個以上「完全感覺不到、只能用想像的」，代表本體感覺還沒建立，不是你不夠專心——先動一動該部位（勾腳、握拳三次）讓感覺出現，再重新掃描。第二個判準：若十次練習裡有三次以上在掃描到腿部之前就睡著，把姿勢從平躺改成靠牆坐，或把練習時間從睡前移到下午。",
       "tight": [
-        "把《瑜伽經》當成體位法手冊——全書 195 句裡直接談 Asana 的只有三句",
-        "只讀英文意譯本，把譯者（多半帶有 19–20 世紀神智學色彩）的詮釋當成原文",
-        "把 abhyāsa（練習）與 vairāgya（不執著）當成兩個階段，而非同時運作的一組",
-        "忽略帕坦加利的二元論（Purusha / Prakriti）背景，用不二論 Vedanta 的框架硬套"
+        "把身體掃描當成放鬆到睡著的工具，每次都沒掃完就睡",
+        "掃到痠痛部位就急著調整或按摩，變成處理疼痛而非觀察",
+        "用「想像」代替「感覺」，腦中畫圖但身體沒有實際感受",
+        "掃描速度太快，一分鐘掃完全身，等於什麼都沒觀察到"
       ],
       "weak": [
-        "能指出「vṛtti（心的波動）有五種」並各舉一例",
-        "能區分經文本身、註釋（Vyāsa 等）與現代講者的個人詮釋",
-        "能說出《瑜伽經》四品的分工，而不是把整本書當成散裝金句"
+        "本體感覺與內感受（interoception）的解析度",
+        "對不舒服的感覺保持不動作、不評價的耐受力",
+        "長時間躺姿下維持清醒的能力",
+        "從局部注意力平順移動到下一個部位的控制"
       ],
       "lesson": {
-        "title": "The Yoga Sutras (Part 1) ~ The Big Idea: Learn Yoga Philosophy with Rachel",
-        "channel": "Rachel Scott",
-        "url": "https://www.youtube.com/watch?v=eqkYucG1jjM",
-        "duration": "22:06",
-        "why": "Rachel Scott 有教育學博士背景，這支先講《瑜伽經》要解決的問題（苦從何來）再進經文，並清楚交代帕坦加利的二元論前提——多數入門影片都跳過這一層，導致後面全部誤讀。這是一個八集系列的第一集，架構完整。"
+        "title": "Body Scan Meditation - Jon Kabat-Zinn",
+        "channel": "Mindfulness 360",
+        "url": "https://www.youtube.com/watch?v=_DTmGtznab4",
+        "duration": "29:03",
+        "why": "MBSR 身體掃描的原始版本，由設計這套課程的 Jon Kabat-Zinn 本人引導，語速與停頓就是標準參照；先做過這一版，再回頭聽任何縮短版都知道被省略了什麼。"
       },
       "drills": [
         {
-          "name": "五種心的波動 Vrttis",
-          "en": "What are the vrttis?",
+          "name": "身體掃描在做什麼",
+          "en": "What the body scan does",
           "kind": "align",
-          "target": "專注",
-          "dose": "看完後花 10 分鐘靜坐，把冒出的念頭歸類到五種之一",
-          "title": "What are the vrttis? (Part 2): Explore the Yoga Sutras and Yoga Philosophy with Rachel",
-          "channel": "Rachel Scott",
-          "url": "https://www.youtube.com/watch?v=OfU9mu3hz1o",
-          "duration": "22:31"
+          "target": "放鬆與副交感、專注",
+          "dose": "看一次，練習前建立框架",
+          "title": "Mindful Body Scan (Short): Anxiety Skills #28",
+          "channel": "Therapy in a Nutshell",
+          "url": "https://www.youtube.com/watch?v=6iDKF-TrAfE",
+          "duration": "4:25"
         },
         {
-          "name": "逐句解 1.2：瑜伽的定義",
-          "en": "Yogas Citta Vritti Nirodhah",
-          "kind": "align",
-          "target": "專注",
-          "dose": "看一次，寫下你自己版本的 1.2 中譯",
-          "title": "PATANJALI YOGA SUTRA : Yogaś Citta Vritti Nirodhaḥ (English) | Anandmurti Gurumaa",
-          "channel": "Anandmurti Gurumaa - English",
-          "url": "https://www.youtube.com/watch?v=SfzOkx4XjsY",
-          "duration": "21:33"
-        },
-        {
-          "name": "練習與不執著：把經文落到日常",
-          "en": "Abhyasa & Vairagya",
-          "kind": "modify",
-          "target": "專注、放鬆與副交感",
-          "dose": "看完後指認出自己練習中「過度用力」與「放棄」各一個例子",
-          "title": "Practice and Non Attachment (Part 3): The Yoga Sutras with Rachel",
-          "channel": "Rachel Scott",
-          "url": "https://www.youtube.com/watch?v=dWMA2q7tGKI",
-          "duration": "16:26"
-        },
-        {
-          "name": "喜馬拉雅傳統的完整講座",
-          "en": "Yoga Sutras with Swami Rama",
-          "kind": "follow",
-          "target": "專注",
-          "dose": "當作長篇聆聽，一次或分三次聽完",
-          "title": "Yoga Sutras (1/8) - Swami Rama",
-          "channel": "Swami J Bharati",
-          "url": "https://www.youtube.com/watch?v=qVrCSUIduzc",
-          "duration": "77:35"
-        },
-        {
-          "name": "學界版本：Edwin Bryant 講《瑜伽經》",
-          "en": "The Yoga Sutras of Patanjali | Prof. Edwin Bryant",
-          "kind": "deepen",
-          "target": "專注",
-          "dose": "分三次看完，重點放在他對譯本差異的說明",
-          "title": "The Yoga Sutras of Patanjali | Prof. Edwin Bryant",
-          "channel": "Vedanta Society of New York",
-          "url": "https://www.youtube.com/watch?v=cp1X-ar76nA",
-          "duration": "106:04"
-        }
-      ]
-    },
-    {
-      "id": "ch11-u4",
-      "name": "《薄伽梵歌》與三條瑜伽道路",
-      "type": "philosophy",
-      "assessment": "用三句話回答：Arjuna 在戰場上拒絕作戰的理由是什麼？Krishna 的第一個回應是什麼？「不執著於行動的果實」與「不在乎結果」差在哪裡？第三題答不出來，代表你把 Karma Yoga 讀成了消極主義——這是最常見的誤讀。接著自問：過去一週你做的哪一件事最接近「做了但不佔有結果」？舉不出例子就從一件小事開始。",
-      "tight": [
-        "把「不執著果實」讀成不在乎結果、不必努力——原文要求的是全力以赴後放下所有權",
-        "把三條路當成三選一的性格測驗，忽略《歌》本身反覆強調它們互相滲透",
-        "跳過戰場的隱喻脈絡，直接把《歌》當成勵志語錄集",
-        "以為 Bhakti（虔信）只適用於有神論者，因而整章略過"
-      ],
-      "weak": [
-        "能說出 Karma / Bhakti / Jnana 各自的核心動作（行動、奉獻、辨析）",
-        "能看出《薄伽梵歌》與《瑜伽經》在哲學立場上的差異（有神論 vs 二元論修行系統）",
-        "能把「三性論」（sattva / rajas / tamas）用在觀察自己一天的狀態"
-      ],
-      "lesson": {
-        "title": "【#不增不減兩分滿 】EP3｜印度教經典《薄伽梵歌》的哲學獨特性與三性論 ft. 梵學家 Satyavrata Shiva",
-        "channel": "禪師不打坐",
-        "url": "https://www.youtube.com/watch?v=9gou72mswHE",
-        "duration": "25:44",
-        "why": "少見的繁中深度對談，找了受過梵文訓練的學者談《薄伽梵歌》在印度哲學史中的定位與三性論，不是唸誦金句。中文語境下建立框架後再進英文長講座會省很多力氣。"
-      },
-      "drills": [
-        {
-          "name": "戰場上的對話：故事脈絡",
-          "en": "Krishna Speaks With Prince Arjuna",
-          "kind": "modify",
-          "target": "專注",
-          "dose": "先看這支建立故事骨架，再進哲學講座",
-          "title": "The Bhagavad Gita - Krishna Speaks With Prince Arjuna - Hindu - Extra Mythology",
-          "channel": "Extra History",
-          "url": "https://www.youtube.com/watch?v=G28qHASOtE8",
-          "duration": "7:24"
-        },
-        {
-          "name": "第一章：Arjuna 的崩潰",
-          "en": "Bhagavad Gita Chapter 1 Summary",
-          "kind": "align",
-          "target": "專注",
-          "dose": "看完後寫下你自己版本的「Arjuna 困境」",
-          "title": "1. Bhagavad Gita | Chapter 1 Summary | Swami Sarvapriyananda",
-          "channel": "Vedanta Society of New York - Archives",
-          "url": "https://www.youtube.com/watch?v=y9Kt7Db9MxA",
-          "duration": "66:16"
-        },
-        {
-          "name": "業瑜伽：行動之道",
-          "en": "Karma Yoga: The Path of Action",
-          "kind": "follow",
-          "target": "專注",
-          "dose": "一次聽完，記錄三個可以套用到工作的原則",
-          "title": "Karma Yoga: The Path of Action (Part 1) | Swami Sarvapriyananda",
-          "channel": "Vedanta Society of New York",
-          "url": "https://www.youtube.com/watch?v=-rgNWIeF9Qo",
-          "duration": "68:22"
-        },
-        {
-          "name": "虔信瑜伽：奉愛之道",
-          "en": "Bhakti Yoga: The Path of Devotion",
+          "name": "十分鐘身體掃描",
+          "en": "10-minute body scan",
           "kind": "follow",
           "target": "放鬆與副交感",
-          "dose": "分兩次聽完，注意他如何處理無神論者的疑問",
-          "title": "Bhakti Yoga: The Path of Devotion | Swami Sarvapriyananda",
-          "channel": "Vedanta Society of New York",
-          "url": "https://www.youtube.com/watch?v=dDIdHh2-mF8",
-          "duration": "89:22"
+          "dose": "每日 10 分鐘 × 2 週",
+          "title": "The Body Scan (10 Minutes)",
+          "channel": "Dr. Elisha Goldstein",
+          "url": "https://www.youtube.com/watch?v=zsCVqFr6j1g",
+          "duration": "10:23"
         },
         {
-          "name": "智慧瑜伽：辨析之道",
-          "en": "Jnana Yoga: The Path of Knowledge",
+          "name": "中文十分鐘身體掃描",
+          "en": "Chinese guided body scan",
+          "kind": "follow",
+          "target": "放鬆與副交感、專注",
+          "dose": "每日 10 分鐘，聽不慣英文引導時用",
+          "title": "引導冥想 | 10分鐘身體掃描正念冥想每日練習快速減壓放鬆 10 Minute Chinese Guided Mindfulness Meditation Body Scan",
+          "channel": "Relaxed Rachel 放鬆瑞秋",
+          "url": "https://www.youtube.com/watch?v=vMJr4G-AVLY",
+          "duration": "10:00"
+        },
+        {
+          "name": "大休息式版本",
+          "en": "Savasana body scan",
+          "kind": "modify",
+          "target": "放鬆與副交感、腰椎",
+          "dose": "體位法練習後接上，9–10 分鐘",
+          "title": "10 Minute Guided Meditation for Relaxation - Savasana Body Scan",
+          "channel": "Yoga With Bird",
+          "url": "https://www.youtube.com/watch?v=rKBEGpzK25s",
+          "duration": "9:33"
+        },
+        {
+          "name": "MBSR 標準長版身體掃描",
+          "en": "35-minute MBSR body scan",
           "kind": "deepen",
-          "target": "專注",
-          "dose": "分三次聽完，這是三條路裡最抽象的一條",
-          "title": "Jnana Yoga: The Path of Knowledge | Swami Sarvapriyananda",
-          "channel": "Vedanta Society of New York",
-          "url": "https://www.youtube.com/watch?v=EijmfagFw20",
-          "duration": "118:18"
+          "target": "放鬆與副交感、專注",
+          "dose": "每週 3 次，35 分鐘",
+          "title": "35分鐘 身體掃描｜胡君梅",
+          "channel": "Chinese MBSR Service",
+          "url": "https://www.youtube.com/watch?v=pSd6TqVpnxM",
+          "duration": "35:00"
+        },
+        {
+          "name": "61 點放鬆法",
+          "en": "61 points relaxation",
+          "kind": "deepen",
+          "target": "專注、放鬆與副交感",
+          "dose": "每週 2 次，作為 Yoga Nidra 前導",
+          "title": "61 Points Relaxation | 10 min guided body scan",
+          "channel": "Yoganama",
+          "url": "https://www.youtube.com/watch?v=aYaUhX2acE0",
+          "duration": "10:50"
+        }
+      ],
+      "tradition": "傳承的 pratyahara 不只是掃描身體。〈The Himalayan Yoga Tradition〉 描述的次第是：**先讓心靜下來，再讓感官融入已靜的心**，覺知集中在 pranamaya kosha；在有能力的導師引導下，會感覺到 prana vayu 這股細微的氣在體內依序從一點移到另一點，直到身體被忘掉。身體掃描是這條路上你可以自己走的起點。",
+      "traditionRefs": [
+        {
+          "quote": "Pratyahara is the least understood of the components (angas) of yoga. … it means: (a) first calming the mind, (b) then merging the senses into the calmed mind, and thereby (c) calming the sense faculties. In actual instruction it is done through certain breathing practices in which the awareness is centered in pranamaya kosha.",
+          "source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.4",
+          "url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=4",
+          "sutra": "YS II.54"
+        },
+        {
+          "quote": "Under a capable preceptor, one feels the movement of the subtle wind of prana vayu moving from one point to another in the body in a systematic progression from point to point, until: (a) the physical body is forgotten, (b) the awareness of pranamaya kosha deepens…",
+          "source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.4",
+          "url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=4"
         }
       ]
     },
     {
-      "id": "ch11-u5",
-      "name": "瑜伽的歷史：從古典到現代體位法",
-      "type": "philosophy",
-      "assessment": "回答一個問題：你今天做的拜日式（Surya Namaskar）最早的文獻紀錄大約是哪個年代？如果你的答案是「幾千年前」，去查一次——目前學界（Singleton、Goldberg、Alter 等）的證據指向 20 世紀初的印度，且與當時的體操與健身運動高度重疊。接著檢查你手上任何一本瑜伽書的第一章：它有沒有給「五千年歷史」這個說法附上任何一手文獻？沒有的話，那句話就是行銷文案而不是史學結論。",
+      "id": "ch9-u4",
+      "name": "瑜伽睡眠 Yoga Nidra",
+      "type": "meditation",
+      "assessment": "做一次 20 分鐘 Yoga Nidra 並錄音或計時。結束後檢查兩件事：一、有沒有錯過中段指令或聽到自己打呼——睡著代表睡眠債太大，不是練壞了，但要先補眠再談練習品質；二、結束當下能不能立刻一字不差說出自己的 sankalpa（決心語），說不出來代表前段的意圖設定被跳過了。第三個判準：做完若是昏沉想睡而不是清明鬆弛，把練習從睡前移到下午三點，並蓋厚毯、用毛巾蓋眼睛再試一次。",
       "tight": [
-        "把「瑜伽有五千年歷史」當成史實複述——印度河谷印章的所謂『瑜伽坐姿』至今沒有學界共識",
-        "把《瑜伽經》當成現代體位練習的源頭，忽略哈達瑜伽文獻（11–18 世紀）才是體式的來源",
-        "假設現代體位序列全部來自印度傳統，忽略 19–20 世紀歐洲體操、丹麥式徒手操與印度民族主義健身運動的影響",
-        "把「有外來影響」誤讀成「瑜伽是假的」——歷史複雜不等於價值歸零"
+        "把 Yoga Nidra 當助眠音檔，每次都睡著，從沒完整走完一輪",
+        "躺姿沒有支撐，膝下無墊導致下背在 20 分鐘後開始痠",
+        "sankalpa 設成願望清單（我要變有錢），而不是現在式的短句",
+        "體溫下降沒保暖，中途冷醒或肌肉緊繃"
       ],
       "weak": [
-        "能區分前古典、古典（《瑜伽經》）、哈達、現代體位法四個層次的文獻與年代",
-        "能對任何「瑜伽歷史」說法追問「這個說法的一手材料是什麼」",
-        "能在不貶低練習價值的前提下，接受自己所練的體系是近百年的產物"
+        "在清醒與睡眠交界處維持覺知的能力",
+        "身體部位輪轉（rotation of consciousness）的注意力速度",
+        "副交感啟動與深層休息的效率",
+        "意圖（sankalpa）的植入與回收"
       ],
       "lesson": {
-        "title": "What is Yoga? An Introduction to Yoga Studies",
-        "channel": "Yogic Studies",
-        "url": "https://www.youtube.com/watch?v=44YFKt3-fos",
-        "duration": "32:06",
-        "why": "Yogic Studies 是由宗教學研究者 Seth Powell 經營的學術型頻道，這支用學界（Mallinson、Singleton、White 等）的分期架構講「瑜伽」一詞在不同年代指的是什麼，全程標示證據來源。觀看數 17,081，以學術型內容而言已屬高流量。"
+        "title": "Yoga Nidra: Introduction to the Complete Practice",
+        "channel": "Yoga International",
+        "url": "https://www.youtube.com/watch?v=6usuqKQOiqM",
+        "duration": "11:14",
+        "why": "喜馬拉雅體系的機構頻道，把完整 Yoga Nidra 的段落結構（準備、sankalpa、身體輪轉、呼吸覺察、收尾）一段段拆開說明，聽完再去做任何一支引導都知道自己現在走到哪一段。"
       },
       "drills": [
         {
-          "name": "批判性的瑜伽史",
-          "en": "A Critical History of Yoga",
+          "name": "Yoga Nidra 是技法還是狀態",
+          "en": "Technique versus state",
           "kind": "align",
-          "target": "專注",
-          "dose": "看一次，記下三個你原本相信但沒有證據的說法",
-          "title": "A Critical History of Yoga",
-          "channel": "FuzzyTheory",
-          "url": "https://www.youtube.com/watch?v=jgYt74kq_I4",
-          "duration": "20:18"
+          "target": "放鬆與副交感、專注",
+          "dose": "看一次，練了兩週後再看一次",
+          "title": " Sarovara Yoga|What is Yoga Nidra? Techniques Versus a State of Consciousness",
+          "channel": "Ally Boothroyd ",
+          "url": "https://www.youtube.com/watch?v=czpEPMa-XPE",
+          "duration": "17:29"
         },
         {
-          "name": "拜日式的身世",
-          "en": "Unravelling the History of Surya Namaskar",
-          "kind": "align",
-          "target": "專注",
-          "dose": "看完後對照你自己學的拜日式版本差異",
-          "title": "Unravelling the History of Surya Namaskar",
-          "channel": "Keen on Yoga",
-          "url": "https://www.youtube.com/watch?v=vCQoibw5uQQ",
-          "duration": "33:40",
-          "why": "觀看數 2,232 低於一般門檻，但這是少數專門追溯拜日式文獻源流（含 20 世紀初 Aundh 邦推廣運動）的長談，主題不可替代，故依放寬標準採用。"
-        },
-        {
-          "name": "宗教學視角的瑜伽通史",
-          "en": "What is Yoga? (Let's Talk Religion)",
+          "name": "十分鐘版：午休與神經系統重置",
+          "en": "Ten minute yoga nidra",
           "kind": "follow",
-          "target": "專注",
-          "dose": "一次看完 50 分鐘，把時間軸畫出來",
-          "title": "What is Yoga?",
-          "channel": "Let's Talk Religion",
-          "url": "https://www.youtube.com/watch?v=gyVgSeu-Ks0",
-          "duration": "50:25"
+          "target": "放鬆與副交感",
+          "dose": "午休或工作空檔，10 分鐘",
+          "title": " Sarovara Yoga|Ten Minute Yoga Nidra | Reset Your Nervous System",
+          "channel": "Ally Boothroyd ",
+          "url": "https://www.youtube.com/watch?v=_noquwycq78",
+          "duration": "10:49"
         },
         {
-          "name": "Mark Singleton 談《Yoga Body》十年後",
-          "en": "Mark Singleton | Yoga Body, 10 Years Later",
-          "kind": "deepen",
-          "target": "專注",
-          "dose": "分兩次聽完，注意他如何回應學界對該書的批評",
-          "title": "YSP 15 Mark Singleton | Yoga Body, 10 Years Later",
-          "channel": "Yogic Studies",
-          "url": "https://www.youtube.com/watch?v=gAXiDm-okLY",
-          "duration": "81:24"
+          "name": "中文瑜珈放鬆休息法",
+          "en": "Yoga nidra in Chinese",
+          "kind": "follow",
+          "target": "放鬆與副交感",
+          "dose": "每週 2 次，20 分鐘",
+          "title": "瑜珈放鬆休息法(Vita Liao翻譯) - Yoga Nidra",
+          "channel": "生活的藝術 Art of Living",
+          "url": "https://www.youtube.com/watch?v=xsEJInl_BDU",
+          "duration": "20:23"
         },
         {
-          "name": "《Roots of Yoga》兩位作者對談",
-          "en": "James Mallinson and Mark Singleton, Roots of Yoga",
+          "name": "Rod Stryker 引導版",
+          "en": "Guided yoga nidra with Rod Stryker",
+          "kind": "follow",
+          "target": "放鬆與副交感、專注",
+          "dose": "每週 1–2 次，22 分鐘",
+          "title": "Guided Yoga Nidra Meditation with Rod Stryker",
+          "channel": "Yoga International",
+          "url": "https://www.youtube.com/watch?v=-PxNLFJ91Io",
+          "duration": "22:20"
+        },
+        {
+          "name": "Satyananda 傳統完整版",
+          "en": "Satyananda-style yoga nidra",
           "kind": "deepen",
-          "target": "專注",
-          "dose": "分兩次聽完，重點在他們如何處理梵文一手材料",
-          "title": "NYSL: James Mallinson and Mark Singleton, Roots of Yoga",
-          "channel": "The New York Society Library",
-          "url": "https://www.youtube.com/watch?v=_3hPjoPXA6Y",
-          "duration": "90:04"
+          "target": "放鬆與副交感、專注",
+          "dose": "每週 1 次，35 分鐘",
+          "title": "Yoga Nidra Meditation (as by Swami Satyananda)",
+          "channel": "Lotos Yoga Berlin",
+          "url": "https://www.youtube.com/watch?v=t8IWltctlbs",
+          "duration": "34:48"
+        },
+        {
+          "name": "四十五分鐘深度休息",
+          "en": "45-minute yoga nidra",
+          "kind": "deepen",
+          "target": "放鬆與副交感",
+          "dose": "週末或極度疲勞時，1 次",
+          "title": " Sarovara Yoga|45 Minute Yoga Nidra with Ally Boothroyd",
+          "channel": "Ally Boothroyd ",
+          "url": "https://www.youtube.com/watch?v=KUVZDuYfKMg",
+          "duration": "46:36"
+        }
+      ],
+      "tradition": "傳承對這個詞的用法比坊間嚴格。〈The Himalayan Yoga Tradition〉 特別加註：**yoga-nidra「不要跟那些有時被當成 yoga-nidra 的簡單 shavasana 練習混為一談」**。在傳承的次第裡，它是 pratyahara 之後的下一步——先靜心、感官融入已靜的心、覺知落在 pranamaya kosha，等 prana 融回 manomaya kosha、心靜感官止息之後，才談得上 yoga-nidra。網路上大多數引導（包括本單元收的）屬於前者。",
+      "traditionRefs": [
+        {
+          "quote": "From here, yoga-nidra (not to be confused with simple shavasana practices that sometimes pass for yoga-nidra) is the next step.",
+          "source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.4",
+          "url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=4"
+        },
+        {
+          "quote": "Systems of meditation, science of mantra, chakra concentrations, purifying the personality, five koshas, advanced shavasana techniques, and yoga-nidra.",
+          "source": "Himalayan Yoga Tradition — Program Features（課程內容）",
+          "url": "https://www.himalayanyogatradition.com/features.html"
         }
       ]
     },
     {
-      "id": "ch11-u6",
-      "name": "現代瑜伽的爭議：文化挪用、師徒制與商業化",
-      "type": "philosophy",
-      "assessment": "做三個檢查。一、看看你最近上的課，老師有沒有在調整（adjustment）前徵詢同意？沒有的話，這在 2015 年之後的多數師資標準裡已屬應改進項目。二、翻一次你常去的瑜伽空間的行銷文案，數數看有幾個梵文詞被用作商品名稱而沒有任何脈絡說明。三、問自己：如果我尊敬的老師被指控濫權，我的第一反應是查證還是辯護？第三題的答案就是你在師徒制裡的風險位置。",
+      "id": "ch9-u5",
+      "name": "Mantra 冥想與持咒",
+      "type": "meditation",
+      "assessment": "持咒 10 分鐘後檢查兩件事：一、咒語有沒有被呼吸牽著跑——若你必須「趕」著唸完一句才能換氣，代表句子太長或速度太快，換成兩個音節的 So-Ham（吸氣 So、吐氣 Ham）；二、用念珠默念 108 遍，中途若忘記數到第幾顆超過兩次，代表現階段還需要出聲唸或動嘴唇，能默念完整 108 遍不掉線才進入純意念階段。若持咒後喉嚨乾緊或聲音發抖，是用喉嚨擠聲音而不是讓氣支撐。",
       "tight": [
-        "把「文化挪用」的討論當成道德審判，因而整個迴避——結果連基本的脈絡歸屬都不做",
-        "以為性侵與濫權只是少數老師的個人問題，忽略師徒制本身的權力結構與「順從即進步」的敘事",
-        "把大師的教學成果與其行為切割成兩件無關的事，因而不去檢視體系本身如何掩蓋通報",
-        "把商業化簡化成「收錢就是墮落」，而不去看定價、師資培訓與勞動條件的實際結構"
+        "把持咒唸成趕進度，速度愈來愈快、呼吸被切碎",
+        "用喉嚨出力擠聲音，唸十分鐘就沙啞",
+        "一直換咒語，每個都只唸三天，累積不出熟悉度",
+        "只在意發音標準與否，忘記注意力要放在聲音的振動與間隙"
       ],
       "weak": [
-        "能區分挪用（appropriation）、鑑賞（appreciation）與歸屬（attribution）三件事",
-        "能辨識高控制團體的常見機制（資訊封閉、內外群體、以身體接觸試探界線）",
-        "能對自己所在的體系提出具體問句，而不是二選一的表態"
+        "以聽覺／振動為錨的專注力",
+        "咒語與呼吸節律的同步",
+        "念珠計數帶來的節奏穩定與時間感",
+        "從出聲唸到默念的內化過程"
       ],
       "lesson": {
-        "title": "You Are Here: Exploring Yoga and the Impacts of Cultural Appropriation",
-        "channel": "Tobias B. D. Wiggins",
-        "url": "https://www.youtube.com/watch?v=3OoBaDt9cvQ",
-        "duration": "25:24",
-        "why": "學術訓練背景的講者用 25 分鐘把「挪用」拆成殖民史、商品化與歸屬三個層次，語氣是分析而不是控訴，且明確區分了「不要練」與「練的時候要知道自己在練什麼」。60,130 次觀看，在這個主題裡屬於少見的高流量且中立。"
+        "title": "The Essential Preparations for Mantra Chanting【實修系列】修行持咒的心法關鍵 ｜大悲菩提寺住持 妙淨法師開示｜Ven. Master Miao Jing",
+        "channel": "Great Compassion Bodhi Prajna Temple  大悲菩提寺 ",
+        "url": "https://www.youtube.com/watch?v=jan-acB0lBM",
+        "duration": "18:30",
+        "why": "繁中、由寺院住持講持咒的前置與心法：怎麼發聲、注意力放哪、為什麼「心念耳聞」比唸得快重要，補上大多數英文 mantra 影片只給音檔不給方法的缺口。"
       },
       "drills": [
         {
-          "name": "印度視角：殖民與挪用",
-          "en": "Devdutt Pattanaik on Colonization and Appropriation",
+          "name": "OM 的正確唱誦方式",
+          "en": "Right ways to chant OM",
           "kind": "align",
-          "target": "專注",
-          "dose": "看一次，對照上一支影片的西方視角",
-          "title": "Devdutt Pattanaik Talks About Colonization and Appropriation Within Yoga",
-          "channel": "Urban Sadhu Yoga",
-          "url": "https://www.youtube.com/watch?v=IG8J-7Xlsws",
-          "duration": "24:11",
-          "why": "觀看數 3,109 偏低，但由印度神話學者 Devdutt Pattanaik 親自談殖民脈絡，可以平衡以西方講者為主的挪用討論，主題不可替代。"
+          "target": "呼吸控制、專注",
+          "dose": "看一次，之後每次唱誦前對照",
+          "title": "Right ways to chant OM | Dr. Hansaji Yogendra",
+          "channel": "The Yoga Institute",
+          "url": "https://www.youtube.com/watch?v=eQTenvydZIo",
+          "duration": "7:03"
         },
         {
-          "name": "教師端的實務對談",
-          "en": "Yoga & Cultural Appropriation: Interview with Reema Datta",
+          "name": "念珠（mala）的傳統用法",
+          "en": "Traditional way to use a mala",
+          "kind": "modify",
+          "target": "專注",
+          "dose": "看一次，之後每次持咒用念珠計數",
+          "title": "The Traditional Way to Use a Mala",
+          "channel": "Himalayan Institute",
+          "url": "https://www.youtube.com/watch?v=IuPmTCbZwSQ",
+          "duration": "3:18"
+        },
+        {
+          "name": "五分鐘 mantra 冥想入門",
+          "en": "5-minute mantra meditation",
           "kind": "follow",
-          "target": "專注",
-          "dose": "一次聽完，記下三個可以立刻改的教學習慣",
-          "title": "Yoga & Cultural Appropriation: An Interview with Reema Datta",
-          "channel": "Jason Crandell Yoga",
-          "url": "https://www.youtube.com/watch?v=lF41wgkebbM",
-          "duration": "51:37",
-          "why": "觀看數 3,031 低於一般門檻，但這是兩位資深師資（其中 Reema Datta 為印度裔傳承教師）談「教師該怎麼做」的具體對話，而非抽象論戰，實用性高於流量。"
+          "target": "專注、放鬆與副交感",
+          "dose": "每日 1 次，第一週用",
+          "title": "5 min Mantra Meditation for Beginners - Easy Guided Meditation",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=vbVh43mTHF4",
+          "duration": "7:38"
         },
         {
-          "name": "高控制團體的機制：入門版",
-          "en": "Yoga, Cults and Control",
+          "name": "So-Ham 隨息持咒",
+          "en": "Sohum mantra meditation",
+          "kind": "follow",
+          "target": "呼吸控制、專注",
+          "dose": "每日 10 分鐘 × 2 週",
+          "title": "Sohum Mantra Meditation",
+          "channel": "Sam Alter",
+          "url": "https://www.youtube.com/watch?v=oBEGGQiH-k0",
+          "duration": "10:01"
+        },
+        {
+          "name": "二十分鐘 OM 冥想",
+          "en": "20-minute OM meditation",
+          "kind": "follow",
+          "target": "專注、呼吸控制",
+          "dose": "每週 2–3 次，20 分鐘",
+          "title": "20 Minutes OM Meditation | Day 12 of Beginner Camp",
+          "channel": "Satvic Yoga",
+          "url": "https://www.youtube.com/watch?v=KRm-Byqt9z4",
+          "duration": "19:53"
+        },
+        {
+          "name": "Ajapa Japa：不刻意的咒語覺察",
+          "en": "Ajapa japa practice",
+          "kind": "deepen",
+          "target": "呼吸控制、專注",
+          "dose": "能默念 108 遍後再進入，每週 1 次",
+          "title": "How to Do (Soham) Ajapa Japa Meditation | 40-Min Guided Practice | Arhanta Yoga",
+          "channel": "Arhanta Yoga",
+          "url": "https://www.youtube.com/watch?v=9ibQ5GdkPJY",
+          "duration": "51:31"
+        }
+      ],
+      "tradition": "傳承對 japa 的門檻說得很清楚。〈The Himalayan Yoga Tradition〉 寫道，這**不是機械地複誦一句隨便挑來的咒語**；咒語的科學建立在對聲音振動的理解上，而這些振動主要對應 kundalini 的各個站點，**沒有灌頂就無法真正掌握**。傳承講的 japa 有九個主要階段，從 vaikhari（出聲）到 madhyama（心念）、pashyanti（啟示的振動）直到 para（超越）。本單元教的是不需要灌頂、你可以自己開始的那一段。",
+      "traditionRefs": [
+        {
+          "quote": "Japa. This is not simply a mechanical recitation of a randomly-chosen mantra. The science of mantra is based on an understanding of sound vibrations which are primarily centered in the various stations of the kundalini and cannot be grasped without initiation.",
+          "source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.5",
+          "url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=5"
+        },
+        {
+          "quote": "One first absorbs the articulate level of speech (vaikhari) into the mental level (madhyama). Then one silences even that and enters the realm of pashyanti, the vibration of revelation… From there one goes into the supreme absorption in the para, the transcendent. … A preceptor trained in the Himalayan tradition leads the students into further and further refinements through nine major stages of mantra practice as taught in the tantric systems.",
+          "source": "Swami Veda Bharati〈The Himalayan Yoga Tradition〉p.5",
+          "url": "https://www.himalayanyogatradition.com/HimalayanTradition.pdf#page=5"
+        }
+      ]
+    },
+    {
+      "id": "ch2-u10",
+      "name": "Udgeet 與 OM 唱誦",
+      "type": "breath",
+      "assessment": "盤坐吸飽氣，唱一次 OM，讓 A-U-M 三段合計持續 15 秒以上，其中 M（閉唇的鼻腔共鳴）至少佔一半時間。合格標準是：唱到 M 的時候把手放在鼻樑兩側與頭頂能明顯摸到震動，且整段音高穩定不抖、結尾是自然變弱而不是突然斷掉。若唱到一半就沒氣，或唱完覺得喉嚨緊、聲音沙啞，代表起音音高太高——把音高降到自己平常說話的音域再試一次。連續唱 5 次後，應該感覺到呼吸自動變慢、耳邊有一種安靜下來的感覺。",
+      "tight": [
+        "起音音高太高，唱一半就沒氣、喉嚨緊繃甚至沙啞",
+        "M 段太短，整段幾乎只有張嘴的 A 音，缺少鼻腔共振",
+        "把氣一次放光，結尾突然斷掉而不是自然收弱",
+        "唱誦時下巴前伸、頸椎後仰，用喉嚨硬推聲音"
+      ],
+      "weak": [
+        "極長且均勻的吐氣控制",
+        "鼻腔、上顎與顱骨共振的覺察",
+        "以聲音維持單一注意對象的專注力",
+        "唱誦後進入靜坐的放鬆與副交感狀態"
+      ],
+      "lesson": {
+        "title": "AUM  | Om Chanting -  Udgeeth Pranayama",
+        "channel": "Michael Bijker - Life Awareness Project",
+        "url": "https://www.youtube.com/watch?v=vFKb1Ub45JU",
+        "duration": "11:51",
+        "why": "直接以 Udgeeth Pranayama 的架構教 AUM 三段比例與呼吸配置，把「唱誦」當成一種延長吐氣的調息來教，正好承接前面 u8 延長吐氣的訓練。"
+      },
+      "drills": [
+        {
+          "name": "OM／AUM 發音拆解",
+          "en": "How to chant Om/Aum",
           "kind": "align",
-          "target": "專注",
-          "dose": "13 分鐘看完，先建立辨識清單",
-          "title": "Yoga, Cults and Control ~ with Matthew Remski & Alexandra Stein",
-          "channel": " Talk Beliefs ",
-          "url": "https://www.youtube.com/watch?v=8EzKNuDEYpw",
-          "duration": "12:45",
-          "why": "觀看數 2,801 偏低。Matthew Remski 是《Practice and All Is Coming》的作者、Ashtanga 濫權事件的主要調查者，Alexandra Stein 是研究高控制團體的社會心理學者；13 分鐘的濃縮版適合當這個艱難主題的入口。"
+          "target": "呼吸控制、專注",
+          "dose": "跟著唱 9 次，錄音檢查 M 段長度",
+          "title": "How to Chant Om/Aum Mantra Chanting",
+          "channel": "Namaste Yoga",
+          "url": "https://www.youtube.com/watch?v=yaWnd6ph11A",
+          "duration": "9:25"
         },
         {
-          "name": "師徒制濫權的系統性分析",
-          "en": "Abuse and Cult Dynamics in Yoga",
-          "kind": "deepen",
-          "target": "專注",
-          "dose": "分兩次看完，注意他對「體系如何掩蓋」的分析",
-          "title": "Abuse and Cult Dynamics in Yoga: A Conversation with Matthew Remski",
-          "channel": "LMU Center for Religion and Spirituality",
-          "url": "https://www.youtube.com/watch?v=DsmRO9pNn7A",
-          "duration": "44:24",
-          "why": "觀看數 1,859，剛過放寬後的門檻。由大學宗教與靈性研究中心主辦，語氣是學術訪談而非爆料，是目前少數能同時談 Pattabhi Jois、Bikram 等個案又不獵奇的公開紀錄。"
+          "name": "唱 OM 的正確方式",
+          "en": "Right ways to chant OM",
+          "kind": "align",
+          "target": "呼吸控制、頸椎、專注",
+          "dose": "跟著唱 5 次，注意下巴不前伸",
+          "title": "Right ways to chant OM | Dr. Hansaji Yogendra",
+          "channel": "The Yoga Institute",
+          "url": "https://www.youtube.com/watch?v=eQTenvydZIo",
+          "duration": "7:03"
         },
         {
-          "name": "身心靈產業的商業化與陰謀論化",
-          "en": "Conspirituality: the wellness industry critique",
+          "name": "AUM 正確唱誦（繁中）",
+          "en": "Chanting AUM correctly, in Mandarin",
+          "kind": "align",
+          "target": "呼吸控制、專注",
+          "dose": "跟著唱 7 次",
+          "title": "正確地唱誦 AUM，為你的生命帶來轉變 | Sadhguru (薩古魯)",
+          "channel": "Sadhguru 繁體中文",
+          "url": "https://www.youtube.com/watch?v=Q-0_okXAU_c",
+          "duration": "9:16"
+        },
+        {
+          "name": "如何正確唱誦 OM（繁中短講）",
+          "en": "How to chant OM, short guide in Mandarin",
+          "kind": "align",
+          "target": "呼吸控制、胸口",
+          "dose": "跟著唱 5 次，手摸鼻樑感受震動",
+          "title": "如何正確唱誦ＯＭ (How to Chant OM)",
+          "channel": "YunYogaPortrait",
+          "url": "https://www.youtube.com/watch?v=hjehM5IPlUE",
+          "duration": "3:32"
+        },
+        {
+          "name": "OM 唱誦引導冥想",
+          "en": "Guided OM chanting meditation",
+          "kind": "follow",
+          "target": "專注、放鬆與副交感",
+          "dose": "完整跟做 1 次，每週 2 次",
+          "title": "Powerful OM Chanting Guided Meditation by Yogrishi Vishvketu",
+          "channel": "Akhanda Yoga by Dr.Yogrishi",
+          "url": "https://www.youtube.com/watch?v=HN2N_rlEXKg",
+          "duration": "17:38"
+        },
+        {
+          "name": "二十分鐘 OM 靜坐",
+          "en": "20-minute OM meditation",
           "kind": "deepen",
-          "target": "專注",
-          "dose": "分三次聽完，重點在他們對產業誘因結構的分析",
-          "title": "Conspirituality: Derek Beres, Matthew Remski, and Julian Walker - Buddha at the Gas Pump Interview",
-          "channel": "Buddha at the Gas Pump®",
-          "url": "https://www.youtube.com/watch?v=KuD4jFo98nM",
-          "duration": "111:22"
+          "target": "專注、放鬆與副交感",
+          "dose": "唱誦穩定後，完整靜坐 1 次",
+          "title": "20 Minutes OM Meditation | Day 12 of Beginner Camp",
+          "channel": "Satvic Yoga",
+          "url": "https://www.youtube.com/watch?v=KRm-Byqt9z4",
+          "duration": "19:53"
         }
       ]
     }

@@ -24,6 +24,79 @@
   margin-right: var(--base-size-4);
 }
 
+/* --- Tradition ---------------------------------------------------------- */
+
+/* 傳承立場：跟 Assessment 同一個排版骨架，換一組色好跟「自測判準」區分開 */
+.Tradition {
+  display: flex;
+  gap: var(--base-size-12);
+  padding: var(--base-size-12);
+  margin-top: var(--base-size-12);
+  background-color: var(--bgColor-accent-muted);
+  border: 1px solid color-mix(in srgb, var(--fgColor-accent) 30%, transparent);
+  border-radius: var(--borderRadius-medium);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.Tradition__icon {
+  color: var(--fgColor-accent);
+  margin-top: 2px;
+}
+
+.Tradition__label {
+  font-weight: 600;
+  margin-right: var(--base-size-4);
+}
+
+/* 逐字出處：預設收起，展開後是原文引述＋頁碼連結 */
+.TraditionRefs {
+  margin-top: var(--base-size-8);
+}
+
+.TraditionRefs > summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--fgColor-accent);
+  font-size: 12px;
+}
+
+.TraditionRefs__list {
+  list-style: none;
+  margin: var(--base-size-8) 0 0;
+  padding: 0;
+  display: grid;
+  gap: var(--base-size-8);
+}
+
+.TraditionRef__quote {
+  margin: 0;
+  padding-left: var(--base-size-12);
+  border-left: 2px solid color-mix(in srgb, var(--fgColor-accent) 45%, transparent);
+  /* 英文原文引述：襯線體跟中文正文拉開層次，也提示這段沒有經過翻譯 */
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  font-size: 13px;
+  line-height: 1.65;
+  color: var(--fgColor-default);
+}
+
+.TraditionRef__cite {
+  display: block;
+  margin-top: var(--base-size-4);
+  padding-left: var(--base-size-12);
+  font-size: 12px;
+  font-style: normal;
+  color: var(--fgColor-muted);
+}
+
+.TraditionRef__sutra {
+  margin-left: var(--base-size-8);
+  padding: 1px var(--base-size-4);
+  border-radius: var(--borderRadius-small);
+  background-color: var(--bgColor-neutral-muted);
+  font-size: 11px;
+}
+
 /* --- MuscleGrid --------------------------------------------------------- */
 
 .MuscleGrid {
@@ -406,6 +479,7 @@
 .DrillEvCat__summary,
 .DrillEvCat__cites li,
 .Assessment > span:last-child,
+.Tradition > span:last-child,
 .Unit__summary {
   max-width: 88ch;
 }

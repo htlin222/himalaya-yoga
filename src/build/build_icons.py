@@ -84,6 +84,12 @@ ICONS = [
     "move-diagonal",  # CH10 膝蓋
     "footprints",  # CH11 足踝
     "wind",  # CH3 呼吸
+    "milestone",  # CH1 傳承與定位
+    "scale",  # CH2 Yama / Niyama
+    "mountain",  # CH5 站姿
+    "git-merge",  # CH9 Nadi Shodhana
+    "brain",  # CH13 Dhyana
+    "calendar-check",  # CH14 每日 sadhana
 ]
 
 

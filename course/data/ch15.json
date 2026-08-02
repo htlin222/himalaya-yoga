@@ -1,0 +1,668 @@
+{
+  "chapter": "CH15",
+  "title": "特殊族群與傷害預防",
+  "units": [
+    {
+      "id": "ch12-u1",
+      "name": "下背痛者的瑜伽調整",
+      "type": "population",
+      "assessment": "先做三個當場可判定的紅旗篩檢：一、痛是否往臀部以下放射到大腿或小腿，甚至到腳趾；二、平躺伸直抬腿到 30–70 度之間是否誘發同一條腿的電擊樣痛；三、腳趾是否使不上力、鞍部（會陰、內側大腿）是否麻木、大小便功能是否改變。只要其中任何一項為陽性，這就不是可以用瑜伽處理的狀況——立刻停止練習並就醫。若只是久坐後的腰部痠緊、活動十分鐘後緩解、按壓腰側肌肉會痛但沒有任何神經症狀，才適用本單元。再做一個方向偏好測試：趴姿用手肘撐起上半身停 30 秒，若腿的痛往腰部集中（向心化）代表你偏好伸展方向；若坐姿抱膝屈曲較舒服則偏好屈曲方向，之後選體式就朝舒服的方向走。",
+      "tight": [
+        "急性期不要做深度前彎（站姿前彎、坐姿前彎、犁式）。彎腰同時圓背會讓椎間盤前側壓力大幅上升，這是最常見的把痛練壞的動作。",
+        "不要用「拉緊腿後側就會好」的邏輯猛拉腿後側。坐骨神經被激惹時，直腿前彎其實是在牽拉神經而不是肌肉，痛會愈拉愈敏感。",
+        "眼鏡蛇式與上犬式不要用手把身體硬撐到最高。腰椎過度伸展加上骨盆前傾，會把壓力集中在腰椎小面關節，做完當下爽、隔天更痛。",
+        "扭轉時不要用手臂把自己「扳」得更深。急性下背痛期的扭轉一律減幅到只做胸椎範圍，骨盆保持朝正前方。",
+        "不要在有神經症狀（放射痛、無力、麻木）時繼續練習還想著「動一動就會鬆」——那是就醫指標，不是練習指標。"
+      ],
+      "weak": [
+        "先學會用呼吸建立腹內壓，把「核心穩定」從硬繃肚子改成可持續的呼吸控制，這是所有替代方案的基礎。",
+        "分節控制脊椎：能區分骨盆前後傾與腰椎屈伸，才有辦法在體式中保持中立腰椎。",
+        "深層穩定肌（多裂肌、腹橫肌）的低負荷耐力訓練，取代高強度的仰臥起坐式核心。",
+        "全程坐姿與支撐版本的替代路徑：椅子／牆面版本的側伸展、扭轉與髖伸展，讓急性期也有東西可以做。"
+      ],
+      "lesson": {
+        "title": "所有運動的基礎！呼吸法如何穩定核心、改善腰痛，治療師教你呼吸基本功｜啾c物理治療師",
+        "channel": "啾c物理治療師",
+        "url": "https://www.youtube.com/watch?v=aU86wIpmgz0",
+        "duration": "11:49",
+        "why": "把「核心穩定」講成可執行的呼吸操作而非口號：示範肋廓擴張、腹內壓建立與常見的憋氣／挺肚代償，正好是下背痛者在瑜伽裡最缺的底層能力。物理治療師講解，沒有任何療效宣稱。"
+      },
+      "drills": [
+        {
+          "name": "下背痛成因自我測試",
+          "en": "Self-screening for low back pain",
+          "kind": "align",
+          "target": "腰椎、薦髂關節",
+          "dose": "練習前先測一次，症狀改變時再測",
+          "title": "下背痛一定是椎間盤突出嗎？教你自主測試腰痛成因！｜詹珞瑤 物理治療師 Veronica Rehab",
+          "channel": "詹珞瑤",
+          "url": "https://www.youtube.com/watch?v=jGxyBRQ-Afc",
+          "duration": "3:47"
+        },
+        {
+          "name": "腰椎椎間盤問題的居家四動作",
+          "en": "Four home movements for lumbar disc issues",
+          "kind": "align",
+          "target": "腰椎、核心",
+          "dose": "每個動作 10 次 × 2 輪，痛加劇就停",
+          "title": "告別下背痛！腰椎椎間盤突出、壓迫？居家必備的四個動作！",
+          "channel": "光合物理治療所",
+          "url": "https://www.youtube.com/watch?v=T3zCpaxL5nw",
+          "duration": "6:47"
+        },
+        {
+          "name": "腰椎穩定度訓練",
+          "en": "Lumbar stabilization exercises",
+          "kind": "align",
+          "target": "腰椎、核心、骨盆底",
+          "dose": "每個動作 8–10 次，每天 1 輪",
+          "title": "Low Back (Lumbar) Stabilization Exercises",
+          "channel": "Rehab Science",
+          "url": "https://www.youtube.com/watch?v=DndzRZaZpQ0",
+          "duration": "9:51"
+        },
+        {
+          "name": "多裂肌與脊椎穩定進階",
+          "en": "Multifidus and spinal stability progression",
+          "kind": "deepen",
+          "target": "腰椎、核心",
+          "dose": "5 個動作各 10 次，隔天一次",
+          "title": "怕閃到腰，就練多裂肌，5個穩定脊椎運動，幫你腰痛out｜#閃到腰 #多裂肌 #啾c物理治療師 #彈力帶輔助訓練",
+          "channel": "啾c物理治療師",
+          "url": "https://www.youtube.com/watch?v=hMWeJ2EqN64",
+          "duration": "13:46"
+        },
+        {
+          "name": "全程坐姿的下背替代序列",
+          "en": "Seated-only sequence for low back",
+          "kind": "modify",
+          "target": "腰椎、髖關節、脊椎活動度",
+          "dose": "急性期每天 1 次，全程坐姿",
+          "title": "22 分鐘舒緩瑜伽坐著伸展告別下背痛 22 min gentle yoga { Flow with Katie }",
+          "channel": "凱蒂瑜伽 Flow With Katie",
+          "url": "https://www.youtube.com/watch?v=-5nUYwefK8o",
+          "duration": "22:56"
+        },
+        {
+          "name": "溫和下背恢復流",
+          "en": "Gentle lower back recovery flow",
+          "kind": "follow",
+          "target": "腰椎、髖關節、放鬆與副交感",
+          "dose": "症狀緩解期每週 2–3 次",
+          "title": "20 Min Gentle Yoga for Lower Back Recovery l Healing Relief",
+          "channel": "Travis Eliot",
+          "url": "https://www.youtube.com/watch?v=wZ33I0kueck",
+          "duration": "21:50"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u2",
+      "name": "頸椎問題與倒立的替代方案",
+      "type": "population",
+      "assessment": "測三件事。一、坐姿把頭慢慢轉向左右各一次，若任一側轉不到 60 度（下巴無法接近肩膀正上方）或轉到底時手臂出現麻、電、痠，記錄為陽性。二、把頭往後仰並轉向痛側停 10 秒（Spurling 概念），若誘發手臂放射痛或指尖麻，代表可能有神經根壓迫。三、做「下巴後收」：靠牆坐，下巴水平往後推做出雙下巴停 10 秒，若做不出來或做完頭痛加劇，代表深層頸屈肌無力且組織敏感。任一項陽性，或出現手部持續無力、寫字握筷變笨拙、雙手同時麻、走路不穩，就停止所有承重於頸部的體式並就醫。全部陰性且只是久坐後的肩頸緊繃，才適用本單元。",
+      "tight": [
+        "頸椎椎間盤突出、頸椎狹窄、曾有頸部外傷或揮鞭症者，肩立式（Sarvangasana）與犁式（Halasana）一律不做，不是減量而是完全跳過——這兩個體式讓幾乎全身重量壓在 C7 上，同時把頸椎推到極限屈曲。",
+        "頭倒立（Sirsasana）不是「練熟就安全」。頸椎有病史者請直接改為海豚式或牆邊 L 型，用手臂與肩胛承重，頭不落地。",
+        "肩立式時不要在頸下墊得不夠或墊到頭。標準做法是肩膀墊高、頭低於肩、頸部保留自然弧度；如果只能用「頭墊起來」才做得到，就代表你不該做這個體式。",
+        "進到倒立類體式後不要轉頭去看旁邊。頸椎在負重屈曲下旋轉是最高風險的組合。",
+        "不要用「痛就是在排毒／在鬆開沾黏」解釋手麻。上肢麻、無力屬於神經症狀，不是伸展不夠。"
+      ],
+      "weak": [
+        "用腿上牆式（Viparita Karani）取得倒立的循環與副交感效果，頸椎零負重。",
+        "支撐版半肩立與髖高於心臟的替代姿勢，把「倒立」重新定義為髖高於心臟而不是頭撐地。",
+        "深層頸屈肌與肩胛穩定肌的低負荷訓練，改善頭前引姿勢。",
+        "分辨機械性肩頸痠痛與神經根症狀的能力，知道什麼時候該把墊子收起來去掛號。"
+      ],
+      "lesson": {
+        "title": "頸椎保養完整教學：預防頸椎退化、改善肩頸痠痛｜啾c物理治療師",
+        "channel": "啾c物理治療師",
+        "url": "https://www.youtube.com/watch?v=gGiL3T64tww",
+        "duration": "10:25",
+        "why": "從頸椎結構、姿勢負荷講到具體的活動度與肌力操作，把「頸椎要保養什麼」拆成可執行的項目。物理治療師觀點，沒有把退化講成可以治癒，正好當本單元替代方案的判斷依據。"
+      },
+      "drills": [
+        {
+          "name": "頸椎壓迫的四個居家動作",
+          "en": "Four home movements for cervical compression",
+          "kind": "align",
+          "target": "頸椎、肩胛",
+          "dose": "每個動作 10 次 × 2 輪",
+          "title": "告別脖子痛！頸椎椎間盤突出、壓迫？你最需要的四個動作！Physical therapy for neck pain and cervical disc herniation",
+          "channel": "光合物理治療所",
+          "url": "https://www.youtube.com/watch?v=XzezDAuIFXU",
+          "duration": "7:22"
+        },
+        {
+          "name": "頸椎神經壓迫的自我判別",
+          "en": "Screening for cervical nerve compression",
+          "kind": "align",
+          "target": "頸椎",
+          "dose": "出現手麻時測一次",
+          "title": "頸椎退化？肩頸痠痛？手麻無力？神經壓迫嗎？  自我保健 ep.1【大安國際物理治療中心】",
+          "channel": "大安國際物理治療中心Amazing International Clinic",
+          "url": "https://www.youtube.com/watch?v=irHmFKW8PJw",
+          "duration": "4:45"
+        },
+        {
+          "name": "頸椎退化性椎間盤的四項運動",
+          "en": "Exercises for cervical degenerative disc disease",
+          "kind": "align",
+          "target": "頸椎、肩胛",
+          "dose": "每個動作 10 次，每天 1–2 輪",
+          "title": "4 Exercises for Cervical Degenerative Disc Disease",
+          "channel": "Rehab Science",
+          "url": "https://www.youtube.com/watch?v=Pkn7SLp9DSc",
+          "duration": "9:43"
+        },
+        {
+          "name": "腿上牆式（倒立替代第一選擇）",
+          "en": "Viparita Karani",
+          "kind": "modify",
+          "target": "倒立、放鬆與副交感、腰椎",
+          "dose": "5–15 分鐘，每天可做",
+          "title": "Viparita Karani (Legs Up the Wall Pose) How to Do Step by Step for Beginners with Benefits",
+          "channel": "Siddhi Yoga International",
+          "url": "https://www.youtube.com/watch?v=TzahhHZvOks",
+          "duration": "5:49"
+        },
+        {
+          "name": "肩立式的支撐替代版本",
+          "en": "Supported alternatives to shoulderstand",
+          "kind": "modify",
+          "target": "頸椎、肩關節、倒立",
+          "dose": "依影片示範選一個版本，每次 2–5 分鐘",
+          "title": "Can't do sarvangasana? This changes everything",
+          "channel": "Namaste Yoga",
+          "url": "https://www.youtube.com/watch?v=L6bWq2ss-BU",
+          "duration": "8:17"
+        },
+        {
+          "name": "腿上牆修復練習",
+          "en": "Restorative legs-up-the-wall practice",
+          "kind": "follow",
+          "target": "倒立、放鬆與副交感、呼吸控制",
+          "dose": "每週 2–3 次，睡前尤佳",
+          "title": "30 min Restorative Yoga for Deep Healing & Relaxation - Legs Up The Wall",
+          "channel": "Yoga with Kassandra",
+          "url": "https://www.youtube.com/watch?v=SGZdaH_fVNE",
+          "duration": "31:51"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u3",
+      "name": "手腕疼痛的承重調整",
+      "type": "population",
+      "assessment": "跪姿在墊上把手掌打開撐地，手腕呈 90 度背屈，體重往前移到手上停 30 秒。若 30 秒內出現手腕背側夾擠痛、或必須把手指翹起來才撐得住，代表背屈活動度或負荷能力不足，先做本單元的準備動作再回到四足跪姿。接著測小指側：手掌撐地把身體重量偏向小指側停 10 秒，若尺側（小指側那一邊的腕關節）出現尖銳痛或喀啦聲，懷疑三角纖維軟骨（TFCC）受激惹，暫停所有手撐地體式。若有夜間麻醒、拇指到中指的持續麻木、拇指基部肌肉萎縮、或掉東西握不住，這是腕隧道或神經問題的就醫指標，不要靠練習處理。",
+      "tight": [
+        "手腕痛時不要繼續「多做幾次下犬就會習慣」。反覆在疼痛下承重是把肌腱與軟骨問題慢性化最快的方法。",
+        "撐地時不要把重量全塌在手腕根部（腕橫紋）。正確是十指張開、食指根與拇指根確實壓地，把壓力分散到整個手掌。",
+        "不要用「手指翹起來」來閃避背屈不足——那只是把負荷轉嫁到手腕背側關節面。",
+        "尺側（小指側）痛時特別要避開側棒式與單手承重的扭轉，那些姿勢會把剪力集中在 TFCC。",
+        "不要用護腕或楔形墊當長期解法而完全不練手腕的肌力，那只是把問題延後。"
+      ],
+      "weak": [
+        "手腕背屈活動度與承重耐力的漸進訓練，讓四足跪姿與下犬式重新變成可負擔的動作。",
+        "前臂屈肌／伸肌的離心肌力，處理反覆發作型的手腕疼痛。",
+        "完全不用手撐地的完整練習路徑（拳撐、前臂撐、無手序列），讓急性期仍能維持練習頻率。",
+        "拜日式的無手腕負重改編版本，維持流動練習的節奏感。"
+      ],
+      "lesson": {
+        "title": "手腕一直在痛？ 從止痛到恢復手腕力量 ｜#啾c物理治療師 #運動治療 #肌腱 #手腕 #媽媽手",
+        "channel": "啾c物理治療師",
+        "url": "https://www.youtube.com/watch?v=VM61_xKjs7s",
+        "duration": "16:15",
+        "why": "完整走過「先止痛、再恢復活動度、最後練回承重肌力」的三階段，並示範每階段的具體動作與判斷時機。正好對應瑜伽練習者從停手撐地到回到下犬式的過程。"
+      },
+      "drills": [
+        {
+          "name": "手撐地會痛的處理",
+          "en": "Wrist pain when weight-bearing on hands",
+          "kind": "align",
+          "target": "手腕、手肘",
+          "dose": "每個動作 10 次 × 2 輪",
+          "title": "手撐地會痛！？手腕痛該如何物理治療？在家自己可以怎麼做？Physical therapy for wrist pain when supporting on your hands",
+          "channel": "光合物理治療所",
+          "url": "https://www.youtube.com/watch?v=sxYuJkm10qw",
+          "duration": "5:14"
+        },
+        {
+          "name": "反覆發作型手腕痛的保養",
+          "en": "Care routine for recurrent wrist pain",
+          "kind": "align",
+          "target": "手腕、手肘",
+          "dose": "每天 1 輪，持續 4 週",
+          "title": "手腕痛反覆發作？原來是這裡的肌肉在作怪！保養運動一次解鎖｜#啾c物理治療師 #運動治療 #手腕痛 #力量訓練 #手部保養",
+          "channel": "啾c物理治療師",
+          "url": "https://www.youtube.com/watch?v=PrzmHvCY30w",
+          "duration": "13:10"
+        },
+        {
+          "name": "手腕疼痛復健動作",
+          "en": "Wrist pain rehab exercises",
+          "kind": "align",
+          "target": "手腕",
+          "dose": "每個動作 10–15 次，每天 1 輪",
+          "title": "Wrist Pain Rehab Exercises",
+          "channel": "Rehab Science",
+          "url": "https://www.youtube.com/watch?v=Aky1uJBS5UY",
+          "duration": "7:07"
+        },
+        {
+          "name": "手腕承重肌力進階",
+          "en": "Progressive wrist loading routine",
+          "kind": "deepen",
+          "target": "手腕、手臂支撐",
+          "dose": "每週 2–3 次，無痛範圍內加量",
+          "title": "Strong Wrist Routine | Handstands + Calisthenics",
+          "channel": "Tom Merrick",
+          "url": "https://www.youtube.com/watch?v=S89dl42KlE0",
+          "duration": "9:29"
+        },
+        {
+          "name": "全程不撐手的完整練習",
+          "en": "Hands-free yoga practice",
+          "kind": "modify",
+          "target": "手腕、核心、肩關節",
+          "dose": "手腕急性期每週 2–3 次",
+          "title": "30 minute Hands Free Yoga for Sore Wrists | Sarah Beth Yoga",
+          "channel": "SarahBethYoga",
+          "url": "https://www.youtube.com/watch?v=fAb7odSLWW0",
+          "duration": "29:58"
+        },
+        {
+          "name": "拜日式的無腕負重改編",
+          "en": "Wrist-friendly sun salutation variation",
+          "kind": "modify",
+          "target": "手腕、肩關節、脊椎活動度",
+          "dose": "3–5 輪取代原本的拜日式",
+          "title": "Wrist pain? Try this alternative sun salutation",
+          "channel": "Ashtanga Yoga Girl",
+          "url": "https://www.youtube.com/watch?v=vp44UHIvYLE",
+          "duration": "11:22"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u4",
+      "name": "膝關節問題與跪姿替代",
+      "type": "population",
+      "assessment": "做三個當場判定的測試。一、跪姿測試：在墊上加一條對折毛毯跪下，臀部往腳跟坐，若膝蓋前側出現壓迫痛或完全坐不下去，代表跪姿類體式（英雄式、駱駝式、貓牛）都需要墊高或替代。二、單腳下階測試：站在一階樓梯上，單腳緩慢下降 5 次，若膝蓋前側或內側出現疼痛、或膝蓋往內塌（膝外翻），代表股四頭與臀肌控制不足，弓箭步與戰士式需要縮小幅度。三、盤腿測試：坐姿盤腿，若膝蓋懸空離地超過一個拳頭高、或膝蓋內側被拉扯到痛，代表髖關節活動度不足而由膝關節代償，坐姿一律墊高。若膝關節出現卡住無法伸直（絞鎖）、明顯腫脹、走路會突然軟腳，這是半月板或韌帶損傷的就醫指標，停止練習並就醫。",
+      "tight": [
+        "膝蓋痛時不要硬做全蓮花或半蓮花。把腳踝架到對側大腿上會在膝關節製造扭轉剪力，而膝關節幾乎不能承受旋轉——痛的是膝蓋，問題常常在髖。",
+        "英雄式坐不下去時不要靠「多坐幾次就開了」。膝前側被壓到痛就是負荷過大，請直接坐磚或坐瑜伽枕。",
+        "弓箭步與戰士式不要讓前腳膝蓋超過腳趾且往內塌。膝蓋要對準第二、三腳趾方向，幅度縮小到不痛為止。",
+        "扭轉時不要用膝蓋當支點去撐地板。單膝跪地扭轉時膝下一定要有厚墊，且旋轉發生在胸椎不是膝關節。",
+        "膝蓋腫脹或發熱時不要練。那是發炎徵象，此時牽拉與負重只會延長恢復期。"
+      ],
+      "weak": [
+        "股四頭與臀部肌力，讓膝關節在弓箭步與站姿平衡中有足夠支撐。",
+        "髖關節與腳踝的活動度，減少膝關節被迫代償旋轉。",
+        "跪姿的替代路徑：坐磚、墊毯、椅子版、以及完全不跪地的站姿與仰臥版本。",
+        "盤腿的輔具版本，讓靜坐與呼吸練習不再靠膝關節硬撐。"
+      ],
+      "lesson": {
+        "title": "膝關節退化不用怕，這 8 個護膝法讓你帶回家｜#膝蓋退化 #膝蓋 #啾c物理治療師",
+        "channel": "啾c物理治療師",
+        "url": "https://www.youtube.com/watch?v=Utg95EEcVPo",
+        "duration": "11:45",
+        "why": "把膝關節保護拆成負荷管理、肌力、活動度等八個具體策略，講清楚哪些動作模式該調整。用「保養與調整」而不是「治好退化」的框架，正是本單元需要的定位。"
+      },
+      "drills": [
+        {
+          "name": "蹲與下樓梯痛的三步驟",
+          "en": "Three steps for squat and stair knee pain",
+          "kind": "align",
+          "target": "膝關節、股四頭",
+          "dose": "每個步驟 10 次 × 2 輪",
+          "title": "【膝蓋痛】一蹲就痛 | 下樓梯痛的關鍵在哪裡？三個步驟帶你解決！Physical therapy for knee pain when  squatting",
+          "channel": "光合物理治療所",
+          "url": "https://www.youtube.com/watch?v=LyUkwoo49c8",
+          "duration": "4:39"
+        },
+        {
+          "name": "上下樓梯的膝關節控制",
+          "en": "Knee control on stairs",
+          "kind": "align",
+          "target": "膝關節、臀部",
+          "dose": "每天上下樓時刻意練 10 階",
+          "title": "走樓梯就膝蓋痛？不正確上下樓姿勢可能會加速退化！｜詹珞瑤 物理治療師 Veronica Rehab",
+          "channel": "詹珞瑤",
+          "url": "https://www.youtube.com/watch?v=rCKfrjOYLEA",
+          "duration": "5:40"
+        },
+        {
+          "name": "膝周肌力強化",
+          "en": "Knee strengthening progression",
+          "kind": "deepen",
+          "target": "膝關節、股四頭、臀部",
+          "dose": "每週 3 次，每個動作 12 次 × 3 組",
+          "title": "膝蓋退化！如何加強肌力？延緩退化！",
+          "channel": "光合物理治療所",
+          "url": "https://www.youtube.com/watch?v=JL7x_5JGCj4",
+          "duration": "6:07"
+        },
+        {
+          "name": "盤腿坐不下的輔具替代",
+          "en": "Prop alternatives for cross-legged sitting",
+          "kind": "modify",
+          "target": "膝關節、髖關節、內收肌",
+          "dose": "靜坐前先做一次，坐姿全程墊高",
+          "title": "無法盤腿？試試以下輔助姿勢┆蓮花坐中3個需要放鬆的部位",
+          "channel": "yogi peter",
+          "url": "https://www.youtube.com/watch?v=0oFhlcGDhu8",
+          "duration": "13:20"
+        },
+        {
+          "name": "不跪地、不弓箭步的替代練習",
+          "en": "No-kneeling, no-lunge alternative workout",
+          "kind": "modify",
+          "target": "膝關節、核心、臀部",
+          "dose": "每週 2 次，取代跪姿為主的序列",
+          "title": "Knee Friendly Pilates Workout - No Kneeling, Squats or Lunges!",
+          "channel": "Jessica Valant",
+          "url": "https://www.youtube.com/watch?v=TRhXYH7QSfo",
+          "duration": "11:27"
+        },
+        {
+          "name": "敏感膝關節的完整流動",
+          "en": "Yoga flow for sensitive knees",
+          "kind": "follow",
+          "target": "膝關節、髖關節、腳踝",
+          "dose": "無痛期每週 2 次",
+          "title": "Yoga For Sensitive Knees  |  Yoga With Adriene",
+          "channel": "Yoga With Adriene",
+          "url": "https://www.youtube.com/watch?v=VfSlEgg4ApE",
+          "duration": "31:18"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u5",
+      "name": "孕期瑜伽",
+      "type": "population",
+      "assessment": "先確認三件事再上墊：一、已由產檢醫師確認為低風險妊娠，沒有前置胎盤、子宮頸閉鎖不全、早產徵象、妊娠高血壓或子癲前症。二、用「說話測試」控制強度——練習中若喘到無法完整說出一句話，就是太強，立刻降階。三、第 16 週後（或只要仰躺會頭暈、噁心、心悸）就不再做長時間仰臥，改為左側臥或上半身墊高 30 度以上，因為子宮壓迫下腔靜脈會造成仰臥低血壓症候群。出現以下任何一項就立即停止並就醫：陰道出血或有液體流出、規律宮縮、持續腹痛、胎動明顯減少、頭痛合併視力模糊、小腿單側腫脹疼痛、胸痛或呼吸困難。產後要恢復練習前先確認已完成產後回診、惡露結束，並檢查腹直肌分離寬度。",
+      "tight": [
+        "不要做躺姿的深度後彎與需要憋氣用力的動作。腹壓劇烈上升對骨盆底與腹白線都是額外負擔。",
+        "第 16 週後不要長時間仰臥（超過 3–5 分鐘），也不要做仰臥起坐、船式這類把腹直肌拉開的捲腹動作，改用側臥與四足跪姿版本。",
+        "不要做腹部朝下的體式（眼鏡蛇式、上犬式、俯臥後彎、鱷魚式），懷孕中期以後應直接替換成貓牛式或四足跪姿版本。",
+        "不要做封閉式深度扭轉（用手把身體扳到極限、腹部被壓迫的扭轉）。孕期只做開放式、幅度小、發生在胸椎的扭轉。",
+        "不要因為孕期鬆弛素讓關節變鬆就趁機拉更深。這時候「拉得更遠」不是進步，是關節不穩定，產後容易留下骨盆與薦髂關節疼痛。",
+        "不要做倒立、跳躍、需要單腳平衡而沒有牆或椅子扶持的動作，以及任何有跌倒風險的體式。"
+      ],
+      "weak": [
+        "依三期分別調整的完整練習路徑：初期以維持與適應為主，中期加入支撐版本，後期以骨盆與呼吸準備為主。",
+        "骨盆底肌的協調——學會放鬆而不只是收縮，這對生產與產後恢復同等重要。",
+        "呼吸與橫膈的控制，取代孕期不能用的核心捲腹訓練。",
+        "常見體式的孕期改編邏輯（俯臥後彎改站姿或跪姿、扭轉改開放式、仰臥改側臥或墊高），讓你能自己改編任何一堂一般課。"
+      ],
+      "lesson": {
+        "title": "孕婦可以運動嗎？孕婦安全運動全攻略 ft. 烏烏醫師 { Flow with Katie }",
+        "channel": "凱蒂瑜伽 Flow With Katie",
+        "url": "https://www.youtube.com/watch?v=XjOVpr0Lgo8",
+        "duration": "20:13",
+        "why": "由婦產科醫師與瑜伽老師對談，把孕期運動的適應症、禁忌症、強度控制與常見迷思一次講清楚，且是繁體中文。本單元其他影片都是練習，這支負責建立「什麼時候不能練」的判斷框架。"
+      },
+      "drills": [
+        {
+          "name": "孕期第一期練習",
+          "en": "First trimester prenatal yoga",
+          "kind": "follow",
+          "target": "髖關節、骨盆底、呼吸控制",
+          "dose": "每週 2–3 次，疲倦或孕吐時縮短",
+          "title": "Pregnancy Yoga For First Trimester (safe for all trimesters)",
+          "channel": "Pregnancy and Postpartum TV",
+          "url": "https://www.youtube.com/watch?v=3VHnnpBJVsk",
+          "duration": "28:00"
+        },
+        {
+          "name": "孕期第二期練習",
+          "en": "Second trimester prenatal yoga",
+          "kind": "follow",
+          "target": "髖關節、腰椎、骨盆底",
+          "dose": "每週 2–3 次",
+          "title": "Pregnancy Yoga For Second Trimester",
+          "channel": "Pregnancy and Postpartum TV",
+          "url": "https://www.youtube.com/watch?v=D75ClMK09TA",
+          "duration": "23:56"
+        },
+        {
+          "name": "孕期第三期練習",
+          "en": "Third trimester prenatal yoga",
+          "kind": "follow",
+          "target": "骨盆底、髖關節、放鬆與副交感",
+          "dose": "每週 2–3 次，全程用椅子或牆輔助",
+          "title": "THIRD TRIMESTER PREGNANCY YOGA | Relaxing Prenatal Yoga for the 3rd Trimester | LEMon Yoga",
+          "channel": "LEMon Yoga",
+          "url": "https://www.youtube.com/watch?v=2fn1ScIvrhk",
+          "duration": "19:25"
+        },
+        {
+          "name": "俯臥後彎的孕期改編",
+          "en": "Adapting cobra and updog for pregnancy",
+          "kind": "modify",
+          "target": "胸椎、腰椎、後彎",
+          "dose": "遇到俯臥後彎時直接替換",
+          "title": "PREGNANCY YOGA MODIFICATION | How to adapt Updog & Cobra pose for Pregnancy with LEMon Yoga",
+          "channel": "LEMon Yoga",
+          "url": "https://www.youtube.com/watch?v=mHcEgh8qfIk",
+          "duration": "5:33"
+        },
+        {
+          "name": "孕期瑜伽常見錯誤",
+          "en": "Common pregnancy yoga mistakes",
+          "kind": "align",
+          "target": "腰椎、骨盆底、核心",
+          "dose": "開始孕期練習前看一次",
+          "title": "Are you making these pregnancy yoga mistakes? Learn how to practice yoga safely during pregnancy.",
+          "channel": "Bettina Rae",
+          "url": "https://www.youtube.com/watch?v=wBjgsfKv9a0",
+          "duration": "7:49"
+        },
+        {
+          "name": "孕期骨盆底呼吸",
+          "en": "Pelvic floor breathing for pregnancy",
+          "kind": "align",
+          "target": "骨盆底、橫膈、呼吸控制",
+          "dose": "每天 5 分鐘，三期皆可",
+          "title": "Best Pregnancy Breathing Exercises for your Pelvic Floor // ALL TRIMESTERS",
+          "channel": "Dr. Chris Pieton || Pelvic Floor PT",
+          "url": "https://www.youtube.com/watch?v=jtny8WVKUKQ",
+          "duration": "8:29"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u6",
+      "name": "銀髮族與椅子瑜伽",
+      "type": "population",
+      "assessment": "用兩個有常模的測試決定起點。一、五次起立坐下（Five Times Sit-to-Stand）：坐在標準高度的椅子上，雙手抱胸，盡快完成起立坐下五次並計時。60–69 歲超過 11 秒、70–79 歲超過 12 秒、80 歲以上超過 14 秒，代表下肢肌力不足，本單元先從坐姿與扶椅站姿版本開始，不做無支撐的單腳平衡。二、單腳站立計時：扶著椅背找到平衡後放手，記錄能站幾秒；不到 10 秒代表跌倒風險升高，所有站姿平衡體式一律保留一手扶椅或扶牆。若有以下情況先就醫再練：一年內曾跌倒兩次以上、站起來會眼前發黑、走路時腿麻或無力、近期骨折或人工關節置換未滿三個月、已診斷骨質疏鬆但未與醫師確認可做的活動範圍。",
+      "tight": [
+        "已知骨質疏鬆或骨密度偏低者，不要做深度前彎與捲腹式的脊椎屈曲，也不要做用力的脊椎扭轉——脊椎壓迫性骨折最常發生在負重屈曲。",
+        "不要在沒有扶手可及的位置練站姿平衡。所有單腳動作都要在椅背或牆面伸手可及的範圍內做。",
+        "起身不要一口氣站起。有姿勢性低血壓（起身會頭暈）的人先在椅上做幾次踝泵，再分兩段起身。",
+        "不要把「銀髮族＝只能伸展」當前提。純伸展不會改善跌倒風險，肌力與平衡訓練才會，要練得夠但要有支撐。",
+        "頸部不要做快速大範圍的繞圈。年長者常合併頸椎退化與椎動脈狀況，繞圈改成分段的前後左右轉動。"
+      ],
+      "weak": [
+        "全程坐姿的替代路徑，讓行動受限或平衡不佳者也能完成一堂完整的課。",
+        "下肢肌力（起立坐下、坐姿抬腿）與踝關節策略，直接對應跌倒預防。",
+        "扶椅版的站姿體式，把戰士式、樹式的效益保留下來但把跌倒風險移除。",
+        "骨質疏鬆友善的動作選擇：以伸展方向的脊椎動作與軸向承重取代屈曲與扭轉。"
+      ],
+      "lesson": {
+        "title": "Gentle Chair Yoga for Beginners and Seniors",
+        "channel": "Yoga with Kassandra",
+        "url": "https://www.youtube.com/watch?v=1DYH5ud3zHo",
+        "duration": "18:06",
+        "why": "完整示範一堂只用椅子的課如何涵蓋脊椎活動度、肩頸與髖關節，動作指令清楚、節奏慢、每個動作都有停頓可以跟上。適合當本單元的標準範本。"
+      },
+      "drills": [
+        {
+          "name": "中高齡坐姿伸展與核心",
+          "en": "Seated stretch and core for older adults",
+          "kind": "follow",
+          "target": "脊椎活動度、核心、肩胛",
+          "dose": "每週 3 次，全程坐姿",
+          "title": "【中高齡運動 - 坐姿伸展核心】舒緩肩頸僵硬、增進核心肌力  ▏北木健身",
+          "channel": "Beiimu fitness",
+          "url": "https://www.youtube.com/watch?v=H1QJh6QGPzM",
+          "duration": "14:27"
+        },
+        {
+          "name": "年長者下肢肌力三動作",
+          "en": "Three lower-body strength moves for older adults",
+          "kind": "align",
+          "target": "膝關節、臀部、股四頭",
+          "dose": "每週 2–3 次，扶椅進行",
+          "title": "年長者的肌力訓練! 三個初學者必做下肢動作!  ▏北木健身",
+          "channel": "Beiimu fitness",
+          "url": "https://www.youtube.com/watch?v=nbgF_8kinjg",
+          "duration": "15:37"
+        },
+        {
+          "name": "體能較弱者的降階版本",
+          "en": "Scaled routine for low-capacity seniors",
+          "kind": "modify",
+          "target": "核心、髖關節、腳踝",
+          "dose": "每天 1 次，感覺輕鬆再進階",
+          "title": "體能較弱的銀髮族適用的強身運動【琵塔琪 物理治療師】",
+          "channel": "琵塔琪 物理治療師 Pi Tachi Physiotherapist",
+          "url": "https://www.youtube.com/watch?v=kd-TfyIWexE",
+          "duration": "12:20"
+        },
+        {
+          "name": "跌倒預防的核心動作",
+          "en": "Fall prevention exercises",
+          "kind": "align",
+          "target": "平衡、腳踝、臀部",
+          "dose": "每天 1 輪，扶椅背進行",
+          "title": "Fall Prevention Exercises with Physical Therapist Lora Stutzman",
+          "channel": "Johns Hopkins Medicine",
+          "url": "https://www.youtube.com/watch?v=q3faZkO4gbc",
+          "duration": "4:03"
+        },
+        {
+          "name": "銀髮平衡訓練七式",
+          "en": "Seven balance exercises for seniors",
+          "kind": "align",
+          "target": "平衡、腳踝、專注",
+          "dose": "每週 3–5 次，每個動作 30 秒",
+          "title": "7 Balance Exercises for Seniors-Fall Prevention by Physical Therapists",
+          "channel": "Bob & Brad",
+          "url": "https://www.youtube.com/watch?v=BNC4bi3Ucac",
+          "duration": "11:16"
+        },
+        {
+          "name": "骨質疏鬆友善的椅子瑜伽",
+          "en": "Chair yoga for osteoporosis",
+          "kind": "modify",
+          "target": "胸椎、平衡、脊椎活動度",
+          "dose": "每週 3 次",
+          "title": "Chair Yoga for OSTEOPOROSIS - 10 min Exercises and Stretches for Bone Density and Balance",
+          "channel": "Yoga with Joelle",
+          "url": "https://www.youtube.com/watch?v=OM9PJJCFhIU",
+          "duration": "11:40"
+        }
+      ]
+    },
+    {
+      "id": "ch12-u7",
+      "name": "高血壓、青光眼與心血管疾病的禁忌處理",
+      "type": "population",
+      "assessment": "上墊前先量血壓並記錄。靜息收縮壓 ≥180 或舒張壓 ≥110 時當天不練，先就醫調整用藥。收縮壓 160–179 之間只做坐姿與仰臥的溫和練習，不做任何頭低於心臟的姿勢與閉氣。練習中的自我監測用「說話測試」：無法完整說出一整句話就是太強。青光眼族群做一個當場可判定的檢查——任何讓你頭低於心臟、或需要屏息用力的動作（下犬式、深度前彎、肩立式、閉氣式呼吸法），做完後若出現眼睛脹痛、看燈有光暈、視線模糊，代表眼壓被推高，該姿勢直接從你的練習中移除。出現以下任一項立即停止並就醫：胸悶胸痛、冷汗、心悸或脈搏不規則、突然單側無力或口齒不清、休息後仍持續的呼吸困難、突發劇烈頭痛合併視力改變。已裝支架、心衰竭、近期心肌梗塞或心臟手術者，開始任何練習前都必須先取得心臟科醫師的運動處方。",
+      "tight": [
+        "不做屏息（Kumbhaka）與任何需要用力憋氣的動作。Valsalva 動作會讓血壓與眼壓同時飆升，這對高血壓、青光眼與心血管疾病三個族群都是共同禁忌。",
+        "不做頭低於心臟的體式：肩立式、犁式、頭倒立、手倒立、下犬式維持過久、深度站姿前彎。青光眼者眼壓在倒立時可上升一倍以上，高血壓者則是腦部灌流壓驟變。",
+        "不做火呼吸（Kapalabhati）與 Bhastrika 這類強力快速的呼吸法。改用等長或延長吐氣的緩慢呼吸。",
+        "不做高溫瑜伽與長時間的手臂高舉維持。高溫會使血壓與心率反應變得難以預測，手臂長時間過頭則明顯增加心臟後負荷。",
+        "不要因為「今天感覺不錯」就自行停藥或跳過量血壓。這章的定位是調整與替代方案，瑜伽不取代藥物治療。",
+        "不要在飯後一小時內或服用降壓藥後立刻做大幅度的起身動作，姿勢性低血壓造成的暈厥跌倒才是最實際的風險。"
+      ],
+      "weak": [
+        "把「倒立」的效益改由腿上牆式與髖略高於心臟的支撐姿勢取得，頭部不低於心臟。",
+        "以延長吐氣的緩慢呼吸與 Yoga Nidra 建立副交感反應，取代強力呼吸法。",
+        "採用醫院心臟復健的強度分級方式（自覺費力程度、說話測試）來安排每次練習的量。",
+        "以支撐版本的坐姿與仰臥序列，建立一條完全不含屏息、不含頭低位的完整練習路徑。"
+      ],
+      "lesson": {
+        "title": "Yoga for High Blood Pressure - What to do & what to avoid",
+        "channel": "Yoga with Zelinda",
+        "url": "https://www.youtube.com/watch?v=0TSL7nIZS1g",
+        "duration": "15:48",
+        "why": "少數把「該避開什麼」講得比「該做什麼」還清楚的瑜伽影片：明確列出倒立、屏息、快速呼吸法與過頭維持的問題，並逐一給替代版本。沒有任何「瑜伽降血壓可以停藥」的宣稱。"
+      },
+      "drills": [
+        {
+          "name": "血壓管理的六原則",
+          "en": "Six principles of blood pressure control",
+          "kind": "align",
+          "target": "呼吸控制、放鬆與副交感",
+          "dose": "開始本單元前看一次",
+          "title": "如何改善高血壓？台大醫院王宗道醫師：預防血壓飆高「SABCDE」6原則｜Heho專家說",
+          "channel": "Heho",
+          "url": "https://www.youtube.com/watch?v=i_i-VWdD7-E",
+          "duration": "2:48"
+        },
+        {
+          "name": "青光眼該避開的活動",
+          "en": "Activities that worsen glaucoma",
+          "kind": "align",
+          "target": "倒立、呼吸控制",
+          "dose": "安排序列前確認一次",
+          "title": "Which Activities Make Glaucoma Worse? - Ask an Ophthalmologist",
+          "channel": "EyeSmart — American Academy of Ophthalmology",
+          "url": "https://www.youtube.com/watch?v=RHPBxZCB24c",
+          "duration": "1:39"
+        },
+        {
+          "name": "青光眼族群的無倒立核心練習",
+          "en": "Non-inverted core practice for glaucoma",
+          "kind": "modify",
+          "target": "核心、脊椎活動度、呼吸控制",
+          "dose": "每週 2 次，全程頭不低於心臟",
+          "title": "Pilates for Glaucoma Patients",
+          "channel": "Glaucoma Research Foundation Videos",
+          "url": "https://www.youtube.com/watch?v=Hj2O8TEup8U",
+          "duration": "28:59",
+          "why": "由青光眼研究基金會製作，示範一套刻意避開頭低位與屏息的墊上練習，正好可以直接當作瑜伽序列裡倒立與深前彎的替代段落。"
+        },
+        {
+          "name": "心臟復健的運動強度分級",
+          "en": "Cardiac rehab exercise principles",
+          "kind": "align",
+          "target": "呼吸控制、平衡",
+          "dose": "作為安排練習量的依據",
+          "title": "Cardiac Rehabilitation Exercises",
+          "channel": "Cleveland Clinic",
+          "url": "https://www.youtube.com/watch?v=JIXkf_i3kG0",
+          "duration": "10:12"
+        },
+        {
+          "name": "低至中強度居家心臟復健",
+          "en": "Low-to-moderate intensity home cardiac rehab",
+          "kind": "follow",
+          "target": "平衡、腳踝、呼吸控制",
+          "dose": "每週 3 次，全程以能說話為上限",
+          "title": "Low-Moderate Intensity Cardiac Rehab Home Program",
+          "channel": "NewYork-Presbyterian Hospital",
+          "url": "https://www.youtube.com/watch?v=Z9nxS5tmQRI",
+          "duration": "27:38"
+        },
+        {
+          "name": "Yoga Nidra 深層休息",
+          "en": "Yoga Nidra for deep rest",
+          "kind": "follow",
+          "target": "放鬆與副交感、專注、呼吸控制",
+          "dose": "每週 3–5 次，仰臥或上半身墊高",
+          "title": "30 Minute Yoga Nidra For Deep Rest",
+          "channel": "Ally Boothroyd | Sarovara Yoga",
+          "url": "https://www.youtube.com/watch?v=8mM5Oks8yZc",
+          "duration": "31:29",
+          "why": "全程仰臥或側臥的引導式休息，沒有任何體式、屏息或姿勢改變，是這三個族群都能安全執行的副交感訓練，用來取代強力呼吸法。"
+        }
+      ]
+    }
+  ]
+}

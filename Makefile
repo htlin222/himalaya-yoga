@@ -43,7 +43,7 @@ e2e: build ## paywall 端對端流程並截圖到 .tmp/paywall-shots（需要 Ch
 	@NODE_PATH=$$(npm root -g) node tests/e2e-paywall.cjs; \
 		status=$$?; kill `cat .tmp/serve.pid` 2>/dev/null; rm -f .tmp/serve.pid; exit $$status
 
-verify: ## 重驗所有影片連結與 PubMed 引用（打真實 API，會跑一陣子）
+verify: ## 重驗影片連結、PubMed 引用與傳承出處連結（打真實 API，會跑一陣子）
 	$(PY) src/build/verify_links.py
 	$(PY) src/build/verify_refs.py
 
